@@ -116,6 +116,7 @@ class TurnData():
 
     
 if __name__ == "__main__":
+    #添加其他冗余注释
     #开始读取语料
     corpus = {}
     root_path = r'./添加了mor语料'
