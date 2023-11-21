@@ -1,0 +1,139 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|02;02.02|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	24-SEP-2014
+*MOT:	来 这 是 刷子 给 妈妈 .
+%mor:	v:dirc|lai2=come pro|zhe4=this v:cop|shi4=is n|shua1zi1=brush
+	prep|gei3=for n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|PRED 5|1|JCT 6|5|PREPO 7|1|PUNCT
+*CHI:	这 是 妈妈 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|ma1&DIM=mother poss|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|POSS 5|2|PUNCT
+%com:	给妈妈刷子 .
+*CHI:	这个 画 不了 再 拿 一 个 .
+%mor:	pro|zhe4ge4=this n|hua4=painting adv|bu2liao3=cannot adv|zai4=again
+	v|na2=hold num|yi1=one cl|ge4 .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+%com:	乐宝拿笔画画 .
+*CHI:	这个 能 画 了 .
+%mor:	pro|zhe4ge4=this v:aux|neng2=can v|hua4=draw asp|le .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	又拿一个 .
+*CHI:	这个 也 不能 画 .
+%mor:	pro|zhe4ge4=this adv|ye3=also v:aux|bu4neng2=cannot v|hua4=draw .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%act:	又拿一个 .
+*CHI:	纸 不能 画 了 .
+%mor:	n|zhi3=paper v:aux|bu4neng2=cannot v|hua4=draw asp|le .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	看见纸 .
+*CHI:	这个 能 不能 .
+%mor:	pro|zhe4ge4=this v:aux|neng2=can v:aux|bu4neng2=cannot .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%act:	又拿一个 .
+*CHI:	妈妈 玩 手机 吧 .
+%mor:	n:relat|ma1&DIM=mother v|wan2=play n|shou3ji1=cell_phone sfp|ba .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%com:	坐腿上 .
+*CHI:	怎么 没有 了 .
+%mor:	adv:wh|zen3me=how neg|mei2you3=not_have asp|le .
+%gra:	1|3|NEG 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%com:	看视频显示慢 .
+*CHI:	妈妈 生气 了 .
+%mor:	n:relat|ma1&DIM=mother v|sheng1qi4=get_angry asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	看照片里的妈妈板脸 .
+*CHI:	爸爸 呢 ?
+%mor:	n:relat|ba4&DIM=father sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	乐宝起床 .
+*MOT:	上班 了 .
+%mor:	v|shang4ban1=start_work asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	爸爸 不 应该 上班 .
+%mor:	n:relat|ba4&DIM=father neg|bu4=not v:aux|ying1gai1=should
+	v|shang4ban1=start_work .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*MOT:	应该 干吗 ?
+%mor:	v:aux|ying1gai1=should adv:wh|gan4ma=why ?
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PUNCT
+*CHI:	应该 早点 回家 .
+%mor:	v:aux|ying1gai1=should n|zao3dian3=breakfast v|hui4jia1=go_home .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	这里 还有 这么 多 棒棒糖 来 .
+%mor:	post|zhe4li3=here adv|hai2you3=moreover adv|zhe4me=like_this
+	quant|duo1=many n|bang4bang4tang2=lolipop v:dirc|lai2=come .
+%gra:	1|5|MOD 2|3|JCT 3|5|JCT 4|5|MOD 5|0|INCROOT 6|5|VD 7|5|PUNCT
+%act:	乐宝肯啃笔套 .
+*CHI:	妈妈 贴 面膜 吧 .
+%mor:	n:relat|ma1&DIM=mother v|tie1=paste n|mian4mo2=mask sfp|ba .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%com:	看见面膜 .
+*CHI:	妈妈 我 靠 那么 远 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v|kao4=lean_against
+	adv|na4me=like_that adj|yuan3=distant .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|OBJ 6|3|PUNCT
+%com:	在房间妈妈靠墙发信息乐宝靠远处的墙 .
+*CHI:	妈妈 你 有钱 吗 ?
+%mor:	n:relat|ma1&DIM=mother pro|ni3=you adj|you3qian2=wealthy sfp|ma ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|PREPO 4|1|SFP 5|1|PUNCT
+%com:	乐宝掏妈妈口袋 .
+*CHI:	它 这个 地板 要 这个 .
+%mor:	pro|ta1=it pro|zhe4ge4=this n|di4ban3=floorboard v:aux|yao4=should
+	pro|zhe4ge4=this .
+%gra:	1|5|SUBJ 2|3|MOD 3|1|OBJ 4|5|AUX 5|0|INCROOT 6|5|PUNCT
+%act:	乐宝指地板 .
+%com:	好像想蹦爬 .
+*CHI:	妈妈 请 出来 .
+%mor:	n:relat|ma1&DIM=mother v|qing3=request v|chu1lai2=come_forward .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	妈妈在厨房, 乐宝关门 .
+*CHI:	妈妈 请进 .
+%mor:	n:relat|ma1&DIM=mother v|qing3jin4=come_in_please .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝又进厨房 .
+*CHI:	妈妈 关门 了 .
+%mor:	n:relat|ma1&DIM=mother v|guan1men2=close asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	妈妈们在房间里, 乐宝关门 .
+*CHI:	妈妈 收 起来 .
+%mor:	n:relat|ma1&DIM=mother v|shou1=gather adv|qi3lai2=up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	乐宝把笔扔门外 .
+*CHI:	收 笔 .
+%mor:	v|shou1=gather n|bi3=pen .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	收 什么 ?
+%mor:	v|shou1=gather pro:wh|shen2me=what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	妈妈 快 收 笔 .
+%mor:	n:relat|ma1&DIM=mother adv|kuai4=quickly v|shou1=gather n|bi3=pen .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈不动, 乐宝大喊 .
+*CHI:	爸爸 找 .
+%mor:	n:relat|ba4&DIM=father v|zhao3=search .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝让爸爸找 手机 .
+*FAT:	找 什么 ?
+%mor:	v|zhao3=search pro:wh|shen2me=what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	找手机 .
+%mor:	n|zhao3shou3ji1=looking_for_a_cell_phone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	妈妈 不 坐 了 袖子 卷 一下 .
+%mor:	n:relat|ma1&DIM=mother neg|bu4=not v|zuo4=sit asp|le
+	n|xiu4zi=sleeve v|juan3=roll_up adv|yi1xia4=a_bit .
+%gra:	1|3|SUBJ 2|3|NEG 3|6|CJCT 4|5|MOD 5|3|OBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%com:	想坐椅子对妈妈 .
+*CHI:	要看 乐宝 的 儿歌 .
+%mor:	v|yao4kan4=to_see n:name|le4bao3=lebao poss|de
+	n|er2ge1=nursery_rhymes .
+%gra:	1|0|ROOT 2|4|MOD 3|2|POSS 4|1|OBJ 5|1|PUNCT
+%com:	乐宝要在自己电脑上看放儿歌 .
+@End

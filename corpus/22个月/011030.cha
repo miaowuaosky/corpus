@@ -1,0 +1,178 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.30|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	21-JUN-2014
+*CHI:	现在 没 天黑 .
+%mor:	adv|xian4zai4=now neg|mei2=not n|tian1hei1=its_getting_dark .
+%gra:	1|3|JCT 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%com:	早起 .
+*CHI:	天天 晚上 天黑 .
+%mor:	adv|tian1tian1=daily n|wan3shang4=evening
+	n|tian1hei1=its_getting_dark .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	是 长颈鹿 .
+%mor:	v:cop|shi4=is n|chang2jing3lu4=giraffe .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:st
+%act:	指大象 .
+*MOT:	长颈鹿 脖子 长 长 的 .
+%mor:	n|chang2jing3lu4=giraffe n|bo2zi=neck v|zhang3=grow adj|chang2=long
+	nom|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|POSS 6|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	动物园 有 长 长 的 .
+%mor:	n|dong4wu4yuan2=zoo v|you3=have adj|chang2=long adj|chang2=long
+	nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|MOD 5|3|POSS 6|2|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	我 想 下来 .
+%mor:	pro|wo3=I v:aux|xiang3=want v|xia4lai2=come_down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%com:	要下床 .
+*CHI:	英语 怎么 说 ?
+%mor:	n|ying1yu3=English adv:wh|zen3me=how v|shuo1=say ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:drp $i:qn
+%act:	乐宝指被子 .
+*MOT:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	妈妈 想 问题 .
+%mor:	n:relat|ma1&DIM=mother v:aux|xiang3=want n|wen4ti2=problem .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dhs $i:st
+*CHI:	妈妈 想 被子 问题 .
+%mor:	n:relat|ma1&DIM=mother v:aux|xiang3=want n|bei4zi=quilt
+	n|wen4ti2=problem .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dhs $i:st
+%com:	乐宝问被子, 妈妈在想被子用英语怎么说, 其实妈妈在想乐宝问啥 .
+*MOT:	邀请 叔叔 来 玩 来 吃饭 好不好 ?
+%mor:	v|yao1qing3=invite n:relat|shu2&DIM=uncle v:dirc|lai2=come
+	v|wan2=play v:dirc|lai2=come v|chi1fan4=having_dinner
+	tag|hao3bu2hao3=okay ?
+%gra:	1|0|ROOT 2|6|SUBJ 3|2|VD 4|2|VD 5|2|VD 6|1|OBJ 7|1|COM 8|1|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	叔叔 不 上班 去 了 .
+%mor:	n:relat|shu2&DIM=uncle neg|bu4=not v|shang4ban1=start_work
+	v:dirc|qu4=go asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%spa:	$x:nia $i:ad
+*CHI:	叔叔 不 上班 .
+%mor:	n:relat|shu2&DIM=uncle neg|bu4=not v|shang4ban1=start_work .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:ad
+*MOT:	太 大 .
+%mor:	adv|tai4=very adj|da4=great .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:st
+%act:	扔西瓜球进篮框 .
+*CHI:	小球 不大 .
+%mor:	n|xiao3qiu2=the_ball adv|bu4da4=not_very .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:ap
+%act:	乐宝捡了一个小球 .
+*CHI:	鞋 还 没 脱掉 .
+%mor:	n|xie2=shoe adv|hai2=still neg|mei2=not v|tuo1diao4=take_off .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%com:	上沙发没脱鞋 .
+*CHI:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%act:	翻书第二本 .
+*CHI:	跟 妈妈 坐 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|zuo4=sit .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%com:	要妈妈跟她一起坐车 .
+*CHI:	大 蛤蟆 不怕 .
+%mor:	adj|da4=great n|ha2ma2=toad v|bu4pa4=be_not_afraid_of .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	小 猩猩 不怕 .
+%mor:	adj|xiao3=small n|xing1xing1=orangutan v|bu4pa4=be_not_afraid_of .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	怪 鱼 都 不怕 .
+%mor:	v|guai4=find_sth_strange n|yu2=fish adv|dou1=all
+	v|bu4pa4=be_not_afraid_of .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%act:	指着动物书 .
+*CHI:	好 大 好 大 犀牛 .
+%mor:	adv|hao3=very adj|da4=great adv|hao3=very adj|da4=great
+	n|xi1niou2=rhinoceros .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	好 大 犀牛 .
+%mor:	adv|hao3=very adj|da4=great n|xi1niou2=rhinoceros .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	看犀牛 .
+*CHI:	这 是 小 犀牛 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|xiao3=small n|xi1niou2=rhinoceros .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	这 是 大 犀牛 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|da4=great n|xi1niou2=rhinoceros .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	我 看 这 本 .
+%mor:	pro|wo3=I v|kan4=look pro|zhe4=this n|ben3=exercise_book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	又拿一本书 .
+*CHI:	又 是 河马 .
+%mor:	adv|you4=again v:cop|shi4=is n|he2ma3=hippopotamus .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	看到两遍河马 .
+*CHI:	小 毛驴 呢 ?
+%mor:	adj|xiao3=small n|mao2lv2=the_donkey sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	在后 面 .
+%mor:	v|zai4hou4=in_the_post n|mian4=surface .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	往前翻 .
+*CHI:	小 毛驴 呢 ?
+%mor:	adj|xiao3=small n|mao2lv2=the_donkey sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	快 出来 .
+%mor:	adv|kuai4=quickly v|chu1lai2=come_forward .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	防 蚊 贴 在 哪 呢 ?
+%mor:	v|fang2=guard_against n|wen2=mosquito v|tie1=paste prep|zai4=at
+	pro:wh|na3=which sfp|ne ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|PREPO 6|3|SFP 7|3|PUNCT
+%com:	乐宝找防蚊贴袋子 .
+*MOT:	外婆 可 去 跳舞 ?
+%mor:	n|wai4po2=maternal_grandmother adv|ke3=on_the_contrary
+	v:dirc|qu4=go v|tiao4wu3=hop ?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nin $i:tq
+*CHI:	要看 看 外婆 跳舞 .
+%mor:	v|yao4kan4=to_see v|kan4=look n|wai4po2=maternal_grandmother
+	v|tiao4wu3=hop .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	爷爷 掉 水里 看看 .
+%mor:	n:relat|ye2&DIM=grandfather v:resc|diao4=drop
+	n|shui3li3=in_the_water v|kan4&DIM=look .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	想看男生女生向前冲 .
+*CHI:	骑 一 骑 .
+%mor:	v|qi2=ride_sit_astride num|yi1=one v|qi2=ride_sit_astride .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%act:	往爸爸身上骑 .
+*CHI:	给 乐宝 吃 .
+%mor:	prep|gei3=for n:name|le4bao3=lebao v|chi1=eat .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*CHI:	给 乐宝 吃 西瓜 .
+%mor:	prep|gei3=for n:name|le4bao3=lebao v|chi1=eat n|xi1gua1=watermelon
+	.
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	你 也 吃 .
+%mor:	pro|ni3=you adv|ye3=also v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	妈妈吃西瓜乐宝也想吃 .
+*CHI:	我 来 按 .
+%mor:	pro|wo3=I v:dirc|lai2=come v|an4=press .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|PUNCT
+%com:	看见爸爸按电视频道 .
+@End

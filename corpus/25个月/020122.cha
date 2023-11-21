@@ -1,0 +1,136 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child
+@ID:	zho|FLZ|CHI|02;01.22|female|||Child|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	13-SEP-2014
+*CHI:	要看 鼠小弟 但是 不要 看 那么 多 .
+%mor:	v|yao4kan4=to_see n:prop|shu3xiao3di4=the_younger_rats
+	conj|dan4shi4=but adv|bu2yao4=dont v|kan4=look adv|na4me=like_that
+	adv|duo1=far_more .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|OBJ 8|5|PUNCT
+%com:	乐宝晚上要看书 .
+*CHI:	乐宝 好 喜欢 看书 哦 .
+%mor:	n:name|le4bao3=lebao adj|hao3=good v|xi3huan1=like
+	v|kan4shu1=read_a_book sfp|o1 .
+%gra:	1|4|JCT 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%com:	乐宝看书时 .
+*CHI:	大象 的 鼻子 可以 喷 水 .
+%mor:	n|da4xiang4=elephant poss|de n|bi2-NOM=nose v:aux|ke3yi3=may
+	v|pen1=spurt n|shui3=water .
+%gra:	1|6|MOD 2|6|MOD 3|6|MOD 4|6|AUX 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%com:	乐宝看书 .
+*CHI:	乐宝 玩 过 荡秋千 了 .
+%mor:	n:name|le4bao3=lebao v|wan2=play v:dirc|guo4=pass
+	v|dang4qiu1qian1=to_swing asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|VD 6|2|PUNCT
+%com:	看书有荡秋千 .
+*CHI:	姐姐 剥 鸡蛋 了 语晨 妹妹 .
+%mor:	n:relat|jie3&DIM=elder_sister v|bo1=peel n|ji1dan4=hens_egg asp|le
+	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%com:	乐宝对妹妹 .
+*CHI:	鸡蛋 壳 放 地上 .
+%mor:	n|ji1dan4=hens_egg n|ke2=shell v|fang4=put
+	n|di4shang4=on_the_ground .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	看见妹妹把蛋壳放地上 .
+*CHI:	这个 好 咸 里面 放 辣椒 .
+%mor:	pro|zhe4ge4=this adv|hao3=very adv|xian2=all post|li3mian4=inside
+	v|fang4=put n|la4jiao1=hot_pepper .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	乐宝指咸菜 .
+*CHI:	语晨 妹妹 剥 鸡蛋 然后 扔 地上 .
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister v|bo1=peel
+	n|ji1dan4=hens_egg adv|ran2hou4=thereupon v|reng1=throw
+	n|di4shang4=on_the_ground .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%com:	看妹妹剥鸡蛋壳在地上 .
+*CHI:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	这 是 大 壳 小 壳 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|da4=great n|ke2=shell
+	adj|xiao3=small n|ke2=shell .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*CHI:	这 都 是 鸡蛋 壳 .
+%mor:	pro|zhe4=this adv|dou1=all v:cop|shi4=is n|ji1dan4=hens_egg
+	n|ke2=shell .
+%gra:	1|5|DET 2|5|JCT 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%com:	乐宝指桌上的蛋壳 .
+*CHI:	里面 是 什么 咸菜 .
+%mor:	post|li3mian4=inside v:cop|shi4=is pro:wh|shen2me=what
+	n|xian2cai4=pickles .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	乐宝看咸菜碗 .
+*CHI:	这 怎么搞的 .
+%mor:	pro|zhe4=this adv|zen3megao3de=how_did_you_mess_it_up .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%com:	指妈妈嘴上面的米粒 .
+*CHI:	要 到 床 上面 .
+%mor:	v:aux|yao4=should v:resc|dao4=arrive n|chuang2=bed
+	post|shang4mian4=above .
+%gra:	1|4|AUX 2|1|VR 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	听见妹妹在床玩 .
+*CHI:	< 乐宝 的 腿 怎么搞的>[//] 我 的 腿 怎么搞的 ?
+%mor:	pro|wo3=I poss|de n|tui3=leg
+	adv|zen3megao3de=how_did_you_mess_it_up ?
+%gra:	1|3|DET 2|1|POSS 3|0|INCROOT 4|5|JCT 5|3|PUNCT
+%com:	指腿上的米粒 .
+*CHI:	幼儿园 的 老师 怎么 说 的 ?
+%mor:	n|you4er2yuan2=kindergarten poss|de n|lao3shi1=teacher
+	adv:wh|zen3me=how v|shuo1=say nom|de ?
+%gra:	1|3|MOD 2|1|POSS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|POSS 7|5|PUNCT
+*CHI:	小 宝宝 不能 蹦 .
+%mor:	adj|xiao3=small n:relat|bao3&DIM=baby v:aux|bu4neng2=cannot
+	v|beng4=jump .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	乐宝吃饭时自言自语 .
+*CHI:	往前 边 来 来 .
+%mor:	adv|wang3qian2=forward adv|bian1=simultaneously v:dirc|lai2=come
+	v:dirc|lai2=come .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	推桌子的碗向她的前边 .
+*CHI:	妈妈 你 在 咸菜 在 哪里 的 ?
+%mor:	n:relat|ma1&DIM=mother pro|ni3=you prep|zai4=at n|xian2cai4=pickles
+	prep|zai4=at pro:wh|na3li3=where poss|de ?
+%gra:	1|0|INCROOT 2|3|TOP 3|1|JCT 4|3|PREPO 5|3|PREPO 6|5|PREPO 7|5|POSS
+	8|1|PUNCT
+%com:	妈妈搞咸菜给乐宝, 确认了你是指妈妈 .
+*CHI:	你 在 擦 米饭 吗 ?
+%mor:	pro|ni3=you adv|zai4=currently v|ca1=wipe n|mi3fan4=cooked_rice
+	sfp|ma ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%com:	妈妈在擦围嘴 .
+*CHI:	这 是 语晨 妹妹 剥 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister v|bo1=peel nom|de .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|POSS 7|5|PUNCT
+*CHI:	语晨 妹妹 的 鸡蛋 呢 ?
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister poss|de
+	n|ji1dan4=hens_egg sfp|ne ?
+%gra:	1|4|MOD 2|4|MOD 3|2|POSS 4|0|INCROOT 5|4|SFP 6|4|PUNCT
+*CHI:	吃饱 了 .
+%mor:	v|chi1bao3=eat asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	< 要 下来>[/] 要 下 .
+%mor:	v:aux|yao4=should v:dirc|xia4=go_down .
+%gra:	1|0|INCROOT 2|1|VD 3|1|PUNCT
+*CHI:	妈妈 搞 这样 .
+%mor:	n:relat|ma1&DIM=mother v|gao3=work adv|zhe4yang4=so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	仰头让妈妈学 .
+*CHI:	这 是 语晨 妹妹 的 扇子 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister poss|de n|shan4zi=fan .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|4|POSS 6|2|OBJ 7|2|PUNCT
+*CHI:	乱七八糟 的 .
+%mor:	adj|luan4qi1ba1zao1=messy nom|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+*CHI:	把 扇子 收 起来 .
+%mor:	prep|ba3=object_marker n|shan4zi=fan v|shou1=gather adv|qi3lai2=up
+	.
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

@@ -1,0 +1,165 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|2;05.08|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	31-DEC-2014
+*CHI:	妈妈 !
+%mor:	n:relat|ma1&DIM=mother !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	妈妈 ?
+%mor:	n:relat|ma1&DIM=mother ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 关门 了 .
+%mor:	pro|wo3=I v|guan1men2=close asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	妈妈 吃 早饭 了 .
+%mor:	n:relat|ma1&DIM=mother v|chi1=eat n|zao3fan4=breakfast asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:nia $i:dr
+%com:	把门关上在外面 .
+*MOT:	是 午饭 .
+%mor:	v:cop|shi4=is n|wu3fan4=midday_meal .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:dw
+*CHI:	妈妈 吃 午饭 了 .
+%mor:	n:relat|ma1&DIM=mother v|chi1=eat n|wu3fan4=midday_meal asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:nia $i:sc
+*CHI:	唱歌 !
+%mor:	v|chang4ge1=sing !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	唱 还有 一 个 歌 !
+%mor:	v|chang4=sing adv|hai2you3=moreover num|yi1=one cl|ge4 n|ge1=song !
+%gra:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	对豆豆发命令, 唱还有一个歌意为还唱一首歌 .
+*CHI:	我 给 大家 表演 一 个 一 个 一 个 我 给 大家 表演 一 个 骑车 过 了 我 给 大家 表演 一 个 小 星星 .
+%mor:	pro|wo3=I prep|gei3=for pro|da4jia1=everyone v|biao3yan3=perform
+	num|yi1=one cl|ge4 num|yi1=one cl|ge4 adv|yi1=just_as cl|ge4
+	pro|wo3=I prep|gei3=for pro|da4jia1=everyone v|biao3yan3=perform
+	num|yi1=one cl|ge4 v|qi2che1=ride_a_bike v:dirc|guo4=pass asp|le
+	pro|wo3=I prep|gei3=for pro|da4jia1=everyone v|biao3yan3=perform
+	num|yi1=one cl|ge4 adj|xiao3=small n:name|星星 .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|14|SUBJ 7|8|QUANT
+	8|10|SUBJ 9|10|JCT 10|14|SUBJ 11|14|SUBJ 12|14|JCT 13|12|PREPO 14|4|OBJ
+	15|16|QUANT 16|17|SUBJ 17|23|SUBJ 18|17|VD 19|23|JCT 20|23|SUBJ 21|23|JCT
+	22|21|PREPO 23|14|SRL 24|25|QUANT 25|27|CLASS 26|27|MOD 27|23|OBJ 28|4|PUNCT
+*CHI:	表演 一 个 小 星星 我 给 大家 变 一 个 小 叉 叉 .
+%mor:	v|biao3yan3=perform num|yi1=one cl|ge4 adj|xiao3=small n:name|星星
+	pro|wo3=I prep|gei3=for pro|da4jia1=everyone v|bian4=change
+	num|yi1=one cl|ge4 adj|xiao3=small n|cha1=fork v|cha1=fork_up .
+%gra:	1|14|SUBJ 2|3|QUANT 3|9|SUBJ 4|5|MOD 5|9|JCT 6|9|SUBJ 7|9|JCT 8|7|PREPO
+	9|14|JCT 10|11|QUANT 11|14|SUBJ 12|13|MOD 13|14|SUBJ 14|0|ROOT
+	15|14|PUNCT
+*MOT:	晚上 莹 莹 大姐 和 孙 欢 哥哥 要 来 .
+%mor:	n|wan3shang4=evening n|ying2=gem n|ying2=gem n|da4jie3=big_sister
+	conj|he2=and n:name|孙 adj|huan1=vigorous
+	n:relat|ge1&DIM=older_brother v:aux|yao4=should v:dirc|lai2=come .
+%gra:	1|2|MOD 2|3|MOD 3|4|MOD 4|0|NONE 5|8|MOD 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|8|INCROOT 10|9|VD 11|9|PUNCT
+%spa:	$x:dnp $i:dc
+*CHI:	孙 欢 哥哥 什么时候 来 ?
+%mor:	n:name|孙 adj|huan1=vigorous n:relat|ge1&DIM=older_brother
+	adv:wh|shen2meshi2hou4=when v:dirc|lai2=come ?
+%gra:	1|4|COM 2|1|SFP 3|4|SUBJ 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	晚上 来 .
+%mor:	n|wan3shang4=evening v:dirc|lai2=come .
+%gra:	1|0|INCROOT 2|1|VD 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	夏天 莹 莹 大姐 和 孙 欢 哥哥 就 不 来 了 .
+%mor:	n|xia4tian1=summer n|ying2=gem n|ying2=gem n|da4jie3=big_sister
+	conj|he2=and n:name|孙 adj|huan1=vigorous
+	n:relat|ge1&DIM=older_brother adv|jiu4=just neg|bu4=not
+	v:dirc|lai2=come asp|le .
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|INCROOT 6|10|COM 7|8|MOD 8|10|SUBJ
+	9|10|JCT 10|5|OBJ 11|10|VD 12|10|VD 13|5|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	孙 欢 哥哥 什么时候 来 ?
+%mor:	n:name|孙 adj|huan1=vigorous n:relat|ge1&DIM=older_brother
+	adv:wh|shen2meshi2hou4=when v:dirc|lai2=come ?
+%gra:	1|4|COM 2|1|SFP 3|4|SUBJ 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:dnp $i:qn
+*GRA:	恩 ?
+%mor:	n|en1=kindness ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:eq
+*CHI:	孙 欢 哥哥 什么时候 来 呀 ?
+%mor:	n:name|孙 adj|huan1=vigorous n:relat|ge1&DIM=older_brother
+	adv:wh|shen2meshi2hou4=when v:dirc|lai2=come sfp|ya ?
+%gra:	1|3|MOD 2|1|SFP 3|0|INCROOT 4|3|INCROOT 5|4|VD 6|4|SFP 7|4|PUNCT
+%spa:	$x:dnp $i:qn
+*GRA:	不知 道 .
+%mor:	v|bu4zhi1=ignorance n|dao4=doctrine .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	外婆 是 小人 不知 道 乐宝 是 大人 .
+%mor:	n|wai4po2=maternal_grandmother v:cop|shi4=is
+	n|xiao3ren2=person_of_low_position v|bu4zhi1=ignorance
+	n|dao4=doctrine n:name|le4bao3=lebao v:cop|shi4=is n|da4ren2=adult .
+%gra:	1|5|MOD 2|5|MOD 3|4|SUBJ 4|5|MOD 5|6|SUBJ 6|0|INCROOT 7|8|MOD 8|6|PRED
+	9|6|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	外婆 外婆 在 搞 什么 ?
+%mor:	n|wai4po2=maternal_grandmother n|wai4po2=maternal_grandmother
+	adv|zai4=currently v|gao3=work pro:wh|shen2me=what ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dnp $i:qn
+%act:	扣扣子 .
+*GRA:	在 吃 早饭 呀 .
+%mor:	adv|zai4=currently v|chi1=eat n|zao3fan4=breakfast sfp|ya .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	好不好 吃 啊 ?
+%mor:	tag|hao3bu2hao3=okay v|chi1=eat sfp|a1 ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dnp $i:tq
+*CHI:	来 了 雨辰 妹妹 舅舅 舅妈 看 到了 孙 欢 哥哥 .
+%mor:	v:dirc|lai2=come asp|le n|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister n|jiu4jiu4=mothers_brother
+	n|jiu4ma1=aunt v|kan4=look adv|dao4liao3=finally n:name|孙
+	adj|huan1=vigorous n:relat|ge1&DIM=older_brother .
+%gra:	1|6|MOD 2|3|MOD 3|1|OBJ 4|6|MOD 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|OBJ 10|11|MOD 11|9|OBJ 12|7|PUNCT
+*CHI:	妈妈 把 奶瓶 刷 一 刷 .
+%mor:	n:relat|ma1&DIM=mother prep|ba3=object_marker
+	n|nai3ping2=feeding_bottle v|shua1=brush num|yi1=one v|shua1=brush .
+%gra:	1|6|SUBJ 2|4|JCT 3|2|PREPO 4|6|JCT 5|6|QUANT 6|0|ROOT 7|6|PUNCT
+*CHI:	我 拿 巧克力 给 你 吃 行 不行 ?
+%mor:	pro|wo3=I v|na2=hold n|qiao3ke4li4=chocolate prep|gei3=for
+	pro|ni3=you v|chi1=eat adj|xing2=be_all_right v|bu4xing2=no_way ?
+%gra:	1|2|SUBJ 2|3|MOD 3|8|SUBJ 4|8|JCT 5|4|PREPO 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*CHI:	我 给 你 拿 巧克力 吃 行 不行 ?
+%mor:	pro|wo3=I prep|gei3=for pro|ni3=you v|na2=hold
+	n|qiao3ke4li4=chocolate v|chi1=eat adj|xing2=be_all_right
+	v|bu4xing2=no_way ?
+%gra:	1|6|SUBJ 2|6|JCT 3|2|PREPO 4|5|MOD 5|2|PREPO 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*CHI:	不行 .
+%mor:	v|bu4xing2=no_way .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	妈妈 再 买 一 个 给 外公 外婆 说 外公 是 大人 .
+%mor:	n:relat|ma1&DIM=mother adv|zai4=again v|mai3=buy num|yi1=one cl|ge4
+	prep|gei3=for n|wai4gong1=maternal_grandfather
+	n|wai4po2=maternal_grandmother v|shuo1=say
+	n|wai4gong1=maternal_grandfather v:cop|shi4=is n|da4ren2=adult .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|10|MOD 7|8|MOD 8|6|PREPO
+	9|10|MOD 10|3|OBJ 11|12|MOD 12|3|OBJ 13|3|PUNCT
+*CHI:	雨辰 妹妹 是 小人 能 骑 .
+%mor:	n|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister v:cop|shi4=is
+	n|xiao3ren2=person_of_low_position v:aux|neng2=can
+	v|qi2=ride_sit_astride .
+%gra:	1|2|MOD 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*CHI:	这个 变成 玩具 了 撞 人 就 不 疼 了 .
+%mor:	pro|zhe4ge4=this v|bian4cheng2=become n|wan2ju4=toy asp|le
+	v|zhuang4=run_into n|ren2=person adv|jiu4=just neg|bu4=not
+	adj|teng2=hurt asp|le .
+%gra:	1|2|SUBJ 2|8|CJCT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|OBJ 7|8|JCT 8|10|NEG
+	9|10|MOD 10|0|INCROOT 11|10|PUNCT
+%com:	玩滑板车撞到妈妈, 过一会摔倒了 .
+@End

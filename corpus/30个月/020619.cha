@@ -1,0 +1,88 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;06.19|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	10-FEB-2015
+*CHI:	蜀南庭苑 呢 ?
+%mor:	n:geo|shu3nan2ting2yuan4=shushan sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+%act:	早上起床, 乐宝问 .
+*MOT:	蜀南庭苑 就 在 蜀南庭苑 啊 .
+%mor:	n:geo|shu3nan2ting2yuan4=shushan adv|jiu4=just prep|zai4=at
+	n:geo|shu3nan2ting2yuan4=shushan co|a .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|3|PREPO 5|1|COM 6|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	要 去 蜀南庭苑 .
+%mor:	v:aux|yao4=should v:dirc|qu4=go n:geo|shu3nan2ting2yuan4=shushan .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	为什么 要 去 蜀南庭苑 ?
+%mor:	adv:wh|wei4shen2me=how_come v:aux|yao4=should v:dirc|qu4=go
+	n:geo|shu3nan2ting2yuan4=shushan ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%spa:	$x:dnp $i:qn
+%act:	妈妈吃惊地问 .
+*CHI:	想 外公 了 .
+%mor:	v:aux|xiang3=want n|wai4gong1=maternal_grandfather asp|le .
+%gra:	1|2|AUX 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dss $i:sa
+*MOT:	真 的 吗 ?
+%mor:	adj|zhen1=true nom|de sfp|ma ?
+%gra:	1|0|INCROOT 2|1|POSS 3|1|SFP 4|1|PUNCT
+%spa:	$x:dss $i:tq
+*CHI:	想 舅舅 舅妈 了 .
+%mor:	v:aux|xiang3=want n|jiu4jiu4=mothers_brother n|jiu4ma1=aunt asp|le
+	.
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dss $i:st
+*MOT:	你 真 想 去 蜀南庭苑 吗 ?
+%mor:	pro|ni3=you adv|zhen1=really v:aux|xiang3=want v:dirc|qu4=go
+	n:geo|shu3nan2ting2yuan4=shushan sfp|ma ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|VD 5|3|VD 6|3|SFP 7|3|PUNCT
+%spa:	$x:dss $i:tq
+*CHI:	恩 .
+%mor:	n|en1=kindness .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dss $i:ta
+*MOT:	你 为什么 想 去 蜀南庭苑 ?
+%mor:	pro|ni3=you adv:wh|wei4shen2me=how_come v:aux|xiang3=want
+	v:dirc|qu4=go n:geo|shu3nan2ting2yuan4=shushan ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%spa:	$x:dss $i:qn
+%com:	在洗澡路上, 妈妈又问 .
+*CHI:	想 外公 了 想 舅舅 舅妈 了 想 语晨 妹妹 了 想 男 太太 了 想 女 太太 了 没有 了 .
+%mor:	v:aux|xiang3=want n|wai4gong1=maternal_grandfather asp|le
+	v:aux|xiang3=want n|jiu4jiu4=mothers_brother n|jiu4ma1=aunt asp|le
+	v:aux|xiang3=want n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister asp|le v:aux|xiang3=want n|nan2=male
+	n|tai4tai4=madame asp|le v:aux|xiang3=want n|nv3=woman
+	n|tai4tai4=madame asp|le neg|mei2you3=not_have asp|le .
+%gra:	1|2|AUX 2|6|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|14|MOD 7|14|MOD 8|14|MOD
+	9|14|MOD 10|14|MOD 11|14|MOD 12|14|MOD 13|14|MOD 14|18|MOD 15|18|MOD
+	16|18|MOD 17|18|MOD 18|21|SUBJ 19|21|NEG 20|21|NEG 21|0|INCROOT 22|21|PUNCT
+%spa:	$x:dss $i:sa
+*CHI:	妈妈 送 妈妈 送 .
+%mor:	n:relat|ma1&DIM=mother v|song4=deliver n:relat|ma1&DIM=mother
+	v|song4=deliver .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:rp
+%act:	送乐宝出门 .
+*MOT:	我 送 你 可以 但是 妈妈 不 去 外公 家 可以 吗 ?
+%mor:	pro|wo3=I v|song4=deliver pro|ni3=you v:aux|ke3yi3=may
+	conj|dan4shi4=but n:relat|ma1&DIM=mother neg|bu4=not v:dirc|qu4=go
+	n|wai4gong1=maternal_grandfather n|jia1=family v:aux|ke3yi3=may
+	sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|10|MOD 6|10|MOD 7|10|MOD 8|7|VD
+	9|10|MOD 10|2|OBJ 11|2|OBJ 12|2|SFP 13|2|PUNCT
+%spa:	$x:nia $i:tq
+*CHI:	可以 .
+%mor:	adj|ke3yi3=not_bad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:ta
+%act:	乐宝点头 .
+@End

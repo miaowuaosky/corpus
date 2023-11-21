@@ -1,0 +1,108 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	18-MAY-2015
+*CHI:	这个 给 我 都 拆 掉 了 .
+%mor:	pro|zhe4ge4=this prep|gei3=for pro|wo3=I adv|dou1=all
+	v|chai1=separate v:resc|diao4=drop asp|le .
+%gra:	1|2|TOP 2|0|INCROOT 3|5|SUBJ 4|5|JCT 5|2|PREPO 6|2|VR 7|2|PREPO
+	8|2|PUNCT
+%com:	孩子指被她拆开的积木跟妈妈讲话 .
+*CHI:	我 妈妈 去 拿手 机 的话 .
+%mor:	pro|wo3=I n:relat|ma1&DIM=mother v:dirc|qu4=go
+	adj|na2shou3=be_good_at n|ji1=machine conj|de5hua4=if .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|VD 4|5|MOD 5|2|VD 6|2|VD 7|2|PUNCT
+*CHI:	我 好 害怕 .
+%mor:	pro|wo3=I adj|hao3=good v|hai4pa4=dread .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	妈妈坐着, 她站在妈妈的椅子上, 然后妈妈弯腰去拿手机, 她拼命揪着妈妈 .
+*MOT:	爸爸 妈妈 有空 就 陪 你 玩 .
+%mor:	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother
+	adj|you3kong4=have_time adv|jiu4=just v|pei2=companion pro|ni3=you
+	v|wan2=play .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|7|SUBJ 7|5|OBJ 8|5|PUNCT
+*MOT:	没 空 要 干活 的 时候 就 自己 玩 .
+%mor:	neg|mei2=not adv|kong1=vainly v:aux|yao4=should v|gan4huo2=work
+	nom|de n|shi2hou4=time adv|jiu4=just pro|zi4ji3=self v|wan2=play .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|9|SUBJ 5|6|MOD 6|4|OBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|PUNCT
+%spa:	$x:nia $i:cs
+%act:	她突然跑去外婆房间 .
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	你 去 干活 .
+%mor:	pro|ni3=you v:dirc|qu4=go v|gan4huo2=work .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|PUNCT
+*CHI:	我去 玩儿 .
+%mor:	v|wo3qu4=what_the_hell v|wan2-DIA=play .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:ad
+%com:	早上乐宝想跟妈妈一起玩, 可妈妈在干活, 她闹腾个不停, 妈妈批评了她, 她哭了 .
+*CHI:	刚刚 妈妈 干活 的 时候 为什么 不 高兴 呀 .
+%mor:	adv|gang1&DIM=just n:relat|ma1&DIM=mother v|gan4huo2=work nom|de
+	n|shi2hou4=time adv:wh|wei4shen2me=how_come neg|bu4=not
+	adj|gao1xing4=happy sfp|ya .
+%gra:	1|3|JCT 2|3|SUBJ 3|8|CJCT 4|5|MOD 5|3|OBJ 6|8|NEG 7|8|NEG 8|0|INCROOT
+	9|8|SFP 10|8|PUNCT
+%spa:	$x:drp $i:qn
+%com:	孩子骑滑板车, 妈妈夸她骑得好 .
+*MOT:	有 吗 .
+%mor:	v|you3=have sfp|ma .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:drp $i:yq
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:drp $i:ya
+%com:	有的后面还有一句, 没听清 .
+*GRA:	不要 哭 了 .
+%mor:	adv|bu2yao4=dont v|ku1=cry asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:dr
+%com:	够不到鞋子孩子就哭了, 外婆来帮她捡鞋子 .
+%act:	孩子边哭边说 .
+*CHI:	人家 说 我 是 假 哭 .
+%mor:	pro|ren2jia1=people v|shuo1=say pro|wo3=I v:cop|shi4=is
+	n|jia4=leave v|ku1=cry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|2|OBJ 7|2|PUNCT
+%spa:	$x:nia $i:nd
+*CHI:	我 小时候 没有 带 尿不湿 .
+%mor:	pro|wo3=I n|xiao3shi2hou=childhood neg|mei2you3=not_have
+	v|dai4=bring n|niao4bu4shi1=baby_diapers .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	可是 我 没有 尿床 .
+%mor:	conj|ke3shi4=but pro|wo3=I neg|mei2you3=not_have
+	n|niao4chuang2=bed_wetting .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|NEG 4|1|OBJ 5|1|PUNCT
+%com:	爸爸拿益智画册出来给她讲到睡前尿尿 .
+*MOT:	你 不是 要 给 我 喝 吗 .
+%mor:	pro|ni3=you n|bu2shi4=fault v:aux|yao4=should prep|gei3=for
+	pro|wo3=I v|he1=drink sfp|ma .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|JCT 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|SFP 8|6|PUNCT
+%spa:	$x:dnp $i:yq
+*CHI:	因为 我 口渴 了 .
+%mor:	conj|yin1wei4=because pro|wo3=I adj|kou3ke3=thirst asp|le .
+%gra:	1|4|COM 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:st
+%com:	妈妈让乐宝拿水给她喝, 乐宝给了又拿回去  .
+*CHI:	怎么 又 是 dora .
+%mor:	adv:wh|zen3me=how adv|you4=again v:cop|shi4=is co|dora .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COM 5|3|PUNCT
+*CHI:	怎么 又 是 大红 公鸡 .
+%mor:	adv:wh|zen3me=how adv|you4=again v:cop|shi4=is adj|da4hong2=crimson
+	n|gong1ji1=rooster .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	孩子 点 儿歌 视频 却 出来 dora .
+*CHI:	爸爸 不 都 是 解 的 吗 .
+%mor:	n:relat|ba4&DIM=father neg|bu4=not adv|dou1=all v:cop|shi4=is
+	v|jie3=solve nom|de sfp|ma .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|POSS 7|5|SFP 8|5|PUNCT
+%com:	她想帮妈妈解扣子, 妈妈不让 .
+@End

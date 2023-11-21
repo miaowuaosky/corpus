@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.01|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	23-JAN-2014
+*MOT:	牛肉 .
+%mor:	n|niu2rou4=beef .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:dc
+%com:	乐宝想吃桌子上的牛肉,  妈妈拿给她 .
+*CHI:	牛肉干 .
+%mor:	n|niu2rou4gan1=beef_jerky .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:yd
+@End

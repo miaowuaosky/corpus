@@ -1,0 +1,69 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.06|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	28-FEB-2014
+*MOT:	想 不想 外公 ?
+%mor:	v:aux|xiang3=want v|bu4xiang3=dont_want_to
+	n|wai4gong1=maternal_grandfather ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dhs $i:tq
+*CHI:	想 .
+%mor:	v:aux|xiang3=want .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dhs $i:ta
+*MOT:	想 不想 外婆 ?
+%mor:	v:aux|xiang3=want v|bu4xiang3=dont_want_to
+	n|wai4po2=maternal_grandmother ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dhs $i:tq
+*CHI:	想 .
+%mor:	v:aux|xiang3=want .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dhs $i:ta
+*CHI:	都 想 .
+%mor:	adv|dou1=all v:aux|xiang3=want .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	晃 一晃 .
+%mor:	v|huang3=shake adv|yi1huang3=flash .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	中午自己拿着奶瓶 .
+*CHI:	外公 到 哪儿 去 了 ?
+%mor:	n|wai4gong1=maternal_grandfather prep|dao4=up_until
+	pro:wh|na3-DIA=which v:dirc|qu4=go asp|le ?
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|VD 5|2|PREPO 6|2|PUNCT
+*CHI:	妹妹 家 了 .
+%mor:	n:relat|mei4&DIM=younger_sister n|jia1=family asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	手套 .
+%mor:	n|shou3tao4=gloves .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	乐宝把盖子套在手里 .
+*CHI:	万万 哥哥 的 .
+%mor:	adv|wan4wan4=absolutely n:relat|ge1&DIM=older_brother poss|de .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+*CHI:	过来 了 .
+%mor:	v|guo4lai=manage asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	谁 在 叫 ?
+%mor:	pro:wh|shei2=who adv|zai4=currently v|jiao4=call ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	乐宝 叫 .
+%mor:	n:name|le4bao3=lebao v|jiao4=call .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	吃 一点点 .
+%mor:	v|chi1=eat adv|yi1dian3dian3=a_little .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	妈妈 喝 吧 .
+%mor:	n:relat|ma1&DIM=mother v|he1=drink sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	妈妈 喝 .
+%mor:	n:relat|ma1&DIM=mother v|he1=drink .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+@End

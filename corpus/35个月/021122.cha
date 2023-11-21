@@ -1,0 +1,164 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|FAN|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	01-JUL-2015
+*CHI:	爸爸 你 在 哪里 .
+%mor:	n:relat|ba4&DIM=father pro|ni3=you prep|zai4=at pro:wh|na3li3=where
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%spa:	$x:dnp $i:qn
+*FAT:	我 在 省委 .
+%mor:	pro|wo3=I prep|zai4=at n|sheng3wei3=provincial_party_committee .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	不是 在 省委 幼儿园 .
+%mor:	n|bu2shi4=fault prep|zai4=at
+	n|sheng3wei3=provincial_party_committee n|you4er2yuan2=kindergarten
+	.
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:st
+*FAT:	对 啊 .
+%mor:	tag|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:yd
+*CHI:	是 在 省委 .
+%mor:	v:cop|shi4=is prep|zai4=at n|sheng3wei3=provincial_party_committee
+	.
+%gra:	1|0|ROOT 2|1|PRED 3|2|PREPO 4|1|PUNCT
+%spa:	$x:dnp $i:st
+%com:	中午孩子跟爸爸打电话 .
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	你 在 哪里 .
+%mor:	pro|ni3=you prep|zai4=at pro:wh|na3li3=where .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+*CHI:	居然 在 这里 呀 .
+%mor:	adv|jiu1ran2=unexpectedly prep|zai4=at post|zhe4li3=here sfp|ya .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PREPO 4|2|SFP 5|2|PUNCT
+*CHI:	我 找不到 你 .
+%mor:	pro|wo3=I v|zhao3bu2dao4=cant_find pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	吃完饭妈妈去书房, 她过来找妈妈 .
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我们 一起 走 .
+%mor:	pro|wo3-PL=I adv|yi1qi3=together v:dirc|zou3=go_away .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|VD 4|2|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	去 干吗 .
+%mor:	v:dirc|qu4=go adv:wh|gan4ma=why .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	我们 一起 .
+%mor:	pro|wo3-PL=I adv|yi1qi3=together .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*CHI:	找 外婆 吧 .
+%mor:	v|zhao3=search n|wai4po2=maternal_grandmother sfp|ba .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	两 个人 一起 抱 小黄 人 .
+%mor:	num|liang3=two pro|ge4ren2=individual_person adv|yi1qi3=together
+	v|bao4=hug n|xiao3huang2=yellow n|ren2=person .
+%gra:	1|4|QUANT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:nia $i:sa
+*MOT:	哪 两 个 抱 小黄 人 .
+%mor:	pro:wh|na3=which num|liang3=two cl|ge4 v|bao4=hug
+	n|xiao3huang2=yellow n|ren2=person .
+%gra:	1|6|MOD 2|1|PQ 3|4|SUBJ 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	妈妈 和 乐宝 .
+%mor:	n:relat|ma1&DIM=mother conj|he2=and n:name|le4bao3=lebao .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	妈妈 和 外婆 抱 .
+%mor:	n:relat|ma1&DIM=mother conj|he2=and n|wai4po2=maternal_grandmother
+	v|bao4=hug .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	孩子跟外婆吃饭 .
+*CHI:	吃 过 饭 我们 去 安 大 .
+%mor:	v|chi1=eat asp|guo4 n|fan4=food pro|wo3-PL=I v:dirc|qu4=go
+	v|an1=set_mind_at_ease adj|da4=great .
+%gra:	1|6|CJCT 2|3|MOD 3|1|OBJ 4|6|SUBJ 5|4|VD 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%spa:	$x:nia $i:rp
+*GRA:	哦 .
+%mor:	sfp|o1 .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:eq
+*CHI:	妈妈 说 过 的 .
+%mor:	n:relat|ma1&DIM=mother v|shuo1=say asp|guo4 nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|POSS 5|2|PUNCT
+%spa:	$x:nia $i:st
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	安大 要 不要 坐 公交车 .
+%mor:	n:geo|an1da4=anhui_university v:aux|yao4=should adv|bu2yao4=dont
+	v|zuo4=sit n|gong1jiao1che1=bus .
+%gra:	1|0|INCROOT 2|5|MOD 3|4|JCT 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%spa:	$x:dnp $i:tq
+*MOT:	可以 坐 公交车 .
+%mor:	v:aux|ke3yi3=may v|zuo4=sit n|gong1jiao1che1=bus .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	也 可以 打车 .
+%mor:	adv|ye3=also v:aux|ke3yi3=may v|da3che1=take_a_taxi .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:ta
+*CHI:	也 可以 滴 滴 打车 .
+%mor:	adv|ye3=also v:aux|ke3yi3=may v|di1=drip cl|di1
+	v|da3che1=take_a_taxi .
+%gra:	1|3|JCT 2|3|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	也 可以 坐 公交车 .
+%mor:	adv|ye3=also v:aux|ke3yi3=may v|zuo4=sit n|gong1jiao1che1=bus .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	妈妈 快 来 吃饭 .
+%mor:	n:relat|ma1&DIM=mother adv|kuai4=quickly v:dirc|lai2=come
+	v|chi1fan4=having_dinner .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:dr
+%com:	过一会又喊妈妈 .
+*MOT:	你 先 吃 .
+%mor:	pro|ni3=you adv|xian1=earlier v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	我 现在 还 在 吃 莲藕 .
+%mor:	pro|wo3=I adv|xian4zai4=now adv|hai2=still prep|zai4=at v|chi1=eat
+	n|lian2ou3=the_lotus_root .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:nia $i:st
+%com:	吃饭时乐宝和妈妈, 外婆聊天 .
+*CHI:	爸爸 马上 就 回来 了 .
+%mor:	n:relat|ba4&DIM=father adv|ma3shang4=immediately adv|jiu4=just
+	v|hui2lai2=return asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dnp $i:st
+*GRA:	爸爸 已经 出差 了 .
+%mor:	n:relat|ba4&DIM=father adv|yi3jing1=already
+	v|chu1chai1=be_away_on_official_business_or_on_a_bus asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:yd
+*CHI:	什么时候 妈妈 也 要 走 .
+%mor:	adv:wh|shen2meshi2hou4=when n:relat|ma1&DIM=mother adv|ye3=also
+	v:aux|yao4=should v:dirc|zou3=go_away .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:dnp $i:qn
+*GRA:	五 号 .
+%mor:	num|wu3=five n|hao4=day .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*GRA:	今天 是 三 号 .
+%mor:	n|jin1tian1=today v:cop|shi4=is num|san1=three n|hao4=day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*GRA:	妈妈 要 去 池州 .
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v:dirc|qu4=go
+	n:geo|chi2zhou1=chizhou .
+%gra:	1|4|COM 2|4|AUX 3|2|VD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:sa
+@End

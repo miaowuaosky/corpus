@@ -1,0 +1,56 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.30|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	21-FEB-2014
+*CHI:	妈妈 喂 .
+%mor:	n:relat|ma1&DIM=mother v|wei4=feed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	妈妈 喂 宝宝 .
+%mor:	n:relat|ma1&DIM=mother v|wei4=feed n:relat|bao3&DIM=baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	外公早上喂乐宝吃饭 .
+*MOT:	要 上班 .
+%mor:	v:aux|yao4=should v|shang4ban1=start_work .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	拉 粑粑 .
+%mor:	v|la1=pull n|ba3ba=excrement .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:pf
+*CHI:	房间 .
+%mor:	n|fang2jian1=room .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rp
+%act:	指着厕所 .
+*MOT:	让 外公 抱 你 拉 .
+%mor:	v|rang4=allow n|wai4gong1=maternal_grandfather v|bao4=hug
+	pro|ni3=you v|la1=pull .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	0 .
+%spa:	$x:nia $i:rd
+%act:	哭 .
+%com:	乐宝不想上厕所, 只是想把妈妈留住 .
+*CHI:	出去 散步 了 .
+%mor:	v|chu1qu1=leave v|san4bu4=take_a_walk asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝走到门口 .
+*CHI:	猴子 看 过 了 .
+%mor:	n|hou2-NOM=monkey v|kan4=look v:dirc|guo4=pass asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+*CHI:	你好 看 过 了 .
+%mor:	co:int|ni3hao3=hello v|kan4=look v:dirc|guo4=pass asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+*CHI:	都 看 过 了 .
+%mor:	adv|dou1=all v|kan4=look v:dirc|guo4=pass asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+*CHI:	拿不动 了 .
+%mor:	v|na2bu4dong4=cant_move asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	妈妈把乐宝的腿压住了, 乐宝要拿出来 .
+@End

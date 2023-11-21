@@ -1,0 +1,171 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|02;06.23|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	14-FEB-2015
+*CHI:	妈妈 在 记 我 的话 .
+%mor:	n:relat|ma1&DIM=mother adv|zai4=currently v|ji4=write_down
+	pro|wo3=I conj|de5hua4=if .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%act:	妈妈在记录 .
+*CHI:	妈妈 我 尿尿 了 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v|niao4&DIM=pee asp|le .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	在尿不湿尿  .
+*CHI:	妈妈 今天 不 干活 这里 没有 电脑 .
+%mor:	n:relat|ma1&DIM=mother n|jin1tian1=today neg|bu4=not
+	v|gan4huo2=work post|zhe4li3=here neg|mei2you3=not_have
+	n|dian4nao3=computer .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|7|MOD 6|7|NEG 7|4|OBJ 8|4|PUNCT
+%act:	躺在床上 .
+*CHI:	我 搞 了 一 个 气 .
+%mor:	pro|wo3=I v|gao3=work asp|le num|yi1=one cl|ge4 n|qi4=air .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|5|QUANT 5|6|CLASS 6|2|OBJ 7|2|PUNCT
+%act:	瘪嘴从牙齿缝儿吹气 .
+*CHI:	我 开门 给 妈妈 进 .
+%mor:	pro|wo3=I v|kai1men2=open_the_door prep|gei3=for
+	n:relat|ma1&DIM=mother v:dirc|jin4=enter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|PREPO 5|4|VD 6|2|PUNCT
+*CHI:	我 开门 啦 .
+%mor:	pro|wo3=I v|kai1men2=open_the_door sfp|la1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%act:	早上开门 .
+*CHI:	给 一 个 给 你 搓 .
+%mor:	prep|gei3=for num|yi1=one cl|ge4 prep|gei3=for pro|ni3=you
+	v|cuo1=rub_with_hand .
+%gra:	1|6|JCT 2|3|QUANT 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|PUNCT
+%act:	给妈妈橡皮泥 .
+*CHI:	我 一 个 象 小 蛋壳 .
+%mor:	pro|wo3=I num|yi1=one cl|ge4 n|xiang4=elephant adj|xiao3=small
+	n|dan4ke2=eggshell .
+%gra:	1|6|SUBJ 2|3|QUANT 3|6|CLASS 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%act:	捏橡皮泥 .
+*CHI:	我 还 没 搞 完 .
+%mor:	pro|wo3=I adv|hai2=still neg|mei2=not v|gao3=work
+	v:resc|wan2=finish .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|VR 6|4|PUNCT
+%act:	妈妈收拾乐宝的橡皮泥 .
+*CHI:	有 个人 在 唱戏 .
+%mor:	v|you3=have pro|ge4ren2=individual_person adv|zai4=currently
+	v|chang4xi4=singing .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	在超市听见喇叭唱歌声音 .
+*MOT:	这 就是 酱 骨头 .
+%mor:	pro|zhe4=this co:int|jiu4shi4=that_is n|jiang4=sauce n|gu3tou2=bone
+	.
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+%act:	妈妈指着酱骨头 .
+*CHI:	我 闻到 了 .
+%mor:	pro|wo3=I v|wen2dao4=smell asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:ap
+*CHI:	地上 好 脏 .
+%mor:	n|di4shang4=on_the_ground adv|hao3=very adj|zang1=dirty .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	妈妈在扫地 .
+*FAT:	爸爸 没有 打扫 卫生 .
+%mor:	n:relat|ba4&DIM=father neg|mei2you3=not_have v|da3sao3=sweep
+	adj|wei4sheng1=hygienic .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	我 要 干事 情 .
+%mor:	pro|wo3=I v:aux|yao4=should n|gan4shi=officer n|qing2=emotion .
+%gra:	1|4|SUBJ 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	给 你 梳 发型 .
+%mor:	prep|gei3=for pro|ni3=you v|shu1=comb n|fa3xing2=hairdo .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	拿梳子给爸爸梳头 .
+*CHI:	他们 在 说 什么 ?
+%mor:	pro|ta1-PL=he prep|zai4=at v|shuo1=say pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:qn
+%act:	发烧躺在沙发冷敷, 听见楼下有人说话 .
+*MOT:	我 不知 道 .
+%mor:	pro|wo3=I v|bu4zhi1=ignorance n|dao4=doctrine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	妈妈小声说 .
+*CHI:	妈妈 在 说 什么 ?
+%mor:	n:relat|ma1&DIM=mother adv|zai4=currently v|shuo1=say
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	妈妈 画 二 妈妈 画 二 我 画 不 起来 .
+%mor:	n:relat|ma1&DIM=mother v|hua4=draw num|er4=two
+	n:relat|ma1&DIM=mother v|hua4=draw num|er4=two pro|wo3=I
+	n|hua4=painting neg|bu4=not adv|qi3lai2=up .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|QUANT 4|5|SUBJ 5|0|ROOT 6|8|QUANT 7|8|MOD 8|5|OBJ
+	9|10|NEG 10|5|OBJ 11|5|PUNCT
+%act:	拿笔在纸上写 .
+*CHI:	好 脏 !
+%mor:	adv|hao3=very adj|zang1=dirty !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	吃 什么 吃 的 ?
+%mor:	v|chi1=eat pro:wh|shen2me=what v|chi1=eat nom|de ?
+%gra:	1|3|SUBJ 2|1|OBJ 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:qn
+%act:	妈妈擦餐桌 .
+*MOT:	好像 是 上次 吃 火龙果 吃 的 .
+%mor:	adv|hao3xiang4=seem v:cop|shi4=is n|shang4ci4=last_time v|chi1=eat
+	n|huo3long2guo3=pitaya v|chi1=eat nom|de .
+%gra:	1|6|JCT 2|5|MOD 3|5|MOD 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|POSS 8|6|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	吃 猕猴桃 吃 的 .
+%mor:	v|chi1=eat n|mi2hou2tao2=kiwi v|chi1=eat nom|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:dw
+%com:	瞎说的 .
+*CHI:	爸爸 这个 核桃 长 在一起 .
+%mor:	n:relat|ba4&DIM=father pro|zhe4ge4=this n|he2tao2=walnut
+	v|zhang3=grow v|zai4yi4qi3=in_harness .
+%gra:	1|5|SUBJ 2|4|SUBJ 3|4|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%com:	发现两个核桃长在一起后来告诉爸爸 .
+*FAT:	长 在一起 啊 ?
+%mor:	v|zhang3=grow v|zai4yi4qi3=in_harness sfp|a1 ?
+%gra:	1|0|ROOT 2|1|SRL 3|1|SFP 4|1|PUNCT
+%spa:	$x:djf $i:tq
+*CHI:	嗯 是 长 在一起 .
+%mor:	co|en1=okay v:cop|shi4=is v|zhang3=grow v|zai4yi4qi3=in_harness .
+%gra:	1|4|COM 2|4|JCT 3|2|PRED 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:ta
+*MOT:	爸爸 不会 剥 .
+%mor:	n:relat|ba4&DIM=father v:aux|bu4hui4=cant v|bo1=peel .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:st
+%com:	让 爸爸 剥 核桃 .
+*CHI:	我 试一试 啊 .
+%mor:	pro|wo3=I v|shi4&PAT=try co|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	应该是你试一试啊 .
+*CHI:	我 要看 叔叔 和 阿姨 那个 联播 我 要看 叔叔 和 阿姨 那个 联播 .
+%mor:	pro|wo3=I v|yao4kan4=to_see n:relat|shu2&DIM=uncle conj|he2=and
+	a1#n:relat|yi2=familiar_mothers_sister pro|na4ge4=that
+	n|lian2bo1=broadcast pro|wo3=I v|yao4kan4=to_see
+	n:relat|shu2&DIM=uncle conj|he2=and
+	a1#n:relat|yi2=familiar_mothers_sister pro|na4ge4=that
+	n|lian2bo1=broadcast .
+%gra:	1|2|SUBJ 2|3|MOD 3|9|SUBJ 4|9|JCT 5|9|COM 6|9|SUBJ 7|9|SUBJ 8|9|SUBJ
+	9|0|ROOT 10|14|MOD 11|14|MOD 12|14|MOD 13|14|MOD 14|9|OBJ 15|9|PUNCT
+%act:	拿遥控器 .
+*CHI:	下雨 了 在 哪里 下雨 的 ?
+%mor:	v|xia4yu3=rain asp|le prep|zai4=at pro:wh|na3li3=where
+	v|xia4yu3=rain nom|de ?
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|POSS 7|5|PUNCT
+%com:	听见下雨声 .
+*MOT:	啊 ?
+%mor:	co|a ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 不知 道 哎 在外 面 飘 出来 了 .
+%mor:	pro|wo3=I v|bu4zhi1=ignorance n|dao4=doctrine co|ai1=ugh
+	v|zai4wai4=outside n|mian4=surface v|piao1=blow_about
+	v|chu1lai2=come_forward asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|SUBJ 4|8|COM 5|8|JCT 6|8|SUBJ 7|8|JCT 8|2|OBJ
+	9|2|OBJ 10|2|PUNCT
+@End

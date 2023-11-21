@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, FAT Father
+@ID:	zho|FLZ|CHI|01;08.16|female|||Child|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	07-APR-2014
+*FAT:	宝宝 唱 小 毛驴 歌 .
+%mor:	n:relat|bao3&DIM=baby v|chang4=sing adj|xiao3=small
+	n|mao2lv2=the_donkey n|ge1=song .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	我 不 记得 了 .
+%mor:	pro|wo3=I neg|bu4=not v|ji4de2=remember asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:nia $i:st
+*CHI:	尿 裤子 了 .
+%mor:	v|niao4=pee n|ku4-NOM=pants asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	早上乐宝自己尿尿把衣服弄湿了 .
+*CHI:	垃圾 在 转 .
+%mor:	n|le4se4=garbage adv|zai4=currently v|zhuan3=turn .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	乐宝看见水里漂动着一个垃圾袋 .
+*CHI:	刚刚 掉 地上 了 .
+%mor:	adv|gang1&DIM=just v:resc|diao4=drop n|di4shang4=on_the_ground
+	asp|le .
+%gra:	1|3|JCT 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝吃玉米粒告诉妈妈玉米粒掉地上了 .
+*CHI:	这个 给 妈妈 吃 的 .
+%mor:	pro|zhe4ge4=this prep|gei3=for n:relat|ma1&DIM=mother v|chi1=eat
+	nom|de .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|POSS 6|4|PUNCT
+%com:	乐宝自己吃玉米桌上还有一个玉米 .
+*CHI:	热水器 没 烧水 .
+%mor:	n|re4shui3qi4=heater neg|mei2=not v|shao1shui3=boil_water .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	乐宝拉粑粑时指着热水器说 .
+*CHI:	还 踢 .
+%mor:	adv|hai2=still v|ti1=kick .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	妈妈本来陪宝宝在沙发踢球, 但此时起身要走 .
+*CHI:	< 好多>[/] 好多 的 玩具 啊 .
+%mor:	quant|hao3duo1=many poss|de n|wan2ju4=toy sfp|a1 .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%com:	乐宝进房间 .
+*CHI:	这 本 书 看 过 了 .
+%mor:	pro|zhe4=this cl|ben3 n|shu1=book v|kan4=look v:dirc|guo4=pass
+	asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|VD 6|4|VD 7|4|PUNCT
+%com:	乐宝看了几本书摆在旁边 .
+%act:	指着其中一本书 .
+@End

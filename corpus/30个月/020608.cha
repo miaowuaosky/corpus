@@ -1,0 +1,152 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;06.08|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	30-JAN-2015
+*CHI:	妈妈 乐宝 玩 过 万 振 逍遥 苑 的 滑梯 了 .
+%mor:	n:relat|ma1&DIM=mother n:name|le4bao3=lebao v|wan2=play asp|guo4
+	num|wan4=ten_thousand v|zhen4=vibration adj|xiao1yao2=unfettered
+	n|yuan4=yuan poss|de n|hua2ti1=slide asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|11|COM 5|6|QUANT 6|10|CLASS 7|8|MOD 8|6|OBJ
+	9|6|POSS 10|11|SUBJ 11|3|OBJ 12|3|PUNCT
+%spa:	$x:dnp $i:st
+%com:	乐宝醒来就说 .
+*MOT:	好 !
+%mor:	adj|hao3=good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:ab
+*CHI:	自己 走 有 绳子 的 那个 那个 .
+%mor:	pro|zi4ji3=self v:dirc|zou3=go_away v|you3=have n|sheng2zi=rope
+	nom|de pro|na4ge4=that pro|na4ge4=that .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|OBJ 5|7|COM 6|7|SUBJ 7|3|OBJ 8|3|PUNCT
+*MOT:	你 吃 一半 .
+%mor:	pro|ni3=you v|chi1=eat n|yi1ban4=half .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:cr
+%com:	乐宝中午吃饭不像样吃 .
+*CHI:	现在 就 吃 一半 了 .
+%mor:	adv|xian4zai4=now adv|jiu4=just v|chi1=eat n|yi1ban4=half asp|le .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$x:nia $i:ed
+%act:	乐宝站起来 .
+*MOT:	女 太太 说 什么 了 ?
+%mor:	adj|nü3=female n|tai4tai4=madame v|shuo1=say pro:wh|shen2me=what
+	asp|le ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dnp $i:qn
+%act:	乐宝进太太房间出来 .
+*CHI:	没有 说 什么 .
+%mor:	neg|mei2you3=not_have v|shuo1=say pro:wh|shen2me=what .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	喂 我 用 纸 上 画 个 图案 画 个 小姑 娘的 .
+%mor:	v|wei4=feed pro|wo3=I v|yong4=use n|zhi3=paper post|shang4=above
+	v|hua4=draw cl|ge4 n|tu2an4=miniature v|hua4=draw cl|ge4
+	n:relat|xiao3gu1=sister_in_law n|niang2-ISH=mother .
+%gra:	1|6|SUBJ 2|3|SUBJ 3|6|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|9|SUBJ 8|9|SUBJ
+	9|6|OBJ 10|6|OBJ 11|12|MOD 12|6|OBJ 13|6|PUNCT
+%com:	乐宝躺着自娱 .
+*MOT:	你 最 喜欢 什么 颜色 ?
+%mor:	pro|ni3=you adv|zui4=most v|xi3huan1=like pro:wh|shen2me=what
+	n|yan2se4=color ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dhs $i:qn
+%com:	妈妈第一次问乐宝 .
+*CHI:	我 喜欢 红色 .
+%mor:	pro|wo3=I v|xi3huan1=like adj|hong2se4=red .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dss $i:sa
+*MOT:	你 最 喜欢 什么 形状 ?
+%mor:	pro|ni3=you adv|zui4=most v|xi3huan1=like pro:wh|shen2me=what
+	n|xing2zhuang4=form ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	我 十 喜欢 圆形 .
+%mor:	pro|wo3=I num|shi2=ten v|xi3huan1=like n|yuan2xing2=round .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dss $i:sa
+*MOT:	一 到 这 十 个 数字 你 最 喜欢 哪个 数字 ?
+%mor:	num|yi1=one v:resc|dao4=arrive pro|zhe4=this num|shi2=ten cl|ge4
+	n|shu4zi4=numeral pro|ni3=you adv|zui4=most v|xi3huan1=like
+	pro:wh|na3ge4=which n|shu4zi4=numeral ?
+%gra:	1|2|QUANT 2|4|CLASS 3|4|DET 4|6|QUANT 5|6|MOD 6|9|SUBJ 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|11|MOD 11|9|OBJ 12|9|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	我 喜欢 一 .
+%mor:	pro|wo3=I v|xi3huan1=like num|yi1=one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dss $i:sa
+*MOT:	你 最 喜欢 什么 玩具 ?
+%mor:	pro|ni3=you adv|zui4=most v|xi3huan1=like pro:wh|shen2me=what
+	n|wan2ju4=toy ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	我 喜欢 小娃娃 .
+%mor:	pro|wo3=I v|xi3huan1=like n|xiao3wa2wa2=dolls .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dss $i:sa
+*MOT:	你 最 喜欢 哪 首 歌 ?
+%mor:	pro|ni3=you adv|zui4=most v|xi3huan1=like pro:wh|na3=which cl|shou3
+	n|ge1=song ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	我 喜欢 小 毛驴 .
+%mor:	pro|wo3=I v|xi3huan1=like adj|xiao3=small n|mao2lv2=the_donkey .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:dss $i:sa
+*MOT:	家里 面 你 最 喜欢 谁 呀 ?
+%mor:	n|jia1li3=home cl|mian4 pro|ni3=you adv|zui4=most v|xi3huan1=like
+	pro:wh|shei2=who sfp|ya ?
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	喜欢 爸爸 .
+%mor:	v|xi3huan1=like n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dss $i:sa
+*CHI:	谁 的 掉 了 ?
+%mor:	pro:wh|shei2=who poss|de v:resc|diao4=drop asp|le ?
+%gra:	1|0|INCROOT 2|1|POSS 3|1|VR 4|1|SFP 5|1|PUNCT
+%spa:	$x:djf $i:qn
+%act:	乐宝衣服掉地上妈妈拣了起来 .
+*MOT:	呃 呃 呃 .
+%mor:	co|e1=uh co|e1=uh co|e1=uh .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:yy
+%com:	妈妈犹豫地说 .
+*CHI:	乐宝 的 掉 了 .
+%mor:	n:name|le4bao3=lebao poss|de v:resc|diao4=drop asp|le .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|VR 4|1|SFP 5|1|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	乖 妹 住 在 哪儿 ?
+%mor:	adj|guai1=good n:relat|mei4=younger_sister v:resc|zhu4=inhabit
+	prep|zai4=at pro:wh|na3-DIA=which ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|VR 4|2|JCT 5|4|PREPO 6|2|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	住 在 万 振 逍遥 苑 .
+%mor:	v:resc|zhu4=inhabit adv|zai4=currently num|wan4=ten_thousand
+	v|zhen4=vibration adj|xiao1yao2=unfettered n|yuan4=yuan .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	乖 妹 也 住 在 万 振 逍遥 苑 .
+%mor:	adj|guai1=good n:relat|mei4=younger_sister adv|ye3=also
+	v:resc|zhu4=inhabit adv|zai4=currently num|wan4=ten_thousand
+	v|zhen4=vibration adj|xiao1yao2=unfettered n|yuan4=yuan .
+%gra:	1|2|MOD 2|7|SUBJ 3|4|JCT 4|2|VR 5|7|JCT 6|7|JCT 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|PUNCT
+*CHI:	变成 水 了 现在 不下 雨 了 .
+%mor:	v|bian4cheng2=become n|shui3=water asp|le adv|xian4zai4=now
+	v|bu4xia4=no n|yu3=rain asp|le .
+%gra:	1|7|MOD 2|6|MOD 3|6|MOD 4|5|JCT 5|6|MOD 6|1|OBJ 7|0|INCROOT 8|7|PUNCT
+%com:	听见外面雪水滴下来的声音 .
+*CHI:	妈妈 到 有 车子 的 栏杆 掉下 来 搞 碎掉 了 .
+%mor:	n:relat|ma1&DIM=mother v:resc|dao4=arrive v|you3=have
+	n|che1zi=vehicle poss|de n|lan2gan1=railing v|diao1xia4=fall_down
+	v:dirc|lai2=come v|gao3=work v|sui4diao4=suidiao asp|le .
+%gra:	1|7|SUBJ 2|1|VR 3|4|MOD 4|1|OBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|VD
+	9|10|JCT 10|7|VD 11|7|VD 12|7|PUNCT
+%com:	乐宝又回忆上午妈妈从车棚摘冰棱的事 .
+@End

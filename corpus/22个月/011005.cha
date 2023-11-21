@@ -1,0 +1,118 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.05|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	27-MAY-2014
+*CHI:	爸爸 拿 衣服 .
+%mor:	n:relat|ba4&DIM=father v|na2=hold n|yi1fu2=clothes .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	妈妈拿了一件裙子给乐宝, 乐宝想让爸爸递给他 .
+*MOT:	外婆 在 干什么 ?
+%mor:	n|wai4po2=maternal_grandmother adv|zai4=currently
+	v|gan4shen2me=what_do_you_want ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:drp $i:qn
+%com:	外婆擦窗台和电脑 .
+*CHI:	把 窗帘 洗 一下 .
+%mor:	prep|ba3=object_marker n|chuang1lian2=curtain v|xi3=wash
+	adv|yi1xia4=a_bit .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	洗 电脑 .
+%mor:	v|xi3=wash n|dian4nao3=computer .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	这 是 宝宝 的 漂亮 衣服 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|bao3&DIM=baby poss|de
+	adj|piao4liang4=posh n|yi1fu2=clothes .
+%gra:	1|2|SUBJ 2|6|MOD 3|2|PRED 4|2|POSS 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%act:	早起指着自己衣服 .
+*CHI:	宝宝 的 衣服 .
+%mor:	n:relat|bao3&DIM=baby poss|de n|yi1fu2=clothes .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%com:	看见柜子衣服, 其实是妈妈衣服 .
+*CHI:	虫 虫< 在 那 呢>[/] 在 那 呢 ?
+%mor:	n|chong2=bug n|chong2=bug prep|zai4=at pro|na4=that sfp|ne ?
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|SFP 6|3|PUNCT
+%spa:	$x:dha $i:st
+%com:	其实没虫 .
+*MOT:	虫 虫 在 哪儿 ?
+%mor:	n|chong2=bug n|chong2=bug prep|zai4=at pro:wh|na3-DIA=which ?
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	床 .
+%mor:	n|chuang2=bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+%com:	乐宝说的是床, 但发音如tang2 .
+*MOT:	是 床 还是 糖 ?
+%mor:	v:cop|shi4=is n|chuang2=bed conj|hai2shi4=or n|tang2=sugar ?
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:tq
+*CHI:	所有 这些 太太 床 上 .
+%mor:	v|suo3you3=own quant|zhe4xie1=these n|tai4tai4=madame n|chuang2=bed
+	post|shang4=above .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|5|POSTO 5|1|JCT 6|1|PUNCT
+%spa:	$x:djf $i:ta
+%act:	指着床 .
+*CHI:	< 什么>[/] 什么 都 没有 .
+%mor:	pro:wh|shen2me=what adv|dou1=all neg|mei2you3=not_have .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	乐宝看着进门柜子 .
+%act:	摊手 .
+*CHI:	爸爸 妈妈 到 老乡鸡 吃饭 .
+%mor:	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother prep|dao4=up_until
+	n:prop|lao3xiang1ji1=hometown_chicken v|chi1fan4=having_dinner .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%com:	早餐时 .
+*CHI:	爸爸 妈妈 都 吃饭 .
+%mor:	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother adv|dou1=all
+	v|chi1fan4=having_dinner .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	跟 你们 一起 坐 .
+%mor:	prep|gen1=with pro|ni3-PL=you adv|yi1qi3=together v|zuo4=sit .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|JCT 4|1|PREPO 5|1|PUNCT
+%com:	要跟妈妈一起坐椅子 .
+*CHI:	书 给 外婆 .
+%mor:	n|shu1=book prep|gei3=for n|wai4po2=maternal_grandmother .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%com:	翻完书给外婆 .
+*MOT:	妈妈 尿 过 乐宝 再 洗澡 .
+%mor:	n:relat|ma1&DIM=mother v|niao4=pee asp|guo4 n:name|le4bao3=lebao
+	adv|zai4=again v|xi3zao3=shower .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%spa:	$x:nia $i:st
+%com:	妈妈上厕所时乐宝要洗澡 .
+*CHI:	妈妈 尿 过 乐宝 再 洗澡 .
+%mor:	n:relat|ma1&DIM=mother v|niao4=pee asp|guo4 n:name|le4bao3=lebao
+	adv|zai4=again v|xi3zao3=shower .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%spa:	$x:nia $i:rt
+*CHI:	用 水 冲 一下 .
+%mor:	n|yong4=use n|shui3=water v|chong1=charge adv|yi1xia4=a_bit .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	你 也 吃 这个 .
+%mor:	pro|ni3=you adv|ye3=also v|chi1=eat pro|zhe4ge4=this .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈吃卤菜乐宝也要 .
+*CHI:	坐 小 板凳 .
+%mor:	v|zuo4=sit adj|xiao3=small n|ban3deng4=wooden_bench .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	要玩水 .
+*CHI:	妈妈 马上 没有 了 .
+%mor:	n:relat|ma1&DIM=mother adv|ma3shang4=immediately
+	neg|mei2you3=not_have asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%com:	快吃完饭乐宝喊妈妈 .
+*CHI:	妈妈 头发 干 了 .
+%mor:	n:relat|ma1&DIM=mother n|tou2fa1=head_hair v|gan4=do asp|le .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	判断准确 .
+*CHI:	右手 擦 过 了 .
+%mor:	n|you4shou3=right_hand v|ca1=wipe v:dirc|guo4=pass asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	妈妈给乐宝擦完右手又擦左手 .
+@End

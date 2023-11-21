@@ -1,0 +1,85 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.18|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	09-FEB-2014
+*MOT:	可 把 你 胳膊 搞 坏 得了 ?
+%mor:	adv|ke3=on_the_contrary prep|ba3=object_marker pro|ni3=you
+	n|ge1bo1=elbow v|gao3=work adj|huai4=bad adj|de2liao3=serious ?
+%gra:	1|2|JCT 2|5|JCT 3|4|SUBJ 4|2|PREPO 5|0|NONE 6|5|JCT 7|6|INCROOT
+	8|7|PUNCT
+%spa:	$x:dre $i:tq
+*CHI:	没有 搞 坏了 .
+%mor:	neg|mei2you3=not_have v|gao3=work n|huai4le=bad .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dre $i:ta
+*MOT:	你 要不 要 喝 点水 啊 ?
+%mor:	pro|ni3=you conj|yao4bu4=otherwise v:aux|yao4=should v|he1=drink
+	v|dian3shui3=water sfp|a1 ?
+%gra:	1|5|SUBJ 2|5|JCT 3|4|AUX 4|2|PREPO 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dhs $i:tq
+*CHI:	是的 是的 .
+%mor:	v:cop|shi4-ISH=is v:cop|shi4-ISH=is .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+%spa:	$x:dhs $i:ta
+*CHI:	开灯 .
+%mor:	v|kai1deng1=turn_on_the_light .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	晚上乐宝要进房拿球 .
+*CHI:	把门 关上 .
+%mor:	v|ba3men2=the_door v|guan1shang4=shut .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝在阳台看完月亮进来 .
+*MOT:	你 再说 一遍 .
+%mor:	pro|ni3=you adv|zai4shuo1=furthermore adv|yi1bian4=again .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	把门 关上 .
+%mor:	v|ba3men2=the_door v|guan1shang4=shut .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:ad
+*CHI:	小豆 豆 睡觉 了 .
+%mor:	n|xiao3dou4=adzuki_beans n|dou4=small_ball v|shui4jiao4=sleep
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	将门关上了 .
+*CHI:	在 烧水 洗澡 .
+%mor:	prep|zai4=at v|shao1shui3=boil_water v|xi3zao3=shower .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%com:	看见热水器烧水  .
+*CHI:	外公 抱抱 .
+%mor:	n|wai4gong1=maternal_grandfather v|bao4&DIM=hug .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	叫外公抱她 .
+*CHI:	外面 放 .
+%mor:	n|wai4mian4=outside v|fang4=put .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	指着窗户 .
+%com:	听见鞭炮声 .
+*MOT:	一二 三 四 五 六 七 八 九十 十一 十二 十三 十四 十五 十六 十七 十八 十九 二 十 .
+%mor:	num|yi1er4=one_or_two num|san1=three num|si4=four num|wu3=five
+	num|liu4=six num|qi1=seven num|ba1=eight num|jiu3shi2=ninety
+	num|shi2yi1=eleven num|shi2er4=twelve num|十三 num|shi2si4=fourteen
+	num|十五 num|shi2liu4=sixteen num|shi2qi1=seventeen
+	num|shi2ba1=eighteen num|shi2jiu3=nineteen num|er4=two num|shi2=ten
+	.
+%gra:	1|19|QUANT 2|19|QUANT 3|19|QUANT 4|19|QUANT 5|19|QUANT 6|19|QUANT
+	7|19|QUANT 8|19|QUANT 9|19|QUANT 10|19|QUANT 11|19|QUANT 12|19|QUANT
+	13|19|QUANT 14|19|QUANT 15|19|QUANT 16|19|QUANT 17|19|QUANT 18|19|QUANT
+	19|0|INCROOT 20|19|PUNCT
+%spa:	$x:djf $i:st
+%com:	妈妈在为乐宝示范数数到二十 .
+*CHI:	好棒 !
+%mor:	adj|hao3bang4=very_good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:pm
+%com:	之前乐宝自己琢磨出把三个易拉罐搭起来, 很兴奋, 喊妈妈去看, 自己鼓掌 .
+*CHI:	给 妈妈 .
+%mor:	v|gei3=give n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝把香蕉给妈妈 .
+@End

@@ -1,0 +1,146 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|2;04.19|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	11-DEC-2014
+*MOT:	好多 小朋友 的 爸爸 妈妈 天天 上班 .
+%mor:	quant|hao3duo1=many n|xiao3peng2you3=little_child poss|de
+	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother adv|tian1tian1=daily
+	v|shang4ban1=start_work .
+%gra:	1|2|MOD 2|7|SUBJ 3|2|POSS 4|7|SUBJ 5|7|JCT 6|7|JCT 7|0|ROOT 8|7|PUNCT
+%spa:	$x:dnp $i:dc
+*CHI:	谁 小朋友 的 爸爸 妈妈 都 去 上班 ?
+%mor:	pro:wh|shei2=who n|xiao3peng2you3=little_child poss|de
+	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother adv|dou1=all
+	v:dirc|qu4=go v|shang4ban1=start_work ?
+%gra:	1|2|MOD 2|4|SUBJ 3|2|POSS 4|8|SUBJ 5|8|SUBJ 6|8|JCT 7|6|VD 8|0|ROOT
+	9|8|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	乐宝 感冒 好 了 可以 去 游乐园 还有 蹦 蹦 水 .
+%mor:	n:name|le4bao3=lebao v|gan3mao4=catch_cold adj|hao3=good asp|le
+	adj|ke3yi3=not_bad v:dirc|qu4=go n|you2le4yuan2=amusement_park
+	adv|hai2you3=moreover v|beng4=jump v|beng4=jump n|shui3=water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|11|MOD 4|11|MOD 5|11|MOD 6|5|VD 7|9|SUBJ 8|9|JCT
+	9|5|VD 10|11|MOD 11|2|OBJ 12|2|PUNCT
+*CHI:	来 坐 我 的 手 .
+%mor:	v:dirc|lai2=come v|zuo4=sit pro|wo3=I poss|de n|shou3=hand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	你 的 手 太 小 了 不能 坐 .
+%mor:	pro|ni3=you poss|de n|shou3=hand adv|tai4=very adj|xiao3=small
+	asp|le v:aux|bu4neng2=cannot v|zuo4=sit .
+%gra:	1|3|SUBJ 2|1|POSS 3|8|SUBJ 4|5|JCT 5|8|SUBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+%spa:	$x:nia $i:gr
+%act:	伸手做抬轿子状 .
+*CHI:	妈妈 的 手 太 大 了 能 坐 上 .
+%mor:	n:relat|ma1&DIM=mother poss|de n|shou3=hand adv|tai4=very
+	adj|da4=great asp|le v:aux|neng2=can v|zuo4=sit v:dirc|shang4=go_up
+	.
+%gra:	1|3|MOD 2|1|POSS 3|5|SUBJ 4|5|JCT 5|8|SUBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|VD 10|8|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	妈妈 的 手机 儿歌 没有 妈妈 的 手机 只 有 照片 .
+%mor:	n:relat|ma1&DIM=mother poss|de n|shou3ji1=cell_phone
+	n|er2ge1=nursery_rhymes neg|mei2you3=not_have n:relat|ma1&DIM=mother
+	poss|de n|shou3ji1=cell_phone adv|zhi3=only v|you3=have
+	n|zhao4pian4=photograph .
+%gra:	1|6|NEG 2|1|POSS 3|4|MOD 4|1|OBJ 5|6|NEG 6|10|SUBJ 7|6|POSS 8|10|SUBJ
+	9|10|JCT 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+%com:	妈妈翻看手机 .
+*CHI:	我 有 手机 .
+%mor:	pro|wo3=I v|you3=have n|shou3ji1=cell_phone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	妈妈拿手机翻看没有给孩子, 突然伸左手做拿手机用右手划的样子 .
+*CHI:	外婆 睡醒 了 再 给 乐宝 叫 女 太太 .
+%mor:	n|wai4po2=maternal_grandmother v|shui4xing3=wake_up asp|le
+	adv|zai4=again prep|gei3=for n:name|le4bao3=lebao v|jiao4=call
+	n|nv3=woman n|tai4tai4=madame .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|2|OBJ 4|7|JCT 5|7|JCT 6|5|PREPO 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|PUNCT
+%com:	躺着 .
+*CHI:	走过 去 就 行 了 .
+%mor:	v|zou3guo4=walk v:dirc|qu4=go adv|jiu4=just adj|xing2=be_all_right
+	asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|4|JCT 4|1|VD 5|1|VD 6|1|PUNCT
+%com:	妈妈打车打了许久没打到 .
+*CHI:	乐宝 喜欢 坐 搅拌 车 乐宝 不怕 搅拌 车 乐宝 怕 搅拌 车 就 不 坐 了 .
+%mor:	n:name|le4bao3=lebao v|xi3huan1=like v|zuo4=sit v|jiao3ban4=stir
+	n|che1=vehicle n:name|le4bao3=lebao v|bu4pa4=be_not_afraid_of
+	v|jiao3ban4=stir n|che1=vehicle n:name|le4bao3=lebao v|pa4=dread
+	v|jiao3ban4=stir n|che1=vehicle adv|jiu4=just neg|bu4=not v|zuo4=sit
+	asp|le .
+%gra:	1|16|NEG 2|16|SUBJ 3|2|SRL 4|16|JCT 5|16|SUBJ 6|16|JCT 7|16|SUBJ
+	8|16|JCT 9|16|SUBJ 10|16|JCT 11|16|CJCT 12|13|MOD 13|11|OBJ 14|16|JCT
+	15|16|NEG 16|0|ROOT 17|16|OBJ 18|16|PUNCT
+*CHI:	这个 里面 装 了 好多 货 .
+%mor:	pro|zhe4ge4=this post|li3mian4=inside v|zhuang1=install asp|le
+	quant|hao3duo1=many n|huo4=commodity .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%act:	指货车 .
+*CHI:	这个 饭店 是 乐宝 的 .
+%mor:	pro|zhe4ge4=this n|fan4dian4=restraurant v:cop|shi4=is
+	n:name|le4bao3=lebao poss|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|POSS 6|3|PUNCT
+%act:	指妈妈介绍的一个饭店 .
+*CHI:	右 车 前 车 .
+%mor:	adj|you4=right n|che1=vehicle n|qian2=front n|che1=vehicle .
+%gra:	1|3|MOD 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%act:	坐在车里指左边和前面的车 .
+*CHI:	被 车 挡住 了 被 车 没 挡住 就 看见 了 .
+%mor:	prep|bei4=by n|che1=vehicle v|dang3zhu4=block asp|le prep|bei4=by
+	n|che1=vehicle neg|mei2=not v|dang3zhu4=block adv|jiu4=just
+	v|kan4jian4=see asp|le .
+%gra:	1|3|JCT 2|1|PREPO 3|8|SUBJ 4|3|OBJ 5|8|JCT 6|8|SUBJ 7|8|NEG 8|10|SUBJ
+	9|10|JCT 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+%act:	指路上的搅拌车 .
+*CHI:	这个 是 油罐车 油罐车 不能 搅 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is n|you2guan4che1=fuel_tank_car
+	n|you2guan4che1=fuel_tank_car v:aux|bu4neng2=cannot v|jiao3=stir .
+%gra:	1|6|SUBJ 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%act:	指车 .
+*CHI:	这个 搞 跑 了 乐宝 就 能 看 到了 .
+%mor:	pro|zhe4ge4=this v|gao3=work v|pao3=run asp|le n:name|le4bao3=lebao
+	adv|jiu4=just v:aux|neng2=can v|kan4=look adv|dao4liao3=finally .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|8|SUBJ 4|8|JCT 5|8|SUBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+%act:	指堵在前面的车挡住了油罐车 .
+*CHI:	这个 怎么 打开 的 ?
+%mor:	pro|zhe4ge4=this adv:wh|zen3me=how v|da3kai1=unscrew nom|de ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%com:	问棒棒糖 .
+*CHI:	在 这里 睡 .
+%mor:	prep|zai4=at post|zhe4li3=here v|shui4=sleep .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	在宾馆 .
+*FAT:	这不 是 家 不是 万 振 逍遥 苑 .
+%mor:	adv|zhe4bu4=see v:cop|shi4=is n|jia1=family n|bu2shi4=fault
+	num|wan4=ten_thousand v|zhen4=vibration adj|xiao1yao2=unfettered
+	n|yuan4=yuan .
+%gra:	1|6|JCT 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+%spa:	$x:drp $i:gr
+*CHI:	乐宝 搞错 了 这里 不是 万 振 逍遥 苑 .
+%mor:	n:name|le4bao3=lebao v|gao3cuo4=mistake asp|le post|zhe4li3=here
+	n|bu2shi4=fault num|wan4=ten_thousand v|zhen4=vibration
+	adj|xiao1yao2=unfettered n|yuan4=yuan .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|7|JCT 4|7|JCT 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|PUNCT
+%spa:	$x:drp $i:yd
+*MOT:	烤 香肠 不好 吃 .
+%mor:	v|kao3=oven_broil n|xiang1chang2=sausage adv|bu4hao3=not_good
+	v|chi1=eat .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$x:drp $i:st
+*CHI:	烤 香肠 乐宝 也 不想 吃 .
+%mor:	v|kao3=oven_broil n|xiang1chang2=sausage n:name|le4bao3=lebao
+	adv|ye3=also v|bu4xiang3=dont_want_to v|chi1=eat .
+%gra:	1|2|MOD 2|6|SUBJ 3|6|JCT 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%spa:	$x:drp $i:yd
+@End

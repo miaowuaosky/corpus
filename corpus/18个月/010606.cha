@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.06|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	28-JAN-2014
+*CHI:	打开 关上 打开 关上 .
+%mor:	v|da3kai1=unscrew v|guan1shang4=shut v|da3kai1=unscrew
+	v|guan1shang4=shut .
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|JCT 4|1|OBJ 5|1|PUNCT
+%act:	玩护手霜盒子 .
+*CHI:	悠 秋 悠 秋 .
+%mor:	n|you1=you n|qiu1=autumn n|you1=you n|qiu1=autumn .
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%act:	扶着高餐桌晃来晃去 .
+%com:	已经学会让妈妈抱坐着荡秋千了 .
+*CHI:	妹妹 睡觉 妹妹 睡觉 .
+%mor:	n:relat|mei4&DIM=younger_sister v|shui4jiao4=sleep
+	n:relat|mei4&DIM=younger_sister v|shui4jiao4=sleep .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	靠着门 .
+%com:	晚上要睡觉了 .
+*MOT:	想 看 啥 书 ?
+%mor:	v:aux|xiang3=want v|kan4=look pro:wh|sha2=what n|shu1=book ?
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:dhs $i:qn
+%com:	乐宝想看书, 拉着妈妈找 .
+*CHI:	三字经 上 .
+%mor:	n|san1zi4jing1=The_Three_Character_Classic post|shang4=above .
+%gra:	1|2|POSTO 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dhs $i:sa
+*MOT:	谁 放屁 了 ?
+%mor:	pro:wh|shei2=who v|fang4pi4=fart asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dre $i:qn
+%com:	乐宝放屁了 .
+*CHI:	宝宝 .
+%mor:	n:relat|bao3&DIM=baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dre $i:sa
+@End

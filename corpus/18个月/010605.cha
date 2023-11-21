@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.05|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	27-JAN-2014
+*CHI:	帽 帽 摘 掉 .
+%mor:	n|mao4=hat n|mao4=hat v|zhe2=pick v:resc|diao4=drop .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+%com:	乐宝自己摘不掉帽子跑来让妈妈帮忙摘掉 .
+*CHI:	语晨 妹妹 拉 臭 臭 .
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister v|la1=pull
+	adj|chou4=stinky adj|chou4=stinky .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|INCROOT 6|5|PUNCT
+%com:	洗完屁股 .
+*MOT:	想 吃 .
+%mor:	v:aux|xiang3=want v|chi1=eat .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:st
+%com:	妈妈在念一本名叫想吃苹果的鼠小弟的书名 .
+*CHI:	苹果 弟 .
+%mor:	n|ping2guo3=apple n:relat|di4=younger_brother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:sc
+*CHI:	帽 帽 戴上 啦 !
+%mor:	n|mao4=hat n|mao4=hat v|dai4shang4=put_on sfp|la1 !
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%com:	乐宝自己趴着戴上帽子 .
+*CHI:	好 大 .
+%mor:	adv|hao3=very adj|da4=great .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝在玩球 .
+*MOT:	什么 好 大 ?
+%mor:	pro:wh|shen2me=what adv|hao3=very adj|da4=great ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	球 .
+%mor:	n|qiu2=ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dre $i:sa
+*CHI:	不行 .
+%mor:	v|bu4xing2=no_way .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝试图自己上车, 但没做到 .
+@End

@@ -1,0 +1,70 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.28|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	19-FEB-2014
+*CHI:	太阳 出来 咯 !
+%mor:	n|tai4yang2=sun v|chu1lai2=come_forward sfp|lo !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%com:	乐宝见到落日 .
+*CHI:	叔叔 阿姨 喜欢 你 .
+%mor:	n:relat|shu2&DIM=uncle a1#n:relat|yi2=familiar_mothers_sister
+	v|xi3huan1=like pro|ni3=you .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	奶奶 喜欢 你 .
+%mor:	n:relat|nai3&DIM=fathers_mother v|xi3huan1=like pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	窗帘 喜欢 你 .
+%mor:	n|chuang1lian2=curtain v|xi3huan1=like pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	都 喜欢 你 哦 .
+%mor:	adv|dou1=all v|xi3huan1=like pro|ni3=you sfp|o1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%com:	中午睡觉的时候乐宝一个人在玩 .
+*CHI:	李慧敏 枕头 .
+%mor:	n:name|li3hui4min3=li_huimin n|zhen3tou2=pillow .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	范乐之 的 枕头 .
+%mor:	n:name|fan4le4zhi1=fan_lezhi poss|de n|zhen3tou2=pillow .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%com:	李慧敏是妈妈的名字, 范乐之是乐宝的名字 .
+*CHI:	小 板凳 拿 过来 .
+%mor:	adj|xiao3=small n|ban3deng4=wooden_bench v|na2=hold
+	v|guo4lai=manage .
+%gra:	1|2|MOD 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	跑去拿板凳 .
+%com:	乐宝想吃火龙果, 让妈妈坐下喂她 .
+*CHI:	小豆 豆 搞 开 .
+%mor:	n|xiao3dou4=adzuki_beans n|dou4=small_ball v|gao3=work
+	v:resc|kai1=open .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	想玩豆豆 .
+*MOT:	乐宝 打开 .
+%mor:	n:name|le4bao3=lebao v|da3kai1=unscrew .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	妈妈 搞 .
+%mor:	n:relat|ma1&DIM=mother v|gao3=work .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	舅舅 睡觉 了 .
+%mor:	n|jiu4jiu4=mothers_brother v|shui4jiao4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	舅妈 睡觉 了 .
+%mor:	n|jiu4ma1=aunt v|shui4jiao4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	都 睡觉 了 .
+%mor:	adv|dou1=all v|shui4jiao4=sleep asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	自己趴在沙发上 .
+*MOT:	0 .
+%act:	关灯 .
+*CHI:	看不见 了 .
+%mor:	v|kan4bu2jian4=unseen asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

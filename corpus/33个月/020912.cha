@@ -1,0 +1,174 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	22-APR-2015
+*CHI:	妈咪 .
+%mor:	n:relat|ma1mi1=mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	外面 又 有 太阳 了 .
+%mor:	n|wai4mian4=outside adv|you4=again v|you3=have n|tai4yang2=sun
+	asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	孩子躺在床上看见外面有阳光 .
+*MOT:	比一比 谁 的 牙齿 亮 .
+%mor:	v|bi3&PAT=compare pro:wh|shei2=who poss|de n|ya2chi3=tooth
+	v:resc|liang4=light .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|1|OBJ 5|1|VR 6|1|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	恩 .
+%mor:	n|en1=kindness .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我们 两 个 都 亮 .
+%mor:	pro|wo3-PL=I num|liang3=two cl|ge4 adv|dou1=all v:resc|liang4=light
+	.
+%gra:	1|3|DET 2|1|PQ 3|0|INCROOT 4|5|JCT 5|3|VR 6|3|PUNCT
+%spa:	$x:nia $i:st
+*MOT:	问 爸爸 没有 说 什么时候 回来 可是 啊 .
+%mor:	v|wen4=ask n:relat|ba4&DIM=father neg|mei2you3=not_have v|shuo1=say
+	adv:wh|shen2meshi2hou4=when v|hui2lai2=return conj|ke3shi4=but co|a
+	.
+%gra:	1|6|SUBJ 2|4|SUBJ 3|4|NEG 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|OBJ 8|7|COM
+	9|6|PUNCT
+%spa:	$x:dnp $i:yq
+*CHI:	没有 说 .
+%mor:	neg|mei2you3=not_have v|shuo1=say .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dnp $i:aa
+*MOT:	要不 要 帮 我 吹 头发 .
+%mor:	conj|yao4bu4=otherwise v:aux|yao4=should v|bang1=help pro|wo3=I
+	v|chui1=blow n|tou2fa1=head_hair .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$x:nia $i:yq
+*CHI:	不要 .
+%mor:	adv|bu2yao4=dont .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	不要 吹 头发 .
+%mor:	adv|bu2yao4=dont v|chui1=blow n|tou2fa1=head_hair .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	我 想 休息 休息 .
+%mor:	pro|wo3=I v:aux|xiang3=want v|xiu1xi2=repose v|xiu1xi2=repose .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:ta
+*CHI:	游泳 圈 是 它 的 吧 .
+%mor:	v|you2yong3=swim n|quan1=circle v:cop|shi4=is pro|ta1=it poss|de
+	sfp|ba .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|ROOT 4|3|PRED 5|4|POSS 6|1|SFP 7|1|PUNCT
+%spa:	$x:dha $i:yq
+%com:	孩子看书看到游泳圈指老鼠问妈妈 .
+%act:	手指着鳄鱼 .
+*CHI:	鳄鱼 戴 了 好多 游泳 圈 .
+%mor:	n|e4yu1=crocodile v|dai4=wear asp|le quant|hao3duo1=many
+	n|you2yong3=swimming n|quan1=circle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%spa:	$x:djf $i:st
+*MOT:	为什么 .
+%mor:	adv:wh|wei4shen2me=how_come .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	因为 鳄鱼 喜欢 戴 好多 游泳 圈 .
+%mor:	conj|yin1wei4=because n|e4yu1=crocodile v|xi3huan1=like v|dai4=wear
+	quant|hao3duo1=many n|you2yong3=swimming n|quan1=circle .
+%gra:	1|4|SUBJ 2|3|SUBJ 3|4|JCT 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	我 给 我 的 学生 打电话 .
+%mor:	pro|wo3=I prep|gei3=for pro|wo3=I poss|de n|xue2sheng1=student
+	v|da3dian4hua4=phone .
+%gra:	1|6|SUBJ 2|6|JCT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	我 给 老师 打电话 .
+%mor:	pro|wo3=I v|gei3=give n|lao3shi1=teacher v|da3dian4hua4=phone .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nin $i:st
+%com:	孩子拿起电话, 学打电话 .
+*MOT:	你 的 老师 叫 什么 名字 .
+%mor:	pro|ni3=you poss|de n|lao3shi1=teacher v|jiao4=call
+	pro:wh|shen2me=what n|ming2zi=given_name .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	叫 留学生 .
+%mor:	v|jiao4=call n|liu2xue2sheng1=student_studying_abroad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	叫 留学生 啊 .
+%mor:	v|jiao4=call n|liu2xue2sheng1=student_studying_abroad sfp|a1 .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dnp $i:aq
+*CHI:	留学生 喜欢 我 .
+%mor:	n|liu2xue2sheng1=student_studying_abroad v|xi3huan1=like pro|wo3=I
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:st
+%act:	孩子把电话给妈妈 .
+*MOT:	喂 .
+%mor:	v|wei4=feed .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	谁 啊 .
+%mor:	pro:wh|shei2=who sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dfw $i:qn
+*CHI:	是 我 的 留学生 .
+%mor:	v:cop|shi4=is pro|wo3=I poss|de
+	n|liu2xue2sheng1=student_studying_abroad .
+%gra:	1|0|ROOT 2|4|MOD 3|2|POSS 4|1|OBJ 5|1|PUNCT
+%spa:	$x:dfw $i:sa
+*CHI:	我 是 气球 叔叔 .
+%mor:	pro|wo3=I v:cop|shi4=is n|qi4qiu2=balloon n:relat|shu2&DIM=uncle .
+%gra:	1|3|SUBJ 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	你 要 气球 吗 .
+%mor:	pro|ni3=you v:aux|yao4=should n|qi4qiu2=balloon sfp|ma .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	额 .
+%mor:	co|e1=eh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	请问 你 要 气球 吗 .
+%mor:	v|qing3wen4=excuse_me pro|ni3=you v:aux|yao4=should
+	n|qi4qiu2=balloon sfp|ma .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|1|OBJ 5|1|SFP 6|1|PUNCT
+%spa:	$x:dfw $i:yq
+%act:	孩子拿着筷子 .
+*MOT:	我 要 .
+%mor:	pro|wo3=I v:aux|yao4=should .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dfw $i:aa
+*CHI:	那 就 给 你 一 个 气球 .
+%mor:	pro|na4=that adv|jiu4=just prep|gei3=for pro|ni3=you num|yi1=one
+	cl|ge4 n|qi4qiu2=balloon .
+%gra:	1|3|DET 2|3|JCT 3|0|INCROOT 4|3|PREPO 5|3|PREPO 6|7|MOD 7|3|PREPO
+	8|3|PUNCT
+*CHI:	长 长 的 气球 .
+%mor:	v|zhang3=grow adj|chang2=long nom|de n|qi4qiu2=balloon .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	没 气 了 .
+%mor:	neg|mei2=not v|qi4=anger asp|le .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	没 气 了 不 给 你 .
+%mor:	neg|mei2=not v|qi4=anger asp|le neg|bu4=not prep|gei3=for
+	pro|ni3=you .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|5|NEG 5|3|JCT 6|5|PREPO 7|2|PUNCT
+%spa:	$x:dfw $i:st
+*CHI:	太 奇怪 了 .
+%mor:	adv|tai4=very adj|qi2guai4=strange asp|le .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*CHI:	真 奇怪 的 事情 .
+%mor:	adv|zhen1=really adj|qi2guai4=strange nom|de n|shi4qing2=matter .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	孩子给妈妈闻蔬菜, 妈妈吃了 .
+*MOT:	我 肚子 吃 得 鼓鼓 的 .
+%mor:	pro|wo3=I n|du4-NOM=belly v|chi1=eat cpt|de n|gu3&DIM=drum nom|de .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|POSS 7|3|PUNCT
+%spa:	$x:dha $i:dc
+%act:	孩子伸手去摸妈妈的肚子 .
+*CHI:	摸 摸 你 的 小 肚 肚 .
+%mor:	v|mo1=touch v|mo1=touch pro|ni3=you poss|de adj|xiao3=small
+	n|du4=belly n|du4=belly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|POSS 5|6|MOD 6|2|OBJ 7|2|OBJ 8|2|PUNCT
+*CHI:	有 没有 小 宝宝 .
+%mor:	v|you3=have neg|mei2you3=not_have adj|xiao3=small
+	n:relat|bao3&DIM=baby .
+%gra:	1|0|ROOT 2|3|NEG 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:djf $i:yq
+@End

@@ -1,0 +1,52 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;02.08|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	30-SEP-2014
+*CHI:	妈妈 扫 壳 子 妈妈 快 来 扫 .
+%mor:	n:relat|ma1&DIM=mother v|sao3=sweep n|ke2=shell n|zi3=master
+	n:relat|ma1&DIM=mother adv|kuai4=quickly v:dirc|lai2=come
+	v|sao3=sweep .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|8|SUBJ 5|8|SUBJ 6|8|JCT 7|6|VD 8|0|ROOT
+	9|8|PUNCT
+%com:	妈妈不让乐宝扔壳子乐宝试探性扔 .
+*CHI:	外婆 搞 的 .
+%mor:	n|wai4po2=maternal_grandmother v|gao3=work nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|PUNCT
+*MOT:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	让妈妈学一个动作 .
+*CHI:	要 吃 好 的 玉米 .
+%mor:	v:aux|yao4=should v|chi1=eat adj|hao3=good nom|de n|yu1mi3=maize .
+%gra:	1|2|AUX 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	贴纸 数字 一 呢 ?
+%mor:	n|tie1zhi3=label n|shu4zi4=numeral adv|yi1=just_as sfp|ne ?
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	在 这 .
+%mor:	prep|zai4=at pro|zhe4=this .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%com:	乐宝想了想跑到房间地上抠 .
+*CHI:	这 是 大球 小球 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|da4qiu2=the_big_ball
+	n|xiao3qiu2=the_ball .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	让乐宝找贴纸书里的球 .
+*CHI:	三 不 撕烂 .
+%mor:	num|san1=three neg|bu4=not v|si1lan4=tear_apart .
+%gra:	1|3|QUANT 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	二 撕烂 了 乐宝 指 三 .
+*CHI:	刚刚 吃 的 钙 片 舔 一 舔 .
+%mor:	adv|gang1&DIM=just v|chi1=eat nom|de n|gai4=calcium cl|pian4
+	v|tian3=lick num|yi1=one v|tian3=lick .
+%gra:	1|2|JCT 2|8|SUBJ 3|8|JCT 4|8|SUBJ 5|8|SUBJ 6|8|JCT 7|8|QUANT 8|0|ROOT
+	9|8|PUNCT
+*MOT:	妈妈 给 乐宝 擦 嘴 .
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for n:name|le4bao3=lebao
+	v|ca1=wipe n|zui3=mouth .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.03|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	25-JAN-2014
+*CHI:	世 只 有 妈妈 好 老师 好 .
+%mor:	n|shi4=generation adv|zhi3=only v|you3=have n:relat|ma1&DIM=mother
+	adv|hao3=very n|lao3shi1=teacher tag|hao3=good .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|MOD 5|6|JCT 6|3|OBJ 7|3|COM 8|3|PUNCT
+%com:	早上醒来乐宝带有旋律地唱歌 .
+*CHI:	睡觉 吧 睡 吧 亲 的 宝贝 爱 你 你 爸爸 爸爸 爸爸 .
+%mor:	v|shui4jiao4=sleep sfp|ba v|shui4=sleep sfp|ba adj|qin1=intimate
+	nom|de n|bao3bei4=treasure v|ai4=love pro|ni3=you pro|ni3=you
+	n:relat|ba4&DIM=father n:relat|ba4&DIM=father n:relat|ba4&DIM=father
+	.
+%gra:	1|3|JCT 2|1|SFP 3|8|SUBJ 4|3|SFP 5|8|JCT 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|OBJ 11|13|MOD 12|13|MOD 13|8|OBJ 14|8|PUNCT
+%com:	仍然在唱歌 .
+*CHI:	妈妈 坐 你 坐 慢慢 点 .
+%mor:	n:relat|ma1&DIM=mother v|zuo4=sit pro|ni3=you v|zuo4=sit
+	adj|man4&DIM=slow adv|dian3=a_bit .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|4|JCT 6|5|INCROOT 7|6|PUNCT
+%com:	吃饭时乐宝自己坐下了对妈妈说话 .
+*MOT:	乐宝 自己 吃 .
+%mor:	n:name|le4bao3=lebao pro|zi4ji3=self v|chi1=eat .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	妈妈想让乐宝自己吃饭 .
+*CHI:	妈妈 吃 .
+%mor:	n:relat|ma1&DIM=mother v|chi1=eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:cs
+%act:	乐宝非要把勺子给妈妈 .
+*CHI:	摔倒 没事 .
+%mor:	v|shuai1dao3=fall n|mei2shi4=nothing .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝自己摔倒, 自己爬起来 .
+@End

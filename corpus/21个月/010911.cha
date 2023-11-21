@@ -1,0 +1,65 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.11|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	03-MAY-2014
+*CHI:	外面 鞋 拿来 .
+%mor:	n|wai4mian4=outside n|xie2=shoe v|na2lai2=bring .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	起床时 .
+*MOT:	什么 ?
+%mor:	pro:wh|shen2me=what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	< 拿 过 了>[/] 拿 过 了 .
+%mor:	v|na2=hold v:dirc|guo4=pass asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	撞 到 你 屁股 了 .
+%mor:	v|zhuang4=run_into v:resc|dao4=arrive pro|ni3=you n|pi4gu3=buttocks
+	asp|le .
+%gra:	1|5|CJCT 2|1|VR 3|4|MOD 4|1|OBJ 5|0|INCROOT 6|5|PUNCT
+%com:	乐宝被桌子碰了一下, 撞发音似zan4 .
+*CHI:	爸爸 一道 去 .
+%mor:	n:relat|ba4&DIM=father adv|yi1dao4=together v:dirc|qu4=go .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|VD 4|1|PUNCT
+%com:	爸爸出门乐宝跑门到门那里, 想跟爸爸一道去 .
+*CHI:	盖 不动 .
+%mor:	v|gai4=cover v|bu4dong4=dont_move .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	妈妈盖子没盖上 .
+*CHI:	拿不动 .
+%mor:	v|na2bu4dong4=cant_move .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝够不到鞋子 .
+*CHI:	在 摇 摇 车 上面 有 小狗 .
+%mor:	prep|zai4=at v|yao2=rock v|yao2=rock n|che1=vehicle
+	post|shang4mian4=above v|you3=have n|xiao3gou3=puppy .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|7|MOD 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+%com:	对妈妈说话 .
+*CHI:	要 飞机 跑 .
+%mor:	v:aux|yao4=should n|fei1ji1=airplane v|pao3=run .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	对妈妈说话 .
+*CHI:	小姑 奶 要 来 了 .
+%mor:	n:relat|xiao3gu1=sister_in_law n|nai3=milk v:aux|yao4=should
+	v:dirc|lai2=come asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|VD 5|3|VD 6|3|PUNCT
+*CHI:	这 是 什么 声音 吧 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|sheng1yin1=sound
+	sfp|ba ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SFP 6|2|PUNCT
+%com:	听见外面坠物声 .
+*CHI:	要看 手机 和 乐宝 .
+%mor:	v|yao4kan4=to_see n|shou3ji1=cell_phone conj|he2=and
+	n:name|le4bao3=lebao .
+%gra:	1|3|CJCT 2|1|OBJ 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*CHI:	防 蚊 贴 呐 .
+%mor:	v|fang2=guard_against n|wen2=mosquito v|tie1=paste sfp|na .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|SFP 5|3|PUNCT
+@End

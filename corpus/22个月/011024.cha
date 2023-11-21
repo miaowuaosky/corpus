@@ -1,0 +1,128 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|01;10.24|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	15-JUN-2014
+*CHI:	要 要 打 羽毛球 .
+%mor:	v:aux|yao4=should v:aux|yao4=should v|da3=hit
+	n|yu3mao2qiu2=badminton .
+%gra:	1|2|AUX 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	刚刚 放 炮 了 .
+%mor:	adv|gang1&DIM=just v|fang4=put n|pao4=heavy_weapon asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	空调 已经 关上 了 .
+%mor:	n|kong1tiao2=air_conditioner adv|yi3jing1=already
+	v|guan1shang4=shut asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈把空调关了 .
+*CHI:	左手 拿 着 .
+%mor:	n|zuo3shou3=left_hand v|na2=hold asp|zhe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	左手拿了一个山楂片还想要伸右手 .
+*CHI:	< 这样>[/] 这样 .
+%mor:	adv|zhe4yang4=so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	做打羽毛球姿势 .
+*CHI:	爸爸 开车 了 .
+%mor:	n:relat|ba4&DIM=father v|kai1che1=drive_cars asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	在出租车里爸爸坐在前排 .
+*CHI:	阿姨 哭 了 .
+%mor:	a1#n:relat|yi2=familiar_mothers_sister v|ku1=cry asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝坐在出租车里看见外面公交车上的广告 .
+*CHI:	球 这么 大 .
+%mor:	n|qiu2=ball adv|zhe4me=like_this adj|da4=great .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	抱个大西瓜球 .
+*CHI:	差一点 .
+%mor:	adv|cha4yi1dian3=almost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	扔球差点进网 .
+*CHI:	还有 一 个 球 呢 ?
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 n|qiu2=ball sfp|ne ?
+%gra:	1|2|JCT 2|3|QUANT 3|4|CLASS 4|0|INCROOT 5|4|SFP 6|4|PUNCT
+%act:	拿两个球掉了一个在找 .
+*CHI:	给 妈妈 遮住 了 .
+%mor:	prep|gei3=for n:relat|ma1&DIM=mother v|zhe1zhu4=cover asp|le .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈挡在前面 .
+%act:	拨开妈妈 .
+*MOT:	妈妈 都 够 不到 .
+%mor:	n:relat|ma1&DIM=mother adv|dou1=all adv|gou4=enough
+	adv|bu2dao4=not_to .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+%com:	妈妈看到乐宝伸手够空调 .
+*CHI:	宝宝 能够 到 .
+%mor:	n:relat|bao3&DIM=baby v:aux|neng2gou4=able v:resc|dao4=arrive .
+%gra:	1|0|INCROOT 2|3|AUX 3|1|VR 4|1|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	现在 下雨 了 .
+%mor:	adv|xian4zai4=now v|xia4yu3=rain asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝跑去看外面下雨 .
+*CHI:	凉 的 水 .
+%mor:	adj|liang2=cool nom|de n|shui3=water .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	摸杯子 .
+*CHI:	我去 倒 点水 .
+%mor:	v|wo3qu4=what_the_hell v|dao3=fall v|dian3shui3=water .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%act:	跑去厨房 .
+*CHI:	我们 一起 坐 .
+%mor:	pro|wo3-PL=I adv|yi1qi3=together v|zuo4=sit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	爬上妈妈椅子对妈妈说 .
+*CHI:	我 站 着 .
+%mor:	pro|wo3=I v|zhan4=to_stand asp|zhe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	你 站 着 .
+%mor:	pro|ni3=you v|zhan4=to_stand asp|zhe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:si
+*MOT:	谁 站 着 ?
+%mor:	pro:wh|shei2=who v|zhan4=to_stand asp|zhe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	宝宝 站 着 .
+%mor:	n:relat|bao3&DIM=baby v|zhan4=to_stand asp|zhe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:sa
+*MOT:	爸爸 的 爸爸 叫 爷爷 .
+%mor:	n:relat|ba4&DIM=father poss|de n:relat|ba4&DIM=father v|jiao4=call
+	n:relat|ye2&DIM=grandfather .
+%gra:	1|4|SUBJ 2|1|POSS 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dnp $i:st
+%com:	妈妈洗澡出来 .
+*CHI:	爸爸 的 爸爸 叫 慧敏 .
+%mor:	n:relat|ba4&DIM=father poss|de n:relat|ba4&DIM=father v|jiao4=call
+	n:name|hui4min3=huimin .
+%gra:	1|4|SUBJ 2|1|POSS 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dnp $i:dr
+%com:	乐宝故意唱反调 .
+*CHI:	老 范 .
+%mor:	adj|lao3=old n:fam|fan4=Fan .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:cl
+*FAT:	谁 是 老 范 ?
+%mor:	pro:wh|shei2=who v:cop|shi4=is adj|lao3=old n:fam|fan4=Fan ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	0 .
+%spa:	$x:djf $i:sa
+%act:	指爸爸 .
+*FAT:	我 是 谁 ?
+%mor:	pro|wo3=I v:cop|shi4=is pro:wh|shei2=who ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	我 是 爸爸 .
+%mor:	pro|wo3=I v:cop|shi4=is n:relat|ba4&DIM=father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$x:djf $i:sa
+@End

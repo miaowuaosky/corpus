@@ -1,0 +1,75 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;11.03|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	25-JUN-2014
+*MOT:	在 哪儿 拿 的 ?
+%mor:	prep|zai4=at pro:wh|na3-DIA=which v|na2=hold nom|de ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:qn
+%com:	看见乐宝拿夹子 .
+*CHI:	在 妈妈 房间 拿 的 .
+%mor:	prep|zai4=at n:relat|ma1&DIM=mother n|fang2jian1=room v|na2=hold
+	nom|de .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|SUBJ 4|1|PREPO 5|1|PREPO 6|1|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	在 这里 .
+%mor:	prep|zai4=at post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%act:	跑去房间指 .
+*CHI:	乐宝 在 刷牙 .
+%mor:	n:name|le4bao3=lebao prep|zai4=at v|shua1ya2=brush_ones_teeth .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|PREPO 4|1|PUNCT
+%com:	看手机照片 .
+*CHI:	跟 宝宝 一起 睡觉 .
+%mor:	prep|gen1=with n:relat|bao3&DIM=baby adv|yi1qi3=together
+	v|shui4jiao4=sleep .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	描述的是和妈妈睡觉的照片 .
+*CHI:	妈妈 抱抱 按 冰箱 .
+%mor:	n:relat|ma1&DIM=mother v|bao4&DIM=hug v|an4=press
+	n|bing1xiang1=refrigerator .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	看 鱼 打开 冰箱 .
+%mor:	v|kan4=look n|yu2=fish v|da3kai1=unscrew n|bing1xiang1=refrigerator
+	.
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	想玩冰箱 .
+*CHI:	好 大 好 大一 个 山 .
+%mor:	adv|hao3=very adj|da4=great adj|hao3=good n|da4yi1=freshman cl|ge4
+	n|shan1=mountain .
+%gra:	1|4|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%com:	妈妈打开电脑, 乐宝可能指的是电脑桌面的山坡风景 . .
+*CHI:	狮子 舅舅 吃 西瓜 了 .
+%mor:	n|shi1zi3=lion n|jiu4jiu4=mothers_brother v|chi1=eat
+	n|xi1gua1=watermelon asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	另一台电脑有瑞星软件小狮子 .
+%act:	对着电脑 .
+*CHI:	妈妈 我们 一起 收 书 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3-PL=I adv|yi1qi3=together
+	v|shou1=gather n|shu1=book .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|JCT 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*CHI:	还有 一点点 .
+%mor:	adv|hai2you3=moreover adv|yi1dian3dian3=a_little .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝要收拾书 .
+*CHI:	这里 还有 一 个 黄梅戏 .
+%mor:	post|zhe4li3=here adv|hai2you3=moreover num|yi1=one cl|ge4
+	n|huang2mei2xi4=huangmei_opera .
+%gra:	1|5|MOD 2|3|JCT 3|4|QUANT 4|5|CLASS 5|0|INCROOT 6|5|PUNCT
+%com:	地上有个册子 .
+*CHI:	小 兔子 开 窗 了 .
+%mor:	adj|xiao3=small n|tu4-NOM=rabbit v:resc|kai1=open n|chuang1=window
+	asp|le .
+%gra:	1|2|MOD 2|4|MOD 3|2|VR 4|5|SUBJ 5|0|INCROOT 6|5|PUNCT
+%com:	看儿歌小兔子乖乖 .
+*CHI:	是 奶奶 .
+%mor:	v:cop|shi4=is n:relat|nai3&DIM=fathers_mother .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%com:	叔叔打电话 .
+@End

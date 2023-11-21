@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child
+@ID:	zho|FLZ|CHI|02;06.27|female|||Child|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	18-FEB-2015
+*CHI:	哎 爷爷 !
+%mor:	co|ai1=ugh n:relat|ye2&DIM=grandfather !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%com:	晨起看到前屋的爷爷 .
+*CHI:	一 个 小鹅 哎 一 个 小鹅 出来 了 小鹅 出来 了 !
+%mor:	num|yi1=one cl|ge4 n|xiao3e2=gosling co|ai1=ugh num|yi1=one cl|ge4
+	n|xiao3e2=gosling v|chu1lai2=come_forward asp|le n|xiao3e2=gosling
+	v|chu1lai2=come_forward asp|le !
+%gra:	1|2|QUANT 2|3|CLASS 3|8|SUBJ 4|3|COM 5|8|QUANT 6|8|SUBJ 7|8|SUBJ
+	8|11|SUBJ 9|11|JCT 10|11|SUBJ 11|0|ROOT 12|11|OBJ 13|11|PUNCT
+%com:	鹅经过院子跟姐姐说 .
+@End

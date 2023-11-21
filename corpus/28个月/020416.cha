@@ -1,0 +1,168 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|2;04.16|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	08-DEC-2014
+*CHI:	这个 电灯 倒 了 .
+%mor:	pro|zhe4ge4=this n|dian4deng1=electric_lamp v|dao3=fall asp|le .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	指倒下的台灯 .
+*CHI:	吃 山芋 这不 是 山芋 吗 ?
+%mor:	v|chi1=eat n|shan1yu4=sweet_potato adv|zhe4bu4=see v:cop|shi4=is
+	n|shan1yu4=sweet_potato sfp|ma ?
+%gra:	1|0|ROOT 2|5|MOD 3|5|JCT 4|5|MOD 5|1|OBJ 6|1|SFP 7|1|PUNCT
+%com:	吃早饭 .
+*CHI:	乐宝 不 喜欢 吃 凉 的 .
+%mor:	n:name|le4bao3=lebao neg|bu4=not v|xi3huan1=like v|chi1=eat
+	adj|liang2=cool nom|de .
+%gra:	1|4|SUBJ 2|3|NEG 3|1|PREPO 4|0|ROOT 5|4|JCT 6|5|POSS 7|4|PUNCT
+%com:	吃饭 .
+*CHI:	我 骑 得 好 快 好 快 .
+%mor:	pro|wo3=I v|qi2=ride_sit_astride cpt|de adv|hao3=very
+	adv|kuai4=quickly adj|hao3=good adv|kuai4=quickly .
+%gra:	1|2|SUBJ 2|6|CJCT 3|2|OBJ 4|5|JCT 5|6|JCT 6|0|INCROOT 7|6|COM 8|6|PUNCT
+%com:	骑车 .
+*CHI:	你 扶 着 我 .
+%mor:	pro|ni3=you v|fu2=support asp|zhe pro|wo3=I .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%com:	孩子想让外婆扶她车子 .
+*CHI:	静电 我 手 上 有 静电 .
+%mor:	n|jing4dian4=static_electricity pro|wo3=I n|shou3=hand
+	post|shang4=above v|you3=have n|jing4dian4=static_electricity .
+%gra:	1|6|MOD 2|6|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%com:	孩子听见衣服上的静电声音 .
+*CHI:	爸爸 这个 被 乐宝 撕烂 了 .
+%mor:	n:relat|ba4&DIM=father pro|zhe4ge4=this prep|bei4=by
+	n:name|le4bao3=lebao v|si1lan4=tear_apart asp|le .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%act:	指撕烂的书 .
+*CHI:	我 撕烂 了 小 书 .
+%mor:	pro|wo3=I v|si1lan4=tear_apart asp|le adj|xiao3=small n|shu1=book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	不好 掏 用 这个 大 纸 用 小小 的 长 长 的 棍子 也 掏 不 上来 .
+%mor:	adv|bu4hao3=not_good v|tao1=take_out_with_hand v|yong4=use
+	pro|zhe4ge4=this adj|da4=great n|zhi3=paper v|yong4=use
+	n:name|xiao2xiao3=little_little poss|de adj|chang2=long
+	adj|chang2=long nom|de n|gun4zi=rod adv|ye3=also
+	v|tao1=take_out_with_hand neg|bu4=not v|shang4lai2=come_up .
+%gra:	1|2|JCT 2|3|JCT 3|15|SUBJ 4|7|SUBJ 5|6|MOD 6|7|SUBJ 7|3|OBJ 8|3|OBJ
+	9|3|POSS 10|15|JCT 11|15|JCT 12|15|JCT 13|15|SUBJ 14|15|JCT 15|0|ROOT
+	16|17|NEG 17|15|OBJ 18|15|PUNCT
+%act:	趴着掏沙发 .
+*CHI:	爸爸 呢 ?
+%mor:	n:relat|ba4&DIM=father sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	去 住 大 宾馆 了 .
+%mor:	v:dirc|qu4=go v:resc|zhu4=inhabit adj|da4=great
+	n|bin1guan3=guesthouse asp|le .
+%gra:	1|4|MOD 2|1|VR 3|4|MOD 4|5|SUBJ 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	我 也 想 去 我 也 想 住 .
+%mor:	pro|wo3=I adv|ye3=also v:aux|xiang3=want v:dirc|qu4=go pro|wo3=I
+	adv|ye3=also v:aux|xiang3=want v:resc|zhu4=inhabit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|VD 5|7|SUBJ 6|7|JCT 7|3|VD 8|3|VR
+	9|3|PUNCT
+%spa:	$x:dnp $i:ws
+*CHI:	她 躺 在 车 上 .
+%mor:	pro|ta1=she v|tang3=couch prep|zai4=at n|che1=vehicle
+	post|shang4=above .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|PREPO 5|3|PREPO 6|2|PUNCT
+%com:	孩子看自己躺车的视频 .
+*CHI:	它 已经 吐 掉 了 .
+%mor:	pro|ta1=it adv|yi3jing1=already v|tu3=spit v:resc|diao4=drop asp|le
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VR 5|3|OBJ 6|3|PUNCT
+%com:	外婆给她吃萝卜 .
+*CHI:	妈妈 吃 这个 蛋糕 吧 我 吃 这个 蛋糕 吧 .
+%mor:	n:relat|ma1&DIM=mother v|chi1=eat pro|zhe4ge4=this n|dan4gao1=cake
+	sfp|ba pro|wo3=I v|chi1=eat pro|zhe4ge4=this n|dan4gao1=cake sfp|ba
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SFP 6|7|SUBJ 7|2|OBJ 8|9|MOD
+	9|2|OBJ 10|2|SFP 11|2|PUNCT
+%act:	给妈妈名片 .
+*CHI:	如果 妈妈 不在 身边 如果 乐宝 不在 身边 乐宝 想 哭 .
+%mor:	conj|ru2guo3=if n:relat|ma1&DIM=mother v|bu4zai4=be_not_in
+	n|shen1bian1=nearby conj|ru2guo3=if n:name|le4bao3=lebao
+	v|bu4zai4=be_not_in n|shen1bian1=nearby n:name|le4bao3=lebao
+	v:aux|xiang3=want v|ku1=cry .
+%gra:	1|4|MOD 2|3|SUBJ 3|4|MOD 4|11|SUBJ 5|8|MOD 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|11|JCT 10|11|AUX 11|0|ROOT 12|11|PUNCT
+%com:	孩子吃饭突然说 .
+*CHI:	这 送给 你 的 小 蛋糕 .
+%mor:	pro|zhe4=this v|song4gei3=give pro|ni3=you poss|de adj|xiao3=small
+	n|dan4gao1=cake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|POSS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%act:	给妈妈名片 .
+*CHI:	这 像 金针菇 .
+%mor:	pro|zhe4=this v|xiang4=be_like n|jin1zhen1gu1=needle_mushroom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	看票上的灯笼 .
+*CHI:	这个 像 星星 像 伞 .
+%mor:	pro|zhe4ge4=this v|xiang4=be_like n:name|星星 v|xiang4=be_like
+	n|san3=umbrella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%com:	孩子看房间阳光四个线 .
+*MOT:	再 去 看戏 让 姐姐 抱 你 .
+%mor:	adv|zai4=again v:dirc|qu4=go v|kan4xi4=the_theatre v|rang4=allow
+	n:relat|jie3&DIM=elder_sister v|bao4=hug pro|ni3=you .
+%gra:	1|3|JCT 2|1|VD 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%spa:	$x:dnp $i:dc
+*CHI:	薛子凝 姐姐 抱 不动 你 要 段语涵 姐姐 抱 你 .
+%mor:	n:name|xue1zi3ning2=xue_zining n:relat|jie3&DIM=elder_sister
+	v|bao4=hug v|bu4dong4=dont_move pro|ni3=you v:aux|yao4=should
+	n:name|duan4yu3han2=duan_yuhan n:relat|jie3&DIM=elder_sister
+	v|bao4=hug pro|ni3=you .
+%gra:	1|4|SUBJ 2|3|SUBJ 3|4|JCT 4|9|CJCT 5|4|OBJ 6|9|SUBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+%spa:	$x:dnp $i:dw
+*CHI:	我 吐 掉 了 一 个 .
+%mor:	pro|wo3=I v|tu3=spit v:resc|diao4=drop asp|le num|yi1=one cl|ge4 .
+%gra:	1|2|SUBJ 2|5|CJCT 3|2|VR 4|2|JCT 5|6|QUANT 6|0|INCROOT 7|6|PUNCT
+%com:	妈妈给孩子吃萝卜 .
+*CHI:	这个 灯 不 亮 了 这个 灯 不 照 了 终于 被cai 掉 了 .
+%mor:	pro|zhe4ge4=this n|deng1=lantern neg|bu4=not v:resc|liang4=light
+	asp|le pro|zhe4ge4=this n|deng1=lantern neg|bu4=not
+	prep|zhao4=according_to asp|le adv|zhong1yu2=finally
+	v|bei4cai=is_cai v:resc|diao4=drop asp|le .
+%gra:	1|2|MOD 2|12|SUBJ 3|4|NEG 4|2|VR 5|12|JCT 6|12|SUBJ 7|12|SUBJ 8|12|JCT
+	9|12|JCT 10|9|PREPO 11|12|JCT 12|14|CJCT 13|12|VR 14|0|INCROOT
+	15|14|PUNCT
+%act:	指灯 .
+*CHI:	要 尿尿 一天到晚 就 跟 妈妈 说 我 要 尿尿 我 要 尿尿 .
+%mor:	v:aux|yao4=should v|niao4&DIM=pee adv|yi1tian1dao4wan3=all_day_long
+	adv|jiu4=just prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say
+	pro|wo3=I v:aux|yao4=should v|niao4&DIM=pee pro|wo3=I
+	v:aux|yao4=should v|niao4&DIM=pee .
+%gra:	1|2|AUX 2|7|SUBJ 3|7|JCT 4|7|JCT 5|7|JCT 6|5|PREPO 7|0|ROOT 8|10|SUBJ
+	9|10|AUX 10|7|OBJ 11|13|SUBJ 12|13|AUX 13|7|OBJ 14|7|PUNCT
+%act:	尿尿 .
+*CHI:	我 撕 给 他们 吃 .
+%mor:	pro|wo3=I v|si1=tear prep|gei3=for pro|ta1-PL=he v|chi1=eat .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*CHI:	姐姐 吃 乐宝 也 想 吃 .
+%mor:	n:relat|jie3&DIM=elder_sister v|chi1=eat n:name|le4bao3=lebao
+	adv|ye3=also v:aux|xiang3=want v|chi1=eat .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|2|OBJ 4|6|JCT 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%com:	孩子拿到巧克力 .
+*CHI:	乐宝 没 钱 妈妈 包 里 有钱 .
+%mor:	n:name|le4bao3=lebao neg|mei2=not n|qian2=money
+	n:relat|ma1&DIM=mother n|bao1=bag post|li3=inside
+	adj|you3qian2=wealthy .
+%gra:	1|6|MOD 2|6|NEG 3|6|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|INCROOT
+	8|7|PUNCT
+*CHI:	如果 是 热 汤 把头 烫 坏了 怎么办 ?
+%mor:	conj|ru2guo3=if v:cop|shi4=is adj|re4=hot n|tang1=broth
+	n|ba3tou2=head v|tang4=scald n|huai4le=bad adv:wh|zen3meban4=how ?
+%gra:	1|0|INCROOT 2|7|MOD 3|4|MOD 4|5|MOD 5|6|SUBJ 6|7|MOD 7|1|OBJ 8|1|SFP
+	9|1|PUNCT
+%act:	看洒蛋糕的书 .
+*CHI:	倒 进去 .
+%mor:	v|dao3=fall v:dirc|jin4qu4=go_into .
+%gra:	1|0|ROOT 2|1|VD 3|1|PUNCT
+%com:	孩子让妈妈把小盆的水倒进大盆 .
+@End

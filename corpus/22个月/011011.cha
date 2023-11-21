@@ -1,0 +1,91 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|01;10.11|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	02-JUN-2014
+*CHI:	小 燕子 就是 小鸟 .
+%mor:	adj|xiao3=small n|yan4zi=swallow co:int|jiu4shi4=that_is
+	n|xiao3niao3=the_bird .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	小 燕子 吃 晚饭 去 了 .
+%mor:	adj|xiao3=small n|yan4zi=swallow v|chi1=eat n|wan3fan4=supper
+	v:dirc|qu4=go asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|4|MOD 4|0|INCROOT 5|4|VD 6|4|VD 7|4|PUNCT
+%com:	早起在床上看着窗外 .
+*FAT:	粽子 凉 了 .
+%mor:	n|zong4zi=rice_pyramid_wrapped_in_leaves adj|liang2=cool asp|le .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	宝宝 稀饭 不 凉 .
+%mor:	n:relat|bao3&DIM=baby n|xi1fan4=porridge neg|bu4=not
+	adj|liang2=cool .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:drp $i:st
+*CHI:	乐宝 的 稀饭 不 凉 .
+%mor:	n:name|le4bao3=lebao poss|de n|xi1fan4=porridge neg|bu4=not
+	adj|liang2=cool .
+%gra:	1|3|MOD 2|1|POSS 3|5|SUBJ 4|5|NEG 5|0|INCROOT 6|5|PUNCT
+*CHI:	大 的 .
+%mor:	adj|da4=great nom|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%com:	妈妈给乐宝一个小肉乐宝不要 .
+*MOT:	宝宝 起床 吧 .
+%mor:	n:relat|bao3&DIM=baby v|qi3chuang2=wake_up sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝要妈妈起床 .
+*CHI:	要 妈妈 起床 .
+%mor:	v:aux|yao4=should n:relat|ma1&DIM=mother v|qi3chuang2=wake_up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	小 夹子 给 你 带 着 .
+%mor:	adj|xiao3=small n|jia2-NOM=clip prep|gei3=for pro|ni3=you
+	v|dai4=bring asp|zhe .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	要出去玩, 想要带盒子里的小夹子 .
+%act:	指着小盒子里小夹子样的东西 .
+*MOT:	没有 蚊子 .
+%mor:	neg|mei2you3=not_have n|wen2-NOM=mosquito .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:gr
+*MOT:	不 贴 防 蚊 贴 了 .
+%mor:	neg|bu4=not v|tie1=paste v|fang2=guard_against n|wen2=mosquito
+	v|tie1=paste asp|le .
+%gra:	1|2|NEG 2|5|CJCT 3|4|MOD 4|2|OBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	有 蚊子 .
+%mor:	v|you3=have n|wen2-NOM=mosquito .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:dw
+*CHI:	贴 一下 .
+%mor:	v|tie1=paste adv|yi1xia4=a_bit .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	谢谢 爸爸 .
+%mor:	co:int|xie4xie4=thank_you n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	爸爸给乐宝端水到床上 .
+*MOT:	大蒜 辣 .
+%mor:	n|da4suan4=garlic adj|la4=sharp .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	妈妈 不 敢 吃 .
+%mor:	n:relat|ma1&DIM=mother neg|bu4=not v|gan3=dare v|chi1=eat .
+%gra:	1|4|SUBJ 2|3|NEG 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	宝宝 也 不 敢 吃 .
+%mor:	n:relat|bao3&DIM=baby adv|ye3=also neg|bu4=not v|gan3=dare
+	v|chi1=eat .
+%gra:	1|5|SUBJ 2|4|JCT 3|4|NEG 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	宝宝 能 吃 .
+%mor:	n:relat|bao3&DIM=baby v:aux|neng2=can v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:st
+%com:	妈妈吃了一口大蒜被乐宝看见 .
+@End

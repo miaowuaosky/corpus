@@ -1,0 +1,126 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.07|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	29-JAN-2014
+*CHI:	妈妈 手机 拿来 .
+%mor:	n:relat|ma1&DIM=mother n|shou3ji1=cell_phone v|na2lai2=bring .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	起床时想玩手机 .
+*CHI:	咦 夹 上 了 .
+%mor:	co|咦 v|jia2=squeeze v:dirc|shang4=go_up asp|le .
+%gra:	1|2|COM 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%act:	拿妈妈发夹玩 .
+*CHI:	压 手 .
+%mor:	v|ya1=weight_down n|shou3=hand .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	又被夹子夹了一下, 发音似ya1 .
+*MOT:	这 是 谁 的 鞋 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shei2=who poss|de n|xie2=shoe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|OBJ 6|2|PUNCT
+%spa:	$x:drp $i:qn
+%act:	指着乐宝的鞋问她 .
+*CHI:	宝宝 鞋 .
+%mor:	n:relat|bao3&DIM=baby n|xie2=shoe .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	妹妹 的 .
+%mor:	n:relat|mei4&DIM=younger_sister poss|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%act:	拿着妹妹的勺子 .
+*MOT:	小狗 在 哪里 ?
+%mor:	n|xiao3gou3=puppy prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	在卧室里妈妈问乐宝 .
+*CHI:	外面 .
+%mor:	n|wai4mian4=outside .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	喂 .
+%mor:	v|wei4=feed .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	拿着发夹装作打电话 .
+*MOT:	这 是 你 杯子 喝 水 吧 .
+%mor:	pro|zhe4=this v:cop|shi4=is pro|ni3=you n|bei1-NOM=cup v|he1=drink
+	n|shui3=water sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|MOD 6|2|OBJ 7|2|SFP 8|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝手里拿着太太杯子, 妈妈给乐宝她自己的杯子 .
+*CHI:	太太 杯子 .
+%mor:	n|tai4tai4=madame n|bei1-NOM=cup .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	坐 地 .
+%mor:	v|zuo4=sit n|di4=earth .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	自己摔倒在地 .
+*MOT:	到 客厅 .
+%mor:	v:resc|dao4=arrive n|ke4ting1=living_room .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝要妈妈在卧室床上陪她看书 .
+*CHI:	不是 .
+%mor:	n|bu2shi4=fault .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+*MOT:	乐宝 说 妈妈 我 爱 你 .
+%mor:	n:name|le4bao3=lebao v|shuo1=say n:relat|ma1&DIM=mother pro|wo3=I
+	v|ai4=love pro|ni3=you .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:nia $i:rp
+%com:	妈妈试图让乐宝说 .
+*CHI:	不是 .
+%mor:	n|bu2shi4=fault .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+%com:	乐宝想表达的是不想说 .
+*MOT:	0 .
+%spa:	$x:nia $i:rp
+%act:	给乐宝喂馒头 .
+*CHI:	不是 .
+%mor:	n|bu2shi4=fault .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+%act:	摇头 .
+%com:	乐宝不想吃馒头 .
+*MOT:	喂 你 饭 好 吗 ?
+%mor:	v|wei4=feed pro|ni3=you n|fan4=food adv|hao3=very sfp|ma ?
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|SFP 6|1|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	不是 .
+%mor:	n|bu2shi4=fault .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+*MOT:	看看 .
+%mor:	v|kan4&DIM=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:rp
+%com:	妈妈听到外面放炮伸头看着乐宝 .
+*CHI:	坐 板凳 坐下 来 .
+%mor:	v|zuo4=sit n|ban3deng4=wooden_bench v|zuo4xia4=sit_down
+	v:dirc|lai2=come .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	妈妈 手机 拿来 .
+%mor:	n:relat|ma1&DIM=mother n|shou3ji1=cell_phone v|na2lai2=bring .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝不想看放鞭炮, 她想看手机 .
+*MOT:	你 吃 晚饭 吗 ?
+%mor:	pro|ni3=you v|chi1=eat n|wan3fan4=supper sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%spa:	$x:dhs $i:yq
+*CHI:	不是 .
+%mor:	n|bu2shi4=fault .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dhs $i:an
+*CHI:	奶粉 洒 了 .
+%mor:	n|nai3fen3=powdered_milk v|sha3=spray asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	看到茶几上有奶粉 .
+@End

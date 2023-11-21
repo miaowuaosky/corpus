@@ -1,0 +1,77 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|01;09.12|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	04-MAY-2014
+*CHI:	尿不湿 来 了 .
+%mor:	n|niao4bu4shi1=baby_diapers v:dirc|lai2=come asp|le .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%com:	乐宝看见门口的快递 .
+*CHI:	给 我 .
+%mor:	prep|gei3=for pro|wo3=I .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%com:	妈妈给她乐宝枣片, 乐宝向妈妈要 .
+*GRA:	喜 不 喜欢 外婆 ?
+%mor:	v|xi3=delighted neg|bu4=not v|xi3huan1=like
+	n|wai4po2=maternal_grandmother ?
+%gra:	1|0|ROOT 2|3|NEG 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:dhs $i:tq
+*CHI:	不 喜欢 .
+%mor:	neg|bu4=not v|xi3huan1=like .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dhs $i:ta
+%com:	今天外婆问乐宝喜不喜欢外婆, 问到其他人乐宝都说喜欢 .
+*CHI:	坐 摇 摇 车 .
+%mor:	v|zuo4=sit v|yao2=rock v|yao2=rock n|che1=vehicle .
+%gra:	1|0|ROOT 2|1|SRL 3|4|MOD 4|2|OBJ 5|1|PUNCT
+*CHI:	还 坐 洗澡 摇 摇 车 .
+%mor:	adv|hai2=still v|zuo4=sit v|xi3zao3=shower v|yao2=rock v|yao2=rock
+	n|che1=vehicle .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SRL 4|3|SRL 5|6|MOD 6|4|OBJ 7|2|PUNCT
+%com:	妈妈打算带乐宝去洗澡 .
+*CHI:	还有 一 个 小 宝宝 .
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 adj|xiao3=small
+	n:relat|bao3&DIM=baby .
+%gra:	1|2|JCT 2|3|QUANT 3|5|CLASS 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%com:	乐宝听说要去洗澡 .
+*MOT:	在 哪里 ?
+%mor:	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	游泳 地方 .
+%mor:	v|you2yong3=swim n|di4fang1=place .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	你 上午 有 没有 坐 摇椅 ?
+%mor:	pro|ni3=you n|shang4wu3=forenoon v|you3=have neg|mei2you3=not_have
+	v|zuo4=sit n|yao2yi3=rocking_chair ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|NEG 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$x:drp $i:tq
+%com:	妈妈在乐宝坐摇椅时问她 .
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:drp $i:ta
+*CHI:	这 是 人家 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|ren2jia1=sb_else nom|de .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|POSS 5|3|PUNCT
+%com:	在超市看到衣服 .
+*CHI:	是 宝宝 的 衣服 .
+%mor:	v:cop|shi4=is n:relat|bao3&DIM=baby poss|de n|yi1fu2=clothes .
+%gra:	1|4|MOD 2|1|PRED 3|1|POSS 4|0|INCROOT 5|4|PUNCT
+%act:	乐宝拿起自己的毛衣 .
+*CHI:	给 妈妈 坐 .
+%mor:	prep|gei3=for n:relat|ma1&DIM=mother v|zuo4=sit .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%act:	乐宝把车子推给妈妈 .
+*CHI:	妈妈 我 想 橙子 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v:aux|xiang3=want
+	n|cheng2zi=orange .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	乐宝拿橙子 .
+@End

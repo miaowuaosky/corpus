@@ -1,0 +1,86 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, GRA Grandmother, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	28-MAY-2015
+*MOT:	我 也 要 吃 .
+%mor:	pro|wo3=I adv|ye3=also v:aux|yao4=should v|chi1=eat .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:rp
+%act:	她做出盖盘子的样子
+*CHI:	这个 都 是 我 的 .
+%mor:	pro|zhe4ge4=this adv|dou1=all v:cop|shi4=is pro|wo3=I poss|de .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|POSS 6|3|PUNCT
+%spa:	$x:nia $i:cs
+%com:	孩子在跟外婆吃虾 .
+*MOT:	你 上班 了 吗 .
+%mor:	pro|ni3=you v|shang4ban1=start_work asp|le sfp|ma .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%spa:	$x:dnp $i:yq
+*CHI:	上班 了 .
+%mor:	v|shang4ban1=start_work asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dnp $i:aa
+*MOT:	你 在 哪儿 上班 .
+%mor:	pro|ni3=you prep|zai4=at pro:wh|na3-DIA=which
+	v|shang4ban1=start_work .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 广场 小区 .
+%mor:	prep|zai4=at n|guang3chang3=public_square n|xiao3qu1=community .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	你 有 几个 学生 .
+%mor:	pro|ni3=you v|you3=have quant|ji3ge4=several n|xue2sheng1=student .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	只 有 三 个 学生 .
+%mor:	adv|zhi3=only v|you3=have num|san1=three cl|ge4
+	n|xue2sheng1=student .
+%gra:	1|2|JCT 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	他们 叫 什么 名字 .
+%mor:	pro|ta1-PL=he v|jiao4=call pro:wh|shen2me=what n|ming2zi=given_name
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	他们 不知 道 叫 什么 名字 .
+%mor:	pro|ta1-PL=he v|bu4zhi1=ignorance n|dao4=doctrine v|jiao4=call
+	pro:wh|shen2me=what n|ming2zi=given_name .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	或者 叫 老师 .
+%mor:	conj|huo4zhe3=or v|jiao4=call n|lao3shi1=teacher .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	或者 叫 学生 .
+%mor:	conj|huo4zhe3=or v|jiao4=call n|xue2sheng1=student .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dnp $i:sa
+%act:	孩子拿起两个筷子 .
+*CHI:	这 两 个 是 一 个 好朋友 .
+%mor:	pro|zhe4=this num|liang3=two cl|ge4 v:cop|shi4=is num|yi1=one
+	cl|ge4 n|hao3peng2you3=good_friend .
+%gra:	1|3|DET 2|1|PQ 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|7|CLASS 7|4|OBJ 8|4|PUNCT
+*CHI:	这 是 姐姐 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|jie3&DIM=elder_sister .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	这 是 哥哥 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|ge1&DIM=older_brother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	孩子突然看着菜 .
+*CHI:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	这么 多 菜 .
+%mor:	adv|zhe4me=like_this quant|duo1=many n|cai4=food .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	我 先 吃 哪 样 呢 .
+%mor:	pro|wo3=I adv|xian1=earlier v|chi1=eat pro:wh|na3=which
+	cl|yang4=kind sfp|ne .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|CJCT 4|3|OBJ 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+%com:	这是孩子模仿书里说的话 .
+@End

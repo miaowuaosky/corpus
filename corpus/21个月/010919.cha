@@ -1,0 +1,86 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.19|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	11-MAY-2014
+*CHI:	奶奶 打喷嚏 .
+%mor:	n:relat|nai3&DIM=fathers_mother v|da3pen1ti4=sneeze .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	哥哥 不 打喷嚏 .
+%mor:	n:relat|ge1&DIM=older_brother neg|bu4=not v|da3pen1ti4=sneeze .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	早上乐宝听到楼下有奶奶打喷嚏 .
+*CHI:	妈妈 的 眼镜 .
+%mor:	n:relat|ma1&DIM=mother poss|de n|yan3jing4=glasses .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+*CHI:	爸爸 的 眼镜 .
+%mor:	n:relat|ba4&DIM=father poss|de n|yan3jing4=glasses .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%com:	乐宝看到爸爸妈妈的眼镜 .
+*CHI:	没有 记 下来 .
+%mor:	neg|mei2you3=not_have v|ji4=write_down v|xia4lai2=come_down .
+%gra:	1|2|NEG 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	乐宝看见妈妈没有记下自己说的话 .
+*CHI:	爸爸 没有 眼镜 .
+%mor:	n:relat|ba4&DIM=father neg|mei2you3=not_have n|yan3jing4=glasses .
+%gra:	1|3|MOD 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	妈妈 没有 眼镜 .
+%mor:	n:relat|ma1&DIM=mother neg|mei2you3=not_have n|yan3jing4=glasses .
+%gra:	1|3|MOD 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%com:	爸爸妈妈摘下眼镜 .
+*CHI:	什么 声音 吧 ?
+%mor:	pro:wh|shen2me=what n|sheng1yin1=sound sfp|ba ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	外面有装修声 .
+*CHI:	这 是 什么 声音 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|sheng1yin1=sound
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	要 爸爸 手机 .
+%mor:	v:aux|yao4=should n:relat|ba4&DIM=father n|shou3ji1=cell_phone .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	看见爸爸 .
+*CHI:	为什么 要 万万 哥哥 的 盒子 呀 ?
+%mor:	adv:wh|wei4shen2me=how_come v:aux|yao4=should
+	adv|wan4wan4=absolutely n:relat|ge1&DIM=older_brother poss|de
+	n|he2zi=box sfp|ya ?
+%gra:	1|0|INCROOT 2|3|AUX 3|4|JCT 4|6|MOD 5|4|POSS 6|1|OBJ 7|1|SFP 8|1|PUNCT
+%act:	玩盒子 .
+*CHI:	为什么 轧 手 呢 ?
+%mor:	adv:wh|wei4shen2me=how_come v|ya4=rolling n|shou3=hand sfp|ne ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+*CHI:	鞋 不 响 了 .
+%mor:	n|xie2=shoe neg|bu4=not adj|xiang3=sonorous asp|le .
+%gra:	1|3|NEG 2|3|NEG 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%com:	嫌宝宝鞋吵妈妈悄悄拿出鞋中塑料管, 乐宝过了一会儿突然说 .
+*CHI:	辣 的 不 喜欢 吃 .
+%mor:	adj|la4=sharp nom|de neg|bu4=not v|xi3huan1=like v|chi1=eat .
+%gra:	1|5|SUBJ 2|5|JCT 3|4|NEG 4|2|PREPO 5|0|ROOT 6|5|PUNCT
+%act:	乐宝吃饭时指着菜 .
+*CHI:	要 下来 洗 洗 .
+%mor:	v:aux|yao4=should v|xia4lai2=come_down v|xi3=wash v|xi3=wash .
+%gra:	1|2|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	乐宝不想吃饭 .
+*CHI:	爸爸 拉 不动 了 .
+%mor:	n:relat|ba4&DIM=father v|la1=pull v|bu4dong4=dont_move asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝见爸爸不拉车了 .
+*CHI:	让 爸爸 睡 一会 .
+%mor:	v|rang4=allow n:relat|ba4&DIM=father v|shui4=sleep
+	n|yi1hui4=a_little_while .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	乐宝跑到爸爸床上爸爸没理会 .
+*MOT:	上 一次 姐姐 有 没有 去 啊 ?
+%mor:	post|shang4=above adv|yi1ci4=once n:relat|jie3&DIM=elder_sister
+	v|you3=have neg|mei2you3=not_have v:dirc|qu4=go co|a ?
+%gra:	1|4|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|VD 7|5|VD 8|4|PUNCT
+%spa:	$x:dnp $i:tq
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:dnp $i:ta
+@End

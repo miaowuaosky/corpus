@@ -1,0 +1,77 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.15|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	06-FEB-2014
+*MOT:	什么 掉 了 ?
+%mor:	pro:wh|shen2me=what v:resc|diao4=drop asp|le ?
+%gra:	1|0|INCROOT 2|1|VR 3|1|SFP 4|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	钱 掉 了 .
+%mor:	n|qian2=money v:resc|diao4=drop asp|le .
+%gra:	1|3|SUBJ 2|1|VR 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	我们 睡觉 吧 ?
+%mor:	pro|wo3-PL=I v|shui4jiao4=sleep sfp|ba ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:nia $i:yq
+*CHI:	没 睡觉 .
+%mor:	neg|mei2=not v|shui4jiao4=sleep .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:an
+*CHI:	红包 撕烂 了 .
+%mor:	n|hong2bao1=envelope_with_money v|si1lan4=tear_apart asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝拿着红包撕坏了 .
+*CHI:	给 妈妈 .
+%mor:	v|gei3=give n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	香蕉 给 妈妈 .
+%mor:	n|xiang1jiao1=banana prep|gei3=for n:relat|ma1&DIM=mother .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%com:	乐宝不想吃香蕉了把它拿给妈妈 .
+*CHI:	水 没 啊 !
+%mor:	n|shui3=water neg|mei2=not co|a !
+%gra:	1|0|INCROOT 2|3|NEG 3|1|COM 4|1|PUNCT
+%com:	听见厕所水声消失 .
+*CHI:	妈妈 拉 叭 叭 .
+%mor:	n:relat|ma1&DIM=mother v|la1=pull on|ba1=smack on|ba1=smack .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*MOT:	谁 拉 啊 ?
+%mor:	pro:wh|shei2=who v|la1=pull sfp|a1 ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dcc $i:qn
+*CHI:	小 熊 .
+%mor:	adj|xiao3=small n|xiong2=bear .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dcc $i:sa
+*CHI:	小 熊 拉 粑粑 .
+%mor:	adj|xiao3=small n|xiong2=bear v|la1=pull n|ba3ba=excrement .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dcc $i:sa
+*CHI:	扫地 啦 !
+%mor:	adv|sao3-LY=sweep sfp|la1 !
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	乐宝自己扫地 .
+*MOT:	你 怎么了 呀 ?
+%mor:	pro|ni3=you adv:wh|zen3mele=whats_up sfp|ya ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	摔倒 啦 !
+%mor:	v|shuai1dao3=fall sfp|la1 !
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dre $i:sa
+*MOT:	要 刷牙 .
+%mor:	v:aux|yao4=should v|shua1ya2=brush_ones_teeth .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	不是 刷牙 .
+%mor:	n|bu2shi4=fault v|shua1ya2=brush_ones_teeth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:rd
+%com:	乐宝想坐沙发看手机 .
+@End

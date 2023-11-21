@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.03|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	25-MAR-2014
+*CHI:	< 爸爸 来 了>[/] 爸爸 来 了 .
+%mor:	n:relat|ba4&DIM=father v:dirc|lai2=come asp|le .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|PUNCT
+*CHI:	干什么 ?
+%mor:	v|gan4shen2me=what_do_you_want ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	吐痰 .
+%mor:	v|tu3tan2=spit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	穿 裤子 .
+%mor:	v|chuan1=put_on n|ku4-NOM=pants .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	宝宝 自己 穿 裤子 .
+%mor:	n:relat|bao3&DIM=baby pro|zi4ji3=self v|chuan1=put_on
+	n|ku4-NOM=pants .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	早上起床自言自语 .
+*CHI:	爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	中午起床 .
+*CHI:	爸爸 在 刷牙 .
+%mor:	n:relat|ba4&DIM=father adv|zai4=currently
+	v|shua1ya2=brush_ones_teeth .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	乐宝 的 裤子 .
+%mor:	n:name|le4bao3=lebao poss|de n|ku4-NOM=pants .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+*CHI:	乐宝 的 毛衣 .
+%mor:	n:name|le4bao3=lebao poss|de n|mao2yi1=woollen_sweater .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%act:	指着衣服 .
+*CHI:	想 看 这个 .
+%mor:	v:aux|xiang3=want v|kan4=look pro|zhe4ge4=this .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	晚上想看儿歌 .
+@End

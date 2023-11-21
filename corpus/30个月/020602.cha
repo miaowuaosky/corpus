@@ -1,0 +1,85 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|2;5.24|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	24-JAN-2015
+*CHI:	谁 在旁 边 ?
+%mor:	pro:wh|shei2=who adv|zai4pang2=nearby adv|bian1=simultaneously ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	早上爸爸钻进被窝躺宝宝身边 .
+*CHI:	啊 哈 啊 哈 啊 哈哈 哈 .
+%mor:	co|a co|哈 co|a co|哈 co|a co|哈&DIM co|哈 .
+%gra:	1|3|COM 2|3|COM 3|5|COM 4|5|COM 5|7|COM 6|7|COM 7|0|INCROOT 8|7|PUNCT
+*CHI:	不要 收 .
+%mor:	adv|bu2yao4=dont v|shou1=gather .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	妈妈打算收桌子上的书 .
+*CHI:	妈妈 要 去 哪儿 ?
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v:dirc|qu4=go
+	pro:wh|na3-DIA=which ?
+%gra:	1|0|INCROOT 2|4|AUX 3|2|VD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:drp $i:qn
+*MOT:	妈妈 要 去 买东西 .
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v:dirc|qu4=go
+	v|mai3dong1xi1=shopping .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|4|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	买 一点 这个 面包 .
+%mor:	v|mai3=buy adv|yi1dian3=a_bit pro|zhe4ge4=this n|mian4bao1=bun .
+%gra:	1|0|ROOT 2|4|JCT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:drp $i:rp
+%act:	乐宝指着书里的面包 .
+*CHI:	叔叔 没 擦 .
+%mor:	n:relat|shu2&DIM=uncle neg|mei2=not v|ca1=wipe .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dha $i:st
+%com:	在出租车给爸爸妈妈外婆擦唇膏, 过一会儿看了看司机叔叔笑着小声对妈妈说 .
+*MOT:	啊 ?
+%mor:	co|a ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:eq
+*MOT:	你 说 什么 ?
+%mor:	pro|ni3=you v|shuo1=say pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:eq
+*CHI:	骆驼 呢 ?
+%mor:	n|luo4tuo2=camel sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	乐宝 转移 话题 .
+%mor:	n:name|le4bao3=lebao v|zhuan3yi2=shift n|hua4ti2=topic .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	大 蜀山 在 动 .
+%mor:	adj|da4=great n:geo|shu3shan1=shushan adv|zai4=currently
+	v|dong4=move .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	妈妈说快看大蜀山, 乐宝看着 .
+*CHI:	我 的 鞋 !
+%mor:	pro|wo3=I poss|de n|xie2=shoe !
+%gra:	1|3|SUBJ 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%act:	尿尿时指着远处自己的鞋 .
+*CHI:	阿 哟 呢 ?
+%mor:	npfx|a1=familiar co|哟 sfp|ne ?
+%gra:	1|0|INCROOT 2|1|COM 3|1|SFP 4|1|PUNCT
+*CHI:	阿 哟 在前 面 .
+%mor:	npfx|a1=familiar co|哟 v|zai4qian2=before n|mian4=surface .
+%gra:	1|0|INCROOT 2|3|COM 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	往前翻书 .
+*MOT:	不能 拿 猩猩 的 东西 它 会 不 开心 .
+%mor:	v:aux|bu4neng2=cannot v|na2=hold n|xing1xing1=orangutan poss|de
+	n|dong1xi=thing pro|ta1=it v:aux|hui4=will neg|bu4=not
+	adj|kai1xin1=happy .
+%gra:	1|2|AUX 2|5|MOD 3|2|OBJ 4|2|POSS 5|9|SUBJ 6|9|SUBJ 7|9|AUX 8|9|NEG
+	9|0|INCROOT 10|9|PUNCT
+%spa:	$x:djf $i:pf
+*CHI:	乐宝 抢 猩猩 的 东西 猩猩 也 不 开心 .
+%mor:	n:name|le4bao3=lebao v|qiang3=pillage n|xing1xing1=orangutan
+	poss|de n|dong1xi=thing n|xing1xing1=orangutan adv|ye3=also
+	neg|bu4=not adj|kai1xin1=happy .
+%gra:	1|5|MOD 2|3|MOD 3|1|OBJ 4|1|POSS 5|6|MOD 6|9|SUBJ 7|9|JCT 8|9|NEG
+	9|0|INCROOT 10|9|PUNCT
+%spa:	$x:djf $i:rt
+@End

@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.17|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	08-APR-2014
+*CHI:	给 乐宝 吃 .
+%mor:	prep|gei3=for n:name|le4bao3=lebao v|chi1=eat .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%act:	乐宝对着镜子吃饼 .
+*CHI:	妈妈 呢 ?
+%mor:	n:relat|ma1&DIM=mother sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	在 这里 .
+%mor:	prep|zai4=at post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%com:	妈妈对着镜子梳头 .
+*CHI:	爸爸 爸爸 你 去 哪里 呀 .
+%mor:	n:relat|ba4&DIM=father n:relat|ba4&DIM=father pro|ni3=you
+	v:dirc|qu4=go pro:wh|na3li3=where sfp|ya .
+%gra:	1|2|MOD 2|0|INCROOT 3|5|SUBJ 4|3|VD 5|2|OBJ 6|2|SFP 7|2|PUNCT
+%com:	乐宝看着爸爸照片唱歌 .
+*CHI:	拿 不 掉 .
+%mor:	v|na2=hold neg|bu4=not v:resc|diao4=drop .
+%gra:	1|0|ROOT 2|3|NEG 3|1|VR 4|1|PUNCT
+%com:	乐宝手上粘上枣皮没甩掉 .
+*CHI:	橙子 .
+%mor:	n|cheng2zi=orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:si
+%com:	乐宝想吃橙子 .
+*MOT:	明天 吃 .
+%mor:	n|ming2tian1=tomorrow v|chi1=eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:pf
+*CHI:	现在 吃 .
+%mor:	adv|xian4zai4=now v|chi1=eat .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	掉下 去 了 .
+%mor:	v|diao1xia4=fall_down v:dirc|qu4=go asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%com:	乐宝够厨房锅里的勺子, 结果勺子滑到锅里了 .
+@End

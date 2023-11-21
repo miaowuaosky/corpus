@@ -1,0 +1,75 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.03|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	25-FEB-2014
+*MOT:	这 是 妈妈 枕头 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|ma1&DIM=mother
+	n|zhen3tou2=pillow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	妈妈 枕头 在 这里 .
+%mor:	n:relat|ma1&DIM=mother n|zhen3tou2=pillow prep|zai4=at
+	post|zhe4li3=here .
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	宝宝 枕头 在 这里 .
+%mor:	n:relat|bao3&DIM=baby n|zhen3tou2=pillow prep|zai4=at
+	post|zhe4li3=here .
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	天亮 了 .
+%mor:	v|tian1liang4=dawn asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	窗帘拉开了 .
+*MOT:	爸爸 出门 没 打招呼 .
+%mor:	n:relat|ba4&DIM=father v|chu1men2=go_out neg|mei2=not
+	v|da3zhao1hu1=say_hello .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	0 .
+%spa:	$x:nia $i:ad
+%act:	给爸爸飞吻 .
+*CHI:	hi .
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:ad
+%com:	还是跟爸爸打招呼 .
+*CHI:	换 一 件 衣服 .
+%mor:	v|huan4=change num|yi1=one cl|jian4 n|yi1fu2=clothes .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	早上乐宝出门前脱衣服 .
+*CHI:	回家 .
+%mor:	v|hui4jia1=go_home .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝走在洗澡回来的路上 .
+*CHI:	阿姨 卖 的 .
+%mor:	a1#n:relat|yi2=familiar_mothers_sister v|mai4=sell nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|PUNCT
+%com:	看到游泳中心阿姨卖的衣物 .
+*CHI:	好 干净 .
+%mor:	adv|hao3=very adj|gan1jing4=clean .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%act:	指着垫子 .
+%com:	乐宝走进房间对妈妈说话 .
+*MOT:	会 帮 爸爸 拿 报纸 .
+%mor:	v:aux|hui4=will v|bang1=help n:relat|ba4&DIM=father v|na2=hold
+	n|bao4zhi3=newspaper .
+%gra:	1|2|AUX 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	豆 豆 讲 .
+%mor:	n|dou4=small_ball n|dou4=small_ball v|jiang3=speak .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	洗 过 澡 了 .
+%mor:	v|xi3=wash v:dirc|guo4=pass v|zao3=wash asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|VD 5|1|PUNCT
+%com:	晚上洗澡后乐宝正在穿衣服 .
+*CHI:	妈妈 我 要 拉 粑粑 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v:aux|yao4=should v|la1=pull
+	n|ba3ba=excrement .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|AUX 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	请妈妈帮忙 .
+@End

@@ -1,0 +1,185 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;01.20|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	11-SEP-2014
+*CHI:	妈妈 里面 是 什么 .
+%mor:	n:relat|ma1&DIM=mother post|li3mian4=inside v:cop|shi4=is
+	pro:wh|shen2me=what .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%act:	指汤锅 .
+*CHI:	里面 是 什么 呢 ?
+%mor:	post|li3mian4=inside v:cop|shi4=is pro:wh|shen2me=what sfp|ne ?
+%gra:	1|0|INCROOT 2|1|ROOT 3|2|OBJ 4|1|SFP 5|1|PUNCT
+*CHI:	男 太太 吃 过 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame v|chi1=eat v:dirc|guo4=pass asp|le
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%com:	给乐宝把尿乐宝看见男太太声音 .
+*CHI:	饵 好 酸 .
+%mor:	n|er3=pastry adv|hao3=very adj|suan1=sour .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	今天第一次自己吃桔子吐舌头 .
+*MOT:	妈妈 疼 不 疼 ?
+%mor:	n:relat|ma1&DIM=mother adj|teng2=hurt neg|bu4=not adj|teng2=hurt ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:nia $i:tq
+%com:	乐宝拍妈妈 .
+*CHI:	嗯 嗯 .
+%mor:	co|en1=okay co|en1=okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:ta
+%act:	乐宝摇头 .
+*MOT:	打 乐宝 疼 不 疼 ?
+%mor:	v|da3=hit n:name|le4bao3=lebao adj|teng2=hurt neg|bu4=not
+	adj|teng2=hurt ?
+%gra:	1|0|ROOT 2|5|NEG 3|5|NEG 4|5|NEG 5|1|OBJ 6|1|PUNCT
+%spa:	$x:nia $i:tq
+*CHI:	0 .
+%spa:	$x:nia $i:ta
+%act:	乐宝点头 .
+*CHI:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:qn
+%com:	看见外婆喝杯装的稀饭 .
+*MOT:	是 稀饭 .
+%mor:	v:cop|shi4=is n|xi1fan4=porridge .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	这 是 稀饭 汤 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|xi1fan4=porridge n|tang1=broth .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	掰开 象 小船 .
+%mor:	v|bai1kai1=force_apart_with_the_hands n|xiang4=elephant
+	n|xiao3chuan2=boat .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	你 吃 一半 .
+%mor:	pro|ni3=you v|chi1=eat n|yi1ban4=half .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	我 吃 一半 .
+%mor:	pro|wo3=I v|chi1=eat n|yi1ban4=half .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	又开始吃桔子 .
+*CHI:	在 洞 里面 .
+%mor:	prep|zai4=at n|dong4=hole post|li3mian4=inside .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PREPO 4|1|PUNCT
+%com:	自己钻进床与衣柜之间的衣架 .
+*MOT:	眼镜 搞 坏了 怎么办 ?
+%mor:	n|yan3jing4=glasses v|gao3=work n|huai4le=bad adv:wh|zen3meban4=how
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	妈妈 又 买 .
+%mor:	n:relat|ma1&DIM=mother adv|you4=again v|mai3=buy .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	揪 一 个头 发给 妈妈 .
+%mor:	v|jiu1=pull num|yi1=one n|ge4tou2=height v|fa1gei3=give
+	n:relat|ma1&DIM=mother .
+%gra:	1|4|COM 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	在妈妈头上找头发 .
+*CHI:	你 去 干什么 ?
+%mor:	pro|ni3=you v:dirc|qu4=go v|gan4shen2me=what_do_you_want ?
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|PUNCT
+%com:	妈妈拿拉拉裤 .
+*CHI:	你 去 哪儿 了 .
+%mor:	pro|ni3=you v:dirc|qu4=go pro:wh|na3-DIA=which asp|le .
+%gra:	1|4|SUBJ 2|1|VD 3|1|VD 4|0|INCROOT 5|4|PUNCT
+%com:	跟爸爸打电话 .
+*MOT:	什么时候 点 蜡烛 ?
+%mor:	adv:wh|shen2meshi2hou4=when v|dian3=dot n|la4zhu2=candle ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	乐宝 过 生日 点 蜡烛 了 .
+%mor:	n:name|le4bao3=lebao adv|guo4=excessively n|sheng1ri4=birthday
+	cl|dian3 n|la4zhu2=candle asp|le .
+%gra:	1|3|MOD 2|3|JCT 3|5|MOD 4|5|MOD 5|6|SUBJ 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	用过去事件回答常态问题 .
+*CHI:	妈妈 买 棒棒糖 .
+%mor:	n:relat|ma1&DIM=mother v|mai3=buy n|bang4bang4tang2=lolipop .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	< 给 你 吃>[//] 给 乐宝 吃 .
+%mor:	prep|gei3=for n:name|le4bao3=lebao v|chi1=eat .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%act:	躺在床上 .
+*CHI:	蚊子 打死 .
+%mor:	n|wen2-NOM=mosquito v|da3si3=kill .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	看见一只蛾子 .
+*MOT:	在 里面 还是 外面 .
+%mor:	prep|zai4=at post|li3mian4=inside conj|hai2shi4=or
+	n|wai4mian4=outside .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|MOD 4|1|PREPO 5|1|PUNCT
+%spa:	$x:nia $i:tq
+*CHI:	里面 .
+%mor:	post|li3mian4=inside .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:ta
+*CHI:	外面 .
+%mor:	n|wai4mian4=outside .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:ct
+%com:	结果里面没有, 突然看见蛾子在蚊帐外面 .
+*MOT:	烦 死 了 .
+%mor:	v|fan2=trouble v:resc|si3=die asp|le .
+%gra:	1|3|CJCT 2|1|VR 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dss $i:st
+*CHI:	妈妈 为什么 烦 ?
+%mor:	n:relat|ma1&DIM=mother adv:wh|wei4shen2me=how_come v|fan2=trouble ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dss $i:qn
+%com:	乐宝学话妈妈 .
+*CHI:	因为 乐宝 不 听话 .
+%mor:	conj|yin1wei4=because n:name|le4bao3=lebao neg|bu4=not
+	adj|ting1hua4=obedient .
+%gra:	1|4|NEG 2|4|NEG 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dss $i:st
+*CHI:	红灯 呢 被 乐宝 看 过 了 .
+%mor:	n|hong2deng1=red_light sfp|ne prep|bei4=by n:name|le4bao3=lebao
+	v|kan4=look v:dirc|guo4=pass asp|le .
+%gra:	1|5|SUBJ 2|1|SFP 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|VD 7|5|VD 8|5|PUNCT
+%com:	出租车过了马路 .
+*CHI:	我们 都 打 哈欠 了 .
+%mor:	pro|wo3-PL=I adv|dou1=all v|da3=hit n|ha1qian4=yawn asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	乐宝打哈欠妈妈打哈欠 .
+*CHI:	大大 的 山 变 小 了 .
+%mor:	adj|da4&DIM=great poss|de n|shan1=mountain v|bian4=change
+	adj|xiao3=small asp|le .
+%gra:	1|3|MOD 2|1|POSS 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	马上 这 就 下去 了 .
+%mor:	adv|ma3shang4=immediately pro|zhe4=this adv|jiu4=just
+	v|xia4qu4=continue asp|le .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	车离山越来越近 .
+*CHI:	骆驼 呢 ?
+%mor:	n|luo4tuo2=camel sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	乐宝在路上 .
+*MOT:	走 了 .
+%mor:	v:dirc|zou3=go_away asp|le .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	回家 吃 稀饭 了 .
+%mor:	v|hui4jia1=go_home v|chi1=eat n|xi1fan4=porridge asp|le .
+%gra:	1|4|CJCT 2|3|MOD 3|1|OBJ 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:dp
+*CHI:	三 山 三 像 一 只 小 耳朵 .
+%mor:	num|san1=three n|shan1=mountain num|san1=three n|xiang4=portrait
+	adv|yi1=just_as adv|zhi3=only adj|xiao3=small n|er3duo3=ear .
+%gra:	1|8|MOD 2|8|MOD 3|8|MOD 4|8|MOD 5|6|JCT 6|8|JCT 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+%com:	给女太太梳头变成敲头跑去跟外婆 .
+@End

@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.12|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	03-APR-2014
+*MOT:	乐宝 的 脚 大 还是 妈妈 的 脚 大 ?
+%mor:	n:name|le4bao3=lebao poss|de n|jiao3=foot adj|da4=great
+	conj|hai2shi4=or n:relat|ma1&DIM=mother cleft|de n|jiao3=foot
+	adj|da4=great ?
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|8|MOD 5|8|MOD 6|8|MOD 7|8|MOD 8|1|OBJ
+	9|1|SFP 10|1|PUNCT
+%spa:	$x:djf $i:tq
+%act:	妈妈展示自己的脚 .
+*CHI:	妈妈 脚 大 .
+%mor:	n:relat|ma1&DIM=mother cl|jiao3=activity adj|da4=great .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:ta
+*MOT:	外公 的 手 大 还是 妈妈 的 手 大 ?
+%mor:	n|wai4gong1=maternal_grandfather poss|de n|shou3=hand adj|da4=great
+	conj|hai2shi4=or n:relat|ma1&DIM=mother cleft|de n|shou3=hand
+	adj|da4=great ?
+%gra:	1|3|MOD 2|1|POSS 3|9|SUBJ 4|9|MOD 5|9|MOD 6|9|MOD 7|9|MOD 8|9|MOD
+	9|0|INCROOT 10|9|PUNCT
+%spa:	$x:dnp $i:tq
+*CHI:	外公 手 大 .
+%mor:	n|wai4gong1=maternal_grandfather cl|shou3=activity adj|da4=great .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:ta
+*CHI:	已经 喝 奶 了 .
+%mor:	adv|yi3jing1=already v|he1=drink n|nai3=milk asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	早上起床乐宝看见奶瓶 .
+*CHI:	没有 了 .
+%mor:	neg|mei2you3=not_have asp|le .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+@End

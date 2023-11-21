@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.04|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	26-MAR-2014
+*CHI:	晒 被子 .
+%mor:	v|shai4=sun n|bei4zi=quilt .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	妈妈 晒 被子 .
+%mor:	n:relat|ma1&DIM=mother v|shai4=sun n|bei4zi=quilt .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	妈妈在晒被子 .
+*CHI:	鞋 掉 了 .
+%mor:	n|xie2=shoe v:resc|diao4=drop asp|le .
+%gra:	1|3|SUBJ 2|1|VR 3|0|INCROOT 4|3|PUNCT
+%com:	妈妈给乐宝穿鞋子出门 .
+*MOT:	掉 在 哪里 .
+%mor:	v:resc|diao4=drop prep|zai4=at pro:wh|na3li3=where .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|PREPO 4|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	掉 在 爸爸 床 里 .
+%mor:	v:resc|diao4=drop prep|zai4=at n:relat|ba4&DIM=father n|chuang2=bed
+	post|li3=inside .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|5|MOD 5|2|PREPO 6|2|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	实际情况是告诉妈妈上午鞋掉在爸爸床边 .
+*MOT:	小 飞机 撞 到 小 虫 虫 .
+%mor:	adj|xiao3=small n|fei1ji1=airplane v|zhuang4=run_into
+	v:resc|dao4=arrive adj|xiao3=small n|chong2=bug n|chong2=bug .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|6|MOD 6|3|OBJ 7|3|OBJ 8|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	撞 到 小 虫 虫 了 .
+%mor:	v|zhuang4=run_into v:resc|dao4=arrive adj|xiao3=small n|chong2=bug
+	n|chong2=bug asp|le .
+%gra:	1|5|CJCT 2|1|VR 3|4|MOD 4|1|OBJ 5|6|SUBJ 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:djf $i:st
+@End

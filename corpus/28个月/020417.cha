@@ -1,0 +1,151 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|2;04.17|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	09-DEC-2014
+*CHI:	垫子 上 都 是 书 有 游泳 呀 有 我们 看 的 书 呀 什么 什么 什么 .
+%mor:	n|dian4zi=support post|shang4=above adv|dou1=all v:cop|shi4=is
+	n|shu1=book v|you3=have n|you2yong3=swimming sfp|ya v|you3=have
+	pro|wo3-PL=I v|kan4=look nom|de n|shu1=book sfp|ya
+	pro:wh|shen2me=what pro:wh|shen2me=what pro:wh|shen2me=what .
+%gra:	1|7|MOD 2|7|MOD 3|7|JCT 4|7|MOD 5|7|MOD 6|7|MOD 7|9|SUBJ 8|7|SFP
+	9|0|ROOT 10|11|SUBJ 11|9|OBJ 12|13|MOD 13|9|OBJ 14|9|SFP 15|9|OBJ 16|9|OBJ
+	17|9|OBJ 18|9|PUNCT
+%act:	看垫子 .
+*CHI:	不 给 妈妈 走 .
+%mor:	neg|bu4=not prep|gei3=for n:relat|ma1&DIM=mother
+	v:dirc|zou3=go_away .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PREPO 4|2|VD 5|2|PUNCT
+*CHI:	把玩 具 青蛙 贴 墙 上 这个 青蛙 贴 在 墙 上 很 好 可以 靠 着 .
+%mor:	v|ba3wan2=play v|ju4=possess n|qing1wa1=frog v|tie1=paste
+	n|qiang2=wall post|shang4=above pro|zhe4ge4=this n|qing1wa1=frog
+	v|tie1=paste prep|zai4=at n|qiang2=wall post|shang4=above
+	adv|hen3=much adv|hao3=very adj|ke3yi3=not_bad v|kao4=lean_against
+	asp|zhe .
+%gra:	1|9|SUBJ 2|3|MOD 3|1|OBJ 4|9|JCT 5|9|SUBJ 6|9|JCT 7|9|SUBJ 8|9|SUBJ
+	9|16|SUBJ 10|9|JCT 11|10|PREPO 12|10|PREPO 13|16|JCT 14|16|JCT 15|16|JCT
+	16|0|ROOT 17|16|OBJ 18|16|PUNCT
+*CHI:	青蛙 是 小 虫 虫 爬 爬 爬 .
+%mor:	n|qing1wa1=frog v:cop|shi4=is adj|xiao3=small n|chong2=bug
+	n|chong2=bug v|pa2=crawl v|pa2=crawl v|pa2=crawl .
+%gra:	1|8|SUBJ 2|8|JCT 3|4|MOD 4|8|SUBJ 5|8|SUBJ 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+%act:	关门 .
+*CHI:	这个 放 着 应该 不对头 朝 外 .
+%mor:	pro|zhe4ge4=this v|fang4=put asp|zhe v:aux|ying1gai1=should
+	v|bu2dui4tou2=opposite prep|chao2=toward post|wai=outside .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|PREPO 8|5|PUNCT
+%act:	玩套娃 .
+*CHI:	妈妈 躺下 来 睡 睡觉 .
+%mor:	n:relat|ma1&DIM=mother v|tang3xia4=lie_down v:dirc|lai2=come
+	v|shui4=sleep v|shui4jiao4=sleep .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|VD 4|2|VD 5|0|ROOT 6|5|PUNCT
+%act:	拿宝宝睡觉的纸贴墙上 .
+*CHI:	妈妈 没 带 铲子 给 乐宝 挖 泥土 .
+%mor:	n:relat|ma1&DIM=mother neg|mei2=not v|dai4=bring
+	n|chan3zi=shovel_spade prep|gei3=for n:name|le4bao3=lebao v|wa1=dig
+	n|ni2tu3=dirt .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|8|MOD 5|8|MOD 6|5|PREPO 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+*CHI:	现在 不知 道 有 没有 买 .
+%mor:	adv|xian4zai4=now v|bu4zhi1=ignorance n|dao4=doctrine v|you3=have
+	neg|mei2you3=not_have v|mai3=buy .
+%gra:	1|2|JCT 2|6|SUBJ 3|4|SUBJ 4|6|JCT 5|6|NEG 6|0|ROOT 7|6|PUNCT
+%act:	出门指地面 .
+*CHI:	乐宝 也 听到 二胡 了 噔噔 噔噔 .
+%mor:	n:name|le4bao3=lebao adv|ye3=also v|ting1dao4=hear
+	n|er4hu2=alto_fiddle asp|le on|deng1&DIM=pity on|deng1&DIM=pity .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|CJCT 4|5|MOD 5|3|OBJ 6|0|INCROOT 7|6|COM 8|6|PUNCT
+%com:	吃饭告诉外婆 .
+*MOT:	小猫 钻 到 车 下面 干吗 ?
+%mor:	n|xiao3mao1=kitten v|zuan1=go_through v:resc|dao4=arrive
+	n|che1=vehicle post|xia4mian4=below adv:wh|gan4ma=why ?
+%gra:	1|2|SUBJ 2|6|CJCT 3|2|VR 4|5|MOD 5|2|OBJ 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	找 吃 的 找 东西 吃 .
+%mor:	v|zhao3=search v|chi1=eat nom|de v|zhao3=search n|dong1xi=thing
+	v|chi1=eat .
+%gra:	1|6|SUBJ 2|6|JCT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	一一 妹妹 就 抱 了 .
+%mor:	adv|yi1yi1=one_by_one n:relat|mei4&DIM=younger_sister adv|jiu4=just
+	v|bao4=hug asp|le .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	一开始要妈妈抱妈妈没同意, 过一会儿她看见一一妹妹被奶奶抱着 .
+*CHI:	这 也 不是 天鹅湖 大 酒店 .
+%mor:	pro|zhe4=this adv|ye3=also n|bu2shi4=fault
+	n:geo|tian1e2hu2=swan_lake adj|da4=great n|jiu3dian4=liquor_shop .
+%gra:	1|3|DET 2|3|JCT 3|0|INCROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%act:	打车路上孩子指着一般酒店 .
+*CHI:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	这 是 天鹅湖 大 酒店 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:geo|tian1e2hu2=swan_lake
+	adj|da4=great n|jiu3dian4=liquor_shop .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	在 这 吗 ?
+%mor:	prep|zai4=at pro|zhe4=this sfp|ma ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|SFP 4|1|PUNCT
+%act:	指酒店的地 .
+*CHI:	外婆 我 看 一下 .
+%mor:	n|wai4po2=maternal_grandmother pro|wo3=I v|kan4=look
+	adv|yi1xia4=a_bit .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	孩子要看报纸 .
+*CHI:	妈妈 我 在 哪里 ?
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|0|INCROOT 2|3|TOP 3|1|JCT 4|3|PREPO 5|1|PUNCT
+%spa:	$x:dha $i:qn
+%act:	用书盖脸 .
+*MOT:	在 哪里 ?
+%mor:	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:djf $i:qa
+*CHI:	我 在 书 里面 .
+%mor:	pro|wo3=I prep|zai4=at n|shu1=book post|li3mian4=inside .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	我 在 这 .
+%mor:	pro|wo3=I prep|zai4=at pro|zhe4=this .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	你 是 小 猪 吗 ?
+%mor:	pro|ni3=you v:cop|shi4=is adj|xiao3=small n|zhu1=pig sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SFP 6|2|PUNCT
+%spa:	$x:drp $i:yq
+*GRA:	我 不是 .
+%mor:	pro|wo3=I n|bu2shi4=fault .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:drp $i:an
+*MOT:	谁 是 小 猪 ?
+%mor:	pro:wh|shei2=who v:cop|shi4=is adj|xiao3=small n|zhu1=pig ?
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	她 是 小 猪 .
+%mor:	pro|ta1=she v:cop|shi4=is adj|xiao3=small n|zhu1=pig .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:drp $i:sa
+%act:	指着外婆 .
+*CHI:	外婆 感冒 快 好 了 不用 喝 这个 药 了 .
+%mor:	n|wai4po2=maternal_grandmother n|gan3mao4=common_cold
+	adv|kuai4=quickly adj|hao3=good asp|le v|bu4yong4=no_need
+	v|he1=drink pro|zhe4ge4=this n|yao4=medicine asp|le .
+%gra:	1|2|MOD 2|7|SUBJ 3|7|JCT 4|7|JCT 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|OBJ 11|7|PUNCT
+%act:	拿药 .
+*CHI:	请 让 一下 我 要 进去 .
+%mor:	v|qing3=request v|rang4=allow adv|yi1xia4=a_bit pro|wo3=I
+	v:aux|yao4=should v:dirc|jin4qu4=go_into .
+%gra:	1|5|CJCT 2|1|SRL 3|4|JCT 4|1|OBJ 5|0|INCROOT 6|5|VD 7|5|PUNCT
+%com:	孩子要进厨房 .
+*CHI:	我 没 搞 什么 .
+%mor:	pro|wo3=I neg|mei2=not v|gao3=work pro:wh|shen2me=what .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈一进卧室孩子就说 .
+@End

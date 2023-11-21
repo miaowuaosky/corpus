@@ -1,0 +1,125 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.13|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	05-MAY-2014
+*CHI:	给 外婆 吃 .
+%mor:	prep|gei3=for n|wai4po2=maternal_grandmother v|chi1=eat .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%com:	早上外婆喂乐宝,  还剩两口, 乐宝不想吃 .
+*CHI:	妈妈 刚刚 拉 粑粑 了 .
+%mor:	n:relat|ma1&DIM=mother adv|gang1&DIM=just v|la1=pull
+	n|ba3ba=excrement asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	在客厅 .
+*CHI:	赶紧 带 你 去 散步 .
+%mor:	adv|gan3jin3=hurriedly v|dai4=bring pro|ni3=you v:dirc|qu4=go
+	v|san4bu4=take_a_walk .
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|3|VD 5|2|OBJ 6|2|PUNCT
+%com:	乐宝拉粑粑 .
+*CHI:	想 看 儿歌 .
+%mor:	v:aux|xiang3=want v|kan4=look n|er2ge1=nursery_rhymes .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	坐 腿 上 看 儿歌 .
+%mor:	v|zuo4=sit n|tui3=leg post|shang4=above v|kan4=look
+	n|er2ge1=nursery_rhymes .
+%gra:	1|0|ROOT 2|5|MOD 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	乐宝想看儿歌在妈妈身边说 .
+*CHI:	撞 到 门 了 .
+%mor:	v|zhuang4=run_into v:resc|dao4=arrive n|men2=door asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	外婆碰到门了乐宝, 撞发音如同zan4 .
+*CHI:	不 烫 吧 .
+%mor:	neg|bu4=not adj|tang4=scald sfp|ba .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	外婆给乐宝洗屁股乐宝说 .
+*CHI:	妈妈 先 干活 .
+%mor:	n:relat|ma1&DIM=mother adv|xian1=earlier v|gan4huo2=work .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	乐宝坐妈妈腿上没看成儿歌就要下来 .
+*CHI:	爸爸 看 演出 了 .
+%mor:	n:relat|ba4&DIM=father v|kan4=look v|yan3chu1=show asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝躺在床上 .
+*CHI:	换 一 个 语晨 妹妹 .
+%mor:	v|huan4=change num|yi1=one cl|ge4 n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister .
+%gra:	1|0|ROOT 2|3|QUANT 3|5|CLASS 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	看手机照片里的妹妹,  看了一张还要看其他的 .
+*CHI:	乐宝 躺 床 上 说 妈妈 快 快 来 呀 .
+%mor:	n:name|le4bao3=lebao v|tang3=couch n|chuang2=bed post|shang4=above
+	v|shuo1=say n:relat|ma1&DIM=mother adv|kuai4=quickly
+	adv|kuai4=quickly v:dirc|lai2=come sfp|ya .
+%gra:	1|5|SUBJ 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|JCT 8|9|JCT
+	9|6|VD 10|6|SFP 11|5|PUNCT
+%com:	乐宝躺床上 .
+*CHI:	嘴巴 没 吃饱 .
+%mor:	n|zui3ba0=mouth neg|mei2=not v|chi1bao3=eat .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	乐宝喝奶后躺着 .
+*MOT:	谁 的 嘴巴 没 吃饱 ?
+%mor:	pro:wh|shei2=who poss|de n|zui3ba0=mouth neg|mei2=not
+	v|chi1bao3=eat ?
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|NEG 5|0|ROOT 6|5|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	舅舅 嘴巴 没 吃饱 .
+%mor:	n|jiu4jiu4=mothers_brother n|zui3ba0=mouth neg|mei2=not
+	v|chi1bao3=eat .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	月亮 去 吃饭 了 .
+%mor:	n|yue4liang4=moonlight v:dirc|qu4=go v|chi1fan4=having_dinner
+	asp|le .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dfw $i:st
+%com:	她看星星没看到月亮妈妈说 .
+*CHI:	月亮 晚上 吃 什么 呀 ?
+%mor:	n|yue4liang4=moonlight n|wan3shang4=evening v|chi1=eat
+	pro:wh|shen2me=what sfp|ya ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%spa:	$x:dfw $i:st
+*CHI:	月亮 吃 白菜 .
+%mor:	n|yue4liang4=moonlight v|chi1=eat n|bai2cai4=cabbage .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dfw $i:st
+*MOT:	那 星星 呢 ?
+%mor:	pro|na4=that n:name|星星 sfp|ne ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dfw $i:qn
+*CHI:	0 .
+%spa:	$x:dfw
+%com:	乐宝不说话 .
+*CHI:	妈妈 有钱 .
+%mor:	n:relat|ma1&DIM=mother adj|you3qian2=wealthy .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	女 太太 有钱 .
+%mor:	adj|nü3=female n|tai4tai4=madame adj|you3qian2=wealthy .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	男 太太 有钱 .
+%mor:	adj|nan2=male n|tai4tai4=madame adj|you3qian2=wealthy .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	舅舅 有钱 .
+%mor:	n|jiu4jiu4=mothers_brother adj|you3qian2=wealthy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	晚上躺着乐宝突然说 .
+*CHI:	妈妈 有钱 .
+%mor:	n:relat|ma1&DIM=mother adj|you3qian2=wealthy .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	翠翠 没 钱 .
+%mor:	n|cui4&DIM=emerald neg|mei2=not n|qian2=money .
+%gra:	1|3|MOD 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	刑一 没 钱 .
+%mor:	n:name|xing2yi1=punishment neg|mei2=not n|qian2=money .
+%gra:	1|3|MOD 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	语晨 妹妹 没 钱 .
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister neg|mei2=not
+	n|qian2=money .
+%gra:	1|4|MOD 2|4|MOD 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+*CHI:	舅舅 有钱 .
+%mor:	n|jiu4jiu4=mothers_brother adj|you3qian2=wealthy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

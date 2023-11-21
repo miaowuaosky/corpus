@@ -1,0 +1,135 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	05-JUN-2015
+*MOT:	你 怎么 不好 好吃 饭 .
+%mor:	pro|ni3=you adv:wh|zen3me=how adv|bu4hao3=not_good
+	adj|hao3chi1=delicious n|fan4=food .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	站 上来 干什么 .
+%mor:	v|zhan4=to_stand v|shang4lai2=come_up
+	v|gan4shen2me=what_do_you_want .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dre $i:qn
+%com:	乐宝站到妈妈后面的椅子上 .
+*CHI:	我 要 上来 看看 妈妈 的 学生 论文 .
+%mor:	pro|wo3=I v:aux|yao4=should v|shang4lai2=come_up v|kan4&DIM=look
+	n:relat|ma1&DIM=mother poss|de n|xue2sheng1=student
+	n|lun4wen2=thesis .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|8|MOD 6|5|POSS 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+%spa:	$x:dre $i:sa
+*CHI:	妈妈 干活 的 时候 要 这样 .
+%mor:	n:relat|ma1&DIM=mother v|gan4huo2=work nom|de n|shi2hou4=time
+	v:aux|yao4=should adv|zhe4yang4=so .
+%gra:	1|2|SUBJ 2|5|CJCT 3|4|MOD 4|2|OBJ 5|6|AUX 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:dha $i:dc
+%act:	妈妈在干活她用手捂妈妈脸 .
+*MOT:	你 手 脏 不 脏 .
+%mor:	pro|ni3=you cl|shou3=activity adj|zang1=dirty neg|bu4=not
+	adj|zang1=dirty .
+%gra:	1|5|SUBJ 2|5|NEG 3|5|NEG 4|5|NEG 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:dha $i:yq
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 来 给 你 摸 摸 电脑 .
+%mor:	pro|wo3=I v:dirc|lai2=come prep|gei3=for pro|ni3=you v|mo1=touch
+	v|mo1=touch n|dian4nao3=computer .
+%gra:	1|6|SUBJ 2|1|VD 3|6|JCT 4|5|SUBJ 5|3|PREPO 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	小 手 就 不 脏 了 .
+%mor:	adj|xiao3=small n|shou3=hand adv|jiu4=just neg|bu4=not
+	adj|zang1=dirty asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|5|JCT 4|5|NEG 5|0|INCROOT 6|5|COM 7|5|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	这边 的 位置 我 还 在 吃 .
+%mor:	post|zhe4bian1=this_side nom|de n|wei4zhi4=place pro|wo3=I
+	adv|hai2=still prep|zai4=at v|chi1=eat .
+%gra:	1|6|COM 2|3|MOD 3|1|OBJ 4|6|SUBJ 5|6|JCT 6|0|INCROOT 7|6|PREPO
+	8|6|PUNCT
+*CHI:	吃完 了 再 扫 我 这边 .
+%mor:	v|chi1wan2=finish asp|le adv|zai4=again v|sao3=sweep pro|wo3=I
+	post|zhe4bian1=this_side .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|OBJ 7|4|PUNCT
+%com:	孩子在沙发边吃桂圆, 妈妈在另一边扫地 .
+*CHI:	这个 是 棍子 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is n|gun4zi=rod .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$x:dha $i:dc
+%act:	孩子指着棍子 .
+*MOT:	棍子 是 用来 干什么 的 .
+%mor:	n|gun4zi=rod v:cop|shi4=is v|yong4lai2=in_order_to
+	v|gan4shen2me=what_do_you_want nom|de .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PRED 4|0|ROOT 5|4|POSS 6|4|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	我 不知 道 .
+%mor:	pro|wo3=I v|bu4zhi1=ignorance n|dao4=doctrine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	用来 打屁 屁 的 .
+%mor:	v|yong4lai2=in_order_to v|da3pi4=fart n|pi4=fart nom|de .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|POSS 5|1|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	游乐园 卡 过期 了 .
+%mor:	n|you2le4yuan2=amusement_park v|ka3=get_stuck adj|guo4qi2=overdue
+	asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:dnp $i:gr
+*CHI:	等 游乐园 不过 期 就 能 去 游乐园 .
+%mor:	v|deng3=wait n|you2le4yuan2=amusement_park adv|bu2guo4=merely
+	cl|qi2=event adv|jiu4=just v:aux|neng2=can v:dirc|qu4=go
+	n|you2le4yuan2=amusement_park .
+%gra:	1|6|CJCT 2|4|MOD 3|4|JCT 4|1|OBJ 5|6|JCT 6|0|INCROOT 7|6|VD 8|6|VD
+	9|6|PUNCT
+%spa:	$x:dnp $i:st
+%com:	孩子想去游乐园 .
+*CHI:	乐宝 呢 .
+%mor:	n:name|le4bao3=lebao sfp|ne .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dha $i:yq
+%com:	看手机里到演出问妈妈 .
+*MOT:	在 家 .
+%mor:	prep|zai4=at n|jia1=family .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dha $i:ya
+%act:	孩子指着视频问妈妈 .
+*CHI:	为什么 不在 这 看 .
+%mor:	adv:wh|wei4shen2me=how_come v|bu4zai4=be_not_in pro|zhe4=this
+	v|kan4=look .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	妈妈 装 包 秘密 给 我 发现 .
+%mor:	n:relat|ma1&DIM=mother v|zhuang1=install n|bao1=bag n|mi4mi4=secret
+	prep|gei3=for pro|wo3=I v|fa1xian4=find .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|PUNCT
+%com:	孩子翻妈妈的包想吃一些问以前称为秘密的东西如糖果巧克力 .
+%act:	孩子指着天花板让妈妈开灯 .
+*CHI:	妈妈 把 这里 开灯 .
+%mor:	n:relat|ma1&DIM=mother prep|ba3=object_marker post|zhe4li3=here
+	v|kai1deng1=turn_on_the_light .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	你 这个 是 怎么搞的 .
+%mor:	pro|ni3=you pro|zhe4ge4=this v:cop|shi4=is
+	adv|zen3megao3de=how_did_you_mess_it_up .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%spa:	$x:dha $i:qn
+%act:	孩子尿尿后突然指着妈妈脚趾上鼓起的包用低沉的声音问妈妈 .
+*MOT:	这 是 穿 鞋 挤 的 包 .
+%mor:	pro|zhe4=this v:cop|shi4=is v|chuan1=put_on n|xie2=shoe
+	v|ji3=squeeze poss|de n|bao1=bag .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	那 你 搞 花露水 给 它 擦 一 擦 就 好 了 .
+%mor:	pro|na4=that pro|ni3=you v|gao3=work n|hua1lu4shui3=herbal_liquid
+	prep|gei3=for pro|ta1=it v|ca1=wipe num|yi1=one v|ca1=wipe
+	adv|jiu4=just adj|hao3=good asp|le .
+%gra:	1|11|DET 2|11|SUBJ 3|11|CJCT 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|11|CJCT
+	8|9|QUANT 9|11|CLASS 10|11|JCT 11|0|INCROOT 12|11|COM 13|11|PUNCT
+%spa:	$x:djf $i:st
+@End

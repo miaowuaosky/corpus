@@ -1,0 +1,63 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.12|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	06-MAR-2014
+*CHI:	吃完 了 .
+%mor:	v|chi1wan2=finish asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	乐宝吃完米花跑来告诉妈妈 .
+*MOT:	宝宝 快 睡 是 谁 唱 的 ?
+%mor:	n:relat|bao3&DIM=baby adv|kuai4=quickly v|shui4=sleep v:cop|shi4=is
+	pro:wh|shei2=who v|chang4=sing nom|de ?
+%gra:	1|3|SUBJ 2|3|JCT 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|POSS 8|6|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	外公 唱 的 .
+%mor:	n|wai4gong1=maternal_grandfather v|chang4=sing nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	你 知道 爷爷 在 哪儿 啊 ?
+%mor:	pro|ni3=you v|zhi1dao4=know n:relat|ye2&DIM=grandfather
+	prep|zai4=at pro:wh|na3-DIA=which co|a ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|PREPO 6|2|COM 7|2|PUNCT
+%spa:	$x:dhs $i:yq
+*CHI:	在外 面 .
+%mor:	v|zai4wai4=outside n|mian4=surface .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dhs $i:sa
+*CHI:	哇 好多 书 啊 .
+%mor:	co|哇 quant|hao3duo1=many n|shu1=book sfp|a1 .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%act:	自己玩书 .
+*CHI:	一 个 两 个, 嗯 .
+%mor:	num|yi1=one cl|ge4 num|liang3=two cl|ge4 cm|cm co|en1=okay .
+%gra:	1|2|QUANT 2|4|CLASS 3|2|PQ 4|5|SUBJ 5|0|INCROOT 6|5|COM 7|5|PUNCT
+*CHI:	拿不动 了 .
+%mor:	v|na2bu4dong4=cant_move asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	< 不 给 妈妈>[/] 不 给 妈妈 .
+%mor:	neg|bu4=not prep|gei3=for n:relat|ma1&DIM=mother .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%act:	拿了一本书到边上 .
+*CHI:	喵 喵 .
+%mor:	on|miao1=meow on|miao1=meow .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	喝 完了 .
+%mor:	v|he1=drink tag|wan2le=oh_no .
+%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+%com:	午睡起来看见奶瓶 .
+*CHI:	妈妈 照片 .
+%mor:	n:relat|ma1&DIM=mother n|zhao4pian4=photograph .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	爸爸 照片 .
+%mor:	n:relat|ba4&DIM=father n|zhao4pian4=photograph .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	宝宝 照片 .
+%mor:	n:relat|bao3&DIM=baby n|zhao4pian4=photograph .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看见照片 .
+@End

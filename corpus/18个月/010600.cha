@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	22-JAN-2014
+*CHI:	坐 .
+%mor:	v|zuo4=sit .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	中午乐宝到书房指着椅子 .
+*MOT:	谁 坐 啊 ?
+%mor:	pro:wh|shei2=who v|zuo4=sit sfp|a1 ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	太太 坐 我 坐 .
+%mor:	n|tai4tai4=madame v|zuo4=sit pro|wo3=I v|zuo4=sit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|PUNCT
+%spa:	$x:djf $i:sa
+@End

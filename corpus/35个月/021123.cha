@@ -1,0 +1,131 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,   MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	02-JUL-2015
+*CHI:	我 在 给 它 量 体温 .
+%mor:	pro|wo3=I adv|zai4=currently prep|gei3=for pro|ta1=it
+	v|liang2=estimate n|ti3wen1=body_temperature .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PREPO 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%com:	孩子拿一只笔放玩具小狗腋下 .
+*CHI:	我 来 炒菜 .
+%mor:	pro|wo3=I v:dirc|lai2=come v|chao3cai4=cook .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|PUNCT
+%com:	中午吃饭她把包挂脖子上当围裙 .
+*CHI:	你 起床 啦 .
+%mor:	pro|ni3=you v|qi3chuang2=wake_up sfp|la1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	为什么 你 起床 了 .
+%mor:	adv:wh|wei4shen2me=how_come pro|ni3=you v|qi3chuang2=wake_up asp|le
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dre $i:qn
+%com:	妈妈起床起来上厕所, 孩子跑来问妈妈 .
+*MOT:	尿尿 .
+%mor:	v|niao4&DIM=pee .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	你 吃饭 了 吗 .
+%mor:	pro|ni3=you v|chi1fan4=having_dinner asp|le sfp|ma .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%spa:	$x:dre $i:yq
+*CHI:	没 .
+%mor:	neg|mei2=not .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 肚子 里 还有 一 个 饼 呢 .
+%mor:	pro|wo3=I n|du4-NOM=belly post|li3=inside adv|hai2you3=moreover
+	num|yi1=one cl|ge4 n|bing3=flat_cake sfp|ne .
+%gra:	1|7|MOD 2|7|MOD 3|7|MOD 4|5|JCT 5|6|QUANT 6|7|CLASS 7|0|INCROOT 8|7|SFP
+	9|7|PUNCT
+*CHI:	我 刚刚 肚子 里 还有 一 个 饼 呢 .
+%mor:	pro|wo3=I adv|gang1&DIM=just n|du4-NOM=belly post|li3=inside
+	adv|hai2you3=moreover num|yi1=one cl|ge4 n|bing3=flat_cake sfp|ne .
+%gra:	1|3|SUBJ 2|3|JCT 3|4|POSTO 4|0|INCROOT 5|6|JCT 6|7|QUANT 7|8|CLASS
+	8|4|OBJ 9|4|SFP 10|4|PUNCT
+*CHI:	你 也 跟 我 一起 来 去 看看 吧 .
+%mor:	pro|ni3=you adv|ye3=also prep|gen1=with pro|wo3=I
+	adv|yi1qi3=together v:dirc|lai2=come v:dirc|qu4=go v|kan4&DIM=look
+	sfp|ba .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|8|SUBJ 5|8|JCT 6|5|VD 7|5|VD 8|3|PREPO
+	9|3|SFP 10|3|PUNCT
+%spa:	$x:dnp $i:an
+%com:	孩子跑去去拿饼, 妈妈看南北两个窗户 .
+*CHI:	妈妈 看 这边 和 这边 是 干什么 .
+%mor:	n:relat|ma1&DIM=mother v|kan4=look post|zhe4bian1=this_side
+	conj|he2=and post|zhe4bian1=this_side v:cop|shi4=is
+	v|gan4shen2me=what_do_you_want .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|2|OBJ 4|7|JCT 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|PUNCT
+%spa:	$x:dha $i:qn
+*MOT:	看看 是 晴天 阴天 还是 下雨 天 .
+%mor:	v|kan4&DIM=look v:cop|shi4=is n|qing2tian1=a_sunny_day
+	n|yin1tian1=overcast conj|hai2shi4=or v|xia4yu3=rain n|tian1=day .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|7|MOD 5|7|MOD 6|7|MOD 7|1|OBJ 8|1|PUNCT
+*MOT:	你 说说 看 .
+%mor:	pro|ni3=you v|shuo1&DIM=say v|kan4=look .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	夏天 .
+%mor:	n|xia4tian1=summer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:st
+%com:	出去路上她跟妈妈讲话 .
+*CHI:	妈妈 走 我 这边 .
+%mor:	n:relat|ma1&DIM=mother v:dirc|zou3=go_away pro|wo3=I
+	post|zhe4bian1=this_side .
+%gra:	1|0|INCROOT 2|1|VD 3|4|SUBJ 4|1|VD 5|1|PUNCT
+*CHI:	拉 .
+%mor:	v|la1=pull .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	路上看见鸟 .
+*CHI:	鸟儿 离不开 水 .
+%mor:	n|niao3er2=bird v|li2bu4kai1=cant_leave n|shui3=water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:st
+*MOT:	鱼 儿 离不开 水 .
+%mor:	n|yu2=fish n|er2=kid v|li2bu4kai1=cant_leave n|shui3=water .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:nd
+*CHI:	妈妈 离不开 什么 .
+%mor:	n:relat|ma1&DIM=mother v|li2bu4kai1=cant_leave pro:wh|shen2me=what
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	妈妈 离不开 乐宝 .
+%mor:	n:relat|ma1&DIM=mother v|li2bu4kai1=cant_leave n:name|le4bao3=lebao
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	妈妈 离不开 饭 .
+%mor:	n:relat|ma1&DIM=mother v|li2bu4kai1=cant_leave n|fan4=food .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dnp $i:nd
+*MOT:	什么 饭 .
+%mor:	pro:wh|shen2me=what n|fan4=food .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	老 范 还是 米饭 .
+%mor:	adj|lao3=old n:fam|fan4=Fan conj|hai2shi4=or n|mi3fan4=cooked_rice
+	.
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	米饭 .
+%mor:	n|mi3fan4=cooked_rice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	昨天 回 不 回 蜀南庭院 .
+%mor:	n|zuo2tian1=yesterday v:dirc|hui2=back neg|bu4=not v:dirc|hui2=back
+	n:geo|shu3nan2ting2yuan4=the_courtyard_of_the_south_of_shu .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|VD 5|1|VD 6|1|PUNCT
+%spa:	$x:dnp $i:tq
+*MOT:	昨天 .
+%mor:	n|zuo2tian1=yesterday .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:eq
+*CHI:	明天 妈妈 回 不 回 蜀南庭院 .
+%mor:	n|ming2tian1=tomorrow n:relat|ma1&DIM=mother v:dirc|hui2=back
+	neg|bu4=not v:dirc|hui2=back
+	n:geo|shu3nan2ting2yuan4=the_courtyard_of_the_south_of_shu .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|VD 4|2|VD 5|2|VD 6|2|VD 7|2|PUNCT
+%spa:	$x:dnp $i:tq
+@End

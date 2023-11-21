@@ -1,0 +1,108 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.04|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	26-JAN-2014
+*CHI:	宝宝 生气 了 .
+%mor:	n:relat|bao3&DIM=baby v|sheng1qi4=get_angry asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	早上妈妈没有陪她玩 .
+%act:	拿着玩具娃娃的手 .
+*CHI:	搞 哇哇 .
+%mor:	v|gao3=work co|哇&DIM .
+%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+%com:	搞哇哇是一种游戏 .
+*CHI:	小娃娃 倒 .
+%mor:	n|xiao3wa2wa2=dolls v|dao3=fall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	看见娃娃倒了 .
+*CHI:	拿 着 .
+%mor:	v|na2=hold asp|zhe .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	接过了妈妈给自己的碗 .
+*CHI:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝指着家里的东西让妈妈回答 .
+*CHI:	0 .
+%act:	得意地笑 .
+%com:	本来妈妈说家里东西的英语名称, 碰到一些事物的名称说不出来了 .
+*MOT:	你 指 别的 东西 让 我 说 吧 .
+%mor:	pro|ni3=you v|zhi3=point_out pro|bie2de=other n|dong1xi=thing
+	v|rang4=allow pro|wo3=I v|shuo1=say sfp|ba .
+%gra:	1|2|SUBJ 2|7|CJCT 3|5|SUBJ 4|5|SUBJ 5|2|OBJ 6|7|SUBJ 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	0 .
+%spa:	$x:nia $i:ad
+%com:	指了一两个东西之后发现妈妈可以说出相应的英语名称, 又指向刚才妈妈不会说的东西了 .
+*MOT:	蚊帐 是 xxx .
+%mor:	n|wen2zhang4=mosquito_net v:cop|shi4=is .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:st
+%com:	妈妈刚才去查了英语词典, 告诉了乐宝蚊帐的英语名称 .
+*CHI:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:qn
+%act:	指着奶嘴 .
+*CHI:	闹钟 响 .
+%mor:	n|nao4zhong1=alarm_clock adj|xiang3=sonorous .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	午睡起来听到手机闹钟响 .
+*CHI:	牙膏 牙膏 去 拿 牙膏 抹 .
+%mor:	n|ya2gao1=toothpaste n|ya2gao1=toothpaste v:dirc|qu4=go v|na2=hold
+	n|ya2gao1=toothpaste v|mo3=brush_wipe_off .
+%gra:	1|2|MOD 2|6|SUBJ 3|2|VD 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%com:	之前乐宝拿着杯子喝水摔倒撞到嘴, 妈妈用牙膏抹了, 现在又撞到了 .
+*CHI:	蘑菇 .
+%mor:	n|mo2gu=mushroom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	看着枕头 .
+*CHI:	油烟 机 搞 开 .
+%mor:	n|you2yan1=lampblack n|ji1=machine v|gao3=work v:resc|kai1=open .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+%com:	妈妈做饭的时候没开油烟机, 乐宝看见了 .
+*CHI:	碗 拿来 勺子 拿来 都 拿来 .
+%mor:	n|wan3=bowl v|na2lai2=bring n|shao2-NOM=spoon v|na2lai2=bring
+	adv|dou1=all v|na2lai2=bring .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%com:	晚饭时间, 乐宝想要吃饭 .
+*CHI:	馒头 包子 .
+%mor:	n|man2tou=steamed_bun n|bao1-NOM=bag .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看见了馒头 .
+*CHI:	好 烫 .
+%mor:	adv|hao3=very adj|tang4=scald .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	看见妈妈在向馒头吹气 .
+*CHI:	放 这 .
+%mor:	v|fang4=put pro|zhe4=this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	乐宝把碗放桌子上 .
+*CHI:	拿 着 .
+%mor:	v|na2=hold asp|zhe .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	晚上妈妈用手喂乐宝吃橙子, 她不愿意被妈妈喂, 要自己拿着吃 .
+*CHI:	坐 吃饭 了 坐 吃饭 了 .
+%mor:	v|zuo4=sit v|chi1fan4=having_dinner asp|le v|zuo4=sit
+	v|chi1fan4=having_dinner asp|le .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	乐宝自己玩游戏, 坐在小凳子上 .
+*CHI:	掉 地上 .
+%mor:	v:resc|diao4=drop n|di4shang4=on_the_ground .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看见西梅掉在地上 .
+*CHI:	屁屁 洗 过 du 了 .
+%mor:	n|pi4&DIM=fart v|xi3=wash asp|guo4 co|du=du asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|OBJ 6|2|PUNCT
+%com:	将盆子放在地上 .
+*CHI:	一起 坐 .
+%mor:	adv|yi1qi3=together v|zuo4=sit .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	乐宝把小凳子放椅子上, 坐在上面 .
+@End

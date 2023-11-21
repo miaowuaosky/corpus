@@ -1,0 +1,112 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;01.27|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	18-SEP-2014
+*CHI:	我 不 睡 了 .
+%mor:	pro|wo3=I neg|bu4=not v|shui4=sleep asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝起来 .
+*CHI:	妈妈 打 哈欠 .
+%mor:	n:relat|ma1&DIM=mother v|da3=hit n|ha1qian4=yawn .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	自己打哈欠对妈妈 .
+*CHI:	外公 呢 ?
+%mor:	n|wai4gong1=maternal_grandfather sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	外公出门 .
+*MOT:	去 带 雨晨 妹妹 了 .
+%mor:	v:dirc|qu4=go v|dai4=bring n:name|yu3chen2=the_morning_rain
+	n:relat|mei4&DIM=younger_sister asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	外公 带 雨晨 妹妹 干什么 ?
+%mor:	n|wai4gong1=maternal_grandfather v|dai4=bring
+	n:name|yu3chen2=the_morning_rain n:relat|mei4&DIM=younger_sister
+	v|gan4shen2me=what_do_you_want ?
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	舅舅 舅妈 上班 了 .
+%mor:	n|jiu4jiu4=mothers_brother n|jiu4ma1=aunt v|shang4ban1=start_work
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	外公 去 照顾 妹妹 了 .
+%mor:	n|wai4gong1=maternal_grandfather v:dirc|qu4=go
+	v|zhao4gu4=look_after n:relat|mei4&DIM=younger_sister asp|le .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|VD 5|1|VD 6|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	外婆 睡着 了 .
+%mor:	n|wai4po2=maternal_grandmother n|shui4zhe=sleep asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%com:	听见外婆打呼 .
+*MOT:	要是 把 你 一个人 留 在 家里 不行 .
+%mor:	conj|yao4shi4=if prep|ba3=object_marker pro|ni3=you
+	adv|yi1geren2=alone v|liu2=retain prep|zai4=at n|jia1li3=home
+	v|bu4xing2=no_way .
+%gra:	1|8|SUBJ 2|8|JCT 3|5|SUBJ 4|5|JCT 5|2|PREPO 6|2|PREPO 7|6|PREPO
+	8|0|ROOT 9|8|PUNCT
+*CHI:	也 坐 不了 .
+%mor:	adv|ye3=also v|zuo4=sit adv|bu2liao3=cannot .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	也 看不见 爸爸 和 妈妈 .
+%mor:	adv|ye3=also v|kan4bu2jian4=unseen n:relat|ba4&DIM=father
+	conj|he2=and n:relat|ma1&DIM=mother .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	也 看不见 书 .
+%mor:	adv|ye3=also v|kan4bu2jian4=unseen n|shu1=book .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	要 带 乐宝 的 围嘴 这 是 雨晨 的 .
+%mor:	v:aux|yao4=should v|dai4=bring n:name|le4bao3=lebao poss|de
+	n|wei2zui3=bib pro|zhe4=this v:cop|shi4=is
+	n:name|yu3chen2=the_morning_rain poss|de .
+%gra:	1|2|AUX 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|OBJ 6|7|SUBJ 7|2|ROOT 8|2|PRED
+	9|2|POSS 10|2|PUNCT
+%com:	乐宝吃饭 .
+*CHI:	把 这个 打开 .
+%mor:	prep|ba3=object_marker pro|zhe4ge4=this v|da3kai1=unscrew .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%com:	让妈妈打开巴旦木袋子 .
+*MOT:	乐宝 的 小 手 .
+%mor:	n:name|le4bao3=lebao poss|de adj|xiao3=small n|shou3=hand .
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dha $i:st
+%act:	妈妈指乐宝手 .
+*CHI:	妈妈 的 大 手 .
+%mor:	n:relat|ma1&DIM=mother poss|de adj|da4=great n|shou3=hand .
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dha $i:st
+%act:	然后乐宝伸妈妈的手 .
+*CHI:	这 是 谁 的 碗 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shei2=who poss|de n|wan3=bowl ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|OBJ 6|2|PUNCT
+%act:	乐宝指装咸菜的碗 .
+*CHI:	拉 完 以后 再 出来 .
+%mor:	v|la1=pull v:resc|wan2=finish post|yi3hou4=afterwards
+	adv|zai4=again v|chu1lai2=come_forward .
+%gra:	1|5|COM 2|1|VR 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%com:	在房间拉粑粑妈妈把门关上 .
+*CHI:	妈妈 吃 什么 ?
+%mor:	n:relat|ma1&DIM=mother v|chi1=eat pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	看见妈妈嘴在动 .
+*CHI:	淌 汗 了 .
+%mor:	v|tang3=drip n|han4=sweat asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	拉粑粑 .
+*CHI:	这么 远 的 地方 也 够 不到 .
+%mor:	adv|zhe4me=like_this adj|yuan3=distant nom|de n|di4fang1=place
+	adv|ye3=also adv|gou4=enough adv|bu2dao4=not_to .
+%gra:	1|2|JCT 2|6|CJCT 3|4|MOD 4|2|OBJ 5|6|JCT 6|7|JCT 7|0|INCROOT 8|7|PUNCT
+%act:	乐宝指房间 .
+*CHI:	那么 远 的 地方 也 .
+%mor:	adv|na4me=like_that adj|yuan3=distant nom|de n|di4fang1=place
+	adv|ye3=also .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|2|COM 6|2|PUNCT
+%act:	乐宝指房间 .
+@End

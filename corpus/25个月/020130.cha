@@ -1,0 +1,147 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, PAR Participant
+@ID:	zho|FLZ|CHI|02;01.30|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|PAR||female|||Participant|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	21-SEP-2014
+*CHI:	大 馒头 大 馒头 .
+%mor:	adj|da4=great n|man2tou=steamed_bun adj|da4=great
+	n|man2tou=steamed_bun .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝看见馒头端上桌 .
+*CHI:	妈妈 眼睛 睁 不 开 乐宝 眼睛 也 睁 不 开 .
+%mor:	n:relat|ma1&DIM=mother n|yan3jing1=eye v|zheng1=open neg|bu4=not
+	v:resc|kai1=open n:name|le4bao3=lebao n|yan3jing1=eye adv|ye3=also
+	v|zheng1=open neg|bu4=not v:resc|kai1=open .
+%gra:	1|3|SUBJ 2|3|JCT 3|9|SUBJ 4|9|JCT 5|4|VR 6|9|JCT 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|11|NEG 11|9|VR 12|9|PUNCT
+%com:	阳光照妈妈眼睛 .
+*CHI:	妈妈 拿 回去 .
+%mor:	n:relat|ma1&DIM=mother v|na2=hold v|hui2qu4=return .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	把扫把递给妈妈 .
+*CHI:	你 看 两 只 脚 马桶 的 腿 .
+%mor:	pro|ni3=you v|kan4=look num|liang3=two adv|zhi3=only n|jiao3=foot
+	n|ma3tong3=nightstool poss|de n|tui3=leg .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PQ 4|6|JCT 5|6|MOD 6|2|OBJ 7|8|MOD 8|2|OBJ
+	9|2|PUNCT
+%act:	翻开马桶 .
+*CHI:	鼻涕 流出 来 了 .
+%mor:	n|bi2ti4=nasal_mucus v|liu2chu1=flow_out v:dirc|lai2=come asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	告诉我 .
+*CHI:	鳄鱼 好 喜欢 你 .
+%mor:	n|e4yu1=crocodile adv|hao3=very v|xi3huan1=like pro|ni3=you .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	看书 .
+*CHI:	我 小鸡 喜欢 我 .
+%mor:	pro|wo3=I n|xiao3ji1=chick v|xi3huan1=like pro|wo3=I .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	看书 .
+*CHI:	放鞭炮 时候 要 捂 着 耳朵 .
+%mor:	v|fang4bian1pao4=set_off_firecrackers n|shi2hou4=time
+	v:aux|yao4=should v|wu3=cover_with_hands asp|zhe n|er3duo3=ear .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%com:	在太太房间自语 .
+*CHI:	我 吐 到 垃圾桶 .
+%mor:	pro|wo3=I v|tu3=spit v:resc|dao4=arrive n|le4se4tong3=refuse_bin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|OBJ 5|2|PUNCT
+%com:	咳嗽 .
+*CHI:	要看 电视 有 没有 了 .
+%mor:	v|yao4kan4=to_see n|dian4shi4=television v|you3=have
+	neg|mei2you3=not_have asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|NEG 5|3|OBJ 6|3|PUNCT
+%com:	在房间 .
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	出来看 .
+*CHI:	又 咳嗽 又 放屁 .
+%mor:	adv|you4=again v|ke2sou4=cough adv|you4=again v|fang4pi4=fart .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	自己放屁咳嗽 .
+*CHI:	到 外公 房间 去 剪 .
+%mor:	v:resc|dao4=arrive n|wai4gong1=maternal_grandfather
+	n|fang2jian1=room v:dirc|qu4=go v|jian3=cut_with_scissors .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|3|VD 5|0|ROOT 6|5|PUNCT
+%act:	指手 .
+*CHI:	到 外公 房间 擦 这个 .
+%mor:	v:resc|dao4=arrive n|wai4gong1=maternal_grandfather
+	n|fang2jian1=room v|ca1=wipe pro|zhe4ge4=this .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	指手 .
+*CHI:	四 乐宝 脚趾 甲 要 剪 .
+%mor:	num|si4=four n:name|le4bao3=lebao n|jiao3zhi3=toe cl|jia3
+	v:aux|yao4=should v|jian3=cut_with_scissors .
+%gra:	1|3|QUANT 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%com:	妈妈剪指甲 .
+*CHI:	大 的 日历 再 撕 .
+%mor:	adj|da4=great nom|de n|ri4li4=calendar adv|zai4=again v|si1=tear .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%com:	乐宝撕到一片大的日历纸 .
+*MOT:	外公 赢 钱 了 给 你 买好 吃 的 .
+%mor:	n|wai4gong1=maternal_grandfather v|ying2=win n|qian2=money asp|le
+	prep|gei3=for pro|ni3=you v|mai3hao3=buy v|chi1=eat nom|de .
+%gra:	1|2|SUBJ 2|8|CJCT 3|2|OBJ 4|8|SUBJ 5|8|JCT 6|7|SUBJ 7|5|PREPO 8|0|ROOT
+	9|8|POSS 10|8|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	外公 给 乐宝 吃 的 .
+%mor:	n|wai4gong1=maternal_grandfather prep|gei3=for n:name|le4bao3=lebao
+	v|chi1=eat nom|de .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|POSS 6|4|PUNCT
+%spa:	$x:nia $i:st
+%com:	乐宝过一会 .
+*PAR:	可好 了 ?
+%mor:	v|ke3hao3=good asp|le ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dhs $i:tq
+%com:	太太问乐宝 .
+*CHI:	没 .
+%mor:	neg|mei2=not .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dhs $i:ta
+*MOT:	咳 一下 .
+%mor:	v|ke2=cough adv|yi1xia4=a_bit .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	en .
+%mor:	co|en .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+%act:	摇头表示拒绝 .
+*CHI:	咳 过 了 .
+%mor:	v|ke2=cough v:dirc|guo4=pass asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	阿姨 会 翻跟头 是 叔叔 翻跟头 .
+%mor:	a1#n:relat|yi2=familiar_mothers_sister v:aux|hui4=will
+	v|fan1gen1tou2=somersault v:cop|shi4=is n:relat|shu2&DIM=uncle
+	v|fan1gen1tou2=somersault .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%com:	看广场舞表演 .
+*CHI:	外婆 还 没 好 .
+%mor:	n|wai4po2=maternal_grandmother adv|hai2=still neg|mei2=not
+	adj|hao3=good .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%com:	看见外婆起床上厕所 .
+*CHI:	唱 好多 摇篮曲 .
+%mor:	v|chang4=sing quant|hao3duo1=many n|yao2lan2qu3=lullaby .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	唱 完 一首 摇篮曲, 让 妈妈 唱 其他 摇篮曲 .
+*CHI:	尿 到 南瓜 尿 到 地上 尿 到 水 瓶 .
+%mor:	v|niao4=pee v:resc|dao4=arrive n|nan2gua1=pumpkin v|niao4=pee
+	v:resc|dao4=arrive n|di4shang4=on_the_ground v|niao4=pee
+	v:resc|dao4=arrive n|shui3=water n|ping2=bottle .
+%gra:	1|7|SUBJ 2|3|MOD 3|1|OBJ 4|7|JCT 5|4|VR 6|7|SUBJ 7|0|ROOT 8|7|VR
+	9|10|MOD 10|7|OBJ 11|7|PUNCT
+%com:	尿尿 .
+*CHI:	尿 到 水 瓶 就 烫 死 了 .
+%mor:	v|niao4=pee v:resc|dao4=arrive n|shui3=water n|ping2=bottle
+	adv|jiu4=just v|tang4=scald v:resc|si3=die asp|le .
+%gra:	1|6|SUBJ 2|1|VR 3|4|MOD 4|1|OBJ 5|6|JCT 6|0|ROOT 7|6|VR 8|6|OBJ
+	9|6|PUNCT
+@End

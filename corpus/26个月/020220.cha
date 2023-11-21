@@ -1,0 +1,116 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|02;02.20|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	12-OCT-2014
+*CHI:	我 放屁 了 .
+%mor:	pro|wo3=I v|fang4pi4=fart asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	放屁 .
+*CHI:	大 的 少 咬 一点 .
+%mor:	adj|da4=great nom|de adj|shao3=little v|yao3=bite
+	adv|yi1dian3=a_bit .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%com:	要吃包子 .
+*CHI:	乐宝 自己 穿 的 鞋 .
+%mor:	n:name|le4bao3=lebao pro|zi4ji3=self v|chuan1=put_on nom|de
+	n|xie2=shoe .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%act:	自己穿鞋 .
+*CHI:	乐宝 自己 擦 的 屁股 .
+%mor:	n:name|le4bao3=lebao pro|zi4ji3=self v|ca1=wipe nom|de
+	n|pi4gu3=buttocks .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%act:	自己尿尿擦屁股 .
+*CHI:	乐宝 说 的 合肥 话 .
+%mor:	n:name|le4bao3=lebao v|shuo1=say nom|de n:geo|he2fei2=hefei
+	n|hua4=speech .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%act:	说合肥话 .
+*CHI:	妈妈 抱抱 看看 .
+%mor:	n:relat|ma1&DIM=mother v|bao4&DIM=hug v|kan4&DIM=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	要看广场表演 .
+*MOT:	看不见 .
+%mor:	v|kan4bu2jian4=unseen .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+*CHI:	看不见 .
+%mor:	v|kan4bu2jian4=unseen .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:st
+*CHI:	在 好 远 好 远 的 地方 .
+%mor:	adv|zai4=currently adv|hao3=very adj|yuan3=distant adv|hao3=very
+	adj|yuan3=distant nom|de n|di4fang1=place .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|5|JCT 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	要看 乐宝 的 手机 .
+%mor:	v|yao4kan4=to_see n:name|le4bao3=lebao poss|de
+	n|shou3ji1=cell_phone .
+%gra:	1|0|ROOT 2|4|MOD 3|2|POSS 4|1|OBJ 5|1|PUNCT
+%spa:	$x:nia $i:si
+%com:	要看爸爸手机 .
+*FAT:	没电 了 .
+%mor:	v|mei2dian4=no_electricity asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	乐宝 按 一下 可 有电 .
+%mor:	n:name|le4bao3=lebao v|an4=press adv|yi1xia4=a_bit
+	adv|ke3=on_the_contrary v|you3dian4=electric .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:nia $i:si
+*MOT:	乐宝 背 着 书包 干嘛 .
+%mor:	n:name|le4bao3=lebao v|bei1=back asp|zhe n|shu1bao1=bookbag
+	v|gan4ma=what_to_do .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	我 要 去 上学 .
+%mor:	pro|wo3=I v:aux|yao4=should v:dirc|qu4=go
+	v|shang4xue2=attend_school .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dhs $i:dp
+*CHI:	这 就是 乐宝 的 妈妈 .
+%mor:	pro|zhe4=this co:int|jiu4shi4=that_is n:name|le4bao3=lebao poss|de
+	n:relat|ma1&DIM=mother .
+%gra:	1|2|DET 2|0|INCROOT 3|5|MOD 4|3|POSS 5|2|OBJ 6|2|PUNCT
+%act:	拍妈妈胸口 .
+*CHI:	这 是 烫 水 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|tang4=scald n|shui3=water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	不能 摸 .
+%mor:	v:aux|bu4neng2=cannot v|mo1=touch .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*CHI:	摸 乐宝 就 哭 了 .
+%mor:	v|mo1=touch n:name|le4bao3=lebao adv|jiu4=just v|ku1=cry asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	指水瓶 .
+*CHI:	乐宝 感冒 好 了 .
+%mor:	n:name|le4bao3=lebao v|gan3mao4=catch_cold adj|hao3=good asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	可以 吃 .
+%mor:	v:aux|ke3yi3=may v|chi1=eat .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*CHI:	乐宝 没有 感冒 .
+%mor:	n:name|le4bao3=lebao neg|mei2you3=not_have v|gan3mao4=catch_cold .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+*CHI:	这 象 一 个 葡萄 .
+%mor:	pro|zhe4=this n|xiang4=elephant num|yi1=one cl|ge4 n|pu2tao2=grape
+	.
+%gra:	1|5|DET 2|5|MOD 3|4|QUANT 4|5|CLASS 5|0|INCROOT 6|5|PUNCT
+*CHI:	这 象 两 个 葡萄 .
+%mor:	pro|zhe4=this n|xiang4=elephant num|liang3=two cl|ge4
+	n|pu2tao2=grape .
+%gra:	1|5|DET 2|5|MOD 3|2|PQ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%act:	拿 两个 桔子 .
+*CHI:	袖子 卷 这么 高 .
+%mor:	n|xiu4zi=sleeve v|juan3=roll_up adv|zhe4me=like_this adj|gao1=tall
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|OBJ 5|2|PUNCT
+%act:	指妈妈袖子 .
+@End

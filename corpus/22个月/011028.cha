@@ -1,0 +1,144 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.28|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	19-JUN-2014
+*CHI:	天鹅 在 喝 奶 .
+%mor:	n|tian1e2=Cygnus_columbianus_bewickii adv|zai4=currently
+	v|he1=drink n|nai3=milk .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	指着安大池塘天鹅 .
+*CHI:	给 小 麻雀 .
+%mor:	prep|gei3=for adj|xiao3=small n|ma2que4=sparrow .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|PREPO 4|1|PUNCT
+%act:	拿桃子 .
+*CHI:	我 看看 摇椅 子 有 没有 人 .
+%mor:	pro|wo3=I v|kan4&DIM=look n|yao2yi3=rocking_chair n|zi3=master
+	v|you3=have neg|mei2you3=not_have n|ren2=person .
+%gra:	1|2|SUBJ 2|5|JCT 3|4|MOD 4|2|OBJ 5|0|ROOT 6|7|NEG 7|5|OBJ 8|5|PUNCT
+%com:	在小区门口 .
+*CHI:	到 那边 坐 一下 .
+%mor:	v:resc|dao4=arrive post|na4bian1=that_side v|zuo4=sit
+	adv|yi1xia4=a_bit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	在香樟大道指着小区广场 .
+*CHI:	不 坐 了 .
+%mor:	neg|bu4=not v|zuo4=sit asp|le .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	坐摇椅起身 .
+*CHI:	宝宝 看 到 黄梅戏 了 .
+%mor:	n:relat|bao3&DIM=baby v|kan4=look v:resc|dao4=arrive
+	n|huang2mei2xi4=huangmei_opera asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%com:	妈妈给乐宝看黄梅戏碟子 .
+*CHI:	叔叔 跑 得 快 .
+%mor:	n:relat|shu2&DIM=uncle v|pao3=run cpt|de adv|kuai4=quickly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|INCROOT 5|4|PUNCT
+%com:	看叔叔踢足球 .
+*CHI:	穿 鞋 走路 .
+%mor:	v|chuan1=put_on n|xie2=shoe v|zou3lu4=walk .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	不想坐沙发 .
+*CHI:	人家 的 足球 .
+%mor:	pro|ren2jia1=people poss|de n|zu2qiu2=soccer .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	指着电视的足球 .
+*CHI:	球 球 高 高 .
+%mor:	n|qiu2=ball n|qiu2=ball adj|gao1=tall adj|gao1=tall .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%com:	球员踢球很高 .
+*CHI:	穿 鞋 打球 .
+%mor:	v|chuan1=put_on n|xie2=shoe v|da3qiu2=play_a_ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	不想坐沙发 .
+*CHI:	乐宝 的 大象 .
+%mor:	n:name|le4bao3=lebao poss|de n|da4xiang4=elephant .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+*CHI:	动物园 看 到 大象 .
+%mor:	n|dong4wu4yuan2=zoo v|kan4=look v:resc|dao4=arrive
+	n|da4xiang4=elephant .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|OBJ 5|2|PUNCT
+%act:	指着书里的大象 .
+*CHI:	这里 有 胡子 .
+%mor:	post|zhe4li3=here v|you3=have n|hu2zi3=beard .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	摸 爸爸 下巴 .
+*CHI:	我 看 报纸 .
+%mor:	pro|wo3=I v|kan4=look n|bao4zhi3=newspaper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	坐沙发拿起报纸翻 .
+*CHI:	水 冲 一下 .
+%mor:	n|shui3=water v|chong1=charge adv|yi1xia4=a_bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	妈妈上完厕所 .
+*CHI:	这不 是 妈妈 .
+%mor:	adv|zhe4bu4=see v:cop|shi4=is n:relat|ma1&DIM=mother .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	看老照片时 .
+*CHI:	要 妈妈 钥匙 .
+%mor:	v:aux|yao4=should n:relat|ma1&DIM=mother n|yao4shi=key .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	吃饭时 .
+*CHI:	刚刚 放 炮 了 .
+%mor:	adv|gang1&DIM=just v|fang4=put n|pao4=heavy_weapon asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	放炮结束 .
+*CHI:	小豆 豆 要不 要 钥匙 啊 ?
+%mor:	n|xiao3dou4=adzuki_beans n|dou4=small_ball conj|yao4bu4=otherwise
+	v:aux|yao4=should n|yao4shi=key sfp|a1 ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|5|MOD 5|3|OBJ 6|3|SFP 7|3|PUNCT
+%act:	拿钥匙问豆豆 .
+*CHI:	好 可惜 .
+%mor:	adv|hao3=very adj|ke3xi1=what_a_pity .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%act:	扔袜子 .
+*MOT:	谁 画 的 ?
+%mor:	pro:wh|shei2=who v|hua4=draw nom|de ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	阿姨 画 的 .
+%mor:	a1#n:relat|yi2=familiar_mothers_sister v|hua4=draw nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|PUNCT
+%spa:	$x:drp $i:sa
+%act:	指着阿姨 .
+*CHI:	我们 打 这个 球 .
+%mor:	pro|wo3-PL=I v|da3=hit pro|zhe4ge4=this n|qiu2=ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	想跟妈妈玩球 .
+*CHI:	妈妈 想 问题 .
+%mor:	n:relat|ma1&DIM=mother v:aux|xiang3=want n|wen4ti2=problem .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	妈妈托手找手机 .
+*MOT:	留给 外婆 .
+%mor:	v|liu2gei3=retain_reserve_for n|wai4po2=maternal_grandmother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	剩一点饼干 .
+*CHI:	夹子 夹 住 .
+%mor:	n|jia2-NOM=clip v|jia2=squeeze v:resc|zhu4=inhabit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|PUNCT
+%spa:	$x:nia $i:si
+%act:	乐宝拿一个夹子 .
+*CHI:	地上 好多 尿 .
+%mor:	n|di4shang4=on_the_ground quant|hao3duo1=many n|niao4=urine .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	乐宝拉粑粑时尿地上 .
+*CHI:	乐宝 的 气球 没 炸 .
+%mor:	n:name|le4bao3=lebao poss|de n|qi4qiu2=balloon neg|mei2=not
+	v|zha4=fry .
+%gra:	1|5|COM 2|1|POSS 3|5|SUBJ 4|5|NEG 5|0|ROOT 6|5|PUNCT
+%spa:	$x:drp $i:st
+*MOT:	在 哪里 ?
+%mor:	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	在 这边 .
+%mor:	prep|zai4=at post|zhe4bian1=this_side .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:drp $i:sa
+%act:	乐宝指着气球 .
+@End

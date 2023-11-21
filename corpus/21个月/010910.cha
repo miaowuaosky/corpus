@@ -1,0 +1,62 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.10|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	02-MAY-2014
+*MOT:	乐宝 你 的 手 怎么 这么 脏 ?
+%mor:	n:name|le4bao3=lebao pro|ni3=you poss|de n|shou3=hand
+	adv:wh|zen3me=how adv|zhe4me=like_this adj|zang1=dirty ?
+%gra:	1|5|MOD 2|1|OBJ 3|1|POSS 4|5|MOD 5|0|INCROOT 6|7|JCT 7|5|OBJ 8|5|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	刚刚 扶栏 杆 了 .
+%mor:	adv|gang1&DIM=just n|fu2lan2=handrailing n|gan1=pole asp|le .
+%gra:	1|3|JCT 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	你 吃 .
+%mor:	pro|ni3=you v|chi1=eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝想吃核桃 .
+*CHI:	爸爸 的 手机 响 .
+%mor:	n:relat|ba4&DIM=father poss|de n|shou3ji1=cell_phone
+	adj|xiang3=sonorous .
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	妈妈 手机 响 .
+%mor:	n:relat|ma1&DIM=mother n|shou3ji1=cell_phone adj|xiang3=sonorous .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	乐宝听见爸爸手机声 .
+*MOT:	我们 去 看 另外 一 个 电脑 可以 吗 ?
+%mor:	pro|wo3-PL=I v:dirc|qu4=go v|kan4=look adv|ling4wai4=moreover
+	num|yi1=one cl|ge4 n|dian4nao3=computer adj|ke3yi3=not_bad sfp|ma ?
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|5|JCT 5|3|OBJ 6|8|MOD 7|8|MOD 8|3|OBJ
+	9|3|SFP 10|3|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:ad
+*CHI:	关上 了 .
+%mor:	v|guan1shang4=shut asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:nia $i:st
+%com:	乐宝盖上电脑打不开跑来告诉妈妈 .
+*MOT:	你 自己 打开 可以 吗 ?
+%mor:	pro|ni3=you pro|zi4ji3=self v|da3kai1=unscrew adj|ke3yi3=not_bad
+	sfp|ma ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%spa:	$x:nia $i:yq
+*CHI:	拿不动 .
+%mor:	v|na2bu4dong4=cant_move .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:an
+%com:	想说打不开 .
+*CHI:	差一点 撞 到 墙 了 .
+%mor:	adv|cha4yi1dian3=almost v|zhuang4=run_into v:resc|dao4=arrive
+	n|qiang2=wall asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VR 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%act:	乐宝推车 .
+%com:	撞发音如zan4 .
+@End

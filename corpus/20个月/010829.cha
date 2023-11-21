@@ -1,0 +1,72 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, PAR Participant
+@ID:	zho|FLZ|CHI|01;08.29|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|PAR||female|||Participant|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	20-APR-2014
+*CHI:	玩 这个 虫 虫 .
+%mor:	v|wan2=play pro|zhe4ge4=this n|chong2=bug n|chong2=bug .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	乐宝指着玩具 .
+*MOT:	袜子 在 哪里 ?
+%mor:	n|wa4zi=socks prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 这里 .
+%mor:	prep|zai4=at post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	乐宝找到了袜子 .
+*CHI:	男 太太 来 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame v:dirc|lai2=come asp|le .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	听见曾祖父脚步声 .
+*PAR:	男 太太 在 哪儿 ?
+%mor:	adj|nan2=male n|tai4tai4=madame prep|zai4=at pro:wh|na3-DIA=which ?
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	走 了 .
+%mor:	v:dirc|zou3=go_away asp|le .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	男 太太 又 走 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame adv|you4=again v:dirc|zou3=go_away
+	asp|le .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|VD 5|0|INCROOT 6|5|PUNCT
+%com:	男太太出门回来又出去了, 乐宝对妈妈说话 .
+*CHI:	有 个 大 包 .
+%mor:	v|you3=have cl|ge4 adj|da4=great n|bao1=bag .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	看见妈妈胳膊的皮炎 .
+*CHI:	打开 湿巾 .
+%mor:	v|da3kai1=unscrew n|shi1jin1=wipes .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝想让妈妈帮忙 .
+*CHI:	打开 了 .
+%mor:	v|da3kai1=unscrew asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	自己打开了 .
+*CHI:	梳子 把 它 拿下 来 好 吗 ?
+%mor:	n|shu1zi=comb prep|ba3=object_marker pro|ta1=it v|na3xia4=won
+	v:dirc|lai2=come adj|hao3=good sfp|ma ?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|VD 6|4|VD 7|4|SFP 8|4|PUNCT
+%com:	乐宝躺在太太床上指着柜子 .
+*CHI:	还有 女 太太 来 了 .
+%mor:	adv|hai2you3=moreover adj|nü3=female n|tai4tai4=madame
+	v:dirc|lai2=come asp|le .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%com:	乐宝见到曾祖父回来曾祖母还没回来指着门说 .
+*MOT:	看看 可 来 了 ?
+%mor:	v|kan4&DIM=look adv|ke3=on_the_contrary v:dirc|lai2=come asp|le ?
+%gra:	1|0|ROOT 2|4|JCT 3|2|VD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:nia $i:tq
+%act:	妈妈指着猫眼 .
+*CHI:	不 来 .
+%mor:	neg|bu4=not v:dirc|lai2=come .
+%gra:	1|0|INCROOT 2|1|VD 3|1|PUNCT
+%spa:	$x:nia $i:ta
+@End

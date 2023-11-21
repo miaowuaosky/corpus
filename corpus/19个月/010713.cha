@@ -1,0 +1,71 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, GRA Grandfather
+@ID:	zho|FLZ|CHI|01;07.13|female|||Child|||
+@ID:	zho|Li|GRA||male|||Grandfather|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	07-MAR-2014
+*CHI:	长 长 的 .
+%mor:	v|zhang3=grow adj|chang2=long nom|de .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POSS 4|1|PUNCT
+%act:	乐宝捞起拖出来的面饼 .
+*GRA:	今天 我们 到 男 太太 家 去 .
+%mor:	n|jin1tian1=today pro|wo3-PL=I prep|dao4=up_until n|nan2=male
+	n|tai4tai4=madame n|jia1=family v:dirc|qu4=go .
+%gra:	1|6|MOD 2|6|MOD 3|5|MOD 4|5|MOD 5|6|MOD 6|0|INCROOT 7|6|VD 8|6|PUNCT
+%spa:	$x:drp $i:st
+%com:	外公给乐宝穿衣服的时候跟乐宝说话 .
+*CHI:	还有 女 太太 呢 .
+%mor:	adv|hai2you3=moreover adj|nü3=female n|tai4tai4=madame sfp|ne .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:drp $i:st
+*CHI:	晃一晃 .
+%mor:	v|huang3&PAT=shake .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝晃水杯, 想说晃一晃, 晃发音确是fang4 .
+*CHI:	站起来 .
+%mor:	v|zhan4qilai2=stand_up .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝坐着想起来, 对妈妈表达意愿 .
+*CHI:	骑车 到 妈妈 .
+%mor:	v|qi2che1=ride_a_bike v:resc|dao4=arrive n:relat|ma1&DIM=mother .
+%gra:	1|3|CJCT 2|1|VR 3|0|INCROOT 4|3|PUNCT
+%act:	晚上骑妹妹的车 .
+*CHI:	妈妈 我 想 搭 积木 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v:aux|xiang3=want v|da1=put_up
+	n|ji1mu4=toy_building_bricks .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|AUX 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	乐宝站在垫子上对妈妈说话 .
+*CHI:	摔倒 了 .
+%mor:	v|shuai1dao3=fall asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	积木 倒 了 .
+*CHI:	转 不过 来 啦 .
+%mor:	adv|tu1=repeatly adv|bu2guo4=merely v:dirc|lai2=come sfp|la1 .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|VD 4|2|SFP 5|2|PUNCT
+%com:	骑车转不了弯, 啦发音如na4 .
+*CHI:	拿 不 动 啦 .
+%mor:	v|na2=hold neg|bu4=not v|dong4=move sfp|la1 .
+%gra:	1|3|CJCT 2|3|NEG 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%com:	乐宝从桌子底下拿体重计, 拖了一半, 觉得太重了, 啦发音似na4 .
+*CHI:	我 要 < 拉大便> [//] 拉 粑粑 .
+%mor:	pro|wo3=I v:aux|yao4=should v|la1=pull n|ba3ba=excrement .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	哇 好多 虾 呀 !
+%mor:	co|哇 quant|hao3duo1=many n|xia1=shrimp sfp|ya !
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%com:	乐宝看见外公吃虾 .
+*CHI:	好多 灰 .
+%mor:	quant|hao3duo1=many adj|hui1=grey .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	看见地上的鞋印 .
+*CHI:	书 拿 掉 了 .
+%mor:	n|shu1=book v|na2=hold v:resc|diao4=drop asp|le .
+%gra:	1|2|SUBJ 2|4|CJCT 3|2|VR 4|0|INCROOT 5|4|PUNCT
+%act:	拿书 .
+*CHI:	掉 地上 了 .
+%mor:	v:resc|diao4=drop n|di4shang4=on_the_ground asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+@End

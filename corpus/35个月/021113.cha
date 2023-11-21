@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	22-JUN-2015
+*CHI:	为什么 搞 少 水 .
+%mor:	adv:wh|wei4shen2me=how_come v|gao3=work adj|shao3=little
+	n|shui3=water .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	孩子出门的时候看见水杯的少, 就问妈妈 .
+*CHI:	四 姑爹 腰 已经 好 了 .
+%mor:	num|si4=four n|gu1die1=gudie n|yao1=waist adv|yi3jing1=already
+	adj|hao3=good asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|5|CLASS 4|5|JCT 5|0|INCROOT 6|5|COM 7|5|PUNCT
+%com:	下楼时候就跟妈妈讲 .
+*MOT:	一 只 小羊 以前 放过 吗 .
+%mor:	num|yi1=one adv|zhi3=only n|xiao3yang2=lamb post|yi3qian2=formerly
+	v|fang4guo4=let_off sfp|ma .
+%gra:	1|5|QUANT 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dnp $i:yq
+%com:	妈妈打算放视频给孩子看 .
+*CHI:	以前 没 放过 .
+%mor:	post|yi3qian2=formerly neg|mei2=not v|fang4guo4=let_off .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:an
+%com:	妈妈放视频她又说刚才的事 .
+*CHI:	巧 虎 不能 放出 来 .
+%mor:	adj|qiao3=clever n|hu3=tiger v:aux|bu4neng2=cannot
+	v|fang4chu1=release v:dirc|lai2=come .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:dnp $i:st
+@End

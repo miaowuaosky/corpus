@@ -1,0 +1,81 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|2;04.03|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	25-NOV-2014
+*CHI:	我 来 帮 你 撕 .
+%mor:	pro|wo3=I v:dirc|lai2=come v|bang1=help pro|ni3=you v|si1=tear .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+*CHI:	外婆 在 家 .
+%mor:	n|wai4po2=maternal_grandmother prep|zai4=at n|jia1=family .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%com:	外婆在脱衣服 .
+*MOT:	外面 空气 不好 不要 让 外婆 带 你 出去 玩 .
+%mor:	n|wai4mian4=outside n|kong1qi4=air adv|bu4hao3=not_good
+	adv|bu2yao4=dont v|rang4=allow n|wai4po2=maternal_grandmother
+	v|dai4=bring pro|ni3=you v|chu1qu1=leave v|wan2=play .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|7|SUBJ 7|5|SRL 8|9|SUBJ
+	9|10|SUBJ 10|7|OBJ 11|5|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	外面 空气 好 的 时候 你 再 带 乐宝 出去 玩 .
+%mor:	n|wai4mian4=outside n|kong1qi4=air adv|hao3=very nom|de
+	n|shi2hou4=time pro|ni3=you adv|zai4=again v|dai4=bring
+	n:name|le4bao3=lebao v|chu1qu1=leave v|wan2=play .
+%gra:	1|2|MOD 2|3|SUBJ 3|5|JCT 4|5|MOD 5|8|SUBJ 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|11|SUBJ 10|11|JCT 11|8|OBJ 12|8|PUNCT
+%spa:	$x:nia $i:dc
+%com:	孩子跑向外婆对外婆说 .
+*CHI:	这个 盖 住 了 这个 打 不 开 了 .
+%mor:	pro|zhe4ge4=this v|gai4=cover v:resc|zhu4=inhabit asp|le
+	pro|zhe4ge4=this v|da3=hit neg|bu4=not v:resc|kai1=open asp|le .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|2|VR 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|9|NEG 8|7|VR
+	9|6|OBJ 10|6|PUNCT
+*CHI:	放鞭炮 .
+%mor:	v|fang4bian1pao4=set_off_firecrackers .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:dha $i:dc
+*MOT:	没有 .
+%mor:	neg|mei2you3=not_have .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:nd
+*CHI:	放鞭炮 的 时候 要 烟花 .
+%mor:	v|fang4bian1pao4=set_off_firecrackers nom|de n|shi2hou4=time
+	v:aux|yao4=should n|yan1hua2=fireworks .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%spa:	$x:djf $i:st
+*MOT:	你 在 马桶 打牌 啊 .
+%mor:	pro|ni3=you prep|zai4=at n|ma3tong3=nightstool
+	v|da3pai2=play_mah_jong sfp|a1 .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%spa:	$x:dre $i:dc
+*CHI:	我 没 拿 到 小 板凳 就 放 小马 桶 了 .
+%mor:	pro|wo3=I neg|mei2=not v|na2=hold v:resc|dao4=arrive
+	adj|xiao3=small n|ban3deng4=wooden_bench adv|jiu4=just v|fang4=put
+	n|xiao3ma3=pony n|tong3=pail asp|le .
+%gra:	1|2|SUBJ 2|3|NEG 3|8|CJCT 4|3|VR 5|6|MOD 6|3|OBJ 7|8|JCT 8|0|ROOT
+	9|10|MOD 10|8|OBJ 11|8|OBJ 12|8|PUNCT
+%spa:	$x:dre $i:st
+*CHI:	睡觉 的 时候 要 解开 自己 解开 .
+%mor:	v|shui4jiao4=sleep nom|de n|shi2hou4=time v:aux|yao4=should
+	v|jie3kai1=tie_up pro|zi4ji3=self v|jie3kai1=tie_up .
+%gra:	1|7|SUBJ 2|7|JCT 3|7|SUBJ 4|7|JCT 5|7|COM 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%act:	拉粑粑指棉衣扣子 .
+*CHI:	我 没 吃 什么 我 吃 棒糖 了 吃 葡萄 棒糖 .
+%mor:	pro|wo3=I neg|mei2=not v|chi1=eat pro:wh|shen2me=what pro|wo3=I
+	v|chi1=eat n|bang4tang2=lollipop asp|le v|chi1=eat n|pu2tao2=grape
+	n|bang4tang2=lollipop .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|OBJ 5|11|MOD 6|11|MOD 7|11|MOD 8|11|MOD
+	9|11|MOD 10|11|MOD 11|3|OBJ 12|3|PUNCT
+*CHI:	动物园 狮子 和 长颈鹿 被 乐宝 看 光光 的哥 哥 看 不到 狮子 了 .
+%mor:	n|dong4wu4yuan2=zoo n|shi1zi3=lion conj|he2=and
+	n|chang2jing3lu4=giraffe prep|bei4=by n:name|le4bao3=lebao
+	v|kan4=look n|guang1&DIM=light n|di1ge1=cabby
+	n:relat|ge1=older_brother v|kan4=look adv|bu2dao4=not_to
+	n|shi1zi3=lion asp|le .
+%gra:	1|2|MOD 2|9|MOD 3|4|MOD 4|2|OBJ 5|9|MOD 6|5|PREPO 7|9|MOD 8|9|MOD
+	9|11|SUBJ 10|11|SUBJ 11|0|ROOT 12|13|JCT 13|11|OBJ 14|11|OBJ 15|11|PUNCT
+@End

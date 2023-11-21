@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, GRA Grandmother
+@ID:	zho|FLZ|CHI|01;07.15|female|||Child|||
+@ID:	zho|XX|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	09-MAR-2014
+*CHI:	请 让 一下 .
+%mor:	v|qing3=request v|rang4=allow adv|yi1xia4=a_bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	妈妈在阳台扫地, 乐宝想去阳台 .
+*CHI:	给 妈妈 .
+%mor:	v|gei3=give n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	妈妈 拿 .
+%mor:	n:relat|ma1&DIM=mother v|na2=hold .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝拿两个晾衣架给妈妈一个 .
+*CHI:	好 干净 .
+%mor:	adv|hao3=very adj|gan1jing4=clean .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝看见妈妈在扫地 .
+*GRA:	没有 了 .
+%mor:	neg|mei2you3=not_have asp|le .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:st
+%com:	外婆喂乐宝吃萝卜, 萝卜吃完了 .
+*CHI:	萝卜 呢 ?
+%mor:	n|luo2bo=radish sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	< 豆 种>[/] 豆 种 贝 贝 .
+%mor:	n|dou4=small_ball v|zhong4=plant n|bei4=place n|bei4=place .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	妈妈给乐宝把屎, 她拽开鞋带玩游戏, 自言自语 .
+*CHI:	站 这 .
+%mor:	v|zhan4=to_stand pro|zhe4=this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	乐宝和妈妈打羽毛球 .
+%act:	指着一个位置 .
+@End

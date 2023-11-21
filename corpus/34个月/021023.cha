@@ -1,0 +1,92 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	02-JUN-2015
+*CHI:	妈妈 骑车 .
+%mor:	n:relat|ma1&DIM=mother v|qi2che1=ride_a_bike .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:dr
+%act:	孩子指脚踏车跟妈妈说话 .
+*MOT:	太 小 了 .
+%mor:	adv|tai4=very adj|xiao3=small asp|le .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	试 试 .
+%mor:	v|shi4=try v|shi4=try .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:dr
+*MOT:	太 小 了 妈妈 骑 坏了 .
+%mor:	adv|tai4=very adj|xiao3=small asp|le n:relat|ma1&DIM=mother
+	v|qi2=ride_sit_astride n|huai4le=bad .
+%gra:	1|6|JCT 2|6|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	你 试 试 啊 .
+%mor:	pro|ni3=you v|shi4=try v|shi4=try sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SRL 4|2|SFP 5|2|PUNCT
+*CHI:	试 试 就 知道 小 不 小 了 .
+%mor:	v|shi4=try v|shi4=try adv|jiu4=just v|zhi1dao4=know adj|xiao3=small
+	neg|bu4=not adj|xiao3=small asp|le .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|MOD 6|8|NEG 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+%spa:	$x:nia $i:dr
+%act:	孩子要解开妈妈的扣子 .
+*MOT:	为什么 .
+%mor:	adv:wh|wei4shen2me=how_come .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	因为 我 还 要 解开 .
+%mor:	conj|yin1wei4=because pro|wo3=I adv|hai2=still v:aux|yao4=should
+	v|jie3kai1=tie_up .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	解开 凉快 .
+%mor:	v|jie3kai1=tie_up adj|liang2kuai4=cool_off .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dre $i:sa
+*FAT:	你 下来 干什么 .
+%mor:	pro|ni3=you v|xia4lai2=come_down v|gan4shen2me=what_do_you_want .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	我 下来 是 为了 为了 为了 是 为了 冲 头发 .
+%mor:	pro|wo3=I v|xia4lai2=come_down v:cop|shi4=is prep|wei4le=for
+	prep|wei4le=for prep|wei4le=for v:cop|shi4=is prep|wei4le=for
+	prep|chong4=towards n|tou2fa1=head_hair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|PREPO 6|2|JCT 7|6|PREPO 8|7|PRED
+	9|8|PREPO 10|9|PREPO 11|2|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	乐宝洗澡要出澡盆来喷水 .
+*MOT:	我们 比一比 .
+%mor:	pro|wo3-PL=I v|bi3&PAT=compare .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	外婆说乐宝长高了 .
+%act:	她马上冲进外婆房间要找东西跟妈妈比 .
+*CHI:	我 要 找 一 个 长 多 高 的 皮尺 .
+%mor:	pro|wo3=I v:aux|yao4=should v|zhao3=search num|yi1=one cl|ge4
+	v|zhang3=grow adv|duo1=far_more adj|gao1=tall nom|de n|pi2chi3=tape
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|6|SUBJ 6|3|OBJ 7|8|JCT 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|3|PUNCT
+*CHI:	我 先进 来 .
+%mor:	pro|wo3=I adj|xian1jin4=advance v:dirc|lai2=come .
+%gra:	1|2|DET 2|0|INCROOT 3|2|VD 4|2|PUNCT
+*CHI:	你 到 客厅 等 我 .
+%mor:	pro|ni3=you v:resc|dao4=arrive n|ke4ting1=living_room v|deng3=wait
+	pro|wo3=I .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:nia $i:ad
+%act:	找 一会儿 拿 个 镜子 出来 给 妈妈 .
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	你 以前 的 镜子 在 这里 .
+%mor:	pro|ni3=you post|yi3qian2=formerly nom|de n|jing4zi=mirror
+	prep|zai4=at post|zhe4li3=here .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|PREPO 7|2|PUNCT
+%com:	几天前妈妈找不到镜子 .
+@End

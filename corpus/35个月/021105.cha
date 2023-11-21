@@ -1,0 +1,80 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	14-JUN-2015
+*MOT:	我 也 要 .
+%mor:	pro|wo3=I adv|ye3=also v:aux|yao4=should .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:drp $i:st
+%com:	孩子要尿尿 .
+*CHI:	妈妈 等等 我 .
+%mor:	n:relat|ma1&DIM=mother v|deng3&DIM=wait pro|wo3=I .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:dr
+*MOT:	等 什么 .
+%mor:	v|deng3=wait pro:wh|shen2me=what .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	等 我 尿 完了 你 再 尿 .
+%mor:	v|deng3=wait pro|wo3=I v|niao4=pee tag|wan2le=oh_no pro|ni3=you
+	adv|zai4=again v|niao4=pee .
+%gra:	1|7|COM 2|3|SUBJ 3|1|OBJ 4|1|COM 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|PUNCT
+%spa:	$x:nia $i:sa
+*MOT:	那 我 尿 裤子 怎么办 呢 .
+%mor:	pro|na4=that pro|wo3=I v|niao4=pee n|ku4-NOM=pants
+	adv:wh|zen3meban4=how sfp|ne .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|5|CJCT 4|3|OBJ 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	孩子想了想回答妈妈 .
+*CHI:	马上 就 好 了 .
+%mor:	adv|ma3shang4=immediately adv|jiu4=just adj|hao3=good asp|le .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	真 难 打开 .
+%mor:	adv|zhen1=really adj|nan2=make_difficulties v|da3kai1=unscrew .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:st
+%act:	妈妈把糖纸撕了一个口子给她, 然后孩子打开了 .
+*CHI:	这不 就 打开 了 吗 .
+%mor:	adv|zhe4bu4=see adv|jiu4=just v|da3kai1=unscrew asp|le sfp|ma .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%spa:	$x:djf $i:yq
+%com:	妈妈给孩子打开棒棒糖 .
+*CHI:	你好 像 听到 什么 声音 了 吧 .
+%mor:	co:int|ni3hao3=hello v|xiang4=be_like v|ting1dao4=hear
+	pro:wh|shen2me=what n|sheng1yin1=sound asp|le sfp|ba .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|CJCT 4|3|OBJ 5|3|OBJ 6|0|INCROOT 7|6|SFP 8|6|PUNCT
+*CHI:	什么 声音 .
+%mor:	pro:wh|shen2me=what n|sheng1yin1=sound .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:qn
+%com:	孩子听到了消防车的声音 .
+*MOT:	是 消防车 .
+%mor:	v:cop|shi4=is n|xiao1fang2che1=fire_fighting_truck .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	像 哪个 地方 着火 了 .
+%mor:	v|xiang4=be_like pro:wh|na3ge4=which n|di4fang1=place
+	v|zhao2huo3=catch_fire asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	然后 警察 叔叔 喷 水 .
+%mor:	adv|ran2hou4=thereupon n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	v|pen1=spurt n|shui3=water .
+%gra:	1|4|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	消防车 就 不着 火 了 .
+%mor:	n|xiao1fang2che1=fire_fighting_truck adv|jiu4=just adv|bu4zhao2=no
+	n|huo3=fire asp|le .
+%gra:	1|4|MOD 2|4|JCT 3|4|JCT 4|5|SUBJ 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:dnp $i:st
+%act:	孩子歪头看着妈妈 .
+*CHI:	这 是 一 个 好 主意 吧 .
+%mor:	pro|zhe4=this v:cop|shi4=is num|yi1=one cl|ge4 adj|hao3=good
+	n|zhu3yi4=idea sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|6|CLASS 5|6|MOD 6|2|OBJ 7|2|SFP 8|2|PUNCT
+%spa:	$x:dnp $i:yq
+@End

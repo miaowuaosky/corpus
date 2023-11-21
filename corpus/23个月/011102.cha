@@ -1,0 +1,131 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;11.02|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	24-JUN-2014
+*CHI:	妈妈 快 来 .
+%mor:	n:relat|ma1&DIM=mother adv|kuai4=quickly v:dirc|lai2=come .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|VD 4|1|PUNCT
+*CHI:	乐宝 睡觉 了 .
+%mor:	n:name|le4bao3=lebao v|shui4jiao4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝吃完饭玩装睡 .
+*CHI:	那个 呢 ?
+%mor:	pro|na4ge4=that sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	找另一个袜子 .
+*CHI:	你 也 来 了 .
+%mor:	pro|ni3=you adv|ye3=also v:dirc|lai2=come asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|INCROOT 5|4|PUNCT
+%com:	妈妈抱乐宝洗澡出来, 爸爸坐在沙发上, 乐宝其实想说自己来了 .
+*CHI:	妈妈 我们 跳绳 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3-PL=I v|tiao4sheng2=skip_rope .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	乐宝 在 动物园 看 到 猴子 了 .
+%mor:	n:name|le4bao3=lebao prep|zai4=at n|dong4wu4yuan2=zoo v|kan4=look
+	v:resc|dao4=arrive n|hou2-NOM=monkey asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|VR 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	好 漂亮 .
+%mor:	adv|hao3=very adj|piao4liang4=posh .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	看动物书 .
+*CHI:	就 这个 孔雀 .
+%mor:	adv|jiu4=just pro|zhe4ge4=this n|kong3que4=peacock .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	指书里的孔雀 .
+*CHI:	袜子 潮 了 .
+%mor:	n|wa4zi=socks adj|chao2=humid asp|le .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	袜子 又 潮 了 .
+%mor:	n|wa4zi=socks adv|you4=again adj|chao2=humid asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%act:	穿一只袜子 .
+*CHI:	那个 袜子 不 潮 .
+%mor:	pro|na4ge4=that n|wa4zi=socks neg|bu4=not adj|chao2=humid .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%act:	又找另一只 .
+*CHI:	夹 你 的 脚 .
+%mor:	v|jia2=squeeze pro|ni3=you poss|de n|jiao3=foot .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	拿夹子夹自己脚 .
+*MOT:	蚊子 .
+%mor:	n|wen2-NOM=mosquito .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	拿 书 打 .
+%mor:	v|na2=hold n|shu1=book v|da3=hit .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:si
+%act:	用书打蚊子 .
+*CHI:	没 打 到 .
+%mor:	neg|mei2=not v|da3=hit v:resc|dao4=arrive .
+%gra:	1|2|NEG 2|0|ROOT 3|2|VR 4|2|PUNCT
+%spa:	$x:dre $i:st
+%com:	乐宝没打到蚊子 .
+*CHI:	打 到了 一 个 蚊子 .
+%mor:	v|da3=hit adv|dao4liao3=finally num|yi1=one cl|ge4
+	n|wen2-NOM=mosquito .
+%gra:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%act:	拍一下 .
+%com:	其实没打到 .
+*CHI:	防 蚊 贴 贴 搁 腿 上 .
+%mor:	v|fang2=guard_against n|wen2=mosquito v|tie1=paste v|tie1=paste
+	v|ge1=bear n|tui3=leg post|shang4=above .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|SRL 5|7|MOD 6|7|MOD 7|4|OBJ 8|3|PUNCT
+*MOT:	跳舞 去 了 .
+%mor:	v|tiao4wu3=hop v:dirc|qu4=go asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:djf $i:st
+%com:	外婆带着垃圾出去跳舞 .
+*CHI:	送 垃圾 了 .
+%mor:	v|song4=deliver n|le4se4=garbage asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:dw
+*CHI:	抱抱 给 你 抬 轿 .
+%mor:	v|bao4&DIM=hug v|gei3=give pro|ni3=you v|tai2=lift n|jiao4=the_car
+	.
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	让妈妈抬轿 .
+*CHI:	到 外婆 房间 看书 .
+%mor:	v:resc|dao4=arrive n|wai4po2=maternal_grandmother n|fang2jian1=room
+	v|kan4shu1=read_a_book .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	要去外婆房间 .
+*CHI:	找到 咯 .
+%mor:	v|zhao3dao4=find sfp|lo .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%act:	拿起一本书 .
+*CHI:	小娃娃 好 可爱 哦 .
+%mor:	n|xiao3wa2wa2=dolls adv|hao3=very adj|ke3ai4=lovable sfp|o1 .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%act:	指小娃娃 .
+*CHI:	圆 圆 的 星星 .
+%mor:	n|yuan2=circle v|yuan2=make_success nom|de n:name|星星 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|OBJ 5|2|PUNCT
+%act:	拿着鸡蛋星星 .
+*CHI:	好 大一 个 哈巴狗 .
+%mor:	adj|hao3=good n|da4yi1=freshman cl|ge4 n|ha3ba1gou3=a_pug .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	看书 .
+*MOT:	鱼 呢 ?
+%mor:	n|yu2=fish sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 这里 .
+%mor:	prep|zai4=at post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+%act:	掀书 .
+%com:	没找到 .
+*CHI:	没有 鱼 .
+%mor:	neg|mei2you3=not_have n|yu2=fish .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*CHI:	拿 一 个 棍子 .
+%mor:	v|na2=hold num|yi1=one cl|ge4 n|gun4zi=rod .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	小青蛙拿在手要找配对的棍子 .
+@End

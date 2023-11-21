@@ -1,0 +1,202 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|2;04.22|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	14-DEC-2014
+*CHI:	她 来 了 .
+%mor:	pro|ta1=she v:dirc|lai2=come asp|le .
+%gra:	1|3|SUBJ 2|1|VD 3|0|INCROOT 4|3|PUNCT
+%com:	看电视阿姨走到丈夫后面 .
+*CHI:	我 还 没 吃饱 .
+%mor:	pro|wo3=I adv|hai2=still neg|mei2=not v|chi1bao3=eat .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%act:	又拿饼干 .
+*CHI:	给 你 吃 吧 .
+%mor:	prep|gei3=for pro|ni3=you v|chi1=eat sfp|ba .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|SFP 5|3|PUNCT
+*CHI:	这 是 谁 的 房间 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shei2=who poss|de
+	n|fang2jian1=room ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|OBJ 6|2|PUNCT
+*CHI:	乐宝 的 房间 乐宝 睡觉 的 房间 .
+%mor:	n:name|le4bao3=lebao poss|de n|fang2jian1=room n:name|le4bao3=lebao
+	v|shui4jiao4=sleep nom|de n|fang2jian1=room .
+%gra:	1|5|COM 2|1|POSS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+%act:	指卧室 .
+*MOT:	我 这里 还 没 扫 这 就 这 .
+%mor:	pro|wo3=I post|zhe4li3=here adv|hai2=still neg|mei2=not
+	v|sao3=sweep pro|zhe4=this adv|jiu4=just pro|zhe4=this .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|NEG 5|0|ROOT 6|8|DET 7|8|JCT 8|5|OBJ
+	9|5|PUNCT
+%spa:	$x:djf $i:st
+%act:	扫地她指爬过的地方 .
+*CHI:	小 拍 掌 是 谁 的 ?
+%mor:	adj|xiao3=small n|pai1=beat cl|zhang3=activity v:cop|shi4=is
+	pro:wh|shei2=who poss|de ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|ROOT 5|4|PRED 6|5|POSS 7|3|PUNCT
+*CHI:	是 弟弟 的 .
+%mor:	v:cop|shi4=is n:relat|di4&DIM=younger_brother poss|de .
+%gra:	1|0|ROOT 2|1|PRED 3|2|POSS 4|1|PUNCT
+%act:	拿拍掌 .
+*CHI:	这个 本来 是 哥哥 的 乐宝 没有 手套 .
+%mor:	pro|zhe4ge4=this adv|ben3lai2=originally v:cop|shi4=is
+	n:relat|ge1&DIM=older_brother poss|de n:name|le4bao3=lebao
+	neg|mei2you3=not_have n|shou3tao4=gloves .
+%gra:	1|3|SUBJ 2|3|JCT 3|8|MOD 4|3|PRED 5|3|POSS 6|8|MOD 7|8|NEG 8|0|INCROOT
+	9|8|PUNCT
+*CHI:	手套 在 超市 里 天亮 的 时候 超市 的 阿姨 没 关门 天亮 的 时候 超市 的 阿姨 没 关掉 超市 的 门 .
+%mor:	n|shou3tao4=gloves prep|zai4=at n|chao1shi4=supermarket
+	post|li3=inside v|tian1liang4=dawn nom|de n|shi2hou4=time
+	n|chao1shi4=supermarket poss|de
+	a1#n:relat|yi2=familiar_mothers_sister neg|mei2=not
+	v|guan1men2=close v|tian1liang4=dawn nom|de n|shi2hou4=time
+	n|chao1shi4=supermarket poss|de
+	a1#n:relat|yi2=familiar_mothers_sister neg|mei2=not
+	v|guan1diao4=turn_off n|chao1shi4=supermarket poss|de n|men2=door .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|PREPO 4|2|PREPO 5|13|SUBJ 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|5|POSS 10|13|JCT 11|12|NEG 12|13|SUBJ 13|0|ROOT 14|16|MOD 15|16|MOD
+	16|13|OBJ 17|13|POSS 18|21|MOD 19|20|NEG 20|21|MOD 21|13|OBJ 22|13|POSS
+	23|13|OBJ 24|13|PUNCT
+*CHI:	看看 看看 看看 .
+%mor:	v|kan4&DIM=look v|kan4&DIM=look v|kan4&DIM=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	妈妈 记 你 的话 好 了 再 给 你 拿 .
+%mor:	n:relat|ma1&DIM=mother v|ji4=write_down pro|ni3=you conj|de5hua4=if
+	adj|hao3=good asp|le adv|zai4=again prep|gei3=for pro|ni3=you
+	v|na2=hold .
+%gra:	1|2|SUBJ 2|10|SUBJ 3|2|OBJ 4|10|JCT 5|10|JCT 6|10|SUBJ 7|10|JCT
+	8|10|JCT 9|8|PREPO 10|0|ROOT 11|10|PUNCT
+%spa:	$x:nia $i:cs
+%com:	孩子要看妈妈手机 .
+*CHI:	爸爸 你 洗 好 了 吗 ?
+%mor:	n:relat|ba4&DIM=father pro|ni3=you v|xi3=wash adj|hao3=good asp|le
+	sfp|ma ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|5|CJCT 4|3|OBJ 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+*CHI:	黑 了 这个 也 黑 了 .
+%mor:	adj|hei1=black asp|le pro|zhe4ge4=this adv|ye3=also adj|hei1=black
+	asp|le .
+%gra:	1|6|MOD 2|6|COM 3|6|SUBJ 4|6|JCT 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%com:	爸爸开门 .
+*FAT:	吹风机 在 哪里 ?
+%mor:	n|chui1feng1ji1=hair_drier prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 我 刚刚 那里 .
+%mor:	prep|zai4=at pro|wo3=I adv|gang1&DIM=just post|na4li3=that_place .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|JCT 4|1|PREPO 5|1|PUNCT
+%spa:	$x:dnp $i:sa
+%act:	跑去客厅 .
+*CHI:	这里 有 好吃 的 .
+%mor:	post|zhe4li3=here v|you3=have adj|hao3chi1=delicious nom|de .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|POSS 5|2|PUNCT
+%act:	指饼干 .
+*CHI:	妈妈 在 找 什么 ?
+%mor:	n:relat|ma1&DIM=mother adv|zai4=currently v|zhao3=search
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈闻气味 .
+*CHI:	这 是 结婚 的 阿姨 有 好多 排 .
+%mor:	pro|zhe4=this v:cop|shi4=is v|jie2hun1=marry nom|de
+	a1#n:relat|yi2=familiar_mothers_sister v|you3=have
+	quant|hao3duo1=many v|pai2=wave .
+%gra:	1|8|SUBJ 2|8|JCT 3|2|PRED 4|8|SUBJ 5|8|JCT 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+%com:	孩子看结婚场景 .
+*CHI:	乐宝 的 鞋 搞 脏 了 要 擦 这个 布 .
+%mor:	n:name|le4bao3=lebao poss|de n|xie2=shoe v|gao3=work
+	adj|zang1=dirty asp|le v:aux|yao4=should v|ca1=wipe pro|zhe4ge4=this
+	n|bu4=cloth .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|8|SUBJ 5|8|JCT 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|10|MOD 10|8|OBJ 11|8|PUNCT
+%act:	用鞋擦抹布 .
+*CHI:	还有 一 个 用完 了 用 这个 .
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 v|yong4wan2=run_out asp|le
+	n|yong4=use pro|zhe4ge4=this .
+%gra:	1|4|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|OBJ 8|4|PUNCT
+%act:	拿棉棒 .
+*CHI:	乐宝 的 脚 大 这个 脚 也 有点 大 .
+%mor:	n:name|le4bao3=lebao poss|de n|jiao3=foot adj|da4=great
+	pro|zhe4ge4=this cl|jiao3=activity adv|ye3=also adv|you3dian3=be
+	adj|da4=great .
+%gra:	1|3|MOD 2|1|POSS 3|9|SUBJ 4|9|COM 5|9|SUBJ 6|9|COM 7|8|JCT 8|9|JCT
+	9|0|INCROOT 10|9|PUNCT
+%act:	洗脚指一只脚 .
+*CHI:	妈妈 乐宝 的 粑 粑 臭 死 了 房间 有 臭味 儿 .
+%mor:	n:relat|ma1&DIM=mother n:name|le4bao3=lebao poss|de v|ba1=stick_on
+	v|ba1=stick_on adj|chou4=stinky adj|si3=dead asp|le
+	n|fang2jian1=room v|you3=have n|chou4wei4=stink n|er2=kid .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|POSS 4|0|ROOT 5|4|SRL 6|12|MOD 7|12|MOD 8|12|MOD
+	9|10|SUBJ 10|12|MOD 11|12|MOD 12|5|OBJ 13|4|PUNCT
+*CHI:	也 没有 尿尿 .
+%mor:	adv|ye3=also neg|mei2you3=not_have v|niao4&DIM=pee .
+%gra:	1|3|JCT 2|3|NEG 3|0|ROOT 4|3|PUNCT
+*CHI:	房间 有 臭味 是 你 拉 的 粑 粑 .
+%mor:	n|fang2jian1=room v|you3=have n|chou4wei4=stink v:cop|shi4=is
+	pro|ni3=you v|la1=pull nom|de v|ba1=stick_on v|ba1=stick_on .
+%gra:	1|3|MOD 2|3|MOD 3|9|SUBJ 4|9|SUBJ 5|6|SUBJ 6|9|JCT 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|9|PUNCT
+%com:	孩子在拉粑粑 .
+*MOT:	今天 到 哪儿 玩 了 ?
+%mor:	n|jin1tian1=today prep|dao4=up_until pro:wh|na3-DIA=which
+	v|wan2=play asp|le ?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	广场 .
+%mor:	n|guang3chang3=public_square .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	玩 什么 了 ?
+%mor:	v|wan2=play pro:wh|shen2me=what asp|le ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	跳 小 苹果 了 还 玩 爬 垫子 的 游戏 .
+%mor:	v|tiao4=jump adj|xiao3=small n|ping2guo3=apple asp|le
+	adv|hai2=still v|wan2=play v|pa2=crawl n|dian4zi=support nom|de
+	n|you2xi4=game .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|8|MOD 5|6|JCT 6|4|PREPO 7|8|MOD 8|1|OBJ
+	9|10|MOD 10|1|OBJ 11|1|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	雨 晨 怎么了 ?
+%mor:	n|yu3=rain n|chen=morning adv:wh|zen3mele=whats_up ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	冰箱 拍 摔倒 .
+%mor:	n|bing1xiang1=refrigerator n|pai1=beat v|shuai1dao3=fall .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:sa
+*MOT:	赶紧 看 妈妈 好 累 .
+%mor:	adv|gan3jin3=hurriedly v|kan4=look n:relat|ma1&DIM=mother
+	adv|hao3=very adj|lei4=tired .
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|OBJ 6|2|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	看 这个 就 不 累 了 .
+%mor:	v|kan4=look pro|zhe4ge4=this adv|jiu4=just neg|bu4=not
+	adj|lei4=tired asp|le .
+%gra:	1|5|CJCT 2|3|SUBJ 3|5|JCT 4|5|NEG 5|0|INCROOT 6|5|COM 7|5|PUNCT
+%spa:	$x:dha $i:st
+%act:	指书 .
+*CHI:	天鹅湖 大 酒店 看 到 西红柿 了 .
+%mor:	n:geo|tian1e2hu2=swan_lake adj|da4=great n|jiu3dian4=liquor_shop
+	v|kan4=look v:resc|dao4=arrive n|xi1hong2shi4=tomato asp|le .
+%gra:	1|4|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|VR 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*MOT:	乐宝 是 男孩 还是 女孩 ?
+%mor:	n:name|le4bao3=lebao v:cop|shi4=is n|nan2hai2=boy conj|hai2shi4=or
+	n|nü3hai2=girl ?
+%gra:	1|5|MOD 2|3|MOD 3|1|PRED 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:drp $i:tq
+*CHI:	女孩儿 .
+%mor:	n|nü3hai2-DIA=girl .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:drp $i:ta
+*CHI:	妈妈 是 谁 女孩儿 ?
+%mor:	n:relat|ma1&DIM=mother v:cop|shi4=is pro:wh|shei2=who
+	n|nü3hai2-DIA=girl ?
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:drp $i:qn
+@End

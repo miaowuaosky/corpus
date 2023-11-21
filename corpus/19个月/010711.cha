@@ -1,0 +1,62 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.11|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	05-MAR-2014
+*CHI:	西瓜 球 在 这 呢 .
+%mor:	n|xi1gua1=watermelon n|qiu2=ball prep|zai4=at pro|zhe4=this sfp|ne
+	.
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|SFP 6|3|PUNCT
+%com:	早起看见球 .
+*CHI:	< 打 你na> [/] 打 你 na .
+%mor:	v|da3=hit pro|ni3=you co|na=na .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|COM 4|1|PUNCT
+%com:	自己拿球打自己 .
+*CHI:	< 爸爸> [/] 爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	乐宝对声控小鸭子大喊 .
+*CHI:	< 打球 咯> [/] 打球 咯 .
+%mor:	v|da3qiu2=play_a_ball sfp|lo .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%act:	自己玩球 .
+*CHI:	< 来 咯> [/] 来 咯 .
+%mor:	v:dirc|lai2=come sfp|lo .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	看见小鸭子跑 .
+*CHI:	< 撕烂 了> [/] 撕烂 了 .
+%mor:	v|si1lan4=tear_apart asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	乐宝 妈妈 上班 去 了 .
+%mor:	n:name|le4bao3=lebao n:relat|ma1&DIM=mother v|shang4ban1=start_work
+	v:dirc|qu4=go asp|le .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%spa:	$x:nia $i:si
+%com:	妈妈出门上班跟乐宝告别 .
+*CHI:	0 .
+%spa:	$x:nia $i:pa
+%act:	向妈妈挥手 .
+*CHI:	不 走 .
+%mor:	neg|bu4=not v:dirc|zou3=go_away .
+%gra:	1|0|INCROOT 2|1|VD 3|1|PUNCT
+%spa:	$x:nia $i:pf
+%com:	表示希望妈妈别去上班 .
+*CHI:	不要 走 .
+%mor:	adv|bu2yao4=dont v:dirc|zou3=go_away .
+%gra:	1|0|INCROOT 2|1|VD 3|1|PUNCT
+%com:	晚上外公要出门散步 .
+*CHI:	< 来na> [/] 来 na .
+%mor:	v:dirc|lai2=come co|na=na .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%com:	自己从外面跑进房间 .
+*CHI:	爸爸 回来 na .
+%mor:	n:relat|ba4&DIM=father v|hui2lai2=return co|na=na .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*CHI:	妈妈 回来 了 .
+%mor:	n:relat|ma1&DIM=mother v|hui2lai2=return asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

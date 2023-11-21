@@ -1,0 +1,39 @@
+@UTF8
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;02.22|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	14-OCT-2014
+*CHI:	妈妈 快 过来 .
+%mor:	n:relat|ma1&DIM=mother adv|kuai4=quickly v|guo4lai=manage .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%act:	她在床边喊妈妈 .
+*CHI:	乐宝 插 得 对 .
+%mor:	n:name|le4bao3=lebao v|cha1=insert cpt|de tag|dui4=correct .
+%gra:	1|2|JCT 2|0|ROOT 3|2|POSS 4|2|COM 5|2|PUNCT
+%act:	把剪刀插入亚马逊快递纸箱子的缝儿 .
+*CHI:	我 荡秋千 .
+%mor:	pro|wo3=I v|dang4qiu1qian1=to_swing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	扶两沙发之间荡 .
+*CHI:	声音 搞 小 一点 .
+%mor:	n|sheng1yin1=sound v|gao3=work adj|xiao3=small adv|yi1dian3=a_bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	楼下 小妹妹 在 睡觉 .
+%mor:	n|lou2xia4=downstairs n|xiao3mei4mei4=little_sister
+	adv|zai4=currently v|shui4jiao4=sleep .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	妈妈 剁肉 .
+*CHI:	端 来 蒸 鸡蛋 .
+%mor:	v|duan1=hold_level v:dirc|lai2=come v|zheng1=evaporate
+	n|ji1dan4=hens_egg .
+%gra:	1|0|ROOT 2|1|VD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	端 来 胡萝卜 .
+%mor:	v|duan1=hold_level v:dirc|lai2=come n|hu2luo2bo=carrot .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%com:	妈妈端菜 .
+@End

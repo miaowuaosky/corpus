@@ -1,0 +1,118 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	04-JUN-2015
+*CHI:	要 我 帮帮忙 吗 .
+%mor:	v:aux|yao4=should pro|wo3=I v|bang1bang1mang2=help sfp|ma .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:nia $i:yq
+*GRA:	不要 .
+%mor:	adv|bu2yao4=dont .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:an
+%com:	外婆要帮乐宝洗脸 .
+*CHI:	让 我 帮帮忙 .
+%mor:	v|rang4=allow pro|wo3=I v|bang1bang1mang2=help .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	让 我 帮帮忙 .
+%mor:	v|rang4=allow pro|wo3=I v|bang1bang1mang2=help .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:st
+%com:	外婆还是不让, 她就急了 .
+*GRA:	洋葱 弟弟 不 跳舞 .
+%mor:	n|yang2cong1=onion n:relat|di4&DIM=younger_brother neg|bu4=not
+	v|tiao4wu3=hop .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	不 爱 跳舞 .
+%mor:	neg|bu4=not v|ai4=love v|tiao4wu3=hop .
+%gra:	1|2|NEG 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	他 害羞 .
+%mor:	pro|ta1=he v|hai4xiu1=be_shy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	我 现在 不 害羞 .
+%mor:	pro|wo3=I adv|xian4zai4=now neg|bu4=not v|hai4xiu1=be_shy .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	上 幼儿园 乐宝 也 跳 .
+%mor:	v:dirc|shang4=go_up n|you4er2yuan2=kindergarten
+	n:name|le4bao3=lebao adv|ye3=also v|tiao4=jump .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	这个 明天 再 吃 .
+%mor:	pro|zhe4ge4=this n|ming2tian1=tomorrow adv|zai4=again v|chi1=eat .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	吃 过 饭 再 吃 .
+%mor:	v|chi1=eat asp|guo4 n|fan4=food adv|zai4=again v|chi1=eat .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	现在 就是 明天 .
+%mor:	adv|xian4zai4=now co:int|jiu4shi4=that_is n|ming2tian1=tomorrow .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	这个 变 明天 了 再 吃 .
+%mor:	pro|zhe4ge4=this v|bian4=change n|ming2tian1=tomorrow asp|le
+	adv|zai4=again v|chi1=eat .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|2|OBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*CHI:	吃 过 饭 再 吃 .
+%mor:	v|chi1=eat asp|guo4 n|fan4=food adv|zai4=again v|chi1=eat .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%act:	孩子指昨天打开的巧克力袋子 .
+*MOT:	不能 扔 坏了 就 没了 不能 用 了 .
+%mor:	v:aux|bu4neng2=cannot v|reng1=throw n|huai4le=bad adv|jiu4=just
+	v|mei2le=be_without v:aux|bu4neng2=cannot v|yong4=use asp|le .
+%gra:	1|7|AUX 2|7|SUBJ 3|5|SUBJ 4|5|JCT 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*MOT:	只 有 一 个 遥控器 .
+%mor:	adv|zhi3=only v|you3=have num|yi1=one cl|ge4
+	n|yao2kong4qi4=remote_control .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	两 个 遥控器 呢 .
+%mor:	num|liang3=two cl|ge4 n|yao2kong4qi4=remote_control sfp|ne .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:dnp $i:yq
+*MOT:	只 有 一 个 遥控器 .
+%mor:	adv|zhi3=only v|you3=have num|yi1=one cl|ge4
+	n|yao2kong4qi4=remote_control .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	以前 那个 被 你 摔坏 了 .
+%mor:	post|yi3qian2=formerly pro|na4ge4=that prep|bei4=by pro|ni3=you
+	v|shuai1huai4=smash asp|le .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	以前 的 那个 被 我 扔 坏了 .
+%mor:	post|yi3qian2=formerly nom|de pro|na4ge4=that prep|bei4=by
+	pro|wo3=I v|reng1=throw n|huai4le=bad .
+%gra:	1|0|INCROOT 2|1|POSS 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|7|MOD 7|2|OBJ
+	8|1|PUNCT
+*CHI:	不能 用 了 .
+%mor:	v:aux|bu4neng2=cannot v|yong4=use asp|le .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:yd
+%com:	孩子想扔遥控器 .
+*MOT:	我们 要 等 九 九 路 公交车 .
+%mor:	pro|wo3-PL=I v:aux|yao4=should v|deng3=wait num|jiu3=nine
+	num|jiu3=nine cl|lu4 n|gong1jiao1che1=bus .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|QUANT 5|7|QUANT 6|7|MOD 7|3|OBJ 8|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	我们 要 找 好多 九 .
+%mor:	pro|wo3-PL=I v:aux|yao4=should v|zhao3=search quant|hao3duo1=many
+	num|jiu3=nine .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|INCROOT 6|5|PUNCT
+%spa:	$x:dnp $i:st
+%act:	孩子指一辆公交车 .
+*CHI:	这个 是 去 哪儿 的 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is v:dirc|qu4=go pro:wh|na3-DIA=which
+	nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|VD 6|2|PUNCT
+*CHI:	我 看看 你 的 股票 今天 可 涨 了 .
+%mor:	pro|wo3=I v|kan4&DIM=look pro|ni3=you poss|de n|gu3piao4=stock
+	n|jin1tian1=today adv|ke3=on_the_contrary v|zhang4=rise asp|le .
+%gra:	1|2|SUBJ 2|8|CJCT 3|2|OBJ 4|2|POSS 5|6|MOD 6|2|OBJ 7|8|JCT 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+%com:	孩子过来看见妈妈看手机股票, 她也凑过来看 .
+@End

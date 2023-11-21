@@ -1,0 +1,79 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|01;08.22|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	13-APR-2014
+*CHI:	不 吃 这个 .
+%mor:	neg|bu4=not v|chi1=eat pro|zhe4ge4=this .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	吃 这个 吧 .
+%mor:	v|chi1=eat pro|zhe4ge4=this sfp|ba .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+%com:	乐宝放下手中饺子, 拿起另一个饺子 .
+*CHI:	跟 你 干杯 啊, 嗯 .
+%mor:	prep|gen1=with pro|ni3=you v|gan1bei1=drink_a_toast sfp|a1 cm|cm
+	co|en1=okay .
+%gra:	1|3|JCT 2|1|PREPO 3|5|CJCT 4|3|SFP 5|0|INCROOT 6|5|COM 7|5|PUNCT
+%act:	乐宝拿起饺子走向爸爸 .
+*CHI:	给 爸爸 .
+%mor:	v|gei3=give n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝拿一个纸片, 说完话之后拿走了爸爸的手机 .
+*CHI:	自己 拿 着 洗 .
+%mor:	pro|zi4ji3=self v|na2=hold asp|zhe v|xi3=wash .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	乐宝要洗脸 .
+*CHI:	滑 下去 了 .
+%mor:	v|hua2=slip v|xia4qu4=continue asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝看到马桶里有米饭 .
+*FAT:	我们 下来 吧 .
+%mor:	pro|wo3-PL=I v|xia4lai2=come_down sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	不下 来 .
+%mor:	v|bu4xia4=no v:dirc|lai2=come .
+%gra:	1|0|ROOT 2|1|VD 3|1|PUNCT
+%spa:	$x:nia $i:rd
+*FAT:	我们 去 打球 吧 .
+%mor:	pro|wo3-PL=I v:dirc|qu4=go v|da3qiu2=play_a_ball sfp|ba .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	不 打球 .
+%mor:	neg|bu4=not v|da3qiu2=play_a_ball .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:rd
+*CHI:	爸爸 的 手机 在 哪里 ?
+%mor:	n:relat|ba4&DIM=father poss|de n|shou3ji1=cell_phone prep|zai4=at
+	pro:wh|na3li3=where ?
+%gra:	1|3|MOD 2|1|POSS 3|4|TOP 4|0|INCROOT 5|4|PREPO 6|4|PUNCT
+%com:	乐宝在床头找手机时自言自语 .
+*CHI:	抓 泡泡 的 .
+%mor:	v|zhua1=catch n|pao4pao4=bubble nom|de .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+%act:	乐宝指着蚊账 .
+*CHI:	这个 好 高 .
+%mor:	pro|zhe4ge4=this adv|hao3=very adj|gao1=tall .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	乐宝指着窗户 .
+*MOT:	什么 好 高 ?
+%mor:	pro:wh|shen2me=what adv|hao3=very adj|gao1=tall ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	窗户 好 高 .
+%mor:	n|chuang1hu4=window adv|hao3=very adj|gao1=tall .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	坐 完了 .
+%mor:	v|zuo4=sit tag|wan2le=oh_no .
+%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+%com:	乐宝想坐另一个摇摇车, 还没坐完 .
+*CHI:	< 热水器 烧水 了>[/] 热水器 烧水 了 .
+%mor:	n|re4shui3qi4=heater v|shao1shui3=boil_water asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

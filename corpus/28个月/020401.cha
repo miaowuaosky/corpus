@@ -1,0 +1,87 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|2;04.01|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	23-NOV-2014
+*CHI:	给 妈妈 看好 了 再 拿 .
+%mor:	prep|gei3=for n:relat|ma1&DIM=mother
+	v|kan4hao3=believe_something_someone_will_be_worthy_in_the_future
+	asp|le adv|zai4=again v|na2=hold .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|6|SUBJ 5|6|JCT 6|3|OBJ 7|3|PUNCT
+%com:	妈妈拿手机记录 .
+*CHI:	他们 一起 走路 有 一个人 有 两 个人 .
+%mor:	pro|ta1-PL=he adv|yi1qi3=together v|zou3lu4=walk v|you3=have
+	adv|yi1geren2=alone v|you3=have num|liang3=two
+	pro|ge4ren2=individual_person .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|SUBJ 5|6|JCT 6|3|OBJ 7|3|PQ 8|3|OBJ
+	9|3|PUNCT
+%act:	看外面 .
+*CHI:	手机 呢 ?
+%mor:	n|shou3ji1=cell_phone sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	在 充电 .
+%mor:	adv|zai4=currently v|chong1dian4=charge .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	手机 在 哪里 充电 ?
+%mor:	n|shou3ji1=cell_phone prep|zai4=at pro:wh|na3li3=where
+	v|chong1dian4=charge ?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	二 十 零 .
+%mor:	num|er4=two num|shi2=ten num|ling2=zero .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%com:	妈妈看日历让她模仿从27说到29, 出现30 .
+*CHI:	我 上 不 上 ?
+%mor:	pro|wo3=I post|shang4=above neg|bu4=not v:dirc|shang4=go_up ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|4|NEG 4|2|VD 5|2|PUNCT
+%com:	孩子上椅子不成 .
+*CHI:	开 不 开 ?
+%mor:	v:resc|kai1=open neg|bu4=not v:resc|kai1=open ?
+%gra:	1|0|INCROOT 2|3|NEG 3|1|VR 4|1|PUNCT
+%com:	孩子开门开不了 .
+*CHI:	我 打开 门 出去 了 .
+%mor:	pro|wo3=I v|da3kai1=unscrew n|men2=door v|chu1qu1=leave asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	开门 .
+*CHI:	莹 莹 大姐 跟 你 学 的 .
+%mor:	n|ying2=gem n|ying2=gem n|da4jie3=big_sister prep|gen1=with
+	pro|ni3=you v|xue2=study nom|de .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|POSS 8|6|PUNCT
+%act:	学姐姐教的姿势 .
+*MOT:	家里 没 雨 .
+%mor:	n|jia1li3=home neg|mei2=not n|yu3=rain .
+%gra:	1|3|MOD 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	出门 有 雨 .
+%mor:	v|chu1men2=go_out v|you3=have n|yu3=rain .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:nia $i:cs
+%com:	孩子想打伞 .
+*CHI:	小老鼠 困 了 要 睡觉 盖 个 被子 .
+%mor:	n|xiao3lao3shu3=mouse v|kun4=surround asp|le v:aux|yao4=should
+	v|shui4jiao4=sleep n|gai4=lid cl|ge4 n|bei4zi=quilt .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|AUX 5|6|MOD 6|2|OBJ 7|8|MOD 8|2|OBJ
+	9|2|PUNCT
+%com:	孩子在玩娃娃 .
+*CHI:	小 猪 踩 在 我 的 脚 上 .
+%mor:	adj|xiao3=small n|zhu1=pig v|cai3=tread prep|zai4=at pro|wo3=I
+	poss|de n|jiao3=foot post|shang4=above .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|PREPO 6|3|POSS 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+%act:	踩小猪 .
+*CHI:	玩 这么 高 没 飞 到 天上 .
+%mor:	v|wan2=play adv|zhe4me=like_this adj|gao1=tall neg|mei2=not
+	v:resc|fei1=fly_away v:resc|dao4=arrive n|tian1shang4=heavenly .
+%gra:	1|0|ROOT 2|3|JCT 3|7|MOD 4|7|MOD 5|4|VR 6|4|VR 7|1|OBJ 8|1|PUNCT
+%act:	扔娃娃 .
+*CHI:	鞋底 好 脏 .
+%mor:	n|xie2di3=sole adv|hao3=very adj|zang1=dirty .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	看鞋底, 摔鞋 .
+@End

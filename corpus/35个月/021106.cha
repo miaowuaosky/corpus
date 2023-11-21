@@ -1,0 +1,205 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|FAN|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	16-JUN-2015
+*CHI:	外婆 搞 一 个 宝宝金水 来 喷 .
+%mor:	n|wai4po2=maternal_grandmother v|gao3=work num|yi1=one cl|ge4
+	n|bao3bao3jin1shui3=baobaojinshui v:dirc|lai2=come v|pen1=spurt .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|QUANT 4|7|SUBJ 5|7|SUBJ 6|5|VD 7|2|OBJ 8|2|PUNCT
+*CHI:	宝宝金水 .
+%mor:	n|bao3bao3jin1shui3=baobaojinshui .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	孩子打算出去玩, 外婆要找风油精 .
+*CHI:	看 我 蹦 得 好 厉害 吧 .
+%mor:	v|kan4=look pro|wo3=I v|beng4=jump cpt|de adv|hao3=very
+	adj|li4hai4=terrible sfp|ba .
+%gra:	1|3|JCT 2|3|SUBJ 3|6|CJCT 4|3|POSS 5|6|JCT 6|0|INCROOT 7|6|SFP
+	8|6|PUNCT
+*CHI:	你 试 试 .
+%mor:	pro|ni3=you v|shi4=try v|shi4=try .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	外婆 你 也 蹦 .
+%mor:	n|wai4po2=maternal_grandmother pro|ni3=you adv|ye3=also
+	v|beng4=jump .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:dr
+%com:	乐宝在玩蹦远给外婆看 .
+*GRA:	我 不能 蹦 .
+%mor:	pro|wo3=I v:aux|bu4neng2=cannot v|beng4=jump .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rd
+*CHI:	你 害怕 吧 .
+%mor:	pro|ni3=you v|hai4pa4=dread sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	看 我 都 不怕 .
+%mor:	v|kan4=look pro|wo3=I adv|dou1=all v|bu4pa4=be_not_afraid_of .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$x:drp $i:st
+%act:	乐宝又蹦了一次给看外婆看 .
+*CHI:	你 看 .
+%mor:	pro|ni3=you v|kan4=look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	很 勇敢 吧 .
+%mor:	adv|hen3=much adj|yong3gan3=brave sfp|ba .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dha $i:st
+%act:	孩子跑到客厅茶几处对外婆说话 .
+*CHI:	马上 就 给 你 一 个 惊喜 .
+%mor:	adv|ma3shang4=immediately adv|jiu4=just prep|gei3=for pro|ni3=you
+	num|yi1=one cl|ge4 v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|7|SUBJ 5|6|QUANT 6|7|SUBJ 7|3|PREPO
+	8|3|PUNCT
+*CHI:	你 先 到 .
+%mor:	pro|ni3=you adv|xian1=earlier prep|dao4=up_until .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	你 先 去 到 外婆 房间 .
+%mor:	pro|ni3=you adv|xian1=earlier v:dirc|qu4=go v:resc|dao4=arrive
+	n|wai4po2=maternal_grandmother n|fang2jian1=room .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|VD 4|2|VR 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*CHI:	你 先 去 到 外婆 房间 .
+%mor:	pro|ni3=you adv|xian1=earlier v:dirc|qu4=go v:resc|dao4=arrive
+	n|wai4po2=maternal_grandmother n|fang2jian1=room .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|VD 4|2|VR 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*CHI:	我 给 你 一 个 惊喜 .
+%mor:	pro|wo3=I prep|gei3=for pro|ni3=you num|yi1=one cl|ge4
+	v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|6|SUBJ 2|6|JCT 3|2|PREPO 4|5|QUANT 5|2|PREPO 6|0|ROOT 7|6|PUNCT
+%spa:	$x:nia $i:dr
+*GRA:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*GRA:	给 我 什么 惊喜 .
+%mor:	prep|gei3=for pro|wo3=I pro:wh|shen2me=what
+	v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|JCT 4|1|PREPO 5|1|PUNCT
+%spa:	$x:nia $i:qn
+%act:	孩子拿一个小娃娃到外婆房间 .
+*CHI:	给 你 一 个 惊喜 .
+%mor:	prep|gei3=for pro|ni3=you num|yi1=one cl|ge4
+	v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|4|QUANT 4|5|SUBJ 5|1|PREPO 6|1|PUNCT
+*CHI:	是 一 个 惊喜 .
+%mor:	v:cop|shi4=is num|yi1=one cl|ge4 v|jing1xi3=be_pleasantly_surprised
+	.
+%gra:	1|4|COM 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dha $i:sa
+*GRA:	哎呀 .
+%mor:	co|ai1ya1=jeez .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*GRA:	真是 个 惊喜 .
+%mor:	adv|zhen1shi4=indeed cl|ge4 v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:yd
+%act:	她又出门到茶几处拿电话和扇子 .
+*CHI:	妈妈 也 要 一 个 惊喜 .
+%mor:	n:relat|ma1&DIM=mother adv|ye3=also v:aux|yao4=should num|yi1=one
+	cl|ge4 v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|6|SUBJ 2|3|JCT 3|6|JCT 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	不一样 .
+%mor:	v|bu4yi2yang4=dissimilarity .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nin $i:st
+%com:	孩子走进妈妈的房间去给妈妈惊喜 .
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 给 你 一 个 惊喜 .
+%mor:	pro|wo3=I prep|gei3=for pro|ni3=you num|yi1=one cl|ge4
+	v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|6|SUBJ 2|6|JCT 3|2|PREPO 4|5|QUANT 5|2|PREPO 6|0|ROOT 7|6|PUNCT
+*CHI:	给 你 .
+%mor:	prep|gei3=for pro|ni3=you .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dha $i:dc
+*MOT:	这 是 一 把 扇子 .
+%mor:	pro|zhe4=this v:cop|shi4=is num|yi1=one prep|ba3=object_marker
+	n|shan4zi=fan .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|4|PREPO 6|2|PUNCT
+%spa:	$x:djf $i:st
+%act:	她指着电话 .
+*CHI:	这 是 一 个 新 电话 .
+%mor:	pro|zhe4=this v:cop|shi4=is num|yi1=one cl|ge4 adj|xin1=new
+	n|dian4hua4=phone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|6|CLASS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%act:	乐宝又拿一个东西给外婆 .
+*CHI:	外婆 .
+%mor:	n|wai4po2=maternal_grandmother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	还给 你 一 个 惊喜 .
+%mor:	v|huan2gei3=give_back pro|ni3=you num|yi1=one cl|ge4
+	v|jing1xi3=be_pleasantly_surprised .
+%gra:	1|5|COM 2|5|SUBJ 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%spa:	$x:dha $i:dc
+%act:	乐宝指着积木对外婆说话 .
+*CHI:	这 是 白 设 .
+%mor:	pro|zhe4=this v:cop|shi4=is adv|bai2=in_vain v|she4=set_up .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+%com:	她把颜色的色读成卷舌音设 .
+*GRA:	这 是 你 的 摆设 吗 .
+%mor:	pro|zhe4=this v:cop|shi4=is pro|ni3=you poss|de
+	v|bai3she4=furnish_and_decorate_room sfp|ma .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|3|POSS 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:djf $i:yq
+*CHI:	外婆 讲 清楚 一点 .
+%mor:	n|wai4po2=maternal_grandmother v|jiang3=speak adj|qing1chu3=clear
+	adv|yi1dian3=a_bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	这个 颜色 不 就是 白色 吗 .
+%mor:	pro|zhe4ge4=this n|yan2se4=color neg|bu4=not
+	co:int|jiu4shi4=that_is adj|bai2se4=white sfp|ma .
+%gra:	1|4|DET 2|4|MOD 3|4|NEG 4|0|INCROOT 5|4|INCROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dcc $i:yq
+*GRA:	真 的 吗 .
+%mor:	adj|zhen1=true nom|de sfp|ma .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|SFP 4|1|PUNCT
+%spa:	$x:dcc $i:yq
+*CHI:	真 的 .
+%mor:	adj|zhen1=true nom|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%spa:	$x:dcc $i:aa
+%com:	孩子从外婆房间出来又去找爸爸 .
+*CHI:	爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我们 到 客厅 去 .
+%mor:	pro|wo3-PL=I v:resc|dao4=arrive n|ke4ting1=living_room
+	v:dirc|qu4=go .
+%gra:	1|3|SUBJ 2|1|VR 3|0|INCROOT 4|3|VD 5|3|PUNCT
+%spa:	$x:nia $i:rp
+*FAT:	去 干什么 .
+%mor:	v:dirc|qu4=go v|gan4shen2me=what_do_you_want .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	去 看 手机 .
+%mor:	v:dirc|qu4=go v|kan4=look n|shou3ji1=cell_phone .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	我们 比一比 哪个 手机 大 哪个 手机 小 .
+%mor:	pro|wo3-PL=I v|bi3&PAT=compare pro:wh|na3ge4=which
+	n|shou3ji1=cell_phone adj|da4=great pro:wh|na3ge4=which
+	n|shou3ji1=cell_phone adj|xiao3=small .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|MOD 4|8|MOD 5|8|MOD 6|8|MOD 7|8|MOD 8|2|OBJ
+	9|2|PUNCT
+*CHI:	我们 要 比一比 .
+%mor:	pro|wo3-PL=I v:aux|yao4=should v|bi3&PAT=compare .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:sa
+*FAT:	你 先 到 旁边 去 .
+%mor:	pro|ni3=you adv|xian1=earlier v:resc|dao4=arrive
+	post|pang2bian1=side v:dirc|qu4=go .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VR 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	先 到 旁边 看 自己 的 手机 .
+%mor:	adv|xian1=earlier v:resc|dao4=arrive post|pang2bian1=side
+	v|kan4=look pro|zi4ji3=self poss|de n|shou3ji1=cell_phone .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|SUBJ 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%spa:	$x:nia $i:st
+%com:	爸爸打算放手机音乐, 乐宝想看 .
+@End

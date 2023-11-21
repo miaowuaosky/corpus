@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;06.30|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	21-FEB-2015
+*CHI:	为什么 关门 ?
+%mor:	adv:wh|wei4shen2me=how_come v|guan1men2=close ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝看见爸爸关门 .
+*CHI:	泡 给 谁 吃 ?
+%mor:	v|pao4=soak prep|gei3=for pro:wh|shei2=who v|chi1=eat ?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:qn
+%act:	乐宝在吃草莓, 妈妈又洗草莓 .
+*MOT:	什么 ?
+%mor:	pro:wh|shen2me=what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:xa
+*CHI:	给 谁 吃 ?
+%mor:	prep|gei3=for pro:wh|shei2=who v|chi1=eat ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:rt
+*MOT:	给 爸爸 妈妈 吃 啊 .
+%mor:	v|gei3=give n:relat|ba4&DIM=father n:relat|ma1&DIM=mother
+	v|chi1=eat sfp|a1 .
+%gra:	1|4|JCT 2|4|PREPO 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	我 的 脖子 好 黏 乎 乎 的 我 下巴 也 黏 乎 乎 的 .
+%mor:	pro|wo3=I poss|de n|bo2zi=neck adv|hao3=very adj|nian2=sticky
+	sfp|hu1 sfp|hu1 nom|de pro|wo3=I n|xia4ba1=lower_jaw adv|ye3=also
+	adj|nian2=sticky sfp|hu1 sfp|hu1 nom|de .
+%gra:	1|3|DET 2|1|POSS 3|5|TOP 4|5|JCT 5|0|INCROOT 6|5|SFP 7|5|SFP 8|5|JCT
+	9|10|MOD 10|12|TOP 11|12|JCT 12|8|PREPO 13|5|SFP 14|5|SFP 15|5|POSS
+	16|5|PUNCT
+%act:	吃完草莓后到洗漱间 .
+*CHI:	我 打 尿 震 了 要 尿尿 .
+%mor:	pro|wo3=I v|da3=hit v|niao4=pee v|zhen4=shake asp|le
+	v:aux|yao4=should v|niao4&DIM=pee .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|2|OBJ 4|7|SUBJ 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|PUNCT
+%act:	给乐宝擦脖子时打哆嗦 .
+@End

@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.04|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	26-FEB-2014
+*CHI:	妈妈 睡着 了 .
+%mor:	n:relat|ma1&DIM=mother n|shui4zhe=sleep asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%com:	午睡时看见妈妈睡了 .
+*CHI:	响 了 .
+%mor:	adj|xiang3=sonorous asp|le .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	放屁 响 了 .
+%mor:	v|fang4pi4=fart adj|xiang3=sonorous asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	乐宝放了屁 .
+*CHI:	咳嗽 了 .
+%mor:	v|ke2sou4=cough asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	乐宝自己咳嗽 .
+*MOT:	什么 声音 ?
+%mor:	pro:wh|shen2me=what n|sheng1yin1=sound ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	放屁 声音 .
+%mor:	v|fang4pi4=fart n|sheng1yin1=sound .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dre $i:sa
+*MOT:	刚刚 谁 放屁 的 ?
+%mor:	adv|gang1&DIM=just pro:wh|shei2=who v|fang4pi4=fart nom|de ?
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	宝宝 放屁 .
+%mor:	n:relat|bao3&DIM=baby v|fang4pi4=fart .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dre $i:sa
+*CHI:	你 看 没有 了 .
+%mor:	pro|ni3=you v|kan4=look neg|mei2you3=not_have asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|NEG 4|2|OBJ 5|2|PUNCT
+%com:	乐宝掏妈妈口袋没掏到东西 .
+*MOT:	谁 放 的 ?
+%mor:	pro:wh|shei2=who v|fang4=put nom|de ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|PUNCT
+%spa:	$x:dre $i:qn
+%com:	妈妈放屁了 .
+*CHI:	妈妈 放 .
+%mor:	n:relat|ma1&DIM=mother v|fang4=put .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dre $i:sa
+@End

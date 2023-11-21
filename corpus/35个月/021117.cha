@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|FAN|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	26-JUN-2015
+*CHI:	妈妈 在 打呼 .
+%mor:	n:relat|ma1&DIM=mother adv|zai4=currently v|da3hu1=snoring .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*FAT:	不能 吃 .
+%mor:	v:aux|bu4neng2=cannot v|chi1=eat .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*FAT:	不 信 你 问 问 妈妈 .
+%mor:	neg|bu4=not v|xin4=believe pro|ni3=you v|wen4=ask v|wen4=ask
+	n:relat|ma1&DIM=mother .
+%gra:	1|2|NEG 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	不问 了 .
+%mor:	v|bu4wen4=dont_ask asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	不问 妈妈 .
+%mor:	v|bu4wen4=dont_ask n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:rd
+%com:	早上她要吃桃子, 爸爸让她问妈妈能不能吃 .
+*CHI:	外面 下雨 了 吗 .
+%mor:	n|wai4mian4=outside v|xia4yu3=rain asp|le sfp|ma .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%com:	外婆带她出去转转, 她走到楼下问外婆天气 .
+@End

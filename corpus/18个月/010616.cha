@@ -1,0 +1,56 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother,  FAT Father
+@ID:	zho|FLZ|CHI|01;06.16|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	07-FEB-2014
+*CHI:	又 放 炮 na !
+%mor:	adv|you4=again v|fang4=put n|pao4=heavy_weapon co|na=na !
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|PUNCT
+%com:	乐宝早上听见放炮声 .
+*CHI:	语晨 妹妹 拉 粑粑 啦 !
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister v|la1=pull
+	n|ba3ba=excrement sfp|la1 !
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|SFP 6|4|PUNCT
+*CHI:	宝宝 手机 响 na .
+%mor:	n:relat|bao3&DIM=baby n|shou3ji1=cell_phone adj|xiang3=sonorous
+	co|na=na .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%com:	听见手机闹钟响 .
+*MOT:	宝宝 自己 打开 .
+%mor:	n:relat|bao3&DIM=baby pro|zi4ji3=self v|da3kai1=unscrew .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝想玩护手霜, 想让妈妈帮她打开 .
+*CHI:	妈妈 搞 开 .
+%mor:	n:relat|ma1&DIM=mother v|gao3=work v:resc|kai1=open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|PUNCT
+%spa:	$x:nia $i:cs
+*MOT:	给 爸爸 打电话 好 吗 ?
+%mor:	prep|gei3=for n:relat|ba4&DIM=father v|da3dian4hua4=phone
+	adj|hao3=good sfp|ma ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	不是 打电话 .
+%mor:	n|bu2shi4=fault v|da3dian4hua4=phone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:rd
+%com:	其实乐宝想敲门看爸爸 .
+*FAT:	可 喝 啦 ?
+%mor:	adv|ke3=on_the_contrary v|he1=drink sfp|la1 ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dre $i:tq
+%com:	爸爸正在煨汤 .
+*CHI:	不 喝 na .
+%mor:	neg|bu4=not v|he1=drink co|na=na .
+%gra:	1|2|NEG 2|0|ROOT 3|2|COM 4|2|PUNCT
+%spa:	$x:dre $i:ta
+*CHI:	打伞 .
+%mor:	v|da3san3=hold_an_umbrella .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝第一次玩伞 .
+@End

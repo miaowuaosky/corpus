@@ -1,0 +1,245 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|02;08.18|female|||Child|||
+@ID:	zho|XX|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Xiao Fang
+@Date:	09-APR-2015
+*CHI:	我们 一起 去 看 小 都 妮 .
+%mor:	pro|wo3-PL=I adv|yi1qi3=together v:dirc|qu4=go v|kan4=look
+	adj|xiao3=small adv|dou1=all n|ni1=girl .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|7|MOD 6|7|JCT 7|4|OBJ 8|4|PUNCT
+%com:	孩子洗完脸跟外婆说 .
+*CHI:	你 现在 就 没事 了 吧 .
+%mor:	pro|ni3=you adv|xian4zai4=now adv|jiu4=just n|mei2shi4=nothing
+	asp|le sfp|ba .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|5|TOP 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+%com:	抱起娃娃, 孩子之前说娃娃受伤了 .
+*GRA:	走出 去 晒 晒 太阳 .
+%mor:	v|zou3chu1=walk_out v:dirc|qu4=go v|shai4=sun v|shai4=sun
+	n|tai4yang2=sun .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	我去 到 幼儿园 里 玩 .
+%mor:	v|wo3qu4=what_the_hell v:resc|dao4=arrive
+	n|you4er2yuan2=kindergarten post|li3=inside v|wan2=play .
+%gra:	1|5|COM 2|1|VR 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:nia $i:cs
+%com:	转身回来 .
+*CHI:	去 好 了 回来 了 .
+%mor:	v:dirc|qu4=go adj|hao3=good asp|le v|hui2lai2=return asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*GRA:	泡泡 别 拿出 来 .
+%mor:	n|pao4pao4=bubble neg|bie2=dont v|na2chu1=take_out v:dirc|lai2=come
+	.
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|VD 5|3|PUNCT
+%spa:	$x:nia $i:pf
+%com:	打算出去, 孩子想拿泡泡 .
+*CHI:	好哇 外婆 我 知道了 .
+%mor:	tag|hao3wa1=yes n|wai4po2=maternal_grandmother pro|wo3=I tag|知道了 .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|SUBJ 4|2|COM 5|2|PUNCT
+%spa:	$x:nia $i:pd
+*CHI:	我 要 带 垃圾 .
+%mor:	pro|wo3=I v:aux|yao4=should v|dai4=bring n|le4se4=garbage .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:nia $i:st
+*GRA:	我 来 .
+%mor:	pro|wo3=I v:dirc|lai2=come .
+%gra:	1|0|INCROOT 2|1|VD 3|1|PUNCT
+%spa:	$x:nia $i:dw
+*CHI:	哦 哦 .
+%mor:	sfp|o1 sfp|o1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:nia $i:ap
+*CHI:	这个 带 着 .
+%mor:	pro|zhe4ge4=this v|dai4=bring asp|zhe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	拿苹果 .
+*GRA:	苹果 不带 回来 再 吃 .
+%mor:	n|ping2guo3=apple v|bu4dai4=without v|hui2lai2=return
+	adv|zai4=again v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:nia $i:rd
+*CHI:	ohno .
+%mor:	co|ohno .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	我 来 给 你 拎包 .
+%mor:	pro|wo3=I v:dirc|lai2=come prep|gei3=for pro|ni3=you
+	n|lin1bao1=be_sb_s_assistant_or_follower .
+%gra:	1|3|TOP 2|1|VD 3|0|INCROOT 4|5|MOD 5|3|PREPO 6|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	孩子准备出门 .
+*GRA:	你 太 小 了 还 要 下 楼 .
+%mor:	pro|ni3=you adv|tai4=very adj|xiao3=small asp|le adv|hai2=still
+	v:aux|yao4=should cl|xia4=activity n|lou2=storey .
+%gra:	1|3|SUBJ 2|3|JCT 3|8|MOD 4|8|MOD 5|6|JCT 6|8|AUX 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	我 长大 了 能 搞 .
+%mor:	pro|wo3=I v|zhang3da4=grow_up asp|le v:aux|neng2=can v|gao3=work .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%spa:	$x:nia $i:gr
+*MOT:	外婆 是不是 衣服 穿 少 了 ?
+%mor:	n|wai4po2=maternal_grandmother tag|shi4bu2shi4=right
+	n|yi1fu2=clothes v|chuan1=put_on adj|shao3=little asp|le ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|INCROOT 7|6|PUNCT
+%spa:	$x:dha $i:yq
+*GRA:	照 吧 .
+%mor:	v|zhao4=shine sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:djf $i:aa
+*CHI:	我 这个 也 照 我 衣服 穿 多 了 .
+%mor:	pro|wo3=I pro|zhe4ge4=this adv|ye3=also prep|zhao4=according_to
+	pro|wo3=I n|yi1fu2=clothes v|chuan1=put_on quant|duo1=many asp|le .
+%gra:	1|4|SUBJ 2|3|SUBJ 3|4|JCT 4|0|INCROOT 5|7|SUBJ 6|7|SUBJ 7|4|PREPO
+	8|4|PREPO 9|4|PREPO 10|4|PUNCT
+%spa:	$x:djf $i:rt
+%com:	衣服穿得多, 不少的意思 .
+*CHI:	你 干 不 干活 了 ?
+%mor:	pro|ni3=you v|gan4=do neg|bu4=not v|gan4huo2=work asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|NEG 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%com:	孩子看到妈妈在插优盘 .
+*CHI:	给 我 看dora .
+%mor:	prep|gei3=for pro|wo3=I v|kan4dora=look_at_dora .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	好 啊 吃 过 饭 看好 吗 ?
+%mor:	adj|hao3=good co|a v|chi1=eat asp|guo4 n|fan4=food
+	v|kan4hao3=believe_something_someone_will_be_worthy_in_the_future
+	sfp|ma ?
+%gra:	1|6|SUBJ 2|3|COM 3|6|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|SFP 8|6|PUNCT
+%spa:	$x:nia $i:tq
+*CHI:	这 是 什么 形状 的 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|xing2zhuang4=form
+	nom|de ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|POSS 6|2|PUNCT
+%spa:	$x:dha $i:qn
+%com:	拿妈妈的优盘 .
+*MOT:	方形 .
+%mor:	n|fang1xing2=square .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	什么 方形 ?
+%mor:	pro:wh|shen2me=what n|fang1xing2=square ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:qn
+*MOT:	长方形 .
+%mor:	n|chang2fang1xing2=rectangle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	什么 长方形 ?
+%mor:	pro:wh|shen2me=what n|chang2fang1xing2=rectangle ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	我 要dora .
+%mor:	pro|wo3=I v|yao4dora=dora .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	我 没有 带 小 都 妮 来 .
+%mor:	pro|wo3=I neg|mei2you3=not_have v|dai4=bring adj|xiao3=small
+	adv|dou1=all n|ni1=girl v:dirc|lai2=come .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|6|MOD 5|6|JCT 6|3|OBJ 7|3|VD 8|3|PUNCT
+%com:	发现房间没有娃娃 .
+*CHI:	妈妈 我 看 什么 故事 的 dora ?
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v|kan4=look pro:wh|shen2me=what
+	n|gu4shi4=story poss|de co|dora ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|POSS 7|3|COM 8|3|PUNCT
+*MOT:	不要 翻 我 书 .
+%mor:	adv|bu2yao4=dont v|fan1=flip pro|wo3=I n|shu1=book .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:nia $i:pf
+*CHI:	我 在 看 有 没有 字 我 在 看看 有 没有 字 ?
+%mor:	pro|wo3=I adv|zai4=currently v|kan4=look v|you3=have
+	neg|mei2you3=not_have n|zi4=written_character pro|wo3=I
+	adv|zai4=currently v|kan4&DIM=look v|you3=have neg|mei2you3=not_have
+	n|zi4=written_character ?
+%gra:	1|3|SUBJ 2|3|JCT 3|4|JCT 4|9|CJCT 5|6|NEG 6|4|OBJ 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|9|OBJ 11|12|NEG 12|9|OBJ 13|9|PUNCT
+%spa:	$x:nia $i:gr
+*MOT:	看 我 爱 你 ?
+%mor:	v|kan4=look pro|wo3=I v|ai4=love pro|ni3=you ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:nia $i:tq
+*CHI:	不是 看 我 爱 你 .
+%mor:	n|bu2shi4=fault v|kan4=look pro|wo3=I v|ai4=love pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%spa:	$x:nia $i:ta
+*CHI:	看 这个 .
+%mor:	v|kan4=look pro|zhe4ge4=this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	指另一个 .
+*CHI:	妈妈 你 要 什么 泡泡 风车 泡泡 ?
+%mor:	n:relat|ma1&DIM=mother pro|ni3=you v:aux|yao4=should
+	pro:wh|shen2me=what n|pao4pao4=bubble n|feng1che1=windmill
+	n|pao4pao4=bubble ?
+%gra:	1|0|INCROOT 2|7|MOD 3|7|MOD 4|7|MOD 5|6|MOD 6|7|MOD 7|1|OBJ 8|1|PUNCT
+%com:	坐在妈妈腿上看电脑 .
+*MOT:	什么 泡泡 ?
+%mor:	pro:wh|shen2me=what n|pao4pao4=bubble ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	要 汽车 泡泡 还是 要 风车 泡泡 呀 ?
+%mor:	v:aux|yao4=should n|qi4che1=motor_vehicle n|pao4pao4=bubble
+	conj|hai2shi4=or v:aux|yao4=should n|feng1che1=windmill
+	n|pao4pao4=bubble sfp|ya ?
+%gra:	1|3|MOD 2|3|MOD 3|7|MOD 4|7|MOD 5|7|MOD 6|7|MOD 7|0|INCROOT 8|7|SFP
+	9|7|PUNCT
+%spa:	$x:nia $i:tq
+*MOT:	风车 泡泡 .
+%mor:	n|feng1che1=windmill n|pao4pao4=bubble .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:ta
+*CHI:	不要 风车 泡泡 就 搞 铁锹 泡泡 来 .
+%mor:	adv|bu2yao4=dont n|feng1che1=windmill n|pao4pao4=bubble
+	adv|jiu4=just v|gao3=work n|tie3qiao1=spade n|pao4pao4=bubble
+	v:dirc|lai2=come .
+%gra:	1|3|JCT 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|VD
+	9|5|PUNCT
+*CHI:	你 不要 记 我 的话 .
+%mor:	pro|ni3=you adv|bu2yao4=dont v|ji4=write_down pro|wo3=I
+	conj|de5hua4=if .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%com:	妈妈在记录 .
+*MOT:	为什么 ?
+%mor:	adv:wh|wei4shen2me=how_come ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	因为 你 要 铁锹 泡泡 .
+%mor:	conj|yin1wei4=because pro|ni3=you v:aux|yao4=should
+	n|tie3qiao1=spade n|pao4pao4=bubble .
+%gra:	1|0|INCROOT 2|5|MOD 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	妈妈 你 要 小 鸭子 吗 ?
+%mor:	n:relat|ma1&DIM=mother pro|ni3=you v:aux|yao4=should
+	adj|xiao3=small n|ya1-NOM=drake sfp|ma ?
+%gra:	1|0|INCROOT 2|5|MOD 3|5|AUX 4|5|MOD 5|1|OBJ 6|1|SFP 7|1|PUNCT
+*CHI:	来 给 你 这 是 玩 的 不能 吃 啊 .
+%mor:	v:dirc|lai2=come prep|gei3=for pro|ni3=you pro|zhe4=this
+	v:cop|shi4=is v|wan2=play nom|de v:aux|bu4neng2=cannot v|chi1=eat
+	sfp|a1 .
+%gra:	1|6|SUBJ 2|6|JCT 3|2|PREPO 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|9|JCT 8|9|AUX
+	9|6|OBJ 10|6|SFP 11|6|PUNCT
+*MOT:	小 鸭子 嘎嘎 .
+%mor:	adj|xiao3=small n|ya1-NOM=drake on|ga1ga1&DIM=quack .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	你 玩 啊 .
+%mor:	pro|ni3=you v|wan2=play sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	妈妈 请 让 我 想睡 觉 .
+%mor:	n:relat|ma1&DIM=mother v|qing3=request v|rang4=allow pro|wo3=I
+	v|xiang3shui4=sleepy n|jiao4=sleep .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%com:	孩子有点困 .
+*CHI:	想睡 觉 在 这个 妈妈 怀里 睡觉 .
+%mor:	v|xiang3shui4=sleepy n|jiao4=sleep prep|zai4=at pro|zhe4ge4=this
+	n:relat|ma1&DIM=mother n|huai2li3=arms v|shui4jiao4=sleep .
+%gra:	1|2|MOD 2|7|SUBJ 3|7|JCT 4|3|PREPO 5|7|SUBJ 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%act:	孩子靠在妈妈怀里 .
+@End

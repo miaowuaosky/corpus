@@ -1,0 +1,153 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|01;10.08|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	30-MAY-2014
+*GRA:	宝宝 不能 拨 是 大人 拨 的 .
+%mor:	n:relat|bao3&DIM=baby v:aux|bu4neng2=cannot
+	v|bo1=move_with_hand_foot_stick v:cop|shi4=is n|da4ren2=adult
+	v|bo1=move_with_hand_foot_stick nom|de .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|POSS 8|6|PUNCT
+%spa:	$x:nia $i:st
+%com:	早起外婆拨毛豆, 对乐宝说话 .
+*CHI:	是 外婆 拨 的 .
+%mor:	v:cop|shi4=is n|wai4po2=maternal_grandmother
+	v|bo1=move_with_hand_foot_stick nom|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:nia $i:ap
+*CHI:	外婆 谢谢 你 .
+%mor:	n|wai4po2=maternal_grandmother co:int|xie4xie4=thank_you
+	pro|ni3=you .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|OBJ 4|2|PUNCT
+%com:	看见外婆倒稀饭给妈妈 .
+*CHI:	我 的 车子 呢 ?
+%mor:	pro|wo3=I poss|de n|che1zi=vehicle sfp|ne ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%com:	打算用钥匙开小车 .
+*CHI:	这里 .
+%mor:	post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	找到了钥匙 .
+*CHI:	钱 去 坐 摇 摇 车 的 .
+%mor:	n|qian2=money v:dirc|qu4=go v|zuo4=sit v|yao2=rock v|yao2=rock
+	n|che1=vehicle nom|de .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|SRL 5|6|MOD 6|4|OBJ 7|3|POSS 8|3|PUNCT
+%com:	拿到一块钱 .
+*CHI:	外婆 还 在 睡觉 呢 .
+%mor:	n|wai4po2=maternal_grandmother adv|hai2=still prep|zai4=at
+	v|shui4jiao4=sleep sfp|ne .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%com:	午睡起床 .
+*MOT:	木马 在 哪儿 ?
+%mor:	n|mu4ma3=hobby_horse prep|zai4=at pro:wh|na3-DIA=which ?
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 动物园 看 到 的 木马 .
+%mor:	prep|zai4=at n|dong4wu4yuan2=zoo v|kan4=look v:resc|dao4=arrive
+	poss|de n|mu4ma3=hobby_horse .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|VR 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	水 快 喝 完了 .
+%mor:	n|shui3=water adv|kuai4=quickly v|he1=drink tag|wan2le=oh_no .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COM 5|3|PUNCT
+%spa:	$x:drp $i:st
+%act:	妈妈把杯子放在床边 .
+*CHI:	下来 再 喝 喝 水 .
+%mor:	v|xia4lai2=come_down adv|zai4=again v|he1=drink v|he1=drink
+	n|shui3=water .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$x:nia $i:si
+%com:	妈妈正给自己穿衣服 .
+*CHI:	我们 拉 大 绳 .
+%mor:	pro|wo3-PL=I v|la1=pull adj|da4=great n|sheng2=rope .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	拿绳子 .
+*CHI:	又 是 爸爸 .
+%mor:	adv|you4=again v:cop|shi4=is n:relat|ba4&DIM=father .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	又 是 爸爸 的 手机 响 了 .
+%mor:	adv|you4=again v:cop|shi4=is n:relat|ba4&DIM=father poss|de
+	n|shou3ji1=cell_phone adj|xiang3=sonorous asp|le .
+%gra:	1|5|JCT 2|5|MOD 3|2|PRED 4|2|POSS 5|7|SUBJ 6|7|MOD 7|0|INCROOT
+	8|7|PUNCT
+%com:	爸爸给妈妈发信息妈妈手机响了, 过了一会儿因为垃圾短信又响了一声 .
+*CHI:	要看 手机 乐宝 .
+%mor:	v|yao4kan4=to_see n|shou3ji1=cell_phone n:name|le4bao3=lebao .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:nia $i:si
+*MOT:	看 什么 乐宝 ?
+%mor:	v|kan4=look pro:wh|shen2me=what n:name|le4bao3=lebao ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	要看 妈妈 手机 乐宝 .
+%mor:	v|yao4kan4=to_see n:relat|ma1&DIM=mother n|shou3ji1=cell_phone
+	n:name|le4bao3=lebao .
+%gra:	1|4|MOD 2|3|MOD 3|1|OBJ 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	乐宝 戴 个 帽子 .
+%mor:	n:name|le4bao3=lebao v|dai4=wear cl|ge4 n|mao4-NOM=hat .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	乐宝看到照片 .
+*CHI:	妈妈 手机 没电 了 .
+%mor:	n:relat|ma1&DIM=mother n|shou3ji1=cell_phone
+	v|mei2dian4=no_electricity asp|le .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	儿歌 有电 .
+%mor:	n|er2ge1=nursery_rhymes v|you3dian4=electric .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	妈妈打开电脑给乐宝看儿歌 .
+%act:	指妈妈手机 .
+*CHI:	电脑 关机 .
+%mor:	n|dian4nao3=computer v|guan1ji1=shutdown .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	不看儿歌了 .
+*CHI:	蚊子 咬 你 了 .
+%mor:	n|wen2-NOM=mosquito v|yao3=bite pro|ni3=you asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%com:	乐宝在玩水发现虫子 .
+*CHI:	宝宝 好 厉害 .
+%mor:	n:relat|bao3&DIM=baby adv|hao3=very adj|li4hai4=terrible .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	自己拉窗帘 .
+*MOT:	西瓜 不能 吃 .
+%mor:	n|xi1gua1=watermelon v:aux|bu4neng2=cannot v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	这个 不能 吃 会 拉肚子 .
+%mor:	pro|zhe4ge4=this v:aux|bu4neng2=cannot v|chi1=eat v:aux|hui4=will
+	v|la1du4zi=suffer_from_diarrhoea .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|AUX 5|3|OBJ 6|3|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	爸爸 在 晒 衣服 .
+%mor:	n:relat|ba4&DIM=father adv|zai4=currently v|shai4=sun
+	n|yi1fu2=clothes .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝看见爸爸晒衣服 .
+*CHI:	衣服 没有 了 .
+%mor:	n|yi1fu2=clothes neg|mei2you3=not_have asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%com:	看见盆里没有衣服 .
+*CHI:	让 爸爸 干活 吧 .
+%mor:	v|rang4=allow n:relat|ba4&DIM=father v|gan4huo2=work sfp|ba .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%com:	爸爸在用电脑妈妈抱着乐宝 .
+*CHI:	钱 坐 摇 摇 车 的 .
+%mor:	n|qian2=money v|zuo4=sit v|yao2=rock v|yao2=rock n|che1=vehicle
+	nom|de .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|POSS 7|3|PUNCT
+%com:	乐宝找到一块钱 .
+*CHI:	这个 是 爸爸 的 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is n:relat|ba4&DIM=father poss|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|POSS 5|2|PUNCT
+%com:	两人看电视妈妈给爸爸一块瓜乐宝没要 .
+*CHI:	妈妈 要 去 上课 了 .
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v:dirc|qu4=go
+	v|shang4ke4=attend_class asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	妈妈出门买水果, 乐宝以为妈妈要去上课, 乐宝的妈妈是老师 .
+@End

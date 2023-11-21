@@ -1,0 +1,105 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.14|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	08-MAR-2014
+*CHI:	洗脸 的 .
+%mor:	v|xi3lian3=wash_ones_face nom|de .
+%gra:	1|0|ROOT 2|1|POSS 3|1|PUNCT
+*CHI:	洗 屁屁 的 .
+%mor:	v|xi3=wash n|pi4&DIM=fart nom|de .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+%com:	乐宝看见盆 .
+*CHI:	电池 .
+%mor:	n|dian4chi2=battery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	小豆 豆 的 电池 .
+%mor:	n|xiao3dou4=adzuki_beans n|dou4=small_ball poss|de
+	n|dian4chi2=battery .
+%gra:	1|2|MOD 2|4|MOD 3|2|POSS 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝看见太太家的电池, 以为是自己家玩具里面的 .
+*CHI:	拿不动 .
+%mor:	v|na2bu4dong4=cant_move .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	看见妈妈拿围嘴 .
+*MOT:	篮球 呢 ?
+%mor:	n|lan2qiu2=basketball sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	在 这里 .
+%mor:	prep|zai4=at post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dha $i:sa
+%act:	乐宝跑到球那里 .
+*MOT:	里面 有 什么 ?
+%mor:	post|li3mian4=inside v|you3=have pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:qn
+%com:	妈妈看见乐宝在看太太衣柜 .
+*CHI:	男 太太 衣服 .
+%mor:	adj|nan2=male n|tai4tai4=madame n|yi1fu2=clothes .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	谁 回来 了 ?
+%mor:	pro:wh|shei2=who v|hui2lai2=return asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:qn
+%com:	妈妈看见外公外婆从外面回来 .
+*CHI:	外公 回来 了 .
+%mor:	n|wai4gong1=maternal_grandfather v|hui2lai2=return asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:sa
+*CHI:	给 爸爸 .
+%mor:	v|gei3=give n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	给 妈妈 .
+%mor:	v|gei3=give n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	自己手拿报纸 .
+*CHI:	小 板凳 拿 过去 .
+%mor:	adj|xiao3=small n|ban3deng4=wooden_bench v|na2=hold
+	v:dirc|guo4qu4=go_past .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+%com:	乐宝看见太爷爷洗脚 .
+%act:	端板凳 .
+*MOT:	给 谁 ?
+%mor:	prep|gei3=for pro:wh|shei2=who ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dhs $i:qn
+*CHI:	男 太太 .
+%mor:	adj|nan2=male n|tai4tai4=madame .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dhs $i:sa
+*CHI:	妈妈 我 想 看 收 起来 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v:aux|xiang3=want v|kan4=look
+	v|shou1=gather adv|qi3lai2=up .
+%gra:	1|5|SUBJ 2|4|SUBJ 3|4|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	晚上拿着书 .
+*MOT:	你 听到 什么 声音 了 ?
+%mor:	pro|ni3=you v|ting1dao4=hear pro:wh|shen2me=what n|sheng1yin1=sound
+	asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	手机 声音 .
+%mor:	n|shou3ji1=cell_phone n|sheng1yin1=sound .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dre $i:sa
+*CHI:	世上 只 有 妈妈 好 .
+%mor:	n|shi4shang4=in_the_world adv|zhi3=only v|you3=have
+	n:relat|ma1&DIM=mother adj|hao3=good .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+*CHI:	睡觉 了 .
+%mor:	v|shui4jiao4=sleep asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	太太 睡觉 了 .
+%mor:	n|tai4tai4=madame v|shui4jiao4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	爸爸 睡觉 了 .
+%mor:	n:relat|ba4&DIM=father v|shui4jiao4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝睡觉前说的话 .
+@End

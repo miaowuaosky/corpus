@@ -1,0 +1,79 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother,  GRA Grandfather
+@ID:	zho|FLZ|CHI|01;06.24|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Li|GRA||male|||Grandfather|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	15-FEB-2014
+*CHI:	拿 着 .
+%mor:	v|na2=hold asp|zhe .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	把杯子给妈妈 .
+*CHI:	吃 草莓 .
+%mor:	v|chi1=eat n|cao3mei2=strawberry .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	拿了草莓 .
+*CHI:	咳嗽 .
+%mor:	v|ke2sou4=cough .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	自己咳嗽 .
+*GRA:	谁 来 了 ?
+%mor:	pro:wh|shei2=who v:dirc|lai2=come asp|le ?
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:dha $i:qn
+%com:	外公来了 .
+*CHI:	外公 来 了 .
+%mor:	n|wai4gong1=maternal_grandfather v:dirc|lai2=come asp|le .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:dha $i:sa
+*CHI:	戴 小 帽子 .
+%mor:	v|dai4=wear adj|xiao3=small n|mao4-NOM=hat .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	看见外公戴帽子 .
+*CHI:	习爷爷 拉 粑粑 了 .
+%mor:	n:name|xi2ye2ye2=grandfather v|la1=pull n|ba3ba=excrement asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+*CHI:	李克强 爷爷 拉 叭 叭 了 .
+%mor:	n:name|li3ke4qiang2=li_keqiang n:relat|ye2&DIM=grandfather
+	v|la1=pull on|ba1=smack on|ba1=smack asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|SFP 7|3|PUNCT
+*CHI:	哇 .
+%mor:	co|哇 .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	晚上乐宝拉粑粑时自言自语 .
+*CHI:	坏了 .
+%mor:	n|huai4le=bad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:dc
+%com:	吃香蕉看见烂处 .
+*MOT:	哪儿 坏了 ?
+%mor:	pro:wh|na3-DIA=which n|huai4le=bad ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	香蕉 坏了 .
+%mor:	n|xiang1jiao1=banana n|huai4le=bad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	男 太太 回来 了 男 太太 回来 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame v|hui2lai2=return asp|le
+	n|nan2=male n|tai4tai4=madame v|hui2lai2=return asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|7|CJCT 4|6|MOD 5|6|MOD 6|3|OBJ 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+%com:	听见开门声 .
+*MOT:	男 太太 呢 ?
+%mor:	adj|nan2=male n|tai4tai4=madame sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	睡觉 了 .
+%mor:	v|shui4jiao4=sleep asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+%act:	指着房间 .
+*CHI:	外面 放 炮 .
+%mor:	n|wai4mian4=outside v|fang4=put n|pao4=heavy_weapon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	突然自发说出 .
+@End

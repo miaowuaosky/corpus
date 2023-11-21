@@ -1,0 +1,34 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|01;06.25|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	16-FEB-2014
+*MOT:	太太 呢 ?
+%mor:	n|tai4tai4=madame sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	妹妹 家 去 了 .
+%mor:	n:relat|mei4&DIM=younger_sister n|jia1=family v:dirc|qu4=go asp|le
+	.
+%gra:	1|2|MOD 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	0 .
+%act:	数数 .
+*CHI:	鼓鼓 掌 .
+%mor:	n|gu3&DIM=drum cl|zhang3=activity .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	拍手 .
+*CHI:	好好 吃 .
+%mor:	adj|hao3&DIM=good v|chi1=eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	乐宝拿着火龙果想吃 .
+*CHI:	下巴 有 眉毛 有 .
+%mor:	n|xia4ba1=lower_jaw v|you3=have n|mei2mao2=eyebrow v|you3=have .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	妈妈脸上沾了点面霜 .
+@End

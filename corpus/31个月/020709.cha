@@ -1,0 +1,228 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;07.09|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	03-MAR-2015
+*CHI:	我 在 拿 辫 绳 我 在 套 手 扎 辫子 呢 .
+%mor:	pro|wo3=I adv|zai4=currently v|na2=hold n|bian4=braid n|sheng2=rope
+	pro|wo3=I adv|zai4=currently v|tao4=encase n|shou3=hand v|zha1=prick
+	n|bian4zi=handle sfp|ne .
+%gra:	1|3|SUBJ 2|3|JCT 3|8|CJCT 4|5|MOD 5|3|OBJ 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|10|SUBJ 10|11|MOD 11|8|OBJ 12|8|SFP 13|8|PUNCT
+%act:	起床拿妈妈辫绳套手上 .
+*CHI:	我 抱 你 起床 .
+%mor:	pro|wo3=I v|bao4=hug pro|ni3=you v|qi3chuang2=wake_up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|PUNCT
+%act:	抱妈妈要妈妈起床 .
+*CHI:	什么 声音 ?
+%mor:	pro:wh|shen2me=what n|sheng1yin1=sound ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	警车 .
+%mor:	n|jing3che1=police_car .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	听见车子鸣笛 .
+*MOT:	对 警察 叔叔 做 的 车 .
+%mor:	tag|dui4=correct n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	v|zuo4=make nom|de n|che1=vehicle .
+%gra:	1|4|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	警察 是 坏人 能 把 乐宝 抓走 .
+%mor:	n|jing3cha2=policeman v:cop|shi4=is n|huai4ren2=villain
+	v:aux|neng2=can prep|ba3=object_marker n:name|le4bao3=lebao
+	v|zhua1zou3=arrest .
+%gra:	1|3|MOD 2|3|MOD 3|7|SUBJ 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	外婆 快 看 我 打开 了 .
+%mor:	n|wai4po2=maternal_grandmother adv|kuai4=quickly v|kan4=look
+	pro|wo3=I v|da3kai1=unscrew asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|OBJ 7|3|PUNCT
+*CHI:	外婆 那个 梳子 呢 ?
+%mor:	n|wai4po2=maternal_grandmother pro|na4ge4=that n|shu1zi=comb sfp|ne
+	?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	那个 盒子 呢 ?
+%mor:	pro|na4ge4=that n|he2zi=box sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%act:	到客厅 .
+*CHI:	妈妈 买 了 好多 好吃 的 这 是 什么 ?
+%mor:	n:relat|ma1&DIM=mother v|mai3=buy asp|le quant|hao3duo1=many
+	adj|hao3chi1=delicious nom|de pro|zhe4=this v:cop|shi4=is
+	pro:wh|shen2me=what ?
+%gra:	1|2|JCT 2|0|NONE 3|2|JCT 4|3|PREPO 5|4|ROOT 6|5|POSS 7|8|SUBJ 8|6|ROOT
+	9|8|PRED 10|5|PUNCT
+%spa:	$x:drp $i:qn
+%act:	看见桌子好多水果 .
+*MOT:	是 芒果 乐宝 打开 袋子 .
+%mor:	v:cop|shi4=is n|mang2guo3=mango n:name|le4bao3=lebao
+	v|da3kai1=unscrew n|dai4zi=sack .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:drp $i:sa
+*MOT:	吃完 饭 再 吃 .
+%mor:	v|chi1wan2=finish n|fan4=food adv|zai4=again v|chi1=eat .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	芒果 我 闻 闻 什么 味 的 .
+%mor:	n|mang2guo3=mango pro|wo3=I v|wen2=smell v|wen2=smell
+	pro:wh|shen2me=what n|wei4=flavor nom|de .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|POSS 8|4|PUNCT
+*CHI:	外婆 我们 来 玩 橡皮 泥 好不好 ?
+%mor:	n|wai4po2=maternal_grandmother pro|wo3-PL=I v:dirc|lai2=come
+	v|wan2=play n|xiang4pi2=rubber n|ni2=dirt tag|hao3bu2hao3=okay ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|2|VD 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|COM 8|4|PUNCT
+%act:	玩橡皮泥 .
+*CHI:	外婆 能 不能 跟 我 一起 玩 橡皮 泥 ?
+%mor:	n|wai4po2=maternal_grandmother v:aux|neng2=can
+	v:aux|bu4neng2=cannot prep|gen1=with pro|wo3=I adv|yi1qi3=together
+	v|wan2=play n|xiang4pi2=rubber n|ni2=dirt ?
+%gra:	1|7|SUBJ 2|4|AUX 3|4|AUX 4|7|JCT 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|PUNCT
+%act:	自己玩橡皮泥又主动问外婆 .
+*CHI:	我 做 的 花卷 切 花卷 .
+%mor:	pro|wo3=I v|zuo4=make nom|de n|hua1juan3=hanamaki v|qie1=cut
+	n|hua1juan3=hanamaki .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*CHI:	鹅毛 !
+%mor:	n|e2mao2=feather !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	好多 鹅毛 !
+%mor:	quant|hao3duo1=many n|e2mao2=feather !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	要 吃 啊 呜 好 刺 人 呕 !
+%mor:	v:aux|yao4=should v|chi1=eat sfp|a1 on|wu1=hoot adv|hao3=very
+	v|ci4=stab n|ren2=person v|ou3=vomit !
+%gra:	1|2|AUX 2|8|SUBJ 3|2|SFP 4|8|JCT 5|6|JCT 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+%act:	看见手臂上的汗毛 .
+*CHI:	嗯 ?
+%mor:	co|en1=okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	是 什么 声音 ?
+%mor:	v:cop|shi4=is pro:wh|shen2me=what n|sheng1yin1=sound ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:qn
+*MOT:	我 不知 道 是 什么 声音 好像 是 警察 叔叔 开 的 车 吧 .
+%mor:	pro|wo3=I v|bu4zhi1=ignorance n|dao4=doctrine v:cop|shi4=is
+	pro:wh|shen2me=what n|sheng1yin1=sound adv|hao3xiang4=seem
+	v:cop|shi4=is n|jing3cha2=policeman n:relat|shu2&DIM=uncle
+	v:resc|kai1=open poss|de n|che1=vehicle sfp|ba .
+%gra:	1|2|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|9|JCT 8|9|MOD
+	9|4|PRED 10|13|MOD 11|10|VR 12|10|POSS 13|4|OBJ 14|4|SFP 15|4|PUNCT
+%spa:	$x:djf $i:sa
+%com:	听见警笛响了一声 .
+*CHI:	跟 我 一起 来 起床 吧 .
+%mor:	prep|gen1=with pro|wo3=I adv|yi1qi3=together v:dirc|lai2=come
+	v|qi3chuang2=wake_up sfp|ba .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|JCT 4|3|VD 5|1|PREPO 6|1|SFP 7|1|PUNCT
+%com:	想要妈妈一起起床 .
+*CHI:	只 点 圆形 的 就 搞 照 了 .
+%mor:	adv|zhi3=only v|dian3=dot n|yuan2xing2=round nom|de adv|jiu4=just
+	v|gao3=work prep|zhao4=according_to asp|le .
+%gra:	1|2|JCT 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|PREPO
+	9|6|PUNCT
+%act:	妈妈打开民生贷款半天没出来 .
+%com:	上面有手势密码是圆形 .
+*CHI:	毛 !
+%mor:	n|mao2=hair !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	飞机 飞 到 天上 我 够不着 .
+%mor:	n|fei1ji1=airplane v:resc|fei1=fly_away v:resc|dao4=arrive
+	n|tian1shang4=heavenly pro|wo3=I v|gou4bu4zhao2=not_enough .
+%gra:	1|4|MOD 2|1|VR 3|1|VR 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	乐宝 长大 变成 飞机 .
+%mor:	n:name|le4bao3=lebao v|zhang3da4=grow_up v|bian4cheng2=become
+	n|fei1ji1=airplane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	给乐宝穿衣服她看见鸭毛飘起来 .
+*CHI:	刚刚 叫 是 王 一 凡 .
+%mor:	adv|gang1&DIM=just v|jiao4=call v:cop|shi4=is n|wang2=king
+	adv|yi1=just_as conj|fan2=whatever .
+%gra:	1|2|JCT 2|6|CJCT 3|4|MOD 4|2|OBJ 5|6|JCT 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:drp $i:st
+%com:	听见电瓶车的响声 .
+*MOT:	王 一 凡 姐姐 有电 瓶 车 是 这么 叫 的 .
+%mor:	n|wang2=king adv|yi1=just_as conj|fan2=whatever
+	n:relat|jie3&DIM=elder_sister v|you3dian4=electric n|ping2=bottle
+	n|che1=vehicle v:cop|shi4=is adv|zhe4me=like_this v|jiao4=call
+	nom|de .
+%gra:	1|7|MOD 2|3|JCT 3|7|MOD 4|7|MOD 5|7|MOD 6|7|MOD 7|8|SUBJ 8|10|SUBJ
+	9|10|JCT 10|0|ROOT 11|10|POSS 12|10|PUNCT
+%spa:	$x:drp $i:ap
+%act:	妈妈边记录边说 .
+*CHI:	电瓶车 是 容 容 和 婷 婷 叫 的 是不是 呀 ?
+%mor:	n|dian4ping2che1=a_storage_battery_car v:cop|shi4=is v|rong2=allow
+	v|rong2=allow conj|he2=and n|ting2=ting n|ting2=ting v|jiao4=call
+	nom|de tag|shi4bu2shi4=right sfp|ya ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|8|SUBJ 5|7|MOD 6|7|MOD 7|4|OBJ 8|0|ROOT
+	9|8|POSS 10|9|COM 11|8|SFP 12|8|PUNCT
+%com:	自编自话 .
+*CHI:	妈妈 几点 钟 了 ?
+%mor:	n:relat|ma1&DIM=mother n|ji3dian3=what_time n|zhong1=clock asp|le ?
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dha $i:qn
+*MOT:	四 点钟 了 .
+%mor:	num|si4=four cl|dian3zhong1=oclock asp|le .
+%gra:	1|2|QUANT 2|3|CLASS 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	四 点钟 我们 要 干什么 ?
+%mor:	num|si4=four n|dian3zhong1=o_clock pro|wo3-PL=I v:aux|yao4=should
+	v|gan4shen2me=what_do_you_want ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%spa:	$x:nia $i:qn
+*MOT:	干什么 ?
+%mor:	v|gan4shen2me=what_do_you_want ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	出去 玩 .
+%mor:	v|chu1qu1=leave v|wan2=play .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	西瓜 球 别 跑 .
+%mor:	n|xi1gua1=watermelon n|qiu2=ball neg|bie2=dont v|pao3=run .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	跑走 了 我 自己 拿 你 抱 起来 .
+%mor:	v|pao3zou3=run_away asp|le pro|wo3=I pro|zi4ji3=self v|na2=hold
+	pro|ni3=you v|bao4=hug adv|qi3lai2=up .
+%gra:	1|5|COM 2|1|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|OBJ 8|7|INCROOT
+	9|8|PUNCT
+%act:	在妈妈身边拍西瓜球 .
+%com:	球从妈妈胯下滚走 .
+*CHI:	外婆 接着 我 快 搞 不行了 .
+%mor:	n|wai4po2=maternal_grandmother prep|jie1zhe=continue pro|wo3=I
+	adv|kuai4=quickly v|gao3=work v|bu4xing2le=dying .
+%gra:	1|6|SUBJ 2|6|JCT 3|5|SUBJ 4|5|JCT 5|2|PREPO 6|0|ROOT 7|6|PUNCT
+%act:	夹核桃 .
+*CHI:	你 小心 点 啊 吃 到 壳 子 会 卡 着 .
+%mor:	pro|ni3=you v|xiao3xin1=beware adv|dian3=a_bit co|a v|chi1=eat
+	v:resc|dao4=arrive n|ke2=shell n|zi3=master v:aux|hui4=will
+	v|ka3=get_stuck asp|zhe .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|COM 5|10|CJCT 6|5|VR 7|8|MOD 8|5|OBJ
+	9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+%act:	外婆剥出核桃 .
+%com:	应该是模拟外婆口气 .
+*CHI:	妈妈 干 完了 吗 ?
+%mor:	n:relat|ma1&DIM=mother v|gan4=do tag|wan2le=oh_no sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|SFP 5|2|PUNCT
+*CHI:	看 完 妈妈 再 干活 吧 .
+%mor:	v|kan4=look v:resc|wan2=finish n:relat|ma1&DIM=mother
+	adv|zai4=again v|gan4huo2=work sfp|ba .
+%gra:	1|5|CJCT 2|1|VR 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|SFP 7|5|PUNCT
+*MOT:	谁 在外 面 ?
+%mor:	pro:wh|shei2=who v|zai4wai4=outside n|mian4=surface ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	它 和 它 .
+%mor:	pro|ta1=it conj|he2=and pro|ta1=it .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	看巧虎视频提问, 有三只熊和一只小狗 .
+*CHI:	哦 ?
+%mor:	sfp|o1 ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	有人 回家 了 .
+%mor:	pro|you3ren2=someone v|hui4jia1=go_home asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

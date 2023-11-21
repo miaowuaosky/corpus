@@ -1,0 +1,141 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.17|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	08-FEB-2014
+*MOT:	妈妈 给 你 洗 洗脸 好不好 ?
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for pro|ni3=you v|xi3=wash
+	v|xi3lian3=wash_ones_face tag|hao3bu2hao3=okay ?
+%gra:	1|5|SUBJ 2|5|JCT 3|4|SUBJ 4|2|PREPO 5|0|ROOT 6|5|COM 7|5|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	不是 不是 .
+%mor:	n|bu2shi4=fault n|bu2shi4=fault .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:pf
+*CHI:	爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	你 知道 爸爸 在 干什么 吗 ?
+%mor:	pro|ni3=you v|zhi1dao4=know n:relat|ba4&DIM=father
+	adv|zai4=currently v|gan4shen2me=what_do_you_want sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|OBJ 6|2|SFP 7|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	上班 .
+%mor:	v|shang4ban1=start_work .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	好 大风 .
+%mor:	adj|hao3=good n|da4feng1=wind .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝看见树叶动 .
+*CHI:	好多 书 .
+%mor:	quant|hao3duo1=many n|shu1=book .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看见桌上有几本书 .
+*CHI:	咚 摔 下来 na !
+%mor:	on|dong1=thump v|shuai1=drop v|xia4lai2=come_down co|na=na !
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COM 5|3|PUNCT
+%com:	自己看书, 这是她喜欢的部分之前妈妈给她说了很多遍 .
+*CHI:	乐宝 语晨 妹妹 .
+%mor:	n:name|le4bao3=lebao n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	好像 哦 .
+%mor:	adv|hao3xiang4=seem sfp|o1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	好像 语晨 哦 .
+%mor:	adv|hao3xiang4=seem n:name|yu3chen2=yuchen sfp|o1 .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	乐宝看见书上宝宝 .
+*MOT:	妈妈 睡 了 .
+%mor:	n:relat|ma1&DIM=mother v|shui4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:si
+%com:	午休乐宝正在玩耍 .
+*CHI:	宝宝 睡 了 .
+%mor:	n:relat|bao3&DIM=baby v|shui4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	关门 .
+%mor:	v|guan1men2=close .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	关上了抽屉 .
+*CHI:	摔倒 啦 !
+%mor:	v|shuai1dao3=fall sfp|la1 !
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%com:	午睡起来乐宝要推倒妈妈 .
+*CHI:	妹妹 家 .
+%mor:	n:relat|mei4&DIM=younger_sister n|jia1=family .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	做骑马状 .
+*CHI:	电脑 关上 na .
+%mor:	n|dian4nao3=computer v|guan1shang4=shut co|na=na .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%com:	看见电脑 .
+*CHI:	0 .
+%com:	看见妈妈拍床单她过去抖床单 .
+*CHI:	好 重 .
+%mor:	adv|hao3=very adj|zhong4=heavy .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	抱油瓶抱不动 .
+*CHI:	坐 上 .
+%mor:	v|zuo4=sit v:dirc|shang4=go_up .
+%gra:	1|0|ROOT 2|1|VD 3|1|PUNCT
+%act:	指着凳子 .
+%com:	想让妈妈为她读书 .
+*CHI:	谢谢 外公 .
+%mor:	co:int|xie4xie4=thank_you n|wai4gong1=maternal_grandfather .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	实际上是妈妈给了她蛋糕 .
+*CHI:	爸爸 衣服 宝宝 衣服 .
+%mor:	n:relat|ba4&DIM=father n|yi1fu2=clothes n:relat|bao3&DIM=baby
+	n|yi1fu2=clothes .
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝自己拿着爸爸衣服 .
+*MOT:	这 是 谁 的 衣服 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shei2=who poss|de
+	n|yi1fu2=clothes ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|3|POSS 5|2|OBJ 6|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	太太 .
+%mor:	n|tai4tai4=madame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	好 凉 .
+%mor:	adv|hao3=very adj|liang2=cool .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%act:	乐宝拿着头发夹 .
+*MOT:	什么 好 凉 ?
+%mor:	pro:wh|shen2me=what adv|hao3=very adj|liang2=cool ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	夹子 好 凉 .
+%mor:	n|jia2-NOM=clip adv|hao3=very adj|liang2=cool .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dre $i:sa
+*MOT:	宝宝 要不 要 喝 水 ?
+%mor:	n:relat|bao3&DIM=baby conj|yao4bu4=otherwise v:aux|yao4=should
+	v|he1=drink n|shui3=water ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dhs $i:tq
+*CHI:	不 喝 .
+%mor:	neg|bu4=not v|he1=drink .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dhs $i:ta
+*MOT:	书 上 哥哥 的 车 跟 宝宝 的 一样 .
+%mor:	n|shu1=book post|shang4=above n:relat|ge1&DIM=older_brother poss|de
+	n|che1=vehicle prep|gen1=with n:relat|bao3&DIM=baby poss|de
+	adj|yi1yang4=same .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|3|POSS 5|9|SUBJ 6|9|MOD 7|6|PREPO 8|6|POSS
+	9|0|INCROOT 10|9|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	一样 的 一样 的 .
+%mor:	adj|yi1yang4=same nom|de adj|yi1yang4=same nom|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|4|MOD 4|2|POSS 5|1|PUNCT
+%spa:	$x:djf $i:ap
+%com:	过了好久乐宝才指着车子这样说 .
+@End

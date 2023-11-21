@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.07|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	01-MAR-2014
+*CHI:	轧 手 了 .
+%mor:	v|ya4=rolling n|shou3=hand asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	自己把手放到门缝 .
+*CHI:	还有 一点点 .
+%mor:	adv|hai2you3=moreover adv|yi1dian3dian3=a_little .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	喝奶后看奶瓶 .
+*CHI:	卡 .
+%mor:	v|ka3=get_stuck .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	看到外婆公交卡 .
+*CHI:	不 吃 了 .
+%mor:	neg|bu4=not v|chi1=eat asp|le .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	把剩下的香蕉给妈妈 .
+*CHI:	妈妈 抱 宝宝 .
+%mor:	n:relat|ma1&DIM=mother v|bao4=hug n:relat|bao3&DIM=baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	干什么 ?
+%mor:	v|gan4shen2me=what_do_you_want ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	看 星星 .
+%mor:	v|kan4=look n:name|星星 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	拿出 来 .
+%mor:	v|na2chu1=take_out v:dirc|lai2=come .
+%gra:	1|0|ROOT 2|1|VD 3|1|PUNCT
+%com:	球滚进床下乐宝让妈妈帮忙 .
+%act:	指着球的位置 .
+@End

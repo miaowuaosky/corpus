@@ -1,0 +1,88 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|FAN|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	18-JUN-2015
+*FAT:	白 岩 松 要 来 .
+%mor:	adj|bai2=white n|yan2=rock n|song1=pine v:aux|yao4=should
+	v:dirc|lai2=come .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:dnp $i:dc
+*MOT:	我 也 想 去 .
+%mor:	pro|wo3=I adv|ye3=also v:aux|xiang3=want v:dirc|qu4=go .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|VD 5|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	可是 我 呢 .
+%mor:	conj|ke3shi4=but pro|wo3=I sfp|ne .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+%spa:	$x:dha $i:yq
+%com:	乐宝突然过来摊手 .
+*CHI:	都 下 到家 里 来 了 .
+%mor:	adv|dou1=all quant|xia4=next adj|dao4jia1=consummate
+	post|li3=inside v:dirc|lai2=come asp|le .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|POSTO 4|2|JCT 5|4|VD 6|4|VD 7|2|PUNCT
+%com:	孩子到阳台看雨阳台都是雨 .
+%act:	孩子又拿了剃须刀 .
+*CHI:	我 拿 这个 搞 胡子 的 给 爸爸 好不好 .
+%mor:	pro|wo3=I v|na2=hold pro|zhe4ge4=this v|gao3=work n|hu2zi3=beard
+	poss|de v|gei3=give n:relat|ba4&DIM=father tag|hao3bu2hao3=okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|7|SUBJ 6|5|POSS 7|4|SRL 8|9|PREPO
+	9|7|COM 10|2|PUNCT
+%spa:	$x:dha $i:tq
+*MOT:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:ta
+%act:	她挥手 .
+*CHI:	拜拜 .
+%mor:	co:int|bai4bai4=bye_bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	外婆 .
+%mor:	n|wai4po2=maternal_grandmother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	帮 我 拿 一下 毛巾 .
+%mor:	v|bang1=help pro|wo3=I v|na2=hold adv|yi1xia4=a_bit
+	n|mao2jin1=washcloth .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|OBJ 6|3|PUNCT
+*CHI:	帮 我 拿 一下 毛巾 .
+%mor:	v|bang1=help pro|wo3=I v|na2=hold adv|yi1xia4=a_bit
+	n|mao2jin1=washcloth .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|OBJ 6|3|PUNCT
+*CHI:	就 在 阳台 外面 .
+%mor:	adv|jiu4=just prep|zai4=at n|yang2tai2=balcony n|wai4mian4=outside
+	.
+%gra:	1|4|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	就 在 阳台 外面 .
+%mor:	adv|jiu4=just prep|zai4=at n|yang2tai2=balcony n|wai4mian4=outside
+	.
+%gra:	1|4|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	乐宝 的 高 .
+%mor:	n:name|le4bao3=lebao poss|de adj|gao1=tall .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|SFP 4|1|PUNCT
+*CHI:	妈妈 的 矮 .
+%mor:	n:relat|ma1&DIM=mother poss|de adj|ai3=short .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|SFP 4|1|PUNCT
+%com:	乐宝要跟妈妈换椅子 .
+%act:	妈妈看着乐宝 .
+*CHI:	错 了 .
+%mor:	v|cuo4=wrong asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	乐宝 的 矮 .
+%mor:	n:name|le4bao3=lebao poss|de adj|ai3=short .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|SFP 4|1|PUNCT
+*CHI:	妈妈 的 高 .
+%mor:	n:relat|ma1&DIM=mother poss|de adj|gao1=tall .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|SFP 4|1|PUNCT
+%act:	她站在反过来的凳子上 .
+*CHI:	我 被 钻 到 笼子 里 去 了 .
+%mor:	pro|wo3=I prep|bei4=by v|zuan1=go_through v:resc|dao4=arrive
+	n|long2zi=large_chestbox post|li3=inside v:dirc|qu4=go asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VR 5|6|MOD 6|3|OBJ 7|6|VD 8|6|VD
+	9|3|PUNCT
+@End

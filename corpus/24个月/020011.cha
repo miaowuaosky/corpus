@@ -1,0 +1,130 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;00.11|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	02-AUG-2014
+*CHI:	雨晨 妈妈 现在 在 打车 .
+%mor:	n:name|yu3chen2=the_morning_rain n:relat|ma1&DIM=mother
+	adv|xian4zai4=now prep|zai4=at v|da3che1=take_a_taxi .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%com:	坐在出租车里 .
+*MOT:	去 广场 吃饭 .
+%mor:	v:dirc|qu4=go n|guang3chang3=public_square v|chi1fan4=having_dinner
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:si
+%com:	乐宝和妈妈下车 .
+*CHI:	好像 没有 了 .
+%mor:	adv|hao3xiang4=seem neg|mei2you3=not_have asp|le .
+%gra:	1|2|JCT 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	什么 没有 了 .
+%mor:	pro:wh|shen2me=what neg|mei2you3=not_have asp|le .
+%gra:	1|3|NEG 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	没有 菜 了 .
+%mor:	neg|mei2you3=not_have n|cai4=food asp|le .
+%gra:	1|2|NEG 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	老乡鸡 有 菜 .
+%mor:	n:prop|lao3xiang1ji1=hometown_chicken v|you3=have n|cai4=food .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	吃 光光 的 .
+%mor:	v|chi1=eat adj|guang1&DIM=smooth nom|de .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POSS 4|1|PUNCT
+%act:	吃完苹果把盒子给妈妈 .
+*CHI:	从 这里 画 吧 .
+%mor:	prep|cong2=from post|zhe4li3=here n|hua4=painting sfp|ba .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|PREPO 4|1|SFP 5|1|PUNCT
+%act:	找一个画板画 .
+*CHI:	皱 皮 的 .
+%mor:	v|zhou4=knit n|pi2=skin nom|de .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+%com:	看着脚面的皱皮 .
+*CHI:	这 是 什么人 .
+%mor:	pro|zhe4=this v:cop|shi4=is pro|shen2meren2=what_is_the_person .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	这 是 什么 .
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	指着画板上的人 .
+*CHI:	带 一 个 垃圾 .
+%mor:	v|dai4=bring num|yi1=one cl|ge4 n|le4se4=garbage .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	爸爸 带走 了 .
+%mor:	n:relat|ba4&DIM=father v|dai4zou3=take_away asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	防 蚊 贴 .
+%mor:	v|fang2=guard_against n|wen2=mosquito v|tie1=paste .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	小狗 看不见 了 .
+%mor:	n|xiao3gou3=puppy v|kan4bu2jian4=unseen asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	临出门 .
+*CHI:	马上 灯 就 灭 了 .
+%mor:	adv|ma3shang4=immediately n|deng1=lantern adv|jiu4=just
+	v|mie4=destruction asp|le .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	吃饭 了 .
+%mor:	v|chi1fan4=having_dinner asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	上楼 .
+*MOT:	白云 晚上 不 出来 .
+%mor:	n|bai2yun2=white_cloud n|wan3shang4=evening neg|bu4=not
+	v|chu1lai2=come_forward .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	不 天黑 白云 就 出来 了 .
+%mor:	neg|bu4=not n|tian1hei1=its_getting_dark n|bai2yun2=white_cloud
+	adv|jiu4=just v|chu1lai2=come_forward asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:dnp $i:dp
+%com:	夜晚在外面 .
+*CHI:	怎么回事 .
+%mor:	v|zen3mehui2shi4=whats_the_matter .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	灯灭了 .
+*CHI:	这 是 打架 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is v|da3jia4=struggle nom|de .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:dha $i:st
+%act:	指着扑克 .
+*MOT:	打 什么 架 .
+%mor:	v|da3=hit pro:wh|shen2me=what n|jia4=shelve .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	打 妈妈 架 .
+%mor:	v|da3=hit n:relat|ma1&DIM=mother n|jia4=shelve .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	厨房 灯 坏了 .
+%mor:	n|chu2fang2=kitchen n|deng1=lantern n|huai4le=bad .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	外公 把 它 装 灯 .
+%mor:	n|wai4gong1=maternal_grandfather prep|ba3=object_marker pro|ta1=it
+	v|zhuang1=install n|deng1=lantern .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:ooo
+*CHI:	树枝 可以 钓鱼 的 .
+%mor:	n|shu4zhi1=branch adj|ke3yi3=not_bad n|diao4yu2=go_fishing nom|de .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|POSS 5|3|PUNCT
+%act:	拿起一根树枝 .
+*CHI:	这里 有 树枝 .
+%mor:	post|zhe4li3=here v|you3=have n|shu4zhi1=branch .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	看到地上有树枝 .
+*CHI:	这 叫 泥巴 .
+%mor:	pro|zhe4=this v|jiao4=call n|ni2ba1=mud .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	指着泥土 .
+*CHI:	在 这里 坐 一下 .
+%mor:	prep|zai4=at post|zhe4li3=here v|zuo4=sit adv|yi1xia4=a_bit .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	坐到椅子 .
+@End

@@ -1,0 +1,124 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.20|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	11-JUN-2014
+*CHI:	拿 拿 到 外面 去 .
+%mor:	v|na2=hold v|na2=hold v:resc|dao4=arrive n|wai4mian4=outside
+	v:dirc|qu4=go .
+%gra:	1|2|SUBJ 2|4|CJCT 3|2|VR 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%com:	把尿不湿扔地上 .
+*MOT:	眼睛 不能 搞 .
+%mor:	n|yan3jing1=eye v:aux|bu4neng2=cannot v|gao3=work .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%act:	用纸擦妈妈眼睛 .
+*CHI:	妈妈 眼睛 能 搞 .
+%mor:	n:relat|ma1&DIM=mother n|yan3jing1=eye v:aux|neng2=can v|gao3=work
+	.
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	爸爸 在 做饭 给 爸爸 吃 .
+%mor:	n:relat|ba4&DIM=father adv|zai4=currently v|zuo4fan4=cook
+	prep|gei3=for n:relat|ba4&DIM=father v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|PUNCT
+%com:	听见砧板声音 .
+*MOT:	拿 叉子 .
+%mor:	v|na2=hold n|cha1-NOM=fork .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	叉子 能 夹 到 .
+%mor:	n|cha1-NOM=fork v:aux|neng2=can v|jia2=squeeze v:resc|dao4=arrive .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|VR 5|3|PUNCT
+%spa:	$x:nia $i:gr
+%com:	吃紫薯乐宝用筷子夹不到 .
+*CHI:	筷子 不能 夹 到 .
+%mor:	n|kuai4zi=chopsticks v:aux|bu4neng2=cannot v|jia2=squeeze
+	v:resc|dao4=arrive .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|VR 5|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	大 .
+%mor:	adj|da4=great .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	夹起一块稍大的紫薯 .
+*CHI:	然后 呢 ?
+%mor:	adv|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	再 踢 球 .
+%mor:	adv|zai4=again v|ti1=kick n|qiu2=ball .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	弹琴后踢球 .
+*CHI:	妈妈 跟 你 骑车 .
+%mor:	n:relat|ma1&DIM=mother prep|gen1=with pro|ni3=you
+	v|qi2che1=ride_a_bike .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:rp
+%act:	骑车上喊 .
+*MOT:	跟 谁 骑车 ?
+%mor:	prep|gen1=with pro:wh|shei2=who v|qi2che1=ride_a_bike ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	跟 妈妈 骑车 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|qi2che1=ride_a_bike .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dha $i:sa
+*CHI:	妈妈 放手 机 给 你 看 .
+%mor:	n:relat|ma1&DIM=mother v|fang4shou3=let_go n|ji1=machine
+	prep|gei3=for pro|ni3=you v|kan4=look .
+%gra:	1|6|SUBJ 2|6|JCT 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|PUNCT
+%com:	妈妈回家, 乐宝想看手机 .
+*CHI:	要看 妈妈 手机 乐宝 .
+%mor:	v|yao4kan4=to_see n:relat|ma1&DIM=mother n|shou3ji1=cell_phone
+	n:name|le4bao3=lebao .
+%gra:	1|4|MOD 2|3|MOD 3|1|OBJ 4|0|INCROOT 5|4|PUNCT
+*CHI:	我 吃饱 了 .
+%mor:	pro|wo3=I v|chi1bao3=eat asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	这个 是 什么 东西 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is pro:wh|shen2me=what n|dong1xi=thing
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	水 开 了 .
+%mor:	n|shui3=water v:resc|kai1=open asp|le .
+%gra:	1|3|SUBJ 2|1|VR 3|0|INCROOT 4|3|PUNCT
+*MOT:	球 太 大 了 .
+%mor:	n|qiu2=ball adv|tai4=very adj|da4=great asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%spa:	$x:djf $i:st
+%com:	乐宝拿大球投篮不中 .
+*CHI:	这个 球 不大 .
+%mor:	pro|zhe4ge4=this n|qiu2=ball adv|bu4da4=not_very .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:dw
+%act:	乐宝拿起另一个小球 .
+*CHI:	厕所 灯 坏了 .
+%mor:	n|ce4suo3=lavoratory n|deng1=lantern n|huai4le=bad .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	夜里拉粑粑指着厕所 .
+*CHI:	这个 灯 不 坏 .
+%mor:	pro|zhe4ge4=this n|deng1=lantern neg|bu4=not v:resc|huai4=spoil .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|NEG 4|2|VR 5|2|PUNCT
+%act:	指着走廊灯 .
+*CHI:	爸爸 睡觉 去 了 .
+%mor:	n:relat|ba4&DIM=father v|shui4jiao4=sleep v:dirc|qu4=go asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	妈妈开爸爸房门 .
+*CHI:	妈妈 眼镜 拿 掉 .
+%mor:	n:relat|ma1&DIM=mother n|yan3jing4=glasses v|na2=hold
+	v:resc|diao4=drop .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	晚上妈妈戴眼镜躺下 .
+*MOT:	拿 掉 干嘛 ?
+%mor:	v|na2=hold v:resc|diao4=drop v|gan4ma=what_to_do ?
+%gra:	1|3|SUBJ 2|1|VR 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	睡觉 .
+%mor:	v|shui4jiao4=sleep .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:sa
+@End

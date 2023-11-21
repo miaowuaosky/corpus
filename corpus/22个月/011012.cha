@@ -1,0 +1,78 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.12|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	03-JUN-2014
+*MOT:	你 的 杯子 呢 ?
+%mor:	pro|ni3=you poss|de n|bei1-NOM=cup sfp|ne ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	我 的 杯子 呢 ?
+%mor:	pro|wo3=I poss|de n|bei1-NOM=cup sfp|ne ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	妈妈 打 不 开 .
+%mor:	n:relat|ma1&DIM=mother v|da3=hit neg|bu4=not v:resc|kai1=open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|NEG 4|2|VR 5|2|PUNCT
+%com:	乐宝拿妈妈的杯子跑向妈妈求助 .
+*CHI:	我 穿 鞋 .
+%mor:	pro|wo3=I v|chuan1=put_on n|xie2=shoe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	要不 要 吃 馒头 ?
+%mor:	conj|yao4bu4=otherwise v:aux|yao4=should v|chi1=eat
+	n|man2tou=steamed_bun ?
+%gra:	1|0|INCROOT 2|3|AUX 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:nia $i:tq
+*CHI:	大 的 吃 .
+%mor:	adj|da4=great nom|de v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	再 看 妈妈 .
+%mor:	adv|zai4=again v|kan4=look n:relat|ma1&DIM=mother .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	玩卫生间看阳台的游戏后洗手 .
+*CHI:	好 怕 人 .
+%mor:	adj|hao3=good v|pa4=dread n|ren2=person .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	二十二个月左右乐宝开始有了害怕的东西 .
+%act:	指着阳台 .
+*CHI:	好 怕 人 .
+%mor:	adj|hao3=good v|pa4=dread n|ren2=person .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	防蚊贴贴在乐宝裤子上 .
+*CHI:	大卫 乖 .
+%mor:	n:prop|da4wei4=David adj|guai1=good .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dfw $i:st
+*CHI:	我 爱 你 .
+%mor:	pro|wo3=I v|ai4=love pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dfw $i:en
+%com:	学书上的话 .
+*MOT:	乐宝 乖 .
+%mor:	n:name|le4bao3=lebao adj|guai1=good .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dha $i:st
+*MOT:	我 爱 你 .
+%mor:	pro|wo3=I v|ai4=love pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:en
+*CHI:	爸爸 乖 .
+%mor:	n:relat|ba4&DIM=father adj|guai1=good .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dfw $i:st
+*CHI:	我 爱 你 .
+%mor:	pro|wo3=I v|ai4=love pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dfw $i:en
+*CHI:	外婆 乖 .
+%mor:	n|wai4po2=maternal_grandmother adj|guai1=good .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	我 爱 你 .
+%mor:	pro|wo3=I v|ai4=love pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

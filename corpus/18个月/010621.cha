@@ -1,0 +1,50 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.21|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	12-FEB-2014
+*CHI:	娃 哈哈 .
+%mor:	n|wa2=kid co|哈哈 .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%com:	指的是儿歌的名字 .
+*CHI:	阿门 阿 前 .
+%mor:	a1#n|men2=familiar_door npfx|a1=familiar n|qian2=front .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	儿歌名字 .
+*CHI:	毛驴 .
+%mor:	n|mao2lv2=the_donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	儿歌名字 .
+*MOT:	找到 什么 了 ?
+%mor:	v|zhao3dao4=find pro:wh|shen2me=what asp|le ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+%spa:	$x:djf $i:qn
+%com:	妈妈把纸塞到乐宝口袋里, 她在找 .
+*CHI:	纸 呢 !
+%mor:	n|zhi3=paper sfp|ne !
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:djf $i:sa
+%com:	呢发音似na1 .
+*MOT:	刚刚 放 炮 了 吗 ?
+%mor:	adv|gang1&DIM=just v|fang4=put n|pao4=heavy_weapon asp|le sfp|ma ?
+%gra:	1|2|JCT 2|4|CJCT 3|2|OBJ 4|0|INCROOT 5|4|SFP 6|4|PUNCT
+%spa:	$x:dre $i:yq
+*CHI:	外面 放 .
+%mor:	n|wai4mian4=outside v|fang4=put .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dre $i:st
+*MOT:	你 的 另一 只 手 呢 ?
+%mor:	pro|ni3=you poss|de quant|ling4yi1=another adv|zhi3=only
+	n|shou3=hand sfp|ne ?
+%gra:	1|3|SUBJ 2|1|POSS 3|0|INCROOT 4|5|JCT 5|3|OBJ 6|3|SFP 7|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝躺在床上右手被压下面, 想拿奶瓶, 妈妈提示她可以用另一只手拿 .
+*CHI:	这里 这里 .
+%mor:	post|zhe4li3=here post|zhe4li3=here .
+%gra:	1|2|POSTO 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:sa
+@End

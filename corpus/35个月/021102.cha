@@ -1,0 +1,143 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	11-JUN-2015
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 刚刚 看 到 一 只 大 .
+%mor:	pro|wo3=I adv|gang1&DIM=just v|kan4=look v:resc|dao4=arrive
+	adv|yi1=just_as adv|zhi3=only adj|da4=great .
+%gra:	1|3|SUBJ 2|3|JCT 3|7|CJCT 4|3|VR 5|7|JCT 6|7|JCT 7|0|INCROOT 8|7|PUNCT
+*CHI:	我 刚刚 看 到 一 只 小 蚊子 .
+%mor:	pro|wo3=I adv|gang1&DIM=just v|kan4=look v:resc|dao4=arrive
+	adv|yi1=just_as adv|zhi3=only adj|xiao3=small n|wen2-NOM=mosquito .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VR 5|8|JCT 6|8|JCT 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+*CHI:	因为 我 赶紧 起来 .
+%mor:	conj|yin1wei4=because pro|wo3=I adv|gan3jin3=hurriedly
+	adv|qi3lai2=up .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dha $i:dc
+*CHI:	刚刚 我 看 到 一 只 蚊子 .
+%mor:	adv|gang1&DIM=just pro|wo3=I v|kan4=look v:resc|dao4=arrive
+	adv|yi1=just_as adv|zhi3=only n|wen2-NOM=mosquito .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|VR 5|7|JCT 6|7|JCT 7|3|OBJ 8|3|PUNCT
+%spa:	$x:dha $i:dc
+*GRA:	是 有 蚊子 .
+%mor:	v:cop|shi4=is v|you3=have n|wen2-NOM=mosquito .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:yd
+*CHI:	看 到 蚊子 我 赶紧 起来 .
+%mor:	v|kan4=look v:resc|dao4=arrive n|wen2-NOM=mosquito pro|wo3=I
+	adv|gan3jin3=hurriedly v|qi3lai=stand_up .
+%gra:	1|6|COM 2|1|VR 3|6|SUBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%spa:	$x:djf $i:st
+%com:	乐宝躺在沙发上看见蚊子大声喊妈妈, 此时外婆就过来了 .
+%act:	孩子抓妈妈的腿爬上椅子 .
+*CHI:	我 一 抓 就 爬上 去 了 .
+%mor:	pro|wo3=I adv|yi1=just_as v|zhua1=catch adv|jiu4=just
+	v|pa2shang4=climb v:dirc|qu4=go asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VD 7|5|VD 8|5|PUNCT
+*CHI:	她 是 谁 .
+%mor:	pro|ta1=she v:cop|shi4=is pro:wh|shei2=who .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$x:dha $i:qn
+*MOT:	是 月嫂 照顾 你 的 .
+%mor:	v:cop|shi4=is n|yue4sao3=maternity_matron v|zhao4gu4=look_after
+	pro|ni3=you poss|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|POSS 6|3|PUNCT
+%spa:	$x:djf $i:sa
+%com:	妈妈放月嫂视频给孩子看 .
+*CHI:	为什么 不 给 妈妈 洗澡 呢 .
+%mor:	adv:wh|wei4shen2me=how_come neg|bu4=not prep|gei3=for
+	n:relat|ma1&DIM=mother v|xi3zao3=shower sfp|ne .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	外婆念唐诗给孩子听 .
+*MOT:	你 读 得 不准 用 点 读 笔 .
+%mor:	pro|ni3=you v|du2=read_aloud v:resc|de2=get v|bu4zhun3=forbid
+	n|yong4=use adv|dian3=a_bit v|du2=read_aloud n|bi3=pen .
+%gra:	1|2|SUBJ 2|7|CJCT 3|2|VR 4|5|MOD 5|2|OBJ 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	点 读 笔 读 得 好 清楚 .
+%mor:	adv|dian3=a_bit v|du2=read_aloud n|bi3=pen v|du2=read_aloud cpt|de
+	adv|hao3=very adj|qing1chu3=clear .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|JCT 7|4|OBJ 8|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	我 来 试 试 嘛 .
+%mor:	pro|wo3=I v:dirc|lai2=come v|shi4=try v|shi4=try sfp|ma .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|SRL 5|3|SFP 6|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	外婆擀面, 乐宝也想试试 .
+*MOT:	你 的 面条 怎么 没有 变化 哪 .
+%mor:	pro|ni3=you poss|de n|mian4tiao2=noodle adv:wh|zen3me=how
+	neg|mei2you3=not_have v|bian4hua4=change pro:wh|na3=which .
+%gra:	1|6|SUBJ 2|1|POSS 3|6|SUBJ 4|6|JCT 5|6|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	我 已经 搓 得很 用力 了 .
+%mor:	pro|wo3=I adv|yi3jing1=already v|cuo1=rub_with_hand
+	adv|de5hen3=very adj|yong4li4=exert_self asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|CJCT 4|5|JCT 5|0|INCROOT 6|5|COM 7|5|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	要 打 公交车 吗 .
+%mor:	v:aux|yao4=should v|da3=hit n|gong1jiao1che1=bus sfp|ma .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%spa:	$x:dnp $i:yq
+%com:	妈妈跟乐宝一起去万达广场的路上 .
+*MOT:	是 坐 公交车 .
+%mor:	v:cop|shi4=is v|zuo4=sit n|gong1jiao1che1=bus .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:dnp $i:nd
+%com:	孩子想了一会儿回答妈妈 .
+*CHI:	不要 做 滴 滴 打车 吗 .
+%mor:	adv|bu2yao4=dont v|zuo4=make v|di1=drip cl|di1
+	v|da3che1=take_a_taxi sfp|ma .
+%gra:	1|2|JCT 2|3|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dnp $i:yq
+%com:	妈妈对她笑 .
+*CHI:	为什么 笑 .
+%mor:	adv:wh|wei4shen2me=how_come v|xiao4=smile .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:drp $i:qn
+%act:	孩子在游乐园骑木马, 突然问妈妈 .
+*CHI:	那个 马 叫 的 时候 我 不 敢 骑 .
+%mor:	pro|na4ge4=that n|ma3=horse v|jiao4=call nom|de n|shi2hou4=time
+	pro|wo3=I neg|bu4=not v|gan3=dare v|qi2=ride_sit_astride .
+%gra:	1|2|MOD 2|3|SUBJ 3|8|CJCT 4|5|MOD 5|3|OBJ 6|8|SUBJ 7|8|NEG 8|9|SUBJ
+	9|0|ROOT 10|9|PUNCT
+%spa:	$x:dha $i:dc
+*MOT:	哪里 .
+%mor:	pro:wh|na3li3=where .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	动物园 .
+%mor:	n|dong4wu4yuan2=zoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:sa
+*MOT:	蚊子 总是 喜欢 咬 我们 .
+%mor:	n|wen2-NOM=mosquito adv|zong3shi4=always v|xi3huan1=like
+	v|yao3=bite pro|wo3-PL=I .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|SRL 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	蚊子 耳朵 聋 了 .
+%mor:	n|wen2-NOM=mosquito n|er3duo3=ear adj|long2=deaf asp|le .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	为什么 .
+%mor:	adv:wh|wei4shen2me=how_come .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	因为 它 要 擦 风油精 .
+%mor:	conj|yin1wei4=because pro|ta1=it v:aux|yao4=should v|ca1=wipe
+	n|feng1you2jing1=fengyoujing .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|AUX 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%spa:	$x:dnp $i:sa
+@End

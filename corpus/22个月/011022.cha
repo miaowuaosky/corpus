@@ -1,0 +1,99 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|01;10.22|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	13-JUN-2014
+*CHI:	宝宝 自己 拿 .
+%mor:	n:relat|bao3&DIM=baby pro|zi4ji3=self v|na2=hold .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	妈妈要扔尿不湿 .
+*CHI:	气球 不要 了 .
+%mor:	n|qi4qiu2=balloon adv|bu2yao4=dont asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	气球 扔掉 .
+%mor:	n|qi4qiu2=balloon v|reng1diao4=discard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	坐在椅子上扔气球 .
+*CHI:	拿 书 给 你 看 .
+%mor:	v|na2=hold n|shu1=book prep|gei3=for pro|ni3=you v|kan4=look .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*CHI:	拿 书 给 宝宝 看 .
+%mor:	v|na2=hold n|shu1=book prep|gei3=for n:relat|bao3&DIM=baby
+	v|kan4=look .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%com:	在床上 .
+*CHI:	防 蚊 贴 搞 这里 来 了 .
+%mor:	v|fang2=guard_against n|wen2=mosquito v|tie1=paste v|gao3=work
+	post|zhe4li3=here v:dirc|lai2=come asp|le .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|PREPO 4|5|POSTO 5|1|JCT 6|5|VD 7|5|VD 8|1|PUNCT
+%com:	看见防蚊贴掉地上 .
+*CHI:	拽 一 个头 发给 你 .
+%mor:	v|zhuai4=pull num|yi1=one n|ge4tou2=height v|fa1gei3=give
+	pro|ni3=you .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|SUBJ 4|1|SRL 5|4|OBJ 6|1|PUNCT
+%com:	拽我头发, 乐宝又想说我 .
+*CHI:	妈妈 你 看 .
+%mor:	n:relat|ma1&DIM=mother pro|ni3=you v|kan4=look .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	外婆背着乐宝, 乐宝喊妈妈 .
+*CHI:	倒 点水 给 宝宝 喝 .
+%mor:	adv|dao4=actually v|dian3shui3=water prep|gei3=for
+	n:relat|bao3&DIM=baby v|he1=drink .
+%gra:	1|2|JCT 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%com:	要喝水 .
+*CHI:	不 倒 这个 里 .
+%mor:	neg|bu4=not v|dao3=fall pro|zhe4ge4=this post|li3=inside .
+%gra:	1|2|NEG 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|PUNCT
+%com:	拿杯子想往塑料垃圾盒里倒水又想起爸爸妈妈不允许倒的话 .
+*GRA:	要不 要 打 小 手 .
+%mor:	conj|yao4bu4=otherwise v:aux|yao4=should v|da3=hit adj|xiao3=small
+	n|shou3=hand .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$x:nia $i:tq
+%com:	把水洒裤子上 .
+*CHI:	打 .
+%mor:	v|da3=hit .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:ta
+%com:	乐宝想说打我爸爸 .
+*CHI:	衣服 没 脱 .
+%mor:	n|yi1fu2=clothes neg|mei2=not v|tuo1=cast_come_off .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+*CHI:	妈妈 忘 了 .
+%mor:	n:relat|ma1&DIM=mother v|wang4=forget asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	妈妈没给乐宝脱上衣乐宝就进了洗澡盆还沾上了水 .
+*CHI:	< 你 就 他>[/] 你 就 他 .
+%mor:	pro|ni3=you adv|jiu4=just pro|ta1=he .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	要 宝宝 毛巾 玩 水 .
+%mor:	v:aux|yao4=should n:relat|bao3&DIM=baby n|mao2jin1=washcloth
+	v|wan2=play n|shui3=water .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	乐宝指着洗盆的毛巾 .
+*CHI:	就 这个 .
+%mor:	adv|jiu4=just pro|zhe4ge4=this .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	妈妈没拿乐宝又指一遍毛巾 .
+*CHI:	乐宝 的 防 蚊 贴 呢 ?
+%mor:	n:name|le4bao3=lebao poss|de v|fang2=guard_against n|wen2=mosquito
+	v|tie1=paste sfp|ne ?
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	起床 .
+*MOT:	你 说 在 哪儿 ?
+%mor:	pro|ni3=you v|shuo1=say prep|zai4=at pro:wh|na3-DIA=which ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|PREPO 5|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	应该 在 床 上 .
+%mor:	v:aux|ying1gai1=should prep|zai4=at n|chuang2=bed post|shang4=above
+	.
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PREPO 4|2|PREPO 5|2|PUNCT
+%spa:	$x:dnp $i:sa
+%com:	她找了找床 .
+@End

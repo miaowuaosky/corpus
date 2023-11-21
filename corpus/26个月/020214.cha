@@ -1,0 +1,117 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|02;02.14|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Li|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	06-OCT-2014
+*CHI:	我 抓手 .
+%mor:	pro|wo3=I v|zhua1shou3=grab_hand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	给小兔子玩黄狗抬轿游戏 .
+*CHI:	这个 开 不 开 .
+%mor:	pro|zhe4ge4=this v:resc|kai1=open neg|bu4=not v:resc|kai1=open .
+%gra:	1|3|SUBJ 2|1|VR 3|0|INCROOT 4|3|VR 5|3|PUNCT
+%act:	开柜子门 .
+*CHI:	这个 是 泡泡 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is n|pao4pao4=bubble .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$x:dha $i:st
+*MOT:	是 花露水 .
+%mor:	v:cop|shi4=is n|hua1lu4shui3=herbal_liquid .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:dw
+*CHI:	我们 家的 是 花露水 .
+%mor:	pro|wo3-PL=I n|jia1-ISH=family v:cop|shi4=is
+	n|hua1lu4shui3=herbal_liquid .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%spa:	$x:djf $i:ap
+*CHI:	什么 都 要 拿 .
+%mor:	pro:wh|shen2me=what adv|dou1=all v:aux|yao4=should v|na2=hold .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%com:	自己玩柜子 .
+*MOT:	你 自己 擦屁股 了 真棒 .
+%mor:	pro|ni3=you pro|zi4ji3=self n|ca1pi4gu3=butt asp|le
+	n|zhen1bang4=thats_great .
+%gra:	1|5|SUBJ 2|3|MOD 3|1|OBJ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:nia $i:rp
+%com:	妈妈让乐宝告诉外婆 .
+*CHI:	外婆 你 自己 擦 的 屁股 .
+%mor:	n|wai4po2=maternal_grandmother pro|ni3=you pro|zi4ji3=self
+	v|ca1=wipe nom|de n|pi4gu3=buttocks .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:nia $i:st
+*CHI:	妈妈 我 拎 个 板凳 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v|ling1=carry cl|ge4
+	n|ban3deng4=wooden_bench .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	我 拎 个 板凳 了 .
+%mor:	pro|wo3=I v|ling1=carry cl|ge4 n|ban3deng4=wooden_bench asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%act:	拎板凳 .
+*CHI:	我 拎 个 板凳 好玩 吧 .
+%mor:	pro|wo3=I v|ling1=carry cl|ge4 n|ban3deng4=wooden_bench
+	adj|hao3wan2=amusing sfp|ba .
+%gra:	1|2|SUBJ 2|5|CJCT 3|4|MOD 4|2|OBJ 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+*CHI:	好玩 真 好玩 .
+%mor:	adj|hao3wan2=amusing adv|zhen1=really adj|hao3wan2=amusing .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*MOT:	宝宝 不能 吃 会 卡死 .
+%mor:	n:relat|bao3&DIM=baby v:aux|bu4neng2=cannot v|chi1=eat
+	v:aux|hui4=will v|ka3si3=the_death_card .
+%gra:	1|5|SUBJ 2|3|JCT 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%com:	看见乐宝拿开心果 .
+%spa:	$x:nia $i:rp
+*CHI:	妈妈 咬 不会 卡死 .
+%mor:	n:relat|ma1&DIM=mother v|yao3=bite v:aux|bu4hui4=cant
+	v|ka3si3=the_death_card .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	自己 咬 会 卡死 .
+%mor:	pro|zi4ji3=self v|yao3=bite v:aux|hui4=will v|ka3si3=the_death_card
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|AUX 4|2|OBJ 5|2|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	乐宝 要 喝 外婆 的 水 .
+%mor:	n:name|le4bao3=lebao v:aux|yao4=should v|he1=drink
+	n|wai4po2=maternal_grandmother poss|de n|shui3=water .
+%gra:	1|6|MOD 2|3|AUX 3|4|MOD 4|1|OBJ 5|1|POSS 6|0|INCROOT 7|6|PUNCT
+%com:	外婆喝水 .
+*CHI:	这 是 生 的 萝卜 梨 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|sheng1=unripe nom|de
+	n|luo2bo=radish n|li2=pear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*CHI:	梨子 好吃 好吃 真 好吃 .
+%mor:	n|li2-NOM=pear adj|hao3chi1=delicious adj|hao3chi1=delicious
+	adv|zhen1=really adj|hao3chi1=delicious .
+%gra:	1|2|MOD 2|0|INCROOT 3|5|MOD 4|5|JCT 5|2|OBJ 6|2|PUNCT
+%act:	拿梨子 .
+*CHI:	你 真棒 .
+%mor:	pro|ni3=you n|zhen1bang4=thats_great .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	妹妹穿上袜子她伸拇指 .
+*CHI:	有人 在 推 宝宝 .
+%mor:	pro|you3ren2=someone adv|zai4=currently v|tui1=push
+	n:relat|bao3&DIM=baby .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	从窗台看外面 .
+*CHI:	这个 够 不到 .
+%mor:	pro|zhe4ge4=this adv|gou4=enough adv|bu2dao4=not_to .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	指窗台上的钩子 .
+*CHI:	打开 这么 大 .
+%mor:	v|da3kai1=unscrew adv|zhe4me=like_this adj|da4=great .
+%gra:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+*CHI:	打 这么 大 .
+%mor:	v|da3=hit adv|zhe4me=like_this adj|da4=great .
+%gra:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+%act:	开窗 .
+*CHI:	外公 跟 外婆 睡觉 了 .
+%mor:	n|wai4gong1=maternal_grandfather prep|gen1=with
+	n|wai4po2=maternal_grandmother v|shui4jiao4=sleep asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	看外公去外婆房间 .
+@End

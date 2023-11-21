@@ -1,0 +1,174 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, PAR Participant
+@ID:	zho|FLZ|CHI|02;02.06|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|PAR||female|||Participant|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	28-SEP-2014
+*CHI:	要 拽 两 个头 发给 妈妈 .
+%mor:	v:aux|yao4=should v|zhuai4=pull num|liang3=two n|ge4tou2=height
+	v|fa1gei3=give n:relat|ma1&DIM=mother .
+%gra:	1|2|AUX 2|0|ROOT 3|5|QUANT 4|5|SUBJ 5|6|CLASS 6|2|OBJ 7|2|PUNCT
+%com:	在床上乐宝 .
+*CHI:	第一 个 是 乐宝 的 .
+%mor:	num|di4yi1=first cl|ge4 v:cop|shi4=is n:name|le4bao3=lebao poss|de
+	.
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|POSS 6|3|PUNCT
+%com:	在床上乐宝 .
+*CHI:	第 二 个 是 妈妈 的 .
+%mor:	num|di1=num num|er4=two cl|ge4 v:cop|shi4=is n:relat|ma1&DIM=mother
+	poss|de .
+%gra:	1|3|QUANT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|POSS 7|4|PUNCT
+%com:	在床上乐宝 .
+*CHI:	一 人 一半 .
+%mor:	num|yi1=one n|ren2=person n|yi1ban4=half .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	在床上乐宝 .
+*CHI:	妈妈 唱 如果 感到 幸福 你 就 爱 谁 .
+%mor:	n:relat|ma1&DIM=mother v|chang4=sing conj|ru2guo3=if
+	v|gan3dao4=feel adj|xing4fu2=happy pro|ni3=you adv|jiu4=just
+	v|ai4=love pro:wh|shei2=who .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|8|SUBJ 5|8|JCT 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*MOT:	范文澜 .
+%mor:	n:name|fan4wen2lan2=historian .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	范文澜 是 谁 ?
+%mor:	n:name|fan4wen2lan2=historian v:cop|shi4=is pro:wh|shei2=who ?
+%gra:	1|0|INCROOT 2|1|ROOT 3|2|PRED 4|1|PUNCT
+*CHI:	这个 开 过 了 .
+%mor:	pro|zhe4ge4=this v:resc|kai1=open v:dirc|guo4=pass asp|le .
+%gra:	1|4|SUBJ 2|1|VR 3|1|VD 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝下楼指亮的灯 .
+*CHI:	尿不湿 不能 摸 摸 了 手 会 搞 尿 .
+%mor:	n|niao4bu4shi1=baby_diapers v:aux|bu4neng2=cannot v|mo1=touch
+	v|mo1=touch asp|le n|shou3=hand v:aux|hui4=will v|gao3=work
+	n|niao4=urine .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|9|MOD 6|9|MOD 7|9|AUX 8|9|MOD
+	9|4|OBJ 10|4|PUNCT
+*CHI:	现在 不要 捂 耳朵 .
+%mor:	adv|xian4zai4=now adv|bu2yao4=dont v|wu3=cover_with_hands
+	n|er3duo3=ear .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	下午 要 下雨 .
+%mor:	n:tm|xia4wu3=afternoon v:aux|yao4=should v|xia4yu3=rain .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	打雷 阵雨 可以 捂 耳朵 .
+%mor:	v|da3lei2=thunder n|zhen4yu3=shower v:aux|ke3yi3=may
+	v|wu3=cover_with_hands n|er3duo3=ear .
+%gra:	1|0|ROOT 2|5|MOD 3|5|AUX 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*MOT:	下午 要 下雨 .
+%mor:	n:tm|xia4wu3=afternoon v:aux|yao4=should v|xia4yu3=rain .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	放大 鞭炮 可以 捂 耳朵 .
+%mor:	v|fang4da4=megascopic n|bian1pao4=string_of_firecrackers
+	v:aux|ke3yi3=may v|wu3=cover_with_hands n|er3duo3=ear .
+%gra:	1|0|ROOT 2|5|MOD 3|5|AUX 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*MOT:	下午 要 下雨 .
+%mor:	n:tm|xia4wu3=afternoon v:aux|yao4=should v|xia4yu3=rain .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	外面 打雷 了 就 捂 耳朵 .
+%mor:	n|wai4mian4=outside v|da3lei2=thunder asp|le adv|jiu4=just
+	v|wu3=cover_with_hands n|er3duo3=ear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|5|JCT 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*MOT:	我 脚 烂 了 贴 创可贴 .
+%mor:	pro|wo3=I cl|jiao3=activity adj|can4=brilliant asp|le v|tie1=paste
+	n|chuang4ke3tie1=woundplast .
+%gra:	1|0|INCROOT 2|6|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|1|OBJ 7|1|PUNCT
+*CHI:	乐宝 的 脚 烂 了 .
+%mor:	n:name|le4bao3=lebao poss|de n|jiao3=foot adj|can4=brilliant asp|le
+	.
+%gra:	1|3|MOD 2|1|POSS 3|5|SUBJ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%com:	乐宝也拿一个贴纸贴脚上 .
+*CHI:	橘子 是 圆形 的 盘子 也 是 圆形 .
+%mor:	n|ju2zi=orange v:cop|shi4=is n|yuan2xing2=round poss|de
+	n|pan2zi=plate adv|ye3=also v:cop|shi4=is n|yuan2xing2=round .
+%gra:	1|3|MOD 2|3|MOD 3|5|MOD 4|3|POSS 5|8|SUBJ 6|8|JCT 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+%act:	乐宝突然指橘子 .
+*CHI:	这个 也 是 圆形 .
+%mor:	pro|zhe4ge4=this adv|ye3=also v:cop|shi4=is n|yuan2xing2=round .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%act:	乐宝指锅盖 .
+*CHI:	雨晨 的 水 还 没 带 .
+%mor:	n:name|yu3chen2=the_morning_rain poss|de n|shui3=water
+	adv|hai2=still neg|mei2=not v|dai4=bring .
+%gra:	1|3|MOD 2|1|POSS 3|6|SUBJ 4|6|JCT 5|6|NEG 6|0|ROOT 7|6|PUNCT
+%act:	指太太家妹妹的水杯 .
+*CHI:	米饭 稀饭 .
+%mor:	n|mi3fan4=cooked_rice n|xi1fan4=porridge .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	指煤气灶的稀饭 .
+*CHI:	这个 什么 都 没有 .
+%mor:	pro|zhe4ge4=this pro:wh|shen2me=what adv|dou1=all
+	neg|mei2you3=not_have .
+%gra:	1|4|SUBJ 2|1|OBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%act:	指高压锅 .
+*CHI:	拿 一 个 给 外婆 吃 吃 烤 橘子 .
+%mor:	v|na2=hold num|yi1=one cl|ge4 prep|gei3=for
+	n|wai4po2=maternal_grandmother v|chi1=eat v|chi1=eat
+	v|kao3=oven_broil n|ju2zi=orange .
+%gra:	1|0|ROOT 2|3|QUANT 3|8|SUBJ 4|8|JCT 5|6|SUBJ 6|4|PREPO 7|4|PREPO
+	8|9|MOD 9|1|OBJ 10|1|PUNCT
+%act:	跑去厨房 .
+*PAR:	要 打雷 下雨 .
+%mor:	v:aux|yao4=should v|da3lei2=thunder v|xia4yu3=rain .
+%gra:	1|2|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	打雷 捂 着 耳朵 停 一下 .
+%mor:	v|da3lei2=thunder v|wu3=cover_with_hands asp|zhe n|er3duo3=ear
+	v|ting2=stop adv|yi1xia4=a_bit .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	乐宝 不能 搞 电饭锅 电饭锅 好 烫 .
+%mor:	n:name|le4bao3=lebao v:aux|bu4neng2=cannot v|gao3=work
+	n|dian4fan4guo1=pot n|dian4fan4guo1=pot adv|hao3=very
+	adj|tang4=scald .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|7|SUBJ 6|7|JCT 7|0|INCROOT 8|7|PUNCT
+%com:	太太在煮饭 .
+*CHI:	挡住 了 .
+%mor:	v|dang3zhu4=block asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	乐宝被小板凳绊了一下指板凳 .
+*CHI:	这个 有点 烫 .
+%mor:	pro|zhe4ge4=this adv|you3dian3=be v|tang4=scald .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%act:	摸另一个烤橘子 .
+*PAR:	这 是 皮 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|pi2=skin .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	女太太摸摸, 摸皮 .
+*CHI:	女 太太 吹 吹 .
+%mor:	adj|nü3=female n|tai4tai4=madame v|chui1=blow v|chui1=blow .
+%gra:	1|4|SUBJ 2|3|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	吃烤橘子怕烫 .
+*MOT:	搞 萝卜 梨子 给 乐宝 吃 .
+%mor:	v|gao3=work n|luo2bo=radish n|li2-NOM=pear prep|gei3=for
+	n:name|le4bao3=lebao v|chi1=eat .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|PUNCT
+*CHI:	给 萝卜 梨 给 小狗 吃 .
+%mor:	prep|gei3=for n|luo2bo=radish n|li2=pear prep|gei3=for
+	n|xiao3gou3=puppy v|chi1=eat .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|PUNCT
+*CHI:	跟 妈妈 搞 两 只 黄 狗 来 抬 轿 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|gao3=work num|liang3=two
+	adv|zhi3=only adj|huang2=yellow n|gou3=dog v:dirc|lai2=come
+	v|tai2=lift n|jiao4=the_car .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PQ 5|10|JCT 6|10|MOD 7|10|MOD 8|7|VD
+	9|10|MOD 10|3|OBJ 11|3|PUNCT
+%act:	拿小娃娃 .
+*CHI:	抓手 .
+%mor:	v|zhua1shou3=grab_hand .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	抓住娃娃的手 .
+*CHI:	乐宝 抱 娃娃 妈妈 抱 乐宝 .
+%mor:	n:name|le4bao3=lebao v|bao4=hug n|wa2wa=baby n:relat|ma1&DIM=mother
+	v|bao4=hug n:name|le4bao3=lebao .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%act:	乐宝抱娃娃 .
+*CHI:	乐宝 在 搞 衣服 .
+%mor:	n:name|le4bao3=lebao prep|zai4=at v|gao3=work n|yi1fu2=clothes .
+%gra:	1|0|INCROOT 2|4|MOD 3|2|PREPO 4|1|OBJ 5|1|PUNCT
+%act:	在翻衣服 .
+@End

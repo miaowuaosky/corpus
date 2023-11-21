@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|2;05.20|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	12-JAN-2014
+*CHI:	妈妈 要 去 哪儿 ?
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v:dirc|qu4=go
+	pro:wh|na3-DIA=which ?
+%gra:	1|0|INCROOT 2|4|AUX 3|2|VD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	妈妈 去 干什么 ?
+%mor:	n:relat|ma1&DIM=mother v:dirc|qu4=go v|gan4shen2me=what_do_you_want
+	?
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	早上出门见妈妈换衣服 .
+*MOT:	妈妈 要 上班 了 .
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v|shang4ban1=start_work
+	asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	不 去 上班 .
+%mor:	neg|bu4=not v:dirc|qu4=go v|shang4ban1=start_work .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%spa:	$x:dnp $i:dw
+%com:	孩子不希望妈妈上班 .
+*GRA:	你 穿 不好 .
+%mor:	pro|ni3=you v|chuan1=put_on adv|bu4hao3=not_good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:drp $i:st
+%com:	孩子要自己穿衣服 .
+*CHI:	嗯 嗯 嗯 .
+%mor:	co|en1=okay co|en1=okay co|en1=okay .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:drp $i:nd
+%com:	不同意 .
+@End

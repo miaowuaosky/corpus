@@ -1,0 +1,154 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|2;03.17|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|XX|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	08-NOV-2014
+*GRA:	这 是 给 姑爹 他们 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is prep|gei3=for n|gu1die1=gudie
+	pro|ta1-PL=he nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|SUBJ 6|2|POSS 7|2|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	等 乐宝 长 胡子 了 再 搞 .
+%mor:	v|deng3=wait n:name|le4bao3=lebao v|zhang3=grow n|hu2zi3=beard
+	asp|le adv|zai4=again v|gao3=work .
+%gra:	1|7|COM 2|4|MOD 3|4|MOD 4|1|OBJ 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|PUNCT
+%spa:	$x:djf $i:st
+%act:	孩子摸香烟 .
+*MOT:	跟 乐宝 游泳 的 时候 学 的 就 这样 用 脚 .
+%mor:	prep|gen1=with n:name|le4bao3=lebao v|you2yong3=swim nom|de
+	n|shi2hou4=time v|xue2=study nom|de adv|jiu4=just adv|zhe4yang4=so
+	v|yong4=use n|jiao3=foot .
+%gra:	1|3|JCT 2|1|PREPO 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|11|MOD 8|10|JCT
+	9|10|JCT 10|11|MOD 11|6|OBJ 12|6|PUNCT
+%spa:	$x:dha $i:st
+%com:	午睡起床时妈妈蹬脚 .
+*CHI:	他们 在 聊天 .
+%mor:	pro|ta1-PL=he prep|zai4=at v|liao2tian1=jaw .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	孩子睡觉时听见姑爹们打牌 .
+*CHI:	桌子 上 放 好多 东西 都 不能 站 .
+%mor:	n|zhuo1zi=table post|shang4=above v|fang4=put quant|hao3duo1=many
+	n|dong1xi=thing adv|dou1=all v:aux|bu4neng2=cannot v|zhan4=to_stand
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|8|SUBJ 4|5|MOD 5|3|OBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+%act:	指桌子 .
+*CHI:	乐宝 按 这个 妈妈 记 不 你 的话 .
+%mor:	n:name|le4bao3=lebao prep|an4=according_to pro|zhe4ge4=this
+	n:relat|ma1&DIM=mother v|ji4=write_down neg|bu4=not pro|ni3=you
+	conj|de5hua4=if .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|PREPO 4|2|PREPO 5|0|ROOT 6|8|NEG 7|8|SUBJ 8|5|OBJ
+	9|5|PUNCT
+%act:	指妈妈手机的手指滑动按键 .
+*CHI:	这个 看 照片 的 可以 划一 划 就 点 了 .
+%mor:	pro|zhe4ge4=this v|kan4=look n|zhao4pian4=photograph nom|de
+	v:aux|ke3yi3=may v|hua4yi1=uniform v|hua2=paddle adv|jiu4=just
+	n|dian3=dot asp|le .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|2|OBJ 4|7|JCT 5|6|AUX 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|OBJ 10|7|OBJ 11|7|PUNCT
+%act:	指手机下面的按键 .
+*CHI:	他们 在 打 麻将 .
+%mor:	pro|ta1-PL=he prep|zai4=at v|da3=hit n|ma2jiang4=mahjongg .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:st
+%com:	孩子听见打牌声 .
+*MOT:	在 打扑克 .
+%mor:	adv|zai4=currently v|da3pu1ke4=play_poker .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dnp $i:nd
+*CHI:	乐宝 在 家里 打 过 扑克 他们 在 聊天 .
+%mor:	n:name|le4bao3=lebao prep|zai4=at n|jia1li3=home v|da3=hit asp|guo4
+	n|pu1ke4=poker pro|ta1-PL=he prep|zai4=at v|liao2tian1=jaw .
+%gra:	1|4|JCT 2|4|JCT 3|2|PREPO 4|0|ROOT 5|8|MOD 6|8|TOP 7|8|TOP 8|4|OBJ
+	9|8|PREPO 10|4|PUNCT
+%spa:	$x:dnp $i:nd
+*CHI:	刘功群 呢 ?
+%mor:	n:name|liu2gong1qun2=liu_gongqun sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	怎么 搞 滴 ?
+%mor:	adv:wh|zen3me=how v|gao3=work v|di1=drip ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	翻过来 了 .
+%mor:	v|fan1guo4lai2=turn_outside_in asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	孩子看见手机屏幕翻倒 .
+*CHI:	外公 也 在外 公 呢 ?
+%mor:	n|wai4gong1=maternal_grandfather adv|ye3=also v|zai4wai4=outside
+	adj|gong1=male sfp|ne ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%com:	孩子听见外公声音 .
+*MOT:	记 了 好多 话 .
+%mor:	v|ji4=write_down asp|le quant|hao3duo1=many n|hua4=speech .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:nin $i:st
+*CHI:	记 完了 没 记 完 .
+%mor:	v|ji4=write_down tag|wan2le=oh_no neg|mei2=not v|ji4=write_down
+	v:resc|wan2=finish .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|VR 6|4|PUNCT
+%spa:	$x:djf $i:tq
+*CHI:	云 在 动 这个 云 跟 这个 云 不一样 跑 到 这里 来 .
+%mor:	v|yun2=say adv|zai4=currently v|dong4=move pro|zhe4ge4=this
+	v|yun2=say prep|gen1=with pro|zhe4ge4=this v|yun2=say
+	v|bu4yi2yang4=dissimilarity v|pao3=run v:resc|dao4=arrive
+	post|zhe4li3=here v:dirc|lai2=come .
+%gra:	1|5|COM 2|3|JCT 3|1|OBJ 4|5|SUBJ 5|10|SUBJ 6|10|JCT 7|8|SUBJ 8|6|PREPO
+	9|6|PREPO 10|12|CJCT 11|10|VR 12|0|INCROOT 13|12|VD 14|12|PUNCT
+%act:	手先指西边, 又指东边 .
+%com:	妈妈给孩子指乌云 .
+*CHI:	在 吹气 球 姐姐 在 吹气 球 我们 家 有 气球 气球 在 家里 .
+%mor:	prep|zai4=at v|chui1qi4=blowing n|qiu2=ball
+	n:relat|jie3&DIM=elder_sister adv|zai4=currently v|chui1qi4=blowing
+	n|qiu2=ball pro|wo3-PL=I cl|jia1 v|you3=have n|qi4qiu2=balloon
+	n|qi4qiu2=balloon prep|zai4=at n|jia1li3=home .
+%gra:	1|3|MOD 2|1|PREPO 3|6|SUBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|12|MOD 8|12|MOD
+	9|12|MOD 10|12|MOD 11|12|MOD 12|6|OBJ 13|6|JCT 14|13|PREPO 15|6|PUNCT
+%com:	孩子出门遇见姐姐吹气球 .
+*CHI:	没 带 铲子 .
+%mor:	neg|mei2=not v|dai4=bring n|chan3zi=shovel_spade .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	孩子看见泥土 .
+*CHI:	这个 没 吃完 放 着 干什么 ?
+%mor:	pro|zhe4ge4=this neg|mei2=not v|chi1wan2=finish v|fang4=put asp|zhe
+	v|gan4shen2me=what_do_you_want ?
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|6|SUBJ 5|6|JCT 6|3|OBJ 7|3|PUNCT
+%act:	指桌上半个桔子 .
+*MOT:	腿 痒 .
+%mor:	n|tui3=leg adj|yang3=itching .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nin $i:st
+*CHI:	乐宝 帮 妈妈 擦 .
+%mor:	n:name|le4bao3=lebao v|bang1=help n:relat|ma1&DIM=mother v|ca1=wipe
+	.
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:fp
+*CHI:	喂 爸爸 我 在 这 打电话 挂 了 .
+%mor:	v|wei4=feed n:relat|ba4&DIM=father pro|wo3=I prep|zai4=at
+	pro|zhe4=this v|da3dian4hua4=phone v|gua4=hang asp|le .
+%gra:	1|2|MOD 2|7|SUBJ 3|7|SUBJ 4|7|JCT 5|4|PREPO 6|4|PREPO 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+%com:	孩子打妈妈电话 .
+*CHI:	这个 怎么搞的 吃 这个 吃 的 .
+%mor:	pro|zhe4ge4=this adv|zen3megao3de=how_did_you_mess_it_up v|chi1=eat
+	pro|zhe4ge4=this v|chi1=eat nom|de .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|OBJ 7|3|PUNCT
+%act:	指舅爹手 .
+*CHI:	照片 放 完了 .
+%mor:	n|zhao4pian4=photograph v|fang4=put tag|wan2le=oh_no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%com:	孩子看手机照片看完了 .
+*CHI:	要看 这个 手机 照片 .
+%mor:	v|yao4kan4=to_see pro|zhe4ge4=this n|shou3ji1=cell_phone
+	n|zhao4pian4=photograph .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	指旧手机 .
+*GRA:	给 你 一 个 你 真棒 啾 一 个 .
+%mor:	prep|gei3=for pro|ni3=you num|yi1=one cl|ge4 pro|ni3=you
+	n|zhen1bang4=thats_great on|jiu num|yi1=one cl|ge4 .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|QUANT 4|1|PREPO 5|6|MOD 6|1|PREPO 7|1|PREPO
+	8|1|PREPO 9|1|PREPO 10|1|PUNCT
+@End

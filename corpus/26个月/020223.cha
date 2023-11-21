@@ -1,0 +1,58 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;02.23|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	15-OCT-2014
+*MOT:	灯 坏了 .
+%mor:	n|deng1=lantern n|huai4le=bad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:drp $i:st
+*CHI:	妈妈 所以 买 电池 .
+%mor:	n:relat|ma1&DIM=mother conj|suo3yi3=so v|mai3=buy
+	n|dian4chi2=battery .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	买 电池 干吗 .
+%mor:	v|mai3=buy n|dian4chi2=battery adv:wh|gan4ma=why .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	装 灯 .
+%mor:	v|zhuang1=install n|deng1=lantern .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	乐宝 哭 了 .
+%mor:	n:name|le4bao3=lebao v|ku1=cry asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	找不到 妈妈 .
+%mor:	v|zhao3bu2dao4=cant_find n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	乐宝 就 哭 了 .
+%mor:	n:name|le4bao3=lebao adv|jiu4=just v|ku1=cry asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	接爸爸电话 .
+*CHI:	到 幼儿园 去 .
+%mor:	v:resc|dao4=arrive n|you4er2yuan2=kindergarten v:dirc|qu4=go .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|VD 4|2|PUNCT
+*CHI:	到 乐之 去 了 .
+%mor:	v:resc|dao4=arrive n:name|le4zhi1=music v:dirc|qu4=go asp|le .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|VD 4|2|VD 5|1|PUNCT
+*CHI:	还有 一 只 什么 叔叔 .
+%mor:	adv|hai2you3=moreover adv|yi1=just_as adv|zhi3=only
+	pro:wh|shen2me=what n:relat|shu2&DIM=uncle .
+%gra:	1|2|JCT 2|5|JCT 3|4|JCT 4|2|OBJ 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:djf $i:ec
+*MOT:	保安 叔叔 .
+%mor:	n|bao3an1=ensure_safety n:relat|shu2&DIM=uncle .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:sc
+*CHI:	还有 一 只 保安 叔叔 .
+%mor:	adv|hai2you3=moreover adv|yi1=just_as adv|zhi3=only
+	n|bao3an1=ensure_safety n:relat|shu2&DIM=uncle .
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:djf $i:st
+%com:	倾诉昨天发生到独自回家的事 .
+@End

@@ -1,0 +1,118 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father, GRA Grandmother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	18-APR-2015
+*MOT:	等一下 还有 人 要 来 .
+%mor:	adv|deng3yi2xia4=wait_a_minute adv|hai2you3=moreover n|ren2=person
+	v:aux|yao4=should v:dirc|lai2=come .
+%gra:	1|3|JCT 2|3|JCT 3|4|SUBJ 4|0|INCROOT 5|4|VD 6|4|PUNCT
+%spa:	$x:dha $i:dc
+*CHI:	雨辰 妈妈 .
+%mor:	n|yu3chen2=yuchen n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	舅舅 .
+%mor:	n|jiu4jiu4=mothers_brother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	舅妈 .
+%mor:	n|jiu4ma1=aunt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	对 .
+%mor:	tag|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:yd
+*CHI:	现在 就是 明天 吧 .
+%mor:	adv|xian4zai4=now co:int|jiu4shi4=that_is n|ming2tian1=tomorrow
+	sfp|ba .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	给 雨辰 妹妹 开门 .
+%mor:	prep|gei3=for n|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister
+	v|kai1men2=open_the_door .
+%gra:	1|4|JCT 2|3|MOD 3|1|PREPO 4|0|ROOT 5|4|PUNCT
+*CHI:	教 雨辰 妈妈 玩 滑板车 .
+%mor:	v|jiao1=teach n|yu3chen2=yuchen n:relat|ma1&DIM=mother v|wan2=play
+	n|hua2ban3che1=skateboard_car .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%spa:	$x:dnp $i:st
+%act:	孩子马上从床上爬起来 .
+*CHI:	我 昨天 看 到 一 个 小 乌龟 .
+%mor:	pro|wo3=I n|zuo2tian1=yesterday v|kan4=look v:resc|dao4=arrive
+	num|yi1=one cl|ge4 adj|xiao3=small n|wu1gui1=tortoise .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|VR 5|6|QUANT 6|3|OBJ 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	小 乌龟 是 谁 的 .
+%mor:	adj|xiao3=small n|wu1gui1=tortoise v:cop|shi4=is pro:wh|shei2=who
+	poss|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|POSS 6|3|PUNCT
+%spa:	$x:pss $i:qn
+*CHI:	小 乌龟 住 在 水里 面 .
+%mor:	adj|xiao3=small n|wu1gui1=tortoise v:resc|zhu4=inhabit prep|zai4=at
+	n|shui3li3=in_the_water n|mian4=surface .
+%gra:	1|2|MOD 2|6|MOD 3|2|VR 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:dnp $i:st
+*GRA:	吃 早饭 吧 .
+%mor:	v|chi1=eat n|zao3fan4=breakfast sfp|ba .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:nia $i:dr
+*CHI:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	等 雨辰 妹妹 来 .
+%mor:	v|deng3=wait n|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister
+	v:dirc|lai2=come .
+%gra:	1|2|MOD 2|3|MOD 3|0|INCROOT 4|3|VD 5|3|PUNCT
+%spa:	$x:nia $i:cs
+%com:	乐宝不同意, 不想现在吃早饭 .
+*MOT:	雨辰 妹妹 还 没 来 .
+%mor:	n|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister adv|hai2=still
+	neg|mei2=not v:dirc|lai2=come .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|VD 6|4|PUNCT
+*MOT:	她 在 吃 早饭 .
+%mor:	pro|ta1=she adv|zai4=currently v|chi1=eat n|zao3fan4=breakfast .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	你 什么 都 不 去 吗 .
+%mor:	pro|ni3=you pro:wh|shen2me=what adv|dou1=all neg|bu4=not
+	v:dirc|qu4=go sfp|ma .
+%gra:	1|4|SUBJ 2|1|OBJ 3|4|JCT 4|0|INCROOT 5|4|VD 6|4|SFP 7|4|PUNCT
+%com:	爸爸在吃饭, 她想问他爸爸是不是什么地方都不去 .
+*MOT:	棒棒糖 在 哪儿 .
+%mor:	n|bang4bang4tang2=lolipop prep|zai4=at pro:wh|na3-DIA=which .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+*MOT:	广场 哪 有 棒棒糖 .
+%mor:	n|guang3chang3=public_square pro:wh|na3=which v|you3=have
+	n|bang4bang4tang2=lolipop .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 广场 那个 卖 包子 的 后面 .
+%mor:	prep|zai4=at n|guang3chang3=public_square pro|na4ge4=that
+	v|mai4=sell n|bao1-NOM=bag cleft|de post|hou4mian4=behind .
+%gra:	1|4|JCT 2|1|PREPO 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|POSTO 7|4|JCT 8|4|PUNCT
+%spa:	$x:dnp $i:sa
+*FAT:	好看 吗 .
+%mor:	adj|hao3kan4=good_looking sfp|ma .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dha $i:yq
+%com:	路上碰见一棵樱花树 .
+*CHI:	不好 看 .
+%mor:	adv|bu4hao3=not_good v|kan4=look .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:an
+*CHI:	樱花 也 是 不好 看 .
+%mor:	n|ying1hua1=oriental_cherry adv|ye3=also v:cop|shi4=is
+	adv|bu4hao3=not_good v|kan4=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:djf $i:st
+%com:	后来, 又看见一颗樱花树 .
+@End

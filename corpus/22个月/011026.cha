@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.26|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	17-JUN-2014
+*CHI:	要 睡觉 .
+%mor:	v:aux|yao4=should v|shui4jiao4=sleep .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%com:	早起对妈妈说 .
+*CHI:	衣服 脱掉 .
+%mor:	n|yi1fu2=clothes v|tuo1diao4=take_off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	妈妈又躺下她说 .
+*CHI:	这 是 什么 声音 呀 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|sheng1yin1=sound
+	sfp|ya ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SFP 6|2|PUNCT
+%com:	听见狗叫声 .
+*CHI:	天亮 了 .
+%mor:	v|tian1liang4=dawn asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	妈妈打开窗帘 .
+*CHI:	不 长 .
+%mor:	neg|bu4=not adj|chang2=long .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%com:	剪右手指甲后要剪左手指甲她缩手不让剪 .
+*MOT:	不 允许 睡觉 .
+%mor:	neg|bu4=not v|yun2xu3=permit v|shui4jiao4=sleep .
+%gra:	1|2|NEG 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	宝宝一中午都没睡, 蹦蹦跳跳, 妈妈发火了 .
+*CHI:	0 .
+%spa:	$x:nia $i:ad
+%com:	乐宝果真起床了 .
+*CHI:	看 完了 .
+%mor:	v|kan4=look tag|wan2le=oh_no .
+%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+%com:	翻完书后 .
+*CHI:	可以 了 .
+%mor:	adj|ke3yi3=not_bad asp|le .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	妈妈在记录乐宝要手机 .
+@End

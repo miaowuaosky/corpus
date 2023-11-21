@@ -1,0 +1,113 @@
+@UTF8
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;02.27|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	19-OCT-2014
+*CHI:	爸爸 下班 回家 了 .
+%mor:	n:relat|ba4&DIM=father v|xia4ban1=get_off v|hui4jia1=go_home asp|le
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	早上醒来看见爸爸 .
+*CHI:	里面 装 的 什么 .
+%mor:	post|li3mian4=inside v|zhuang1=install nom|de pro:wh|shen2me=what .
+%gra:	1|2|JCT 2|0|ROOT 3|2|POSS 4|3|OBJ 5|2|PUNCT
+*CHI:	是 糖 .
+%mor:	v:cop|shi4=is n|tang2=sugar .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	拿到盒子 .
+*CHI:	要 小球 球 .
+%mor:	v:aux|yao4=should n|xiao3qiu2=the_ball n|qiu2=ball .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	看床底 .
+*MOT:	自己 拿 .
+%mor:	pro|zi4ji3=self v|na2=hold .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	拿 不到 .
+%mor:	v|na2=hold adv|bu2dao4=not_to .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	小 鸭子 不 追 乐宝 了 .
+%mor:	adj|xiao3=small n|ya1-NOM=drake neg|bu4=not v|zhui1=pursue
+	n:name|le4bao3=lebao asp|le .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|NEG 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*CHI:	狗 有 两 只 脚 .
+%mor:	n|gou3=dog v|you3=have num|liang3=two adv|zhi3=only n|jiao3=foot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PQ 4|5|JCT 5|2|OBJ 6|2|PUNCT
+%com:	看床头的两只狗 .
+*CHI:	现在 是 几 号 .
+%mor:	adv|xian4zai4=now v:cop|shi4=is adv:wh|ji1=how_many n|hao4=day .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	拿妈妈手机 .
+*CHI:	要 蘸 水 .
+%mor:	v:aux|yao4=should v|zhan4=dip_in n|shui3=water .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	拿海绵擦 .
+*CHI:	跳 得 好 漂亮 .
+%mor:	v|tiao4=jump cpt|de adv|hao3=very adj|piao4liang4=posh .
+%gra:	1|0|ROOT 2|1|POSS 3|4|JCT 4|1|OBJ 5|1|PUNCT
+%act:	看跳芭蕾舞的阿姨画册 .
+*CHI:	小狗 能 睡着 .
+%mor:	n|xiao3gou3=puppy v:aux|neng2=can n|shui4zhe=sleep .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	画画册 .
+*CHI:	试 试 鞋 大 不大 .
+%mor:	v|shi4=try v|shi4=try n|xie2=shoe adj|da4=great adv|bu4da4=not_very
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	把娃娃的鞋给妈妈穿 .
+*CHI:	打车 的 时候 看 到 外公 了 .
+%mor:	v|da3che1=take_a_taxi nom|de n|shi2hou4=time v|kan4=look
+	v:resc|dao4=arrive n|wai4gong1=maternal_grandfather asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|VR 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	打车 以后 看 到 外公 抱 你 .
+%mor:	v|da3che1=take_a_taxi post|yi3hou4=afterwards v|kan4=look
+	v:resc|dao4=arrive n|wai4gong1=maternal_grandfather v|bao4=hug
+	pro|ni3=you .
+%gra:	1|2|POSTO 2|3|SUBJ 3|6|CJCT 4|3|VR 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	套娃 呢 .
+%mor:	n|tao4wa2=matryoshka_doll sfp|ne .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	套娃 搞 哪儿 去 了 .
+%mor:	n|tao4wa2=matryoshka_doll v|gao3=work pro:wh|na3-DIA=which
+	v:dirc|qu4=go asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|VD 5|3|VD 6|2|PUNCT
+*CHI:	小娃娃 来 喝 汤 .
+%mor:	n|xiao3wa2wa2=dolls v:dirc|lai2=come v|he1=drink n|tang1=broth .
+%gra:	1|4|MOD 2|1|VD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	摔倒 了 .
+%mor:	v|shuai1dao3=fall asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	从床上滑下 .
+*CHI:	啾 啾 啾 小鸟 飞 .
+%mor:	on|jiu on|jiu on|jiu n|xiao3niao3=the_bird v:resc|fei1=fly_away .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|VR 6|1|PUNCT
+*CHI:	妈妈 给 你 套 小鸟 .
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for pro|ni3=you v|tao4=encase
+	n|xiao3niao3=the_bird .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	乐宝 套 小鸟 .
+%mor:	n:name|le4bao3=lebao v|tao4=encase n|xiao3niao3=the_bird .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	我 是 小鸟 啾 啾 啾 啾 啾 啾 .
+%mor:	pro|wo3=I v:cop|shi4=is n|xiao3niao3=the_bird on|jiu on|jiu on|jiu
+	on|jiu on|jiu on|jiu .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PREPO 6|5|JCT 7|8|MOD 8|6|PREPO
+	9|8|INCROOT 10|9|PUNCT
+*CHI:	小鸟 跑 了 .
+%mor:	n|xiao3niao3=the_bird v|pao3=run asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	把笔套套手指动来动去 .
+*CHI:	乐宝 没有 吃 山芋 稀饭 .
+%mor:	n:name|le4bao3=lebao neg|mei2you3=not_have v|chi1=eat
+	n|shan1yu4=sweet_potato n|xi1fan4=porridge .
+%gra:	1|5|MOD 2|3|NEG 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	要 吃 山芋 稀饭 .
+%mor:	v:aux|yao4=should v|chi1=eat n|shan1yu4=sweet_potato
+	n|xi1fan4=porridge .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	空碗哭诉 .
+@End

@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.14|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	05-APR-2014
+*CHI:	粑粑 露出 来 了 .
+%mor:	n|ba3ba=excrement v|lu4chu1=show v:dirc|lai2=come asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	乐宝看见妈妈倒进马桶的东西没冲进去 .
+*MOT:	指甲 长 不 长 ?
+%mor:	n|zhi3jia3=fingernail adj|chang2=long neg|bu4=not adj|chang2=long ?
+%gra:	1|2|MOD 2|4|NEG 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dha $i:tq
+*CHI:	指甲剪 过 了 ?
+%mor:	n|zhi3jia3jian3=nail_cutters adj|guo4=last asp|le ?
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dha $i:st
+%com:	其实手指甲剪过了, 脚指甲没剪 .
+*CHI:	< 撞 到 泡泡 咯>[/] 撞 到 泡泡 咯 .
+%mor:	v|zhuang4=run_into v:resc|dao4=arrive n|pao4pao4=bubble sfp|lo .
+%gra:	1|3|CJCT 2|1|VR 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%com:	其实是泡泡瓶子, 而且还没撞到 .
+*CHI:	那个 给 妈妈 吃 了 .
+%mor:	pro|na4ge4=that prep|gei3=for n:relat|ma1&DIM=mother v|chi1=eat
+	asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	妈妈给乐宝一个草莓, 手里又拿着一个 .
+*CHI:	鸡蛋 .
+%mor:	n|ji1dan4=hens_egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	指着元宵 .
+@End

@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	15-JUL-2015
+*GRA:	可 洗澡 .
+%mor:	adv|ke3=on_the_contrary v|xi3zao3=shower .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*GRA:	洗 过 澡 就 舒服 了 .
+%mor:	v|xi3=wash v:dirc|guo4=pass v|zao3=wash adv|jiu4=just
+	adj|shu1fu2=comfortable asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|5|JCT 5|1|VD 6|1|VD 7|1|PUNCT
+%spa:	$x:dnp $i:yq
+%com:	晚上看电视时外婆问乐宝话 .
+%act:	她边看电视边说话 .
+*CHI:	洗 过 澡 就 没了 .
+%mor:	v|xi3=wash v:dirc|guo4=pass v|zao3=wash adv|jiu4=just
+	v|mei2le=be_without .
+%gra:	1|0|ROOT 2|1|VD 3|5|SUBJ 4|5|JCT 5|1|VD 6|1|PUNCT
+%spa:	$x:dnp $i:ya
+%com:	爸爸洗好衣服, 她大喊爸爸 .
+*CHI:	爸爸 已经 洗 好 衣服 了 .
+%mor:	n:relat|ba4&DIM=father adv|yi3jing1=already v|xi3=wash
+	adj|hao3=good n|yi1fu2=clothes asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|OBJ 7|3|PUNCT
+*CHI:	我 要 荡秋千 .
+%mor:	pro|wo3=I v:aux|yao4=should v|dang4qiu1qian1=to_swing .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	她抱着被子到妈妈身边 .
+*CHI:	爸爸 妈妈 带 我 玩 被子 荡秋千 .
+%mor:	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother v|dai4=bring
+	pro|wo3=I v|wan2=play n|bei4zi=quilt v|dang4qiu1qian1=to_swing .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|3|OBJ 8|3|PUNCT
+@End

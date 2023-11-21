@@ -1,0 +1,91 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.19|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	10-FEB-2014
+*CHI:	你 看 你 看 哪 !
+%mor:	pro|ni3=you v|kan4=look pro|ni3=you v|kan4=look pro:wh|na3=which !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%com:	早上搭易拉罐, 之前乐宝已经做过相同的行为 .
+*CHI:	搞 哇哇 你 搞 哇哇 .
+%mor:	v|gao3=work on|wa1wa1=crying pro|ni3=you v|gao3=work co|哇&DIM .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COM 6|4|PUNCT
+%com:	午睡起床 .
+*CHI:	自己 穿 .
+%mor:	pro|zi4ji3=self v|chuan1=put_on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	妈妈帮她穿袜子 .
+*CHI:	万万 哥哥 的 .
+%mor:	adv|wan4wan4=absolutely n:relat|ge1&DIM=older_brother poss|de .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+%com:	看见了沙发上的糖 .
+*CHI:	下雨 .
+%mor:	v|xia4yu3=rain .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	指着阳台 .
+%spa:	$x:dha $i:dc
+*MOT:	没有 下雨 啊 .
+%mor:	neg|mei2you3=not_have v|xia4yu3=rain sfp|a1 .
+%gra:	1|2|NEG 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dha $i:nd
+*CHI:	看看 .
+%mor:	v|kan4&DIM=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:dss $i:ws
+*MOT:	想 看 啊 ?
+%mor:	v:aux|xiang3=want v|kan4=look sfp|a1 ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dss $i:yq
+*CHI:	是的 .
+%mor:	v:cop|shi4-ISH=is .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dss $i:aa
+*CHI:	外公 拿 着 .
+%mor:	n|wai4gong1=maternal_grandfather v|na2=hold asp|zhe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	把杯子递给外公 .
+*CHI:	打球 .
+%mor:	v|da3qiu2=play_a_ball .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	乐宝想玩球, 所以对妈妈说 .
+*CHI:	打 头 .
+%mor:	v|da3=hit n|tou2=head .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	球打到乐宝头上 .
+*CHI:	那个 球 .
+%mor:	pro|na4ge4=that n|qiu2=ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看到远处有一个球, 她第一次说远指代词 .
+*CHI:	灯 亮 了 .
+%mor:	n|deng1=lantern v:resc|liang4=light asp|le .
+%gra:	1|3|SUBJ 2|1|VR 3|0|INCROOT 4|3|PUNCT
+%act:	看着外面 .
+*MOT:	哪里 灯 亮 了 ?
+%mor:	pro:wh|na3li3=where n|deng1=lantern v:resc|liang4=light asp|le ?
+%gra:	1|2|MOD 2|4|SUBJ 3|2|VR 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	叔叔 灯 亮 了 .
+%mor:	n:relat|shu2&DIM=uncle n|deng1=lantern v:resc|liang4=light asp|le .
+%gra:	1|2|MOD 2|4|SUBJ 3|2|VR 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	谁 放 炮 ?
+%mor:	pro:wh|shei2=who v|fang4=put n|pao4=heavy_weapon ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	太太 .
+%mor:	n|tai4tai4=madame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	不是 .
+%mor:	n|bu2shi4=fault .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:dw
+*CHI:	外面 豆 豆 .
+%mor:	n|wai4mian4=outside n|dou4=small_ball n|dou4=small_ball .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:sa
+@End

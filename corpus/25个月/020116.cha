@@ -1,0 +1,105 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|02;01.16|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||female|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	07-SEP-2014
+*CHI:	不是 漏 的 是 花 .
+%mor:	n|bu2shi4=fault v|lou4=divulgence nom|de v:cop|shi4=is
+	n|hua1=flower .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%com:	乐宝以为风油精漏了又看床单 .
+*CHI:	你 上来 好不好 .
+%mor:	pro|ni3=you v|shang4lai2=come_up tag|hao3bu2hao3=okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%com:	乐宝在床上对姐姐说 .
+*CHI:	放鞭炮 了 .
+%mor:	v|fang4bian1pao4=set_off_firecrackers asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	乐宝看见碎红砖 .
+*CHI:	赶紧 去 老乡鸡 不然 会 赞 到 你 .
+%mor:	adv|gan3jin3=hurriedly v:dirc|qu4=go
+	n:prop|lao3xiang1ji1=hometown_chicken adv|bu4ran2=otherwise
+	v:aux|hui4=will v|zan4=praise v:resc|dao4=arrive pro|ni3=you .
+%gra:	1|3|JCT 2|1|VD 3|6|SUBJ 4|6|JCT 5|6|AUX 6|0|ROOT 7|6|VR 8|6|OBJ
+	9|6|PUNCT
+%com:	乐宝在西门口 .
+*CHI:	爸爸 的 鞋 爸爸 的 皮鞋 .
+%mor:	n:relat|ba4&DIM=father poss|de n|xie2=shoe n:relat|ba4&DIM=father
+	poss|de n|pi2xie2=leather_shoes .
+%gra:	1|3|MOD 2|1|POSS 3|4|MOD 4|0|INCROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%act:	乐宝在超市指男鞋 .
+*CHI:	妈妈 坐 这里 .
+%mor:	n:relat|ma1&DIM=mother v|zuo4=sit post|zhe4li3=here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:rp
+*MOT:	妈妈 太 重 了 坐 不了 .
+%mor:	n:relat|ma1&DIM=mother adv|tai4=very adj|zhong4=heavy asp|le
+	v|zuo4=sit adv|bu2liao3=cannot .
+%gra:	1|5|SUBJ 2|3|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:nia $i:rd
+*CHI:	乐宝 能 坐 .
+%mor:	n:name|le4bao3=lebao v:aux|neng2=can v|zuo4=sit .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	这个 坏掉 了 吧 .
+%mor:	pro|zhe4ge4=this adj|huai4diao4=broken asp|le sfp|ba .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%act:	乐宝指饼黑的地方 .
+*MOT:	这 是 好 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|hao3=good nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|POSS 5|2|PUNCT
+%spa:	$x:drp $i:st
+%act:	妈妈拿另一只笔 .
+*CHI:	这不 是 好 的 .
+%mor:	adv|zhe4bu4=see v:cop|shi4=is adj|hao3=good nom|de .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|POSS 5|2|PUNCT
+%spa:	$x:drp $i:dw
+%act:	乐宝拿旧的笔 .
+*CHI:	这 是 什么 .
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	乐宝指记录本 .
+*FAT:	她 从 哪儿 来 的 .
+%mor:	pro|ta1=she prep|cong2=from pro:wh|na3-DIA=which v:dirc|lai2=come
+	nom|de .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|VD 5|2|POSS 6|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	从 奶奶 家 来 的 .
+%mor:	prep|cong2=from n:relat|nai3&DIM=fathers_mother n|jia1=family
+	v:dirc|lai2=come nom|de .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	小 虫子 怎么 不 爬 .
+%mor:	adj|xiao3=small n|chong2-NOM=bug adv:wh|zen3me=how neg|bu4=not
+	v|pa2=crawl .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|NEG 5|0|ROOT 6|5|PUNCT
+%com:	乐宝看见小虫子不动 .
+*CHI:	屁股 痒 .
+%mor:	n|pi4gu3=buttocks adj|yang3=itching .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:em
+*MOT:	在 奶奶 家 忘 了 洗 吧 .
+%mor:	prep|zai4=at n:relat|nai3&DIM=fathers_mother n|jia1=family
+	v|wang4=forget asp|le v|xi3=wash sfp|ba .
+%gra:	1|0|INCROOT 2|6|SUBJ 3|4|SUBJ 4|6|JCT 5|6|JCT 6|1|PREPO 7|1|SFP
+	8|1|PUNCT
+%spa:	$x:djf $i:yq
+*CHI:	奶奶 家 没有 洗 屁股 盆 .
+%mor:	n:relat|nai3&DIM=fathers_mother n|jia1=family neg|mei2you3=not_have
+	v|xi3=wash n|pi4gu3=buttocks cl|pen2=container .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	七 像 拐杖 .
+%mor:	num|qi1=seven n|xiang4=portrait n|guai3zhang4=walking_stick .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	乐宝看见地上头发象七 .
+*CHI:	娃 哈哈 没事 walking 应该 没事 .
+%mor:	n|wa2=kid co|哈哈 n|mei2shi4=nothing co|walking=walking
+	v:aux|ying1gai1=should n|mei2shi4=nothing .
+%gra:	1|6|MOD 2|6|COM 3|6|MOD 4|6|COM 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%com:	儿歌播放重音了 .
+@End

@@ -1,0 +1,101 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, GRA Grandmother
+@ID:	zho|FLZ|CHI|2;03.07|female|||Child|||
+@ID:	zho|XX|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	29-OCT-2014
+*CHI:	妈妈 肚子 里 响 妈妈 肚子 的 声音 .
+%mor:	n:relat|ma1&DIM=mother n|du4-NOM=belly post|li3=inside
+	v|xiang3=make_a_sound n:relat|ma1&DIM=mother n|du4-NOM=belly poss|de
+	n|sheng1yin1=sound .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|8|MOD 5|6|MOD 6|4|OBJ 7|4|POSS 8|0|INCROOT
+	9|8|PUNCT
+%com:	妈妈肚子咕噜响 .
+*CHI:	这个 怎么搞的 ?
+%mor:	pro|zhe4ge4=this adv|zen3megao3de=how_did_you_mess_it_up ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%com:	孩子袜子穿反了 .
+*CHI:	像 手镯 .
+%mor:	v|xiang4=be_like n|shou3zhuo2=bracelet .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	孩子袜子穿反了 .
+*CHI:	妈妈 拿 拿 不到 .
+%mor:	n:relat|ma1&DIM=mother v|na2=hold v|na2=hold adv|bu2dao4=not_to .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	孩子让妈妈拿桌子下的球 .
+*CHI:	妈妈 拉 着手 扶栏 杆 .
+%mor:	n:relat|ma1&DIM=mother v|la1=pull v|zhuo2shou3=put_hand_to
+	n|fu2lan2=handrailing n|gan1=pole .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	什么 在 洗 ?
+%mor:	pro:wh|shen2me=what adv|zai4=currently v|xi3=wash ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	孩子听见洗衣机声音 .
+*CHI:	两 个 都 掉 了 .
+%mor:	num|liang3=two cl|ge4 adv|dou1=all v:resc|diao4=drop asp|le .
+%gra:	1|5|QUANT 2|5|SUBJ 3|5|JCT 4|3|VR 5|0|INCROOT 6|5|PUNCT
+%act:	撕下两个贴纸 .
+*CHI:	豆 豆 分给 小朋友 .
+%mor:	n|dou4=small_ball n|dou4=small_ball v|fen1gei3=to
+	n|xiao3peng2you3=little_child .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	孩子把勺子给妈妈 .
+*CHI:	喝 一 大口 .
+%mor:	v|he1=drink num|yi1=one n|da4kou3=big_mouth .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%com:	孩子被喂一大勺酸奶 .
+*CHI:	长 胡子 了 喵 喵 .
+%mor:	v|zhang3=grow n|hu2zi3=beard asp|le on|miao1=meow on|miao1=meow .
+%gra:	1|3|MOD 2|1|JCT 3|0|INCROOT 4|3|ENUM 5|4|SFP 6|3|PUNCT
+%com:	孩子喝酸奶沾到嘴边 .
+*CHI:	贴纸 都 撕掉 了 .
+%mor:	n|tie1zhi3=label adv|dou1=all v|si1diao4=tear_off asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	怎么 会 撕烂 了 ?
+%mor:	adv:wh|zen3me=how v:aux|hui4=will v|si1lan4=tear_apart asp|le ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	指地上的贴纸 .
+*CHI:	妈妈 贴 头上 .
+%mor:	n:relat|ma1&DIM=mother v|tie1=paste n|tou2shang4=top_of_ones_head .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	孩子要把贴纸贴在妈妈的头上 .
+*GRA:	烫 .
+%mor:	adj|tang4=scald .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:drp $i:dc
+*CHI:	不 烫 了 再 给 你 喝 .
+%mor:	neg|bu4=not adj|tang4=scald asp|le adv|zai4=again prep|gei3=for
+	pro|ni3=you v|he1=drink .
+%gra:	1|2|NEG 2|7|SUBJ 3|7|JCT 4|7|JCT 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%spa:	$x:drp $i:st
+*CHI:	这 叫 牛奶 水 是 水 味道 .
+%mor:	pro|zhe4=this v|jiao4=call n|niu2nai3=cows_milk n|shui3=water
+	v:cop|shi4=is n|shui3=water n|wei4dao4=gustatory_perception .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+%com:	外婆把水倒入酸奶盒子 .
+*CHI:	肚子 好 鼓 肚子 里面 还有 甜 的 .
+%mor:	n|du4-NOM=belly adj|hao3=good n|gu3=drum n|du4-NOM=belly
+	post|li3mian4=inside adv|hai2you3=moreover adj|tian2=sweet nom|de .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|7|POSTO 5|7|COM 6|7|JCT 7|0|INCROOT 8|7|POSS
+	9|7|PUNCT
+%act:	摸肚子 .
+*CHI:	妈妈 在 干什么 ?
+%mor:	n:relat|ma1&DIM=mother adv|zai4=currently
+	v|gan4shen2me=what_do_you_want ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	妈妈 听到 什么 声音 了 ?
+%mor:	n:relat|ma1&DIM=mother v|ting1dao4=hear pro:wh|shen2me=what
+	n|sheng1yin1=sound asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%com:	孩子看到妈妈侧头听声音 .
+*CHI:	听见 水壶 了 .
+%mor:	v|ting1jian4=listen n|shui3hu2=kettle asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	是 谁 打开 的 ?
+%mor:	v:cop|shi4=is pro:wh|shei2=who v|da3kai1=unscrew nom|de ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%com:	孩子看到灯开了 .
+@End

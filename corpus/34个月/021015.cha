@@ -1,0 +1,146 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	25-MAY-2015
+*CHI:	妈妈 .
+%mor:	n:relat|ma1&DIM=mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	你 要 大 的 气球 还是 小的 气球 .
+%mor:	pro|ni3=you v:aux|yao4=should adj|da4=great nom|de
+	n|qi4qiu2=balloon conj|hai2shi4=or adj|xiao3-ISH=small
+	n|qi4qiu2=balloon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|5|MOD 5|3|OBJ 6|8|MOD 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+*CHI:	妈妈 吃 这个 .
+%mor:	n:relat|ma1&DIM=mother v|chi1=eat pro|zhe4ge4=this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	不 吃 马上 就 过期 了 .
+%mor:	neg|bu4=not v|chi1=eat adv|ma3shang4=immediately adv|jiu4=just
+	adj|guo4qi2=overdue asp|le .
+%gra:	1|2|NEG 2|5|CJCT 3|5|JCT 4|5|JCT 5|0|INCROOT 6|5|COM 7|5|PUNCT
+%spa:	$x:nia $i:dr
+%com:	晚上吃饭的时候 , 孩子指着菜跟妈妈说 .
+*MOT:	不会 过期 .
+%mor:	v:aux|bu4hui4=cant adj|guo4qi2=overdue .
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PUNCT
+*MOT:	是 变 凉 了 .
+%mor:	v:cop|shi4=is v|bian4=change adj|liang2=cool asp|le .
+%gra:	1|0|ROOT 2|1|PRED 3|4|MOD 4|2|OBJ 5|1|PUNCT
+%spa:	$x:dcc $i:st
+*CHI:	变 明天 的 时候 这个 就 过期 了 .
+%mor:	v|bian4=change n|ming2tian1=tomorrow poss|de n|shi2hou4=time
+	pro|zhe4ge4=this adv|jiu4=just adj|guo4qi2=overdue asp|le .
+%gra:	1|7|CJCT 2|4|MOD 3|2|POSS 4|1|OBJ 5|7|SUBJ 6|7|JCT 7|0|INCROOT 8|7|COM
+	9|7|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	这个 倒 掉 了 吧 .
+%mor:	pro|zhe4ge4=this v|dao3=fall v:resc|diao4=drop asp|le sfp|ba .
+%gra:	1|2|SUBJ 2|4|CJCT 3|2|VR 4|0|INCROOT 5|4|SFP 6|4|PUNCT
+%com:	孩子从妈妈身边拿走杯子中的饼干 .
+*CHI:	警察 叔叔 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	这个 不要 了 吧 .
+%mor:	pro|zhe4ge4=this adv|bu2yao4=dont asp|le sfp|ba .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:dfw $i:dc
+%com:	之前吃饭妈妈玩警察叔叔的游戏让她好好吃饭 .
+*CHI:	警察 叔叔 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	吃饭 了 .
+%mor:	v|chi1fan4=having_dinner asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dfw $i:dr
+%com:	妈妈在干活, 孩子在喊妈妈 .
+*CHI:	警察 叔叔 来 吃饭 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle v:dirc|lai2=come
+	v|chi1fan4=having_dinner .
+%gra:	1|2|MOD 2|4|SUBJ 3|2|VD 4|0|ROOT 5|4|PUNCT
+*CHI:	这 是 里面 的 好 饭 .
+%mor:	pro|zhe4=this v:cop|shi4=is post|li3mian4=inside cleft|de
+	adj|hao3=good n|fan4=food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%spa:	$x:dfw $i:dr
+%com:	妈妈以为又让她去客厅吃饭, 她把放着饼干的杯子对妈妈说话 .
+*CHI:	这 是 蒸 鸡蛋 .
+%mor:	pro|zhe4=this v:cop|shi4=is v|zheng1=evaporate n|ji1dan4=hens_egg .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	米饭 .
+%mor:	n|mi3fan4=cooked_rice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	汤 .
+%mor:	n|tang1=broth .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	警察 叔叔 .
+%mor:	n|jing3cha2=policeman n:relat|shu2&DIM=uncle .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	你 还 要不 要 了 呀 .
+%mor:	pro|ni3=you adv|hai2=still conj|yao4bu4=otherwise v:aux|yao4=should
+	asp|le sfp|ya .
+%gra:	1|3|SUBJ 2|3|JCT 3|4|TOP 4|5|AUX 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dfw $i:yq
+%com:	过一会又给一大杯盖饼干给妈妈 .
+*CHI:	这么 大一 碗 蒸 鸡蛋 .
+%mor:	adv|zhe4me=like_this n|da4yi1=freshman n|wan3=bowl
+	v|zheng1=evaporate n|ji1dan4=hens_egg .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	蒸鸡蛋就是鸡蛋羹 .
+*CHI:	这个 快 没 气 了 .
+%mor:	pro|zhe4ge4=this adv|kuai4=quickly neg|mei2=not v|qi4=anger asp|le
+	.
+%gra:	1|4|SUBJ 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:dha $i:dc
+*FAT:	啊 .
+%mor:	co|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:eq
+*CHI:	这个 气球 快 没 气 了 .
+%mor:	pro|zhe4ge4=this n|qi4qiu2=balloon adv|kuai4=quickly neg|mei2=not
+	v|qi4=anger asp|le .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|JCT 4|5|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:djf $i:st
+*FAT:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	我 来 吹 .
+%mor:	pro|wo3=I v:dirc|lai2=come v|chui1=blow .
+%gra:	1|3|SUBJ 2|1|VD 3|0|ROOT 4|3|PUNCT
+%spa:	$x:djf $i:st
+%com:	乐宝拿着气球听见爸爸开门声, 她就出去了 .
+*CHI:	哎哟 .
+%mor:	co|ai1yo1=arrgh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	我 出 不 来 了 .
+%mor:	pro|wo3=I v:dirc|chu1=go_out neg|bu4=not v:dirc|lai2=come asp|le .
+%gra:	1|5|SUBJ 2|1|VD 3|1|VD 4|1|VD 5|0|INCROOT 6|5|PUNCT
+%com:	孩子把饭吃得光光的, 然后跟爸爸汇报妈妈当警察叔叔吓唬她, 把她关在笼子里 .
+*FAT:	乐宝 他们 是 要 配合 .
+%mor:	n:name|le4bao3=lebao pro|ta1-PL=he v:cop|shi4=is v:aux|yao4=should
+	v|pei4he2=coordinate .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*FAT:	要 有 团队 .
+%mor:	v:aux|yao4=should v|you3=have n|tuan2dui4=team .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:dr
+*CHI:	不要 自己 一个人 .
+%mor:	adv|bu2yao4=dont pro|zi4ji3=self adv|yi1geren2=alone .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:yd
+%com:	爸爸和孩子一起看电视, 电视上几个人一起在跑 .
+*MOT:	要不 要 尿尿 .
+%mor:	conj|yao4bu4=otherwise v:aux|yao4=should v|niao4&DIM=pee .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:yq
+*CHI:	问 谁 .
+%mor:	v|wen4=ask pro:wh|shei2=who .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	妈妈看着蚊帐问孩子话 .
+@End

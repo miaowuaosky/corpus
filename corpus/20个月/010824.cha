@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.24|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	15-APR-2014
+*CHI:	给 我 擦 脸 .
+%mor:	prep|gei3=for pro|wo3=I v|ca1=wipe n|lian3=face .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	乐宝见妈妈脸上有霜 .
+%act:	做出要用手擦的样子 .
+*CHI:	这个 给 外公 .
+%mor:	pro|zhe4ge4=this prep|gei3=for n|wai4gong1=maternal_grandfather .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%com:	乐宝拿了一张纸给外公 .
+*CHI:	这个 给 妈妈 .
+%mor:	pro|zhe4ge4=this prep|gei3=for n:relat|ma1&DIM=mother .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+%com:	又拿了一张纸给妈妈 .
+*CHI:	你 看看 .
+%mor:	pro|ni3=you v|kan4&DIM=look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	妈妈给乐宝洗手 .
+*CHI:	刷子 掉下 去 了 .
+%mor:	n|shua1zi1=brush v|diao1xia4=fall_down v:dirc|qu4=go asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	乐宝看见厕刷倒了 .
+*CHI:	袋子 掉 地上 了 .
+%mor:	n|dai4zi=sack v:resc|diao4=drop n|di4shang4=on_the_ground asp|le .
+%gra:	1|3|MOD 2|1|VR 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝看见袋子掉了 .
+*CHI:	那个 姐姐 弹琴 ne .
+%mor:	pro|na4ge4=that n:relat|jie3&DIM=elder_sister
+	v|dan4qin2=play_the_piano co|ne .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+%com:	午睡起床乐宝听见有人弹琴 .
+*CHI:	那 不能 摸 .
+%mor:	pro|na4=that v:aux|bu4neng2=cannot v|mo1=touch .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%com:	乐宝看到柜子上面的瓶子 .
+*MOT:	有 蚊子 怎么办 ?
+%mor:	v|you3=have n|wen2-NOM=mosquito adv:wh|zen3meban4=how ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	0 .
+%spa:	$x:djf $i:sa
+%act:	乐宝跑到客厅去找了一圈, 然后拿起一个水瓶盖子来指着蚊子, 再配上一把梳子, 敲 ,
+*CHI:	这 是 妈妈 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|ma1&DIM=mother poss|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|POSS 5|2|PUNCT
+%act:	乐宝拿风筝 .
+@End

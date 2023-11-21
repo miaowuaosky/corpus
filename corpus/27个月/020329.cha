@@ -1,0 +1,140 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother, FAT Father
+@ID:	zho|FLZ|CHI|2;03.29|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	20-NOV-2014
+*CHI:	男 太太 讲 自己 开门 .
+%mor:	adj|nan2=male n|tai4tai4=madame v|jiang3=speak pro|zi4ji3=self
+	v|kai1men2=open_the_door .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dnp $i:rt
+%com:	男太太让孩子开门 .
+*MOT:	太太 说 什么 ?
+%mor:	n|tai4tai4=madame v|shuo1=say pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	你 自己 开门 好不好 ?
+%mor:	pro|ni3=you pro|zi4ji3=self v|kai1men2=open_the_door
+	tag|hao3bu2hao3=okay ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+%spa:	$x:dnp $i:rt
+*CHI:	男 太太 女 太太 真 可爱 !
+%mor:	adj|nan2=male n|tai4tai4=madame n|nv3=woman n|tai4tai4=madame
+	adv|zhen1=really adj|ke3ai4=lovable !
+%gra:	1|3|MOD 2|3|MOD 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:dnp $i:st
+%com:	孩子自己唱歌娃哈哈小弟弟你也莫躲开的调子 .
+*MOT:	感冒 了 出 不 去 了 .
+%mor:	v|gan3mao4=catch_cold asp|le v:dirc|chu1=go_out neg|bu4=not
+	v:dirc|qu4=go asp|le .
+%gra:	1|0|ROOT 2|1|JCT 3|2|VD 4|2|VD 5|2|VD 6|2|VD 7|1|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	外婆 能 行 .
+%mor:	n|wai4po2=maternal_grandmother v:aux|neng2=can
+	adj|xing2=be_all_right .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:nia $i:cs
+%com:	孩子觉得外婆能带她出去 .
+*MOT:	贴纸 贴 错 了 .
+%mor:	n|tie1zhi3=label v|tie1=paste v|cuo4=wrong asp|le .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dha $i:dc
+*CHI:	外婆 教 你 的 .
+%mor:	n|wai4po2=maternal_grandmother v|jiao1=teach pro|ni3=you poss|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|POSS 5|2|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	尿不湿 搞 出来 了 .
+%mor:	n|niao4bu4shi1=baby_diapers v|gao3=work v|chu1lai2=come_forward
+	asp|le .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	袋子 倒了 .
+*CHI:	这个 谁 冲 的 ?
+%mor:	pro|zhe4ge4=this pro:wh|shei2=who v|chong1=charge nom|de ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%act:	指地上烧水处洒的水 .
+*CHI:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	这个 准备 干什么 的 ?
+%mor:	pro|zhe4ge4=this v|zhun3bei4=prepare v|gan4shen2me=what_do_you_want
+	nom|de ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SRL 4|2|POSS 5|2|PUNCT
+%act:	指碗 .
+*CHI:	你 在 干什么 ?
+%mor:	pro|ni3=you adv|zai4=currently v|gan4shen2me=what_do_you_want ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	你 在 冲 什么 ?
+%mor:	pro|ni3=you adv|zai4=currently prep|chong4=towards
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%com:	妈妈在冲马桶 .
+*CHI:	门 可 关 了 ?
+%mor:	n|men2=door adv|ke3=on_the_contrary v|guan1=shut asp|le ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	太太在洗澡 .
+*MOT:	要 买 车 找 外公 要 .
+%mor:	v:aux|yao4=should v|mai3=buy n|che1=vehicle v|zhao3=search
+	n|wai4gong1=maternal_grandfather v:aux|yao4=should .
+%gra:	1|3|AUX 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:dnp $i:rp
+*GRA:	没 钱 没 钱 找 谁 要 谁 有钱 ?
+%mor:	neg|mei2=not n|qian2=money neg|mei2=not n|qian2=money
+	v|zhao3=search pro:wh|shei2=who v:aux|yao4=should pro:wh|shei2=who
+	adj|you3qian2=wealthy ?
+%gra:	1|2|NEG 2|5|SUBJ 3|4|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|AUX 8|5|OBJ
+	9|5|OBJ 10|5|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	我 有钱 买 在 柜子 上 我 在 柜子 拿 .
+%mor:	pro|wo3=I adj|you3qian2=wealthy v|mai3=buy prep|zai4=at
+	n|gui4zi=cupboard post|shang4=above pro|wo3=I prep|zai4=at
+	n|gui4zi=cupboard v|na2=hold .
+%gra:	1|3|SUBJ 2|3|JCT 3|10|SUBJ 4|10|JCT 5|4|PREPO 6|10|COM 7|10|SUBJ
+	8|10|JCT 9|8|PREPO 10|0|ROOT 11|10|PUNCT
+%spa:	$x:drp $i:sa
+%act:	跑去外公柜子, 打开柜子 .
+%com:	原来柜子里面有硬币, 孩子之前发现过 .
+*CHI:	妈妈 戴 一下 .
+%mor:	n:relat|ma1&DIM=mother v|dai4=wear adv|yi1xia4=a_bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	拿手套 .
+*MOT:	买 个 车 .
+%mor:	v|mai3=buy cl|ge4 n|che1=vehicle .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:nia $i:dc
+*CHI:	买 个 大大 的 车 .
+%mor:	v|mai3=buy cl|ge4 adj|da4&DIM=great poss|de n|che1=vehicle .
+%gra:	1|0|ROOT 2|5|MOD 3|5|MOD 4|3|POSS 5|1|OBJ 6|1|PUNCT
+%spa:	$x:nia $i:si
+*MOT:	多大 ?
+%mor:	adv:wh|duo1da4=how_much ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	山 大 .
+%mor:	n|shan1=mountain adj|da4=great .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	我 戴 手套 了 再 戴 戴 两会 儿 .
+%mor:	pro|wo3=I v|dai4=wear n|shou3tao4=gloves asp|le adv|zai4=again
+	v|dai4=wear v|dai4=wear n|liang3hui4=two_sessionsnpc_and_cppcc
+	n|er2=kid .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|2|OBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+%act:	戴 手套 .
+*CHI:	这 是 乐宝 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:name|le4bao3=lebao poss|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|POSS 5|2|PUNCT
+*CHI:	可以 戴 头上 的 .
+%mor:	v:aux|ke3yi3=may v|dai4=wear n|tou2shang4=top_of_ones_head nom|de .
+%gra:	1|3|AUX 2|3|MOD 3|0|INCROOT 4|3|POSS 5|3|PUNCT
+%act:	拿头发夹 .
+*CHI:	用 两 个 手 扎 .
+%mor:	v|yong4=use num|liang3=two cl|ge4 n|shou3=hand v|zha1=prick .
+%gra:	1|5|COM 2|1|PQ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	孩子让外婆扎辫子 .
+@End

@@ -1,0 +1,138 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	17-JUL-2015
+*CHI:	我 不 看 这个 了 .
+%mor:	pro|wo3=I neg|bu4=not v|kan4=look pro|zhe4ge4=this asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+*CHI:	我 要看 小 狮子 .
+%mor:	pro|wo3=I v|yao4kan4=to_see adj|xiao3=small n|shi1zi3=lion .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:nia $i:dr
+%act:	孩子把妈妈的旧手机递给妈妈 .
+%com:	小狮子是指苹果手机里的软件 .
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:rd
+*CHI:	昨天 都 看 小 狮子 了 嘛 .
+%mor:	n|zuo2tian1=yesterday adv|dou1=all v|kan4=look adj|xiao3=small
+	n|shi1zi3=lion asp|le sfp|ma .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|CJCT 4|5|MOD 5|3|OBJ 6|0|INCROOT 7|6|SFP 8|6|PUNCT
+%spa:	$x:nia $i:st
+*MOT:	什么 .
+%mor:	pro:wh|shen2me=what .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	昨天 都 看 小 狮子 了 嘛 .
+%mor:	n|zuo2tian1=yesterday adv|dou1=all v|kan4=look adj|xiao3=small
+	n|shi1zi3=lion asp|le sfp|ma .
+%gra:	1|3|SUBJ 2|3|JCT 3|6|CJCT 4|5|MOD 5|3|OBJ 6|0|INCROOT 7|6|SFP 8|6|PUNCT
+%spa:	$x:nia $i:sa
+%com:	孩子刚刚看完小手机想看大手机, 妈妈不让, 过一会她指着两个手机突然说话 .
+*CHI:	我 看 小 手机 还是 看 大 手机 .
+%mor:	pro|wo3=I v|kan4=look adj|xiao3=small n|shou3ji1=cell_phone
+	conj|hai2shi4=or v|kan4=look adj|da4=great n|shou3ji1=cell_phone .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|4|MOD 4|2|OBJ 5|6|JCT 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+%com:	孩子准备出门她对外婆说 .
+*CHI:	我 想 去 那 骑车 的 地方 .
+%mor:	pro|wo3=I v:aux|xiang3=want v:dirc|qu4=go pro|na4=that
+	v|qi2che1=ride_a_bike nom|de n|di4fang1=place .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|VD 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+%act:	孩子拿着好吃的在床上踩隆起的被子 .
+*CHI:	我 在 高山 .
+%mor:	pro|wo3=I prep|zai4=at n|gao1shan1=high_mountain .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+*CHI:	我 踩 在 高山 去 了 .
+%mor:	pro|wo3=I v|cai3=tread prep|zai4=at n|gao1shan1=high_mountain
+	v:dirc|qu4=go asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SRL 6|2|OBJ 7|2|PUNCT
+*CHI:	我 在 高山 上 .
+%mor:	pro|wo3=I prep|zai4=at n|gao1shan1=high_mountain post|shang4=above
+	.
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|INCROOT 5|4|PUNCT
+*CHI:	我 在 高山 骑 木马 .
+%mor:	pro|wo3=I prep|zai4=at n|gao1shan1=high_mountain
+	v|qi2=ride_sit_astride n|mu4ma3=hobby_horse .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	驾 .
+%mor:	v|jia4=drive .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	驾 .
+%mor:	v|jia4=drive .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	驾 .
+%mor:	v|jia4=drive .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	驾 .
+%mor:	v|jia4=drive .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	驾 .
+%mor:	v|jia4=drive .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	驾 .
+%mor:	v|jia4=drive .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	恩 .
+%mor:	n|en1=kindness .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	biabiabia 哎哟 嘞 咳 .
+%mor:	co|biabiabia co|ai1yo1=arrgh sfp|le1 v|ke2=cough .
+%gra:	1|2|COM 2|4|COM 3|2|SFP 4|0|ROOT 5|4|PUNCT
+*CHI:	妈妈 大 手机 小 狮子 什么时候 看 .
+%mor:	n:relat|ma1&DIM=mother adj|da4=great n|shou3ji1=cell_phone
+	adj|xiao3=small n|shi1zi3=lion adv:wh|shen2meshi2hou4=when
+	v|kan4=look .
+%gra:	1|7|SUBJ 2|3|MOD 3|7|SUBJ 4|5|MOD 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|PUNCT
+%spa:	$x:dnp $i:qn
+*MOT:	明天 吧 .
+%mor:	n|ming2tian1=tomorrow sfp|ba .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	现在 是 明天 吗 .
+%mor:	adv|xian4zai4=now v:cop|shi4=is n|ming2tian1=tomorrow sfp|ma .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%spa:	$x:dnp $i:yq
+*MOT:	现在 是 今天 .
+%mor:	adv|xian4zai4=now v:cop|shi4=is n|jin1tian1=today .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:dnp $i:an
+*CHI:	阴天 .
+%mor:	n|yin1tian1=overcast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	阴天 .
+%mor:	n|yin1tian1=overcast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	今天 .
+%mor:	n|jin1tian1=today .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:nd
+*CHI:	阴天 .
+%mor:	n|yin1tian1=overcast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	阴天 .
+%mor:	n|yin1tian1=overcast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:nd
+%act:	她把饼干袋子递给妈妈 .
+*MOT:	不 吃 了 .
+%mor:	neg|bu4=not v|chi1=eat asp|le .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	吃 得 太 饱 了 .
+%mor:	v|chi1=eat cpt|de adv|tai4=very adj|bao3=full asp|le .
+%gra:	1|4|CJCT 2|1|POSS 3|4|JCT 4|0|INCROOT 5|4|COM 6|4|PUNCT
+%spa:	$x:nia $i:gr
+*CHI:	我 是 给 你 放 起来 .
+%mor:	pro|wo3=I v:cop|shi4=is prep|gei3=for pro|ni3=you v|fang4=put
+	adv|qi3lai2=up .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:nia $i:dr
+%com:	孩子的意思是让妈妈放一下 .
+@End

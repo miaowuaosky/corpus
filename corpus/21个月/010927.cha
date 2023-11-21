@@ -1,0 +1,70 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.27|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	19-MAY-2014
+*CHI:	大家 都 拿 尿不湿 .
+%mor:	pro|da4jia1=everyone adv|dou1=all v|na2=hold
+	n|niao4bu4shi1=baby_diapers .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈跟外婆同时给乐宝拿尿不湿 .
+*CHI:	饭 好 了 .
+%mor:	n|fan4=food adv|hao3=very asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	鸡蛋 好 了 .
+%mor:	n|ji1dan4=hens_egg adv|hao3=very asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	蒸 苹果 来 了 .
+%mor:	v|zheng1=evaporate n|ping2guo3=apple v:dirc|lai2=come asp|le .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	乐宝看见电饭锅灯闪 .
+*CHI:	妈妈 抱 宝宝 床 上 .
+%mor:	n:relat|ma1&DIM=mother v|bao4=hug n:relat|bao3&DIM=baby
+	n|chuang2=bed post|shang4=above .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%com:	乐宝早上要妈妈把她从床上抱下来 .
+*CHI:	要 到 房间 .
+%mor:	v:aux|yao4=should v:resc|dao4=arrive n|fang2jian1=room .
+%gra:	1|3|AUX 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	坐 老虎 摇 摇 车 .
+%mor:	v|zuo4=sit lao3#n|hu3=old_tiger v|yao2=rock v|yao2=rock
+	n|che1=vehicle .
+%gra:	1|0|ROOT 2|1|JCT 3|2|PREPO 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	看语晨妹妹坐摇摇车 .
+*CHI:	爸爸 抓 你 .
+%mor:	n:relat|ba4&DIM=father v|zhua1=catch pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	跟 妈妈 一起 坐 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother adv|yi1qi3=together
+	v|zuo4=sit .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	到 这里 来 .
+%mor:	v:resc|dao4=arrive post|zhe4li3=here v:dirc|lai2=come .
+%gra:	1|2|POSTO 2|0|INCROOT 3|2|VD 4|2|PUNCT
+%com:	乐宝在跑赤 .
+*CHI:	爸爸 推 着 你 .
+%mor:	n:relat|ba4&DIM=father v|tui1=push asp|zhe pro|ni3=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%com:	看推车照片时乐宝想描述爸爸推着自己 .
+*CHI:	男 太太 抱 着 你 .
+%mor:	adj|nan2=male n|tai4tai4=madame v|bao4=hug asp|zhe pro|ni3=you .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|NONE 4|3|JCT 5|4|INCROOT 6|5|PUNCT
+*CHI:	宝宝 在 翠翠 阿姨 家里 .
+%mor:	n:relat|bao3&DIM=baby adv|zai4=currently n|cui4&DIM=emerald
+	a1#n:relat|yi2=familiar_mothers_sister n|jia1li3=home .
+%gra:	1|3|MOD 2|3|JCT 3|0|INCROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%com:	其实在饭店 .
+*CHI:	要看 河马 .
+%mor:	v|yao4kan4=to_see n|he2ma3=hippopotamus .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看动物园的照片 .
+*CHI:	小鸟 飞 走 了 .
+%mor:	n|xiao3niao3=the_bird v:resc|fei1=fly_away v:dirc|zou3=go_away
+	asp|le .
+%gra:	1|4|SUBJ 2|1|VR 3|1|VD 4|0|INCROOT 5|4|PUNCT
+%com:	看见外面 .
+@End

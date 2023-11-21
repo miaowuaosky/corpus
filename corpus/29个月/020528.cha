@@ -1,0 +1,76 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;05.28|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	19-JAN-2015
+*CHI:	快 尿 了 .
+%mor:	adv|kuai4=quickly v|niao4=pee asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	在 游泳馆 洗澡 要 尿 尿 .
+*CHI:	洗 过 澡 我们 出去 吃饭 .
+%mor:	v|xi3=wash v:dirc|guo4=pass v|zao3=wash pro|wo3-PL=I
+	v|chu1qu1=leave v|chi1fan4=having_dinner .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|5|SUBJ 5|1|VD 6|1|VD 7|1|PUNCT
+%com:	游泳馆阿姨打算出去吃饭乐宝也说 .
+*CHI:	帮 我 枣 片 撕 一下 .
+%mor:	v|bang1=help pro|wo3=I n|zao3=jujube cl|pian4 v|si1=tear
+	adv|yi1xia4=a_bit .
+%gra:	1|5|CJCT 2|3|MOD 3|1|OBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%act:	枣片剩下一点被纸包住了递给妈妈 .
+*MOT:	哪个 是 红色 的 ?
+%mor:	pro:wh|na3ge4=which v:cop|shi4=is adj|hong2se4=red nom|de ?
+%gra:	1|0|INCROOT 2|1|ROOT 3|1|PRED 4|1|POSS 5|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	我 我 搞 不清楚 .
+%mor:	pro|wo3=I pro|wo3=I v|gao3=work v|bu4qing1chu3=unclear .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:sa
+%act:	她看了看 .
+*MOT:	这 是 银行 把 钱 存 进去 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|yin2hang2=bank prep|ba3=object_marker
+	n|qian2=money v|cun2=harbour v:dirc|jin4qu4=go_into .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|VD 8|6|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	存 进去 然后 喝 果汁 .
+%mor:	v|cun2=harbour v:dirc|jin4qu4=go_into adv|ran2hou4=thereupon
+	v|he1=drink n|guo3zhi1=fruit_juice .
+%gra:	1|4|SUBJ 2|1|VD 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$x:djf $i:rp
+*MOT:	不行 买 一 个 明天 的 吧 ?
+%mor:	v|bu4xing2=no_way v|mai3=buy num|yi1=one cl|ge4
+	n|ming2tian1=tomorrow nom|de sfp|ba ?
+%gra:	1|2|SUBJ 2|6|CJCT 3|4|QUANT 4|5|CLASS 5|2|OBJ 6|0|INCROOT 7|6|SFP
+	8|6|PUNCT
+%spa:	$x:djf $i:rq
+%act:	看手机银行 .
+*CHI:	什么 明天 的 ?
+%mor:	pro:wh|shen2me=what n|ming2tian1=tomorrow nom|de ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSS 4|2|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	妈妈 什么 明天 的 ?
+%mor:	n:relat|ma1&DIM=mother pro:wh|shen2me=what n|ming2tian1=tomorrow
+	nom|de ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|POSS 5|1|PUNCT
+*CHI:	这个 是 你 的 什么 车 ?
+%mor:	pro|zhe4ge4=this v:cop|shi4=is pro|ni3=you poss|de
+	pro:wh|shen2me=what n|che1=vehicle ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|3|POSS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%act:	突然指滑板车问 .
+*CHI:	我 咬 碎 了 .
+%mor:	pro|wo3=I v|yao3=bite v:resc|sui4=break asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|OBJ 5|2|PUNCT
+%com:	终于自己咬碎腰果高兴说 .
+*CHI:	什么 在 洗 ?
+%mor:	pro:wh|shen2me=what adv|zai4=currently v|xi3=wash ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	看见水龙头放水到脸盆 .
+*CHI:	妈妈 这么 多星 星 .
+%mor:	n:relat|ma1&DIM=mother adv|zhe4me=like_this n|duo1xing1=duoxing
+	n|xing1=star .
+%gra:	1|4|MOD 2|3|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%act:	看外面天空 .
+@End

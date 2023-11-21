@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.11|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	02-APR-2014
+*CHI:	儿童霜 摔倒 了 .
+%mor:	n|er2tong2shuang1=childrens_frost v|shuai1dao3=fall asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝看到瓶子歪了 .
+*CHI:	太太 出去 了 .
+%mor:	n|tai4tai4=madame v|chu1qu1=leave asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	到 语晨 妹妹 家 了 .
+%mor:	v:resc|dao4=arrive n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister n|jia1=family asp|le .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|INCROOT 6|5|PUNCT
+*CHI:	宝宝 玩 那个 垫子 .
+%mor:	n:relat|bao3&DIM=baby v|wan2=play pro|na4ge4=that n|dian4zi=support
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	乐宝指着爬行垫 .
+*CHI:	到 动物园 去 玩 .
+%mor:	v:resc|dao4=arrive n|dong4wu4yuan2=zoo v:dirc|qu4=go v|wan2=play .
+%gra:	1|4|COM 2|4|SUBJ 3|2|VD 4|0|ROOT 5|4|PUNCT
+%com:	乐宝向妈妈表达想法 .
+*CHI:	看 长颈鹿 还有 猴子 .
+%mor:	v|kan4=look n|chang2jing3lu4=giraffe adv|hai2you3=moreover
+	n|hou2-NOM=monkey .
+%gra:	1|0|ROOT 2|4|MOD 3|4|JCT 4|1|OBJ 5|1|PUNCT
+*CHI:	洗脸盆 .
+%mor:	n|xi3lian3pen2=wash_basin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	指着盆 .
+*CHI:	拉 粑粑 .
+%mor:	v|la1=pull n|ba3ba=excrement .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	拉 出来 了 .
+%mor:	v|la1=pull v|chu1lai2=come_forward asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	妈妈刚刚上完厕所, 乐宝盯着马桶 .
+*MOT:	到 动物园 看 海狮 .
+%mor:	v:resc|dao4=arrive n|dong4wu4yuan2=zoo v|kan4=look
+	n|hai3shi1=sea_lion .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	海狮 表演 .
+%mor:	n|hai3shi1=sea_lion v|biao3yan3=perform .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:st
+@End

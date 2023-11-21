@@ -1,0 +1,95 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;10.25|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	16-JUN-2014
+*CHI:	小 星星 出来 了 .
+%mor:	adj|xiao3=small n:name|星星 v|chu1lai2=come_forward asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	小 月亮 出来 了 .
+%mor:	adj|xiao3=small n|yue4liang4=moonlight v|chu1lai2=come_forward
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	早上起床在床上叽里呱啦讲个不停 .
+*CHI:	小 宝宝 起床 了 .
+%mor:	adj|xiao3=small n:relat|bao3&DIM=baby v|qi3chuang2=wake_up asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	大宝 宝 起床 了 .
+%mor:	n|da4bao3=dabao n|bao3=treasure v|qi3chuang2=wake_up asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	妈妈 叫 慧敏 .
+%mor:	n:relat|ma1&DIM=mother v|jiao4=call n:name|hui4min3=huimin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	妈妈 不是 爸爸 的 慧敏 .
+%mor:	n:relat|ma1&DIM=mother n|bu2shi4=fault n:relat|ba4&DIM=father
+	poss|de n:name|hui4min3=huimin .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|POSS 5|3|SFP 6|3|PUNCT
+*CHI:	肚脐 呢 ?
+%mor:	n|du4qi2=navel sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dha $i:qn
+%com:	穿上衣时 .
+*MOT:	衣服 遮住 了 .
+%mor:	n|yi1fu2=clothes v|zhe1zhu4=cover asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	被 衣服 遮住 了 .
+%mor:	prep|bei4=by n|yi1fu2=clothes v|zhe1zhu4=cover asp|le .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:djf $i:rt
+*CHI:	小脚 小脚 伸出 来 .
+%mor:	n|xiao3jiao3=feet n|xiao3jiao3=feet v|shen1chu1=reach
+	v:dirc|lai2=come .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+*CHI:	大脚 大脚 伸出 来 .
+%mor:	n|da4jiao3=bigfoot n|da4jiao3=bigfoot v|shen1chu1=reach
+	v:dirc|lai2=come .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+%com:	穿裤子 .
+*CHI:	外婆 不要 玩 这个 了 .
+%mor:	n|wai4po2=maternal_grandmother adv|bu2yao4=dont v|wan2=play
+	pro|zhe4ge4=this asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%com:	玩玩具后不想玩了 .
+*CHI:	这个 不要 了 .
+%mor:	pro|zhe4ge4=this adv|bu2yao4=dont asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	拿给乐宝新玩具乐宝跟旧玩具说 .
+*CHI:	乐宝 的 鞋 .
+%mor:	n:name|le4bao3=lebao poss|de n|xie2=shoe .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+*CHI:	妈妈 的 鞋 .
+%mor:	n:relat|ma1&DIM=mother poss|de n|xie2=shoe .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%act:	指着自己和妈妈的鞋 .
+*CHI:	小老鼠 摔倒 了 .
+%mor:	n|xiao3lao3shu3=mouse v|shuai1dao3=fall asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:st
+%com:	看儿歌 .
+*MOT:	在 哪儿 ?
+%mor:	prep|zai4=at pro:wh|na3-DIA=which ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	在 儿歌 上 .
+%mor:	prep|zai4=at n|er2ge1=nursery_rhymes post|shang4=above .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PREPO 4|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	在 动物园 看 到 猩猩 了 .
+%mor:	prep|zai4=at n|dong4wu4yuan2=zoo v|kan4=look v:resc|dao4=arrive
+	n|xing1xing1=orangutan asp|le .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|VR 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%act:	指着书 .
+*MOT:	饼干 呢 ?
+%mor:	n|bing3gan1=biscuit sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	吃掉 了 .
+%mor:	v|chi1diao4=eat_off asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dnp $i:sa
+@End

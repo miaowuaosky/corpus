@@ -1,0 +1,66 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child,  GRA Grandmother, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|GRA||female|||Grandmother|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	16-JUL-2015
+*CHI:	你好 长 时间 都 没 干 完 活 .
+%mor:	co:int|ni3hao3=hello v|zhang3=grow n|shi2jian1=time adv|dou1=all
+	neg|mei2=not v|gan4=do v:resc|wan2=finish adj|huo2=alive .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|NEG 6|8|CJCT 7|6|VR 8|0|INCROOT
+	9|8|PUNCT
+%com:	下午乐宝进妈妈房间看妈妈还在继续干活 .
+*CHI:	妈妈 给 我 开 一下 灯 .
+%mor:	n:relat|ma1&DIM=mother prep|gei3=for pro|wo3=I v:resc|kai1=open
+	adv|yi1xia4=a_bit n|deng1=lantern .
+%gra:	1|6|MOD 2|4|JCT 3|2|PREPO 4|1|VR 5|6|JCT 6|0|INCROOT 7|6|PUNCT
+%com:	孩子想到房间尿尿就跟妈妈说 .
+*CHI:	怎么了 外婆 .
+%mor:	adv:wh|zen3mele=whats_up n|wai4po2=maternal_grandmother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	怎么了 外婆 .
+%mor:	adv:wh|zen3mele=whats_up n|wai4po2=maternal_grandmother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:qn
+%com:	外婆在洗澡, 她听见很响的下雨声就问外婆 .
+*GRA:	外面 下雨 了 宝贝 .
+%mor:	n|wai4mian4=outside v|xia4yu3=rain asp|le n|bao3bei4=treasure .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	那 怎么办 .
+%mor:	pro|na4=that adv:wh|zen3meban4=how .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	那 我 出去 转 一 趟 再 回家 .
+%mor:	pro|na4=that pro|wo3=I v|chu1qu1=leave v|zhuan3=turn num|yi1=one
+	cl|tang4=activity adv|zai4=again v|hui4jia1=go_home .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|8|SUBJ 7|8|JCT 8|4|OBJ
+	9|4|PUNCT
+%spa:	$x:djf $i:qn
+*GRA:	是 下雨 了 宝贝 .
+%mor:	v:cop|shi4=is v|xia4yu3=rain asp|le n|bao3bei4=treasure .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$x:djf $i:dw
+*CHI:	哦 .
+%mor:	sfp|o1 .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	把 玉米 粒 袋子 给 我 .
+%mor:	prep|ba3=object_marker n|yu1mi3=maize cl|li4 n|dai4zi=sack
+	prep|gei3=for pro|wo3=I .
+%gra:	1|4|MOD 2|1|PREPO 3|4|MOD 4|5|TOP 5|0|INCROOT 6|5|PREPO 7|5|PUNCT
+*CHI:	让 我 夹 住 .
+%mor:	v|rang4=allow pro|wo3=I v|jia2=squeeze v:resc|zhu4=inhabit .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+*CHI:	为什么 你 不 夹 夹子 .
+%mor:	adv:wh|wei4shen2me=how_come pro|ni3=you neg|bu4=not v|jia2=squeeze
+	n|jia2-NOM=clip .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|NEG 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	妈妈把袋子放在一边给孩子看见了 .
+*CHI:	怎么 不行了 .
+%mor:	adv:wh|zen3me=how v|bu4xing2le=dying .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	看妈妈手机突然点不开, 她拿给妈妈看 .
+@End

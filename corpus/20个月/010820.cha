@@ -1,0 +1,138 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandfather
+@ID:	zho|FLZ|CHI|01;08.20|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Li|GRA||female|||Grandfather|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	11-APR-2014
+*CHI:	妈妈 到 语晨 妹妹 家 .
+%mor:	n:relat|ma1&DIM=mother prep|dao4=up_until n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister n|jia1=family .
+%gra:	1|5|MOD 2|5|JCT 3|2|PREPO 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	语晨 妹妹 家 好多 .
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister
+	n|jia1=family quant|hao3duo1=many .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:dnp $i:st
+*MOT:	好多 什么 .
+%mor:	quant|hao3duo1=many pro:wh|shen2me=what .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	好多 玩具 .
+%mor:	quant|hao3duo1=many n|wan2ju4=toy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	妈妈 我 想 看 手机 .
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v:aux|xiang3=want v|kan4=look
+	n|shou3ji1=cell_phone .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|AUX 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	径直坐下, 妈妈没同意让乐宝看手机 .
+*CHI:	想出 去 玩 了 .
+%mor:	v|xiang3chu1=come_up_with v:dirc|qu4=go v|wan2=play asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|VD 5|1|PUNCT
+%act:	拿着玉米 .
+*CHI:	< 给>[/] 给 自己 拿 着 .
+%mor:	prep|gei3=for pro|zi4ji3=self v|na2=hold asp|zhe .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈帮乐宝撕枣片的纸, 撕好后乐宝急着要 .
+*CHI:	< 拉>[/] 拉手 .
+%mor:	v|la1shou3=handle .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝想骑车把绳子递给妈妈 .
+*MOT:	妈妈 拉 什么 .
+%mor:	n:relat|ma1&DIM=mother v|la1=pull pro:wh|shen2me=what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	妈妈 拉 绳子 .
+%mor:	n:relat|ma1&DIM=mother v|la1=pull n|sheng2zi=rope .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	外公 没有 声音 了 .
+%mor:	n|wai4gong1=maternal_grandfather neg|mei2you3=not_have
+	n|sheng1yin1=sound asp|le .
+%gra:	1|3|MOD 2|3|NEG 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+%com:	乐宝想玩厨房, 可是没有音乐 .
+*CHI:	幼儿园 小 哥哥 姐姐 跳舞 .
+%mor:	n|you4er2yuan2=kindergarten adj|xiao3=small
+	n:relat|ge1&DIM=older_brother n:relat|jie3&DIM=elder_sister
+	v|tiao4wu3=hop .
+%gra:	1|5|SUBJ 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%act:	做跳舞动作 .
+*CHI:	记 下来 .
+%mor:	v|ji4=write_down v|xia4lai2=come_down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	哇 哈哈 哇 哈哈 每个人 脸 上 都 笑 开颜 .
+%mor:	co|哇 co|哈&DIM co|哇 co|哈哈 n|mei3ge4ren2=everybody n|lian3=face
+	post|shang4=above adv|dou1=all v|xiao4=smile v|kai1yan2=smile .
+%gra:	1|2|COM 2|6|COM 3|6|COM 4|6|COM 5|6|MOD 6|10|SUBJ 7|10|JCT 8|9|JCT
+	9|10|SUBJ 10|0|ROOT 11|10|PUNCT
+%com:	妈妈在给乐宝唱儿歌 .
+*CHI:	一样 的 .
+%mor:	adj|yi1yang4=same nom|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%com:	也许是说歌词重复 .
+*GRA:	乐宝 好 了 吧 ?
+%mor:	n:name|le4bao3=lebao adj|hao3=good asp|le sfp|ba ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%spa:	$x:djf $i:yq
+%com:	外公给乐宝洗澡 .
+*CHI:	不好 .
+%mor:	adv|bu4hao3=not_good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:an
+%com:	想说没有洗好 .
+*MOT:	扣 好 了 吗 ?
+%mor:	v|kou4=button_buckle_tie_up adj|hao3=good asp|le sfp|ma ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%spa:	$x:djf $i:yq
+%com:	乐宝午睡起床玩扣子 .
+*CHI:	不 扣 好 .
+%mor:	neg|bu4=not v|kou4=button_buckle_tie_up adj|hao3=good .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:an
+%com:	表示没扣好的意思 .
+*CHI:	猴子 .
+%mor:	n|hou2-NOM=monkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:st
+%act:	指照片 .
+*MOT:	猩猩 .
+%mor:	n|xing1xing1=orangutan .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:dw
+*CHI:	不是 猴子 .
+%mor:	n|bu2shi4=fault n|hou2-NOM=monkey .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:ap
+*CHI:	还有 一点点 .
+%mor:	adv|hai2you3=moreover adv|yi1dian3dian3=a_little .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	妈妈不让乐宝继续看手机乐宝不乐意 .
+*CHI:	妈妈 不 吃饭 .
+%mor:	n:relat|ma1&DIM=mother neg|bu4=not v|chi1fan4=having_dinner .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	乐宝让妈妈把她穿鞋妈妈放下碗 .
+*CHI:	给 你 吃 .
+%mor:	prep|gei3=for pro|ni3=you v|chi1=eat .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%com:	乐宝看电视对妈妈说话, 其实她想表达给我吃的意思 .
+*CHI:	想 吃 这个 .
+%mor:	v:aux|xiang3=want v|chi1=eat pro|zhe4ge4=this .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	大象 哥哥 看 过 了 .
+%mor:	n|da4xiang4=elephant n:relat|ge1&DIM=older_brother v|kan4=look
+	v:dirc|guo4=pass asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|VD 6|3|PUNCT
+*CHI:	鼠小弟 荡秋千 也 看 过 了 .
+%mor:	n:prop|shu3xiao3di4=the_younger_rats v|dang4qiu1qian1=to_swing
+	adv|ye3=also v|kan4=look v:dirc|guo4=pass asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|VD 6|4|VD 7|4|PUNCT
+*CHI:	你好 呢 ?
+%mor:	co:int|ni3hao3=hello sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	想看名叫你好的书 .
+@End

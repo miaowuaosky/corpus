@@ -1,0 +1,80 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|2;04.08|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Liu|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	30-NOV-2014
+*CHI:	小 熊 在外 婆 房间 .
+%mor:	adj|xiao3=small n|xiong2=bear v|zai4wai4=outside
+	n:relat|po2=grandmother n|fang2jian1=room .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	乐宝 咳嗽 好 了 再 出去 玩儿 吃 老乡 鸡 呀 坐 摇 摇 车 呀 坐 天鹅 摇 摇 车 啊 外公 过 生日 跟 妈妈 一起 买 蛋糕 .
+%mor:	n:name|le4bao3=lebao v|ke2sou4=cough adj|hao3=good asp|le
+	adv|zai4=again v|chu1qu1=leave v|wan2-DIA=play v|chi1=eat
+	lao3#n|xiang1=old_countryside n|ji1=chicken sfp|ya v|zuo4=sit
+	v|yao2=rock v|yao2=rock n|che1=vehicle sfp|ya v|zuo4=sit
+	n|tian1e2=Cygnus_columbianus_bewickii v|yao2=rock v|yao2=rock
+	n|che1=vehicle sfp|a1 n|wai4gong1=maternal_grandfather asp|guo4
+	n|sheng1ri4=birthday prep|gen1=with n:relat|ma1&DIM=mother
+	adv|yi1qi3=together v|mai3=buy n|dan4gao1=cake .
+%gra:	1|8|SUBJ 2|8|JCT 3|8|SUBJ 4|8|JCT 5|6|JCT 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|10|MOD 10|8|OBJ 11|17|SUBJ 12|17|JCT 13|12|SRL 14|15|MOD 15|13|OBJ
+	16|12|SFP 17|8|OBJ 18|19|SUBJ 19|17|SRL 20|21|MOD 21|19|OBJ 22|8|SFP 23|8|OBJ
+	24|25|MOD 25|8|OBJ 26|30|MOD 27|30|MOD 28|29|JCT 29|30|MOD 30|8|OBJ
+	31|8|PUNCT
+*CHI:	乐宝 的 蛋糕 吃完 了 再 吃 妈妈 的 .
+%mor:	n:name|le4bao3=lebao poss|de n|dan4gao1=cake v|chi1wan2=finish
+	asp|le adv|zai4=again v|chi1=eat n:relat|ma1&DIM=mother poss|de .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|7|SUBJ 5|7|JCT 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|8|POSS 10|7|PUNCT
+%com:	午睡起床 .
+*CHI:	你 是 小 猪 吗 ?
+%mor:	pro|ni3=you v:cop|shi4=is adj|xiao3=small n|zhu1=pig sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SFP 6|2|PUNCT
+*CHI:	你 是 小 猪 吗 ?
+%mor:	pro|ni3=you v:cop|shi4=is adj|xiao3=small n|zhu1=pig sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|SFP 6|2|PUNCT
+*CHI:	跟 电视 阿姨 姐姐 学 的 .
+%mor:	prep|gen1=with n|dian4shi4=television
+	a1#n:relat|yi2=familiar_mothers_sister n:relat|jie3&DIM=elder_sister
+	v|xue2=study nom|de .
+%gra:	1|5|JCT 2|1|PREPO 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|POSS 7|5|PUNCT
+%com:	妈妈躺下 .
+*CHI:	爸爸 又 在 打电话 .
+%mor:	n:relat|ba4&DIM=father adv|you4=again adv|zai4=currently
+	v|da3dian4hua4=phone .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	孩子听爸爸微信语音留言 .
+*CHI:	爸爸 不在 打电话 .
+%mor:	n:relat|ba4&DIM=father v|bu4zai4=be_not_in v|da3dian4hua4=phone .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	孩子听见爸爸笑 .
+*GRA:	超市 一般 九 点 关门 .
+%mor:	n|chao1shi4=supermarket adv|yi1ban1=same_as num|jiu3=nine cl|dian3
+	v|guan1men2=close .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	九 点 多 不要 关门 九 点 多 乐宝 玩 沙子 .
+%mor:	num|jiu3=nine cl|dian3 adv|duo1=far_more adv|bu2yao4=dont
+	v|guan1men2=close num|jiu3=nine cl|dian3 adv|duo1=far_more
+	n:name|le4bao3=lebao v|wan2=play n|sha1zi=sand .
+%gra:	1|2|QUANT 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|11|QUANT 7|11|MOD
+	8|11|JCT 9|11|MOD 10|11|MOD 11|5|OBJ 12|5|PUNCT
+%spa:	$x:dnp $i:dw
+*MOT:	我 不 去 合家 福 超市 .
+%mor:	pro|wo3=I neg|bu4=not v:dirc|qu4=go adv|he2jia1=whole_family
+	n|fu2=felicity n|chao1shi4=supermarket .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|VD 4|6|JCT 5|6|MOD 6|2|VD 7|2|PUNCT
+%spa:	$x:nia $i:dc
+*CHI:	到 合家 福 超市 喝 旺 仔 牛奶 .
+%mor:	v:resc|dao4=arrive adv|he2jia1=whole_family n|fu2=felicity
+	n|chao1shi4=supermarket v|he1=drink adj|wang4=prosperous
+	n|zai3=aberdeen n|niu2nai3=cows_milk .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+%spa:	$x:nia $i:cs
+@End

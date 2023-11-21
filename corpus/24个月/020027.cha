@@ -1,0 +1,128 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;00.27|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	18-AUG-2014
+*CHI:	妈妈 剥 好 了 .
+%mor:	n:relat|ma1&DIM=mother v|bo1=peel adj|hao3=good asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	剥鸡蛋对妈妈 .
+*CHI:	妈妈 尝 一 尝 .
+%mor:	n:relat|ma1&DIM=mother v|chang2=taste num|yi1=one v|chang2=taste .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+%com:	剥鸡蛋对妈妈 .
+*CHI:	大大 的 壳 子 放 这里 .
+%mor:	adj|da4&DIM=great poss|de n|ke2=shell n|zi3=master v|fang4=put
+	post|zhe4li3=here .
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	剥到一个大的 .
+*CHI:	好多 壳 子 好多 这个 .
+%mor:	quant|hao3duo1=many n|ke2=shell n|zi3=master quant|hao3duo1=many
+	pro|zhe4ge4=this .
+%gra:	1|4|MOD 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|INCROOT 6|5|PUNCT
+%com:	剥到一个大的 .
+*CHI:	不 烫 了 才 可以 剥 .
+%mor:	neg|bu4=not adj|tang4=scald asp|le adv|cai2=just v:aux|ke3yi3=may
+	v|bo1=peel .
+%gra:	1|2|NEG 2|6|SUBJ 3|6|JCT 4|6|JCT 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%com:	剥到一个大的 .
+*CHI:	先 看 渔夫和金鱼 .
+%mor:	adv|xian1=earlier v|kan4=look
+	n:prop|yu2fu1he2jin1yu2=the_fisherman_and_the_goldfish .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	把手擦擦玩书 .
+*CHI:	再 看 拔 萝卜 .
+%mor:	adv|zai4=again v|kan4=look v|ba2=bare n|luo2bo=radish .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	把手擦擦玩书 .
+*CHI:	小红帽 没有 了 .
+%mor:	n:name|xiao3hong2mao4=little_red_hat neg|mei2you3=not_have asp|le .
+%gra:	1|3|NEG 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+%com:	把手擦擦玩书 .
+*CHI:	这个 手 没有 .
+%mor:	pro|zhe4ge4=this cl|shou3=activity neg|mei2you3=not_have .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	乐宝按一下书 .
+*CHI:	这个 手 有 .
+%mor:	pro|zhe4ge4=this n|shou3=hand v|you3=have .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	乐宝按一下书 .
+*CHI:	这个 书 好 .
+%mor:	pro|zhe4ge4=this n|shu1=book adj|hao3=good .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	乐宝按一下书 .
+*MOT:	给 你 扎 辫子 .
+%mor:	prep|gei3=for pro|ni3=you v|zha1=prick n|bian4zi=handle .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:nia $i:si
+*MOT:	再 扎 个 辫子 我 就 走 了 .
+%mor:	adv|zai4=again v|zha1=prick cl|ge4 n|bian4zi=handle pro|wo3=I
+	adv|jiu4=just v:dirc|zou3=go_away asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|8|SUBJ 6|8|JCT 7|6|VD 8|2|OBJ
+	9|2|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	拿 一 个 袋子 给 你 .
+%mor:	v|na2=hold num|yi1=one cl|ge4 n|dai4zi=sack prep|gei3=for
+	pro|ni3=you .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|MOD 4|1|OBJ 5|1|JCT 6|5|PREPO 7|1|PUNCT
+%spa:	$x:nia $i:si
+*MOT:	拿 袋子 干什么 ?
+%mor:	v|na2=hold n|dai4zi=sack v|gan4shen2me=what_do_you_want ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	袋子 扎 辫子 .
+%mor:	n|dai4zi=sack v|zha1=prick n|bian4zi=handle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	呜 夹 住 了 .
+%mor:	on|wu1=hoot v|jia2=squeeze v:resc|zhu4=inhabit asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VR 4|2|OBJ 5|2|PUNCT
+%act:	乐宝手夹冰箱 .
+*CHI:	夹 这里 了 .
+%mor:	v|jia2=squeeze post|zhe4li3=here asp|le .
+%gra:	1|3|POSTO 2|1|JCT 3|0|INCROOT 4|3|PUNCT
+%act:	乐宝手夹冰箱 .
+*CHI:	差点 掉下 去 咯 .
+%mor:	adv|cha1dian3=almost v|diao1xia4=fall_down v:dirc|qu4=go sfp|lo .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VD 4|2|SFP 5|2|PUNCT
+%com:	乐宝骑车 .
+*CHI:	抱抱 看看 .
+%mor:	v|bao4&DIM=hug v|kan4&DIM=look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	饭没好 .
+*CHI:	石头 剪刀 布 .
+%mor:	n|shi2tou=stone n|jian3dao1=scissors n|bu4=cloth .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	跟小娃娃玩游戏 .
+*CHI:	乐宝 家 看 到 白云 了 .
+%mor:	n:name|le4bao3=lebao n|jia1=family v|kan4=look v:resc|dao4=arrive
+	n|bai2yun2=white_cloud asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%com:	对妈妈时候 .
+*CHI:	在 这里 看 的 .
+%mor:	prep|zai4=at post|zhe4li3=here v|kan4=look nom|de .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%com:	对妈妈时候 .
+*CHI:	刚刚 一下子 就 看不见 了 .
+%mor:	adv|gang1&DIM=just adv|yi1xia4zi=quickly adv|jiu4=just
+	v|kan4bu2jian4=unseen asp|le .
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	布遮眼 .
+*CHI:	掉 这里 去 了 .
+%mor:	v:resc|diao4=drop post|zhe4li3=here v:dirc|qu4=go asp|le .
+%gra:	1|2|POSTO 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	笔套掉沙发下面 .
+*CHI:	把 这个 灯 关上 了 .
+%mor:	prep|ba3=object_marker pro|zhe4ge4=this n|deng1=lantern
+	v|guan1shang4=shut asp|le .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|SUBJ 4|1|PREPO 5|1|PREPO 6|1|PUNCT
+%act:	指着已经关掉的灯 .
+*CHI:	所以 开 这个 灯 .
+%mor:	conj|suo3yi3=so v:resc|kai1=open pro|zhe4ge4=this n|deng1=lantern .
+%gra:	1|4|MOD 2|1|VR 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%act:	指开的另一个灯 .
+@End

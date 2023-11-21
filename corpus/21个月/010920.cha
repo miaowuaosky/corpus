@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, FAT Father
+@ID:	zho|FLZ|CHI|01;09.20|female|||Child|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	12-MAY-2014
+*CHI:	妈妈 关 起来 了 .
+%mor:	n:relat|ma1&DIM=mother v|guan1=shut v|qi3lai=stand_up asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	妈妈关上音乐盒音乐没有了, 乐宝转身说 .
+*CHI:	给 你 玩具 .
+%mor:	prep|gei3=for pro|ni3=you n|wan2ju4=toy .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|PREPO 4|1|PUNCT
+%com:	乐宝想要玩具 .
+*CHI:	拜拜 .
+%mor:	co:int|bai4bai4=bye_bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	模仿爸爸出门 .
+%act:	早上夹爸爸包在膈肢窝 .
+*FAT:	是 这个 裤子 吗 ?
+%mor:	v:cop|shi4=is pro|zhe4ge4=this n|ku4-NOM=pants sfp|ma ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%spa:	$x:dha $i:yq
+%com:	晚上洗澡爸爸说 .
+*CHI:	不是 这个 .
+%mor:	n|bu2shi4=fault pro|zhe4ge4=this .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:an
+@End

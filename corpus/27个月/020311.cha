@@ -1,0 +1,87 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother, UNC Uncle
+@ID:	zho|FLZ|CHI|2;03.11|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|XX|GRA||female|||Grandmother|||
+@ID:	zho|XX|UNC||male|||Uncle|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	02-NOV-2014
+*CHI:	我 带 你 去 看戏 吧 我 带 你 去 看戏 啊 好 吧 .
+%mor:	pro|wo3=I v|dai4=bring pro|ni3=you v:dirc|qu4=go
+	v|kan4xi4=the_theatre sfp|ba pro|wo3=I v|dai4=bring pro|ni3=you
+	v:dirc|qu4=go v|kan4xi4=the_theatre sfp|a1 adj|hao3=good sfp|ba .
+%gra:	1|2|SUBJ 2|13|CJCT 3|5|SUBJ 4|3|VD 5|2|OBJ 6|2|SFP 7|8|SUBJ 8|2|OBJ
+	9|11|SUBJ 10|9|VD 11|2|OBJ 12|2|SFP 13|0|INCROOT 14|13|SFP 15|13|PUNCT
+%spa:	$x:nia $i:rp
+%act:	拉着球 .
+*GRA:	你 去 看 不 看 你 想 去 不 去 .
+%mor:	pro|ni3=you v:dirc|qu4=go v|kan4=look neg|bu4=not v|kan4=look
+	pro|ni3=you v:aux|xiang3=want v:dirc|qu4=go neg|bu4=not
+	v:dirc|qu4=go .
+%gra:	1|3|SUBJ 2|1|VD 3|5|SUBJ 4|5|NEG 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|7|VD 9|7|VD
+	10|9|VD 11|5|PUNCT
+%spa:	$x:nia $i:tq
+*GRA:	妈妈 马上 就 走 了 .
+%mor:	n:relat|ma1&DIM=mother adv|ma3shang4=immediately adv|jiu4=just
+	v:dirc|zou3=go_away asp|le .
+%gra:	1|5|SUBJ 2|3|JCT 3|5|JCT 4|3|VD 5|0|INCROOT 6|5|PUNCT
+%spa:	$x:dnp $i:dc
+*CHI:	要 追 .
+%mor:	v:aux|yao4=should v|zhui1=pursue .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	大象 动物园 .
+%mor:	n|da4xiang4=elephant n|dong4wu4yuan2=zoo .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:nin $i:dc
+*UNC:	有 没有 去 过 ?
+%mor:	v|you3=have neg|mei2you3=not_have v:dirc|qu4=go asp|guo4 ?
+%gra:	1|0|ROOT 2|4|NEG 3|2|VD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:dnp $i:yq
+*CHI:	乐宝 去 过 了 .
+%mor:	n:name|le4bao3=lebao v:dirc|qu4=go v:dirc|guo4=pass asp|le .
+%gra:	1|0|INCROOT 2|1|VD 3|1|VD 4|1|VD 5|1|PUNCT
+%spa:	$x:dnp $i:aa
+%com:	孩子 在 坐车 .
+*CHI:	青蛙 好 开心 变成 好 小 好 小 起来 了 .
+%mor:	n|qing1wa1=frog adv|hao3=very adj|kai1xin1=happy
+	v|bian4cheng2=become adv|hao3=very adj|xiao3=small adv|hao3=very
+	adj|xiao3=small v|qi3lai=stand_up asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|9|CJCT 5|9|JCT 6|9|MOD 7|9|JCT 8|9|MOD
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+%com:	孩子在看《拇指姑娘》 .
+*CHI:	乐宝 在 车 上 吃 过 桔子 了 .
+%mor:	n:name|le4bao3=lebao prep|zai4=at n|che1=vehicle post|shang4=above
+	v|chi1=eat asp|guo4 n|ju2zi=tangerine asp|le .
+%gra:	1|5|SUBJ 2|5|JCT 3|4|MOD 4|2|PREPO 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|OBJ
+	9|5|PUNCT
+%com:	中午外婆给她桔子 .
+*CHI:	你 真 的 生气 吗 ?
+%mor:	pro|ni3=you adj|zhen1=true nom|de v|sheng1qi4=get_angry sfp|ma ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+*CHI:	面膜 像 贴纸 一样 .
+%mor:	n|mian4mo2=mask v|xiang4=be_like n|tie1zhi3=label adj|yi1yang4=same
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	孩子看见妈妈贴面膜 .
+*CHI:	坐 小 板凳 吃 .
+%mor:	v|zuo4=sit adj|xiao3=small n|ban3deng4=wooden_bench v|chi1=eat .
+%gra:	1|4|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	孩子端板凳坐下吃蛋糕 .
+*CHI:	把 这个 吃掉 我 把 这个 吃掉 .
+%mor:	prep|ba3=object_marker pro|zhe4ge4=this v|chi1diao4=eat_off
+	pro|wo3=I prep|ba3=object_marker pro|zhe4ge4=this
+	v|chi1diao4=eat_off .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|3|OBJ 8|3|PUNCT
+%act:	指第二块蛋糕 .
+*CHI:	大家 好 !
+%mor:	pro|da4jia1=everyone adj|hao3=good !
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*CHI:	我 叫 范乐之 .
+%mor:	pro|wo3=I v|jiao4=call n:name|fan4le4zhi1=fan_lezhi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	对着电视 .
+@End

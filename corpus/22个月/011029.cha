@@ -1,0 +1,133 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother, FAT Father
+@ID:	zho|FLZ|CHI|01;10.29|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|GRA||female|||Grandmother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	20-JUN-2014
+*MOT:	宝宝 不能 看 .
+%mor:	n:relat|bao3&DIM=baby v:aux|bu4neng2=cannot v|kan4=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝要看手机 .
+*CHI:	给 妈妈 看 手机 .
+%mor:	prep|gei3=for n:relat|ma1&DIM=mother v|kan4=look
+	n|shou3ji1=cell_phone .
+%gra:	1|4|MOD 2|1|PREPO 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:nia $i:si
+%com:	学会一些交际策略 .
+*GRA:	可 吃 了 .
+%mor:	adv|ke3=on_the_contrary v|chi1=eat asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dhs $i:tq
+*CHI:	不 吃 了 .
+%mor:	neg|bu4=not v|chi1=eat asp|le .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dhs $i:ta
+*CHI:	我 不 吃 了 .
+%mor:	pro|wo3=I neg|bu4=not v|chi1=eat asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	把 这 倒 掉 .
+%mor:	prep|ba3=object_marker pro|zhe4=this v|dao3=fall v:resc|diao4=drop
+	.
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|VR 5|3|PUNCT
+%com:	她想倒大盆里的水 .
+*CHI:	这个 被 蚊子 咬 了 .
+%mor:	pro|zhe4ge4=this prep|bei4=by n|wen2-NOM=mosquito v|yao3=bite
+	asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	指腿 .
+*CHI:	要 到 这里 来 .
+%mor:	v:aux|yao4=should v:resc|dao4=arrive post|zhe4li3=here
+	v:dirc|lai2=come .
+%gra:	1|3|AUX 2|1|VR 3|0|INCROOT 4|3|VD 5|3|PUNCT
+%com:	乐宝在床上指着远处的电脑 .
+*CHI:	等 宝宝 长大 再 贴 .
+%mor:	v|deng3=wait n:relat|bao3&DIM=baby v|zhang3da4=grow_up
+	adv|zai4=again v|tie1=paste .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%com:	乐宝撕贴纸 .
+*CHI:	宝宝 长大 了 .
+%mor:	n:relat|bao3&DIM=baby v|zhang3da4=grow_up asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝接话, 继续撕 .
+*CHI:	哈巴狗 放 不 出来 了 .
+%mor:	n|ha3ba1gou3=a_pug v|fang4=put neg|bu4=not v|chu1lai2=come_forward
+	asp|le .
+%gra:	1|2|SUBJ 2|4|CJCT 3|4|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	放儿歌视频放不出来 .
+*CHI:	这 是 哈巴狗 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|ha3ba1gou3=a_pug .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	哈巴狗 出来 咯 .
+%mor:	n|ha3ba1gou3=a_pug v|chu1lai2=come_forward sfp|lo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%com:	看见图片 .
+*FAT:	看 不 看 .
+%mor:	v|kan4=look neg|bu4=not v|kan4=look .
+%gra:	1|0|ROOT 2|3|NEG 3|1|OBJ 4|1|PUNCT
+%spa:	$x:nia $i:tq
+%com:	乐宝想看电视爸爸说问妈妈 .
+*MOT:	看 .
+%mor:	v|kan4=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:nia $i:ta
+*CHI:	妈妈 说 看 .
+%mor:	n:relat|ma1&DIM=mother v|shuo1=say v|kan4=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:st
+*FAT:	电视 没电 了 .
+%mor:	n|dian4shi4=television v|mei2dian4=no_electricity asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:gr
+%com:	爸爸不让乐宝看开机时的蓝光 .
+*CHI:	电视 有电 .
+%mor:	n|dian4shi4=television v|you3dian4=electric .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nia $i:dw
+*CHI:	穿 鞋 .
+%mor:	v|chuan1=put_on n|xie2=shoe .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	穿 鞋 打气 球 .
+%mor:	v|chuan1=put_on n|xie2=shoe v|da3qi4=cheer_up n|qiu2=ball .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	从沙发上下来 .
+*MOT:	从 哪儿 买 的 ?
+%mor:	prep|cong2=from pro:wh|na3-DIA=which v|mai3=buy nom|de ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	从 这里 买 的 .
+%mor:	prep|cong2=from post|zhe4li3=here v|mai3=buy nom|de .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:sa
+*CHI:	从 广场 买 的 .
+%mor:	prep|cong2=from n|guang3chang3=public_square v|mai3=buy nom|de .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:sa
+%act:	指门 .
+*CHI:	孔雀 搞 这里 来 了 .
+%mor:	n|kong3que4=peacock v|gao3=work post|zhe4li3=here v:dirc|lai2=come
+	asp|le .
+%gra:	1|2|SUBJ 2|3|POSTO 3|0|INCROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%com:	乐宝看动物全书的孔雀 .
+*CHI:	大河 马 在 吃 东西 呢 .
+%mor:	n|da4he2=river n|ma3=horse prep|zai4=at v|chi1=eat n|dong1xi=thing
+	sfp|ne .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|SFP 7|4|PUNCT
+%com:	河马好像是在吃东西 .
+*CHI:	宝宝 看见 长颈鹿 了 .
+%mor:	n:relat|bao3&DIM=baby v|kan4jian4=see n|chang2jing3lu4=giraffe
+	asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	宝宝 在 哪儿 看见 长颈鹿 的 .
+%mor:	n:relat|bao3&DIM=baby prep|zai4=at pro:wh|na3-DIA=which
+	v|kan4jian4=see n|chang2jing3lu4=giraffe nom|de .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|POSS 7|4|PUNCT
+*CHI:	在 幼儿园 看见 的 .
+%mor:	prep|zai4=at n|you4er2yuan2=kindergarten v|kan4jian4=see nom|de .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+@End

@@ -1,0 +1,214 @@
+@UTF8
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;02.01|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	23-SEP-2014
+*MOT:	到 雨晨 妹妹 家 了 .
+%mor:	v:resc|dao4=arrive n:name|yu3chen2=the_morning_rain
+	n:relat|mei4&DIM=younger_sister n|jia1=family asp|le .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|INCROOT 6|5|PUNCT
+%com:	乐宝问外公呢 ?
+*CHI:	雨晨 妹妹 一个人 在 家 玩 不了 .
+%mor:	n:name|yu3chen2=the_morning_rain n:relat|mei4&DIM=younger_sister
+	adv|yi1geren2=alone prep|zai4=at n|jia1=family v|wan2=play
+	adv|bu2liao3=cannot .
+%gra:	1|2|MOD 2|6|SUBJ 3|6|JCT 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	这 是 乐宝 尿 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:name|le4bao3=lebao v|niao4=pee nom|de
+	.
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|POSS 6|4|PUNCT
+%act:	乐宝指地上的尿尿不湿纸 .
+*CHI:	多 .
+%mor:	adv|duo1=far_more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	乐宝指尿多处 .
+*CHI:	少 .
+%mor:	adj|shao3=little .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	乐宝指尿少处 .
+*CHI:	不能 拿 纸 也 不能 拿 尿不湿 .
+%mor:	v:aux|bu4neng2=cannot v|na2=hold n|zhi3=paper adv|ye3=also
+	v:aux|bu4neng2=cannot v|na2=hold n|niao4bu4shi1=baby_diapers .
+%gra:	1|2|AUX 2|0|ROOT 3|7|MOD 4|7|JCT 5|7|AUX 6|7|MOD 7|2|OBJ 8|2|PUNCT
+%act:	乐宝指地上的尿尿不湿纸 .
+*CHI:	女 太太 看 蜗牛 吧 .
+%mor:	adj|nü3=female n|tai4tai4=madame v|kan4=look n|wo1niu2=snail sfp|ba
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%com:	看见蜗牛很兴奋 .
+*CHI:	看 蜗牛 .
+%mor:	v|kan4=look n|wo1niu2=snail .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	跟 妈妈 一起 看 蜗牛 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother adv|yi1qi3=together
+	v|kan4=look n|wo1niu2=snail .
+%gra:	1|4|JCT 2|1|PREPO 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	看见蜗牛很兴奋 .
+*CHI:	妈妈 的 鸡蛋 白 剥 完了 .
+%mor:	n:relat|ma1&DIM=mother poss|de n|ji1dan4=hens_egg adv|bai2=in_vain
+	v|bo1=peel tag|wan2le=oh_no .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|COM 7|5|PUNCT
+%com:	乐宝剥鸡蛋 .
+*CHI:	还有 一点点 没 剥 .
+%mor:	adv|hai2you3=moreover adv|yi1dian3dian3=a_little neg|mei2=not
+	v|bo1=peel .
+%gra:	1|4|JCT 2|4|JCT 3|4|NEG 4|0|ROOT 5|4|PUNCT
+%com:	自己的鸡蛋 .
+*CHI:	小的 蛋壳 .
+%mor:	adj|xiao3-ISH=small n|dan4ke2=eggshell .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	自己的鸡蛋 .
+*CHI:	我 吃 咸菜 了 好 咸 .
+%mor:	pro|wo3=I v|chi1=eat n|xian2cai4=pickles asp|le adv|hao3=very
+	adv|xian2=all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|JCT 6|2|OBJ 7|2|PUNCT
+%com:	看妈妈吃咸菜乐宝故意 .
+*CHI:	衣服 弄 湿 了 怎么办 .
+%mor:	n|yi1fu2=clothes v|nong4=make adj|shi1=humidify asp|le
+	adv:wh|zen3meban4=how .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|JCT 5|4|ROOT 6|5|PUNCT
+%com:	手拿吸管想插牛奶盒子 .
+*CHI:	不能 插 找不到 就 没有 了 .
+%mor:	v:aux|bu4neng2=cannot v|cha1=insert v|zhao3bu2dao4=cant_find
+	adv|jiu4=just neg|mei2you3=not_have asp|le .
+%gra:	1|2|AUX 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|NEG 6|3|OBJ 7|3|PUNCT
+%com:	手拿吸管想插牛奶盒子 .
+*CHI:	外婆 这 是 吸管 .
+%mor:	n|wai4po2=maternal_grandmother pro|zhe4=this v:cop|shi4=is
+	n|xi1guan3=straw .
+%gra:	1|4|MOD 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	对外婆 .
+*CHI:	可以 吸 可以 喝 这个 .
+%mor:	v:aux|ke3yi3=may v|xi1=suck adj|ke3yi3=not_bad v|he1=drink
+	pro|zhe4ge4=this .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	对外婆 .
+*CHI:	妈妈 明天 买 三字经 .
+%mor:	n:relat|ma1&DIM=mother n|ming2tian1=tomorrow v|mai3=buy
+	n|san1zi4jing1=The_Three_Character_Classic .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	妈妈昨天买过了 .
+*CHI:	大大 的 吸管 可以 插 .
+%mor:	adj|da4&DIM=great poss|de n|xi1guan3=straw v:aux|ke3yi3=may
+	v|cha1=insert .
+%gra:	1|3|MOD 2|1|POSS 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%com:	吸管变长 .
+*CHI:	声音 小 不怕 .
+%mor:	n|sheng1yin1=sound adj|xiao3=small v|bu4pa4=be_not_afraid_of .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%com:	枪响 .
+*CHI:	雨晨 妹妹 都 捂 耳朵 了 .
+%mor:	n:name|yu3chen2=the_morning_rain n:relat|mei4&DIM=younger_sister
+	adv|dou1=all v|wu3=cover_with_hands n|er3duo3=ear asp|le .
+%gra:	1|5|MOD 2|4|SUBJ 3|4|JCT 4|5|MOD 5|6|SUBJ 6|0|INCROOT 7|6|PUNCT
+%com:	声音大一点再捂耳朵 .
+*CHI:	看 两手空空 吧 .
+%mor:	v|kan4=look
+	adj|liang3shou3kong1kong1=be_left_with_nothing_whatsoever sfp|ba .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SFP 4|1|PUNCT
+%com:	变魔术 .
+*CHI:	变 变 变 还是 两手空空 吧 .
+%mor:	v|bian4=change v|bian4=change v|bian4=change conj|hai2shi4=or
+	adj|liang3shou3kong1kong1=be_left_with_nothing_whatsoever sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SRL 4|2|JCT 5|4|INCROOT 6|5|SFP 7|5|PUNCT
+%com:	变魔术 .
+*CHI:	是 谁 按 门铃 ?
+%mor:	v:cop|shi4=is pro:wh|shei2=who prep|an4=according_to
+	n|men2ling2=doorbell ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|JCT 4|3|PREPO 5|1|PUNCT
+*MOT:	按 门铃 的 声音 .
+%mor:	prep|an4=according_to n|men2ling2=doorbell poss|de
+	n|sheng1yin1=sound .
+%gra:	1|4|MOD 2|1|PREPO 3|1|POSS 4|0|INCROOT 5|4|PUNCT
+*CHI:	这 是 什么 声音 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|sheng1yin1=sound
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	在阳台听见外面门铃声 .
+*CHI:	哥哥 手 上 拿 一 只 球 .
+%mor:	n:relat|ge1&DIM=older_brother n|shou3=hand post|shang4=above
+	v|na2=hold num|yi1=one adv|zhi3=only n|qiu2=ball .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|QUANT 6|7|JCT 7|4|OBJ 8|4|PUNCT
+%com:	看见一个哥哥拖箱子手拿圆形物 .
+*CHI:	哥哥 吃 什么 .
+%mor:	n:relat|ge1&DIM=older_brother v|chi1=eat pro:wh|shen2me=what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	哥哥 吃 芒果 .
+%mor:	n:relat|ge1&DIM=older_brother v|chi1=eat n|mang2guo3=mango .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	妈妈 送给 你 吧 .
+%mor:	n:relat|ma1&DIM=mother v|song4gei3=give pro|ni3=you sfp|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%com:	把手表给妈妈 .
+*CHI:	可是 这个 盖子 .
+%mor:	conj|ke3shi4=but pro|zhe4ge4=this n|gai4-NOM=lid .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	妈妈找电饭锅盖子盖菜锅 .
+*CHI:	我 带 你 去 乐之 .
+%mor:	pro|wo3=I v|dai4=bring pro|ni3=you v:dirc|qu4=go
+	n:name|le4zhi1=music .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|SRL 5|2|OBJ 6|2|PUNCT
+%com:	趴桌子 .
+*CHI:	要看 看 螃蟹 .
+%mor:	v|yao4kan4=to_see v|kan4=look n|pang2xie4=crab .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	被 我们 吃掉 了 .
+%mor:	prep|bei4=by pro|wo3-PL=I v|chi1diao4=eat_off asp|le .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	被 乐宝 吃 到 肚子 里面 了 .
+%mor:	prep|bei4=by n:name|le4bao3=lebao v|chi1=eat v:resc|dao4=arrive
+	n|du4-NOM=belly post|li3mian4=inside asp|le .
+%gra:	1|3|JCT 2|3|JCT 3|7|CJCT 4|3|VR 5|6|MOD 6|3|OBJ 7|0|INCROOT 8|7|PUNCT
+*CHI:	要看 看 张开 嘴巴 啊 .
+%mor:	v|yao4kan4=to_see v|kan4=look v|zhang1kai1=open n|zui3ba0=mouth
+	sfp|a1 .
+%gra:	1|0|ROOT 2|1|SRL 3|4|MOD 4|2|OBJ 5|1|SFP 6|1|PUNCT
+%com:	看妈妈嘴在动, 以为吃东西 .
+*CHI:	尿 是 臭 的 .
+%mor:	n|niao4=urine v:cop|shi4=is adj|chou4=stinky nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|POSS 5|2|PUNCT
+%act:	尿尿指尿 .
+*CHI:	这 是 脏 手机 .
+%mor:	pro|zhe4=this v:cop|shi4=is adj|zang1=dirty n|shou3ji1=cell_phone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	乐宝指旧手机 .
+*CHI:	这个 是 乐宝 打开 的 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is n:name|le4bao3=lebao
+	v|da3kai1=unscrew nom|de .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|POSS 6|4|PUNCT
+%act:	乐宝指盒子 .
+*CHI:	这个 什么 都 没有 .
+%mor:	pro|zhe4ge4=this pro:wh|shen2me=what adv|dou1=all
+	neg|mei2you3=not_have .
+%gra:	1|4|SUBJ 2|1|OBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%act:	乐宝指电饭锅 .
+*CHI:	妈妈 抱 你 上 不要 自己 上 .
+%mor:	n:relat|ma1&DIM=mother v|bao4=hug pro|ni3=you post|shang4=above
+	adv|bu2yao4=dont pro|zi4ji3=self post|shang4=above .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|7|JCT 6|7|SUBJ 7|2|OBJ 8|2|PUNCT
+%com:	要坐妈妈板凳 .
+*CHI:	妈妈 读书 给 宝宝 听 .
+%mor:	n:relat|ma1&DIM=mother n|du2shu1=study prep|gei3=for
+	n:relat|bao3&DIM=baby v|ting1=listen .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%com:	拿书给妈妈 .
+*CHI:	打 不动 打动 了 .
+%mor:	v|da3=hit v|bu4dong4=dont_move v|da3dong4=move_emotionally asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	乐宝打开套娃 .
+*CHI:	这 是 爸爸 的 手机 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:relat|ba4&DIM=father poss|de
+	n|shou3ji1=cell_phone .
+%gra:	1|2|SUBJ 2|5|MOD 3|2|PRED 4|2|POSS 5|0|INCROOT 6|5|PUNCT
+%act:	乐宝指爸爸的插着充电器的手机 .
+*CHI:	手机 没电 了 在 充电 .
+%mor:	n|shou3ji1=cell_phone v|mei2dian4=no_electricity asp|le
+	adv|zai4=currently v|chong1dian4=charge .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|OBJ 6|2|PUNCT
+%act:	乐宝指爸爸的插着充电器的手机 .
+@End

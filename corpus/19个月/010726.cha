@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.26|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	20-MAR-2014
+*CHI:	< 吃 馒头>[/] 吃 馒头 了 .
+%mor:	v|chi1=eat n|man2tou=steamed_bun asp|le .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	乐宝跑进房间指着自己的嘴 .
+*MOT:	什么 声音 ?
+%mor:	pro:wh|shen2me=what n|sheng1yin1=sound ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:qn
+%com:	乐宝外公手机响了 .
+*CHI:	手机 声音 .
+%mor:	n|shou3ji1=cell_phone n|sheng1yin1=sound .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	谁 的 手机 ?
+%mor:	pro:wh|shei2=who poss|de n|shou3ji1=cell_phone ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	外公 手机 响 了 .
+%mor:	n|wai4gong1=maternal_grandfather n|shou3ji1=cell_phone
+	adj|xiang3=sonorous asp|le .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	盆 拉 粑粑 的 .
+%mor:	cl|pen2=container v|la1=pull n|ba3ba=excrement nom|de .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|POSS 5|1|PUNCT
+*CHI:	尿尿 盆 .
+%mor:	v|niao4&DIM=pee cl|pen2=container .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	拉 粑粑 盆 .
+%mor:	v|la1=pull n|ba3ba=excrement cl|pen2=container .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%com:	拉粑粑时说的 .
+*CHI:	放 桌子 .
+%mor:	v|fang4=put n|zhuo1zi=table .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	傍晚吃草莓把碗放茶几上 .
+*CHI:	到 那儿 去 玩 .
+%mor:	v:resc|dao4=arrive pro|na4r=there v:dirc|qu4=go v|wan2=play .
+%gra:	1|4|COM 2|4|SUBJ 3|2|VD 4|0|ROOT 5|4|PUNCT
+%act:	乐宝拿桔子作打电话状 .
+*CHI:	找到 一 个 木 了 .
+%mor:	v|zhao3dao4=find num|yi1=one cl|ge4 n|mu4=wood asp|le .
+%gra:	1|5|CJCT 2|3|QUANT 3|4|MOD 4|1|OBJ 5|0|INCROOT 6|5|PUNCT
+%com:	乐宝从沙发下面找到一块积木 .
+@End

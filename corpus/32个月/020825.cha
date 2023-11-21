@@ -1,0 +1,195 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father
+@ID:	zho|FLZ|CHI|02;08.25|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Xiao Fang
+@Date:	16-APR-2015
+*CHI:	吃 山芋 我 要 吃 山芋 .
+%mor:	v|chi1=eat n|shan1yu4=sweet_potato pro|wo3=I v:aux|yao4=should
+	v|chi1=eat n|shan1yu4=sweet_potato .
+%gra:	1|0|ROOT 2|6|MOD 3|5|SUBJ 4|5|AUX 5|6|MOD 6|1|OBJ 7|1|PUNCT
+%com:	看见外婆盛了山芋稀饭 .
+*CHI:	它 和 小 大象 他们 一起 出去 玩 了 青蛙 呢 ?
+%mor:	pro|ta1=it conj|he2=and adj|xiao3=small n|da4xiang4=elephant
+	pro|ta1-PL=he adv|yi1qi3=together v|chu1qu1=leave v|wan2=play asp|le
+	n|qing1wa1=frog sfp|ne ?
+%gra:	1|8|SUBJ 2|8|JCT 3|4|MOD 4|7|SUBJ 5|7|SUBJ 6|7|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|MOD 10|8|OBJ 11|8|SFP 12|8|PUNCT
+%act:	吃早饭拿着小鸭子 .
+*CHI:	要 下来 我 想 下来 了 .
+%mor:	v:aux|yao4=should v|xia4lai2=come_down pro|wo3=I v:aux|xiang3=want
+	v|xia4lai2=come_down asp|le .
+%gra:	1|2|AUX 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|OBJ 7|2|PUNCT
+%com:	吃完要从餐桌上下来 .
+*CHI:	妈妈 我 要 去 外公 家 外婆 带 我去 但是 外公 家 在 哪里 ?
+%mor:	n:relat|ma1&DIM=mother pro|wo3=I v:aux|yao4=should v:dirc|qu4=go
+	n|wai4gong1=maternal_grandfather n|jia1=family
+	n|wai4po2=maternal_grandmother v|dai4=bring v|wo3qu4=what_the_hell
+	conj|dan4shi4=but n|wai4gong1=maternal_grandfather n|jia1=family
+	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|9|SUBJ 2|3|DET 3|9|JCT 4|3|VD 5|7|MOD 6|7|MOD 7|3|VD 8|3|VD 9|0|ROOT
+	10|12|MOD 11|12|MOD 12|9|OBJ 13|9|JCT 14|13|PREPO 15|9|PUNCT
+*CHI:	一 期 九 栋 三 零 七 ?
+%mor:	num|yi1=one cl|qi2=event num|jiu3=nine cl|dong4 num|san1=three
+	num|ling2=zero num|qi1=seven ?
+%gra:	1|2|QUANT 2|7|CLASS 3|4|QUANT 4|7|CLASS 5|7|QUANT 6|7|QUANT 7|0|INCROOT
+	8|7|PUNCT
+*CHI:	给 你 戴帽子 今天 过 生日 了 .
+%mor:	prep|gei3=for pro|ni3=you v|dai4mao4zi=wear_ones_hat
+	n|jin1tian1=today asp|guo4 n|sheng1ri4=birthday asp|le .
+%gra:	1|0|INCROOT 2|1|PREPO 3|4|MOD 4|1|OBJ 5|6|MOD 6|1|PREPO 7|1|PREPO
+	8|1|PUNCT
+%com:	拿浴帽给妈妈 .
+*CHI:	快点 快点 啊 .
+%mor:	adv|kuai4dian3=hurrily adv|kuai4dian3=hurrily sfp|a1 .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*MOT:	这 是 生日 礼物 能 吃 吗 ?
+%mor:	pro|zhe4=this v:cop|shi4=is n|sheng1ri4=birthday n|li3wu4=gift
+	v:aux|neng2=can v|chi1=eat sfp|ma ?
+%gra:	1|6|SUBJ 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|SFP 8|6|PUNCT
+%spa:	$x:djf $i:yq
+*CHI:	我 打开 看看 这 是 一 个 生日 蛋糕 .
+%mor:	pro|wo3=I v|da3kai1=unscrew v|kan4&DIM=look pro|zhe4=this
+	v:cop|shi4=is num|yi1=one cl|ge4 n|sheng1ri4=birthday
+	n|dan4gao1=cake .
+%gra:	1|2|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|9|MOD 6|7|QUANT 7|9|MOD 8|9|MOD
+	9|3|OBJ 10|3|PUNCT
+%spa:	$x:djf $i:st
+*MOT:	等一下 你 跟 外婆 出去 玩 .
+%mor:	adv|deng3yi2xia4=wait_a_minute pro|ni3=you prep|gen1=with
+	n|wai4po2=maternal_grandmother v|chu1qu1=leave v|wan2=play .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|JCT 4|3|PREPO 5|3|PREPO 6|0|ROOT 7|6|PUNCT
+%spa:	$x:nia $i:rp
+*CHI:	跟 妈妈 出去 玩 二 十分 钟 妈妈 就 干 完 活 了 .
+%mor:	prep|gen1=with n:relat|ma1&DIM=mother v|chu1qu1=leave v|wan2=play
+	num|er4=two adv|shi2fen1=fully n|zhong1=clock n:relat|ma1&DIM=mother
+	adv|jiu4=just v|gan4=do v:resc|wan2=finish adj|huo2=alive asp|le .
+%gra:	1|4|JCT 2|1|PREPO 3|4|JCT 4|0|ROOT 5|7|QUANT 6|7|JCT 7|10|SUBJ
+	8|10|SUBJ 9|10|JCT 10|12|CJCT 11|10|VR 12|4|OBJ 13|4|OBJ 14|4|PUNCT
+%spa:	$x:nia $i:cs
+*CHI:	看 藏 起来 有 什么 了 ?
+%mor:	v|kan4=look v|cang2=hide adv|qi3lai2=up v|you3=have
+	pro:wh|shen2me=what asp|le ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*CHI:	看 藏 起来 有 棒棒糖 了 .
+%mor:	v|kan4=look v|cang2=hide adv|qi3lai2=up v|you3=have
+	n|bang4bang4tang2=lolipop asp|le .
+%gra:	1|4|SUBJ 2|1|SRL 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	爸爸 爸爸 你 在 哪里 ?
+%mor:	n:relat|ba4&DIM=father n:relat|ba4&DIM=father pro|ni3=you
+	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|2|MOD 2|0|INCROOT 3|4|TOP 4|6|JCT 5|4|PREPO 6|2|PUNCT
+%spa:	$x:dnp $i:qn
+*FAT:	在 办公室 啊 .
+%mor:	prep|zai4=at n|ban4gong1shi4=office sfp|a1 .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|SFP 4|1|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	你 什么时候 回家 ?
+%mor:	pro|ni3=you adv:wh|shen2meshi2hou4=when v|hui4jia1=go_home ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:qn
+*FAT:	晚上 就 回家 你 吃饭 了 吗 ?
+%mor:	n|wan3shang4=evening adv|jiu4=just v|hui4jia1=go_home pro|ni3=you
+	v|chi1fan4=having_dinner asp|le sfp|ma ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|OBJ 7|3|SFP 8|3|PUNCT
+%spa:	$x:dnp $i:tq
+*CHI:	吃 过 了 给 外婆 接 电话 .
+%mor:	v|chi1=eat v:dirc|guo4=pass asp|le prep|gei3=for
+	n|wai4po2=maternal_grandmother v|jie1=connect n|dian4hua4=phone .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|7|MOD 5|4|PREPO 6|7|MOD 7|1|OBJ 8|1|PUNCT
+%spa:	$x:dnp $i:ta
+*MOT:	你 的 棍子 五颜六色 的 有 红色 黄色 绿色 .
+%mor:	pro|ni3=you poss|de n|gun4zi=rod adj|wu3yan2liu4se4=colorful nom|de
+	v|you3=have adj|hong2se4=red adj|huang2se4=yellow adj|lv4se4=green .
+%gra:	1|3|MOD 2|1|POSS 3|6|SUBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	像 天空 一样 搞 这个 像 放鞭炮 一样 的 .
+%mor:	v|xiang4=be_like n|tian1kong1=firmament adj|yi1yang4=same
+	v|gao3=work pro|zhe4ge4=this v|xiang4=be_like
+	v|fang4bian1pao4=set_off_firecrackers adj|yi1yang4=same nom|de .
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|JCT 4|1|SRL 5|6|SUBJ 6|7|JCT 7|4|OBJ 8|7|JCT
+	9|8|POSS 10|1|PUNCT
+%spa:	$x:djf $i:ap
+*CHI:	妈妈 电视 上 有 小 猴子 .
+%mor:	n:relat|ma1&DIM=mother n|dian4shi4=television post|shang4=above
+	v|you3=have adj|xiao3=small n|hou2-NOM=monkey .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%spa:	$x:dha $i:st
+*MOT:	噢 .
+%mor:	co|噢 .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:ac
+*CHI:	为什么 电视 上 还有 小 猴子 ?
+%mor:	adv:wh|wei4shen2me=how_come n|dian4shi4=television
+	post|shang4=above adv|hai2you3=moreover adj|xiao3=small
+	n|hou2-NOM=monkey ?
+%gra:	1|6|MOD 2|6|MOD 3|6|MOD 4|6|JCT 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*CHI:	电视 上 的 小 猴子 好 可爱 我 喜欢 看 这个 电视 .
+%mor:	n|dian4shi4=television post|shang4=above poss|de adj|xiao3=small
+	n|hou2-NOM=monkey adv|hao3=very adj|ke3ai4=lovable pro|wo3=I
+	v|xi3huan1=like v|kan4=look pro|zhe4ge4=this n|dian4shi4=television
+	.
+%gra:	1|5|MOD 2|5|MOD 3|2|POSS 4|5|MOD 5|10|SUBJ 6|10|JCT 7|10|JCT 8|9|SUBJ
+	9|10|JCT 10|0|ROOT 11|12|MOD 12|10|OBJ 13|10|PUNCT
+*CHI:	电脑 上 dora 说 小心 蜘蛛 小 蜘蛛 喜欢 吃 蚊子 苍蝇 .
+%mor:	n|dian4nao3=computer post|shang4=above co|dora v|shuo1=say
+	v|xiao3xin1=beware n|zhi1zhu1=spider adj|xiao3=small
+	n|zhi1zhu1=spider v|xi3huan1=like v|chi1=eat n|wen2-NOM=mosquito
+	n|cang1ying2=fly .
+%gra:	1|9|SUBJ 2|9|JCT 3|4|COM 4|9|SUBJ 5|6|MOD 6|4|OBJ 7|8|MOD 8|4|OBJ
+	9|0|ROOT 10|12|MOD 11|12|MOD 12|9|OBJ 13|9|PUNCT
+*CHI:	小 蜘蛛 喜欢 吃 两 个 .
+%mor:	adj|xiao3=small n|zhi1zhu1=spider v|xi3huan1=like v|chi1=eat
+	num|liang3=two cl|ge4 .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PQ 6|3|OBJ 7|3|PUNCT
+*CHI:	我 喜欢 吃 三 个 白菜 还 喜欢 吃 枣子 桂圆 我 也 喜欢 很 吃 的 .
+%mor:	pro|wo3=I v|xi3huan1=like v|chi1=eat num|san1=three cl|ge4
+	n|bai2cai4=cabbage adv|hai2=still v|xi3huan1=like v|chi1=eat
+	n|zao3zi=date n|gui4yuan2=longan pro|wo3=I adv|ye3=also
+	v|xi3huan1=like adv|hen3=much v|chi1=eat nom|de .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|8|QUANT 5|8|SUBJ 6|8|SUBJ 7|8|JCT
+	8|12|CLASS 9|11|MOD 10|11|MOD 11|8|OBJ 12|14|SUBJ 13|14|JCT 14|16|SUBJ 15|16|JCT
+	16|3|OBJ 17|16|POSS 18|3|PUNCT
+*CHI:	你 外面 冷 吧 ?
+%mor:	pro|ni3=you n|wai4mian4=outside adj|leng3=cool sfp|ba ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	里面 只 有 爸爸 没有 妈妈 .
+%mor:	post|li3mian4=inside adv|zhi3=only v|you3=have
+	n:relat|ba4&DIM=father neg|mei2you3=not_have n:relat|ma1&DIM=mother
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|NEG 5|6|NEG 6|3|OBJ 7|3|PUNCT
+*MOT:	什么 ?
+%mor:	pro:wh|shen2me=what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	乐宝 抓周 里面 .
+%mor:	n:name|le4bao3=lebao v|zhua1zhou1=no post|li3mian4=inside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:djf $i:sa
+*MOT:	那是 因为 妈妈 一直 都 在 帮 你们 拍照 啊 .
+%mor:	adv|na4shi4=it_is conj|yin1wei4=because n:relat|ma1&DIM=mother
+	adv|yi1zhi2=continuously adv|dou1=all prep|zai4=at prep|bang1=help
+	pro|ni3-PL=you n|pai1zhao4=take_photo sfp|a1 .
+%gra:	1|2|JCT 2|9|MOD 3|6|SUBJ 4|5|JCT 5|6|JCT 6|2|JCT 7|6|PREPO 8|9|MOD
+	9|0|INCROOT 10|9|SFP 11|9|PUNCT
+%spa:	$x:djf $i:gr
+*CHI:	在外 公家 拍 了 乐宝 和 妈妈 和 外公 和 外婆 和 男 太太 和 女 太太 和 蛋糕 还有 四 姑 奶 和 四 姑爹 .
+%mor:	v|zai4wai4=outside n|gong1jia1=public_side v|pai1=clap asp|le
+	n:name|le4bao3=lebao conj|he2=and n:relat|ma1&DIM=mother
+	conj|he2=and n|wai4gong1=maternal_grandfather conj|he2=and
+	n|wai4po2=maternal_grandmother conj|he2=and adj|nan2=male
+	n|tai4tai4=madame conj|he2=and adj|nü3=female n|tai4tai4=madame
+	conj|he2=and n|dan4gao1=cake adv|hai2you3=moreover num|si4=four
+	n:relat|gu1=fathers_sister n|nai3=milk conj|he2=and num|si4=four
+	n|gu1die1=gudie .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|9|MOD 5|9|MOD 6|9|MOD 7|9|MOD 8|9|MOD
+	9|3|OBJ 10|11|MOD 11|3|OBJ 12|17|MOD 13|14|MOD 14|17|MOD 15|17|MOD 16|17|MOD
+	17|3|OBJ 18|19|MOD 19|3|OBJ 20|23|JCT 21|23|MOD 22|23|MOD 23|3|OBJ
+	24|26|MOD 25|26|MOD 26|3|OBJ 27|3|PUNCT
+%spa:	$x:djf $i:st
+@End

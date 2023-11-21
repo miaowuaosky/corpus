@@ -1,0 +1,145 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|2;04.18|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	10-DEC-2014
+*CHI:	这个 本来 用 天上 飞 的 .
+%mor:	pro|zhe4ge4=this adv|ben3lai2=originally v|yong4=use
+	n|tian1shang4=heavenly v:resc|fei1=fly_away nom|de .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|VR 6|3|POSS 7|3|PUNCT
+%spa:	$x:dha $i:st
+*MOT:	本来 可以 飘 起来 .
+%mor:	adv|ben3lai2=originally v:aux|ke3yi3=may v|piao1=blow_about
+	v|qi3lai=stand_up .
+%gra:	1|3|JCT 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	现在 没有 飘 起来 .
+%mor:	adv|xian4zai4=now neg|mei2you3=not_have v|piao1=blow_about
+	adv|qi3lai2=up .
+%gra:	1|3|JCT 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:djf $i:sc
+*MOT:	现在 没 气 了 .
+%mor:	adv|xian4zai4=now neg|mei2=not v|qi4=anger asp|le .
+%gra:	1|3|JCT 2|3|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:djf $i:st
+*CHI:	有 气 就 能 飘 起来 .
+%mor:	v|you3=have n|qi4=air adv|jiu4=just v:aux|neng2=can
+	v|piao1=blow_about adv|qi3lai2=up .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$x:djf $i:st
+%com:	孩子玩瘪了气球 .
+*CHI:	用 这个 大气 球 干杯 .
+%mor:	v|yong4=use pro|zhe4ge4=this n|da4qi4=atmosphere n|qiu2=ball
+	v|gan1bei1=drink_a_toast .
+%gra:	1|5|COM 2|5|SUBJ 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	拿饮料瓶又拿气球给妈妈 .
+*CHI:	这个 倒下 可 照 ?
+%mor:	pro|zhe4ge4=this v|dao3xia4=fall adv|ke3=on_the_contrary
+	v|zhao4=shine ?
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	这个 倒 一点 水 我 放 一点 水 炒菜 .
+%mor:	pro|zhe4ge4=this v|dao3=fall adv|yi1dian3=a_bit n|shui3=water
+	pro|wo3=I v|fang4=put adv|yi1dian3=a_bit n|shui3=water
+	v|chao3cai4=cook .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|SUBJ 6|9|SUBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|PUNCT
+%com:	孩子打算把杯子的水倒到盘子 .
+*CHI:	我 在 纸 上 画 上 妈妈 .
+%mor:	pro|wo3=I prep|zai4=at n|zhi3=paper post|shang4=above v|hua4=draw
+	quant|shang4=preceding n:relat|ma1&DIM=mother .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|PREPO 4|2|PREPO 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+%com:	指纸 .
+*CHI:	哥哥 戴 口罩 怎么搞的 ?
+%mor:	n:relat|ge1&DIM=older_brother v|dai4=wear n|kou3zhao4=mask
+	adv|zen3megao3de=how_did_you_mess_it_up ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|5|JCT 5|3|PUNCT
+%com:	孩子之前说过在医院看到一个哥哥, 躺着提问 .
+*CHI:	它 找不到 吃 的 石头 它 能 吃 .
+%mor:	pro|ta1=it v|zhao3bu2dao4=cant_find v|chi1=eat nom|de
+	n|shi2tou=stone pro|ta1=it v:aux|neng2=can v|chi1=eat .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|8|COM 4|5|MOD 5|3|OBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+%act:	指鱼缸的鱼 .
+*CHI:	这 是 我们 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is pro|wo3-PL=I nom|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|POSS 5|2|PUNCT
+*CHI:	这个 是 乐宝 的 .
+%mor:	pro|zhe4ge4=this v:cop|shi4=is n:name|le4bao3=lebao poss|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|POSS 5|2|PUNCT
+%com:	自助餐阿姨收拾餐桌 .
+*CHI:	他们 要 去 哪儿 ?
+%mor:	pro|ta1-PL=he v:aux|yao4=should v:dirc|qu4=go pro:wh|na3-DIA=which
+	?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|VD 4|2|VD 5|2|PUNCT
+%com:	自助餐阿姨起身 .
+*CHI:	天黑 了 家里 不 天黑 .
+%mor:	n|tian1hei1=its_getting_dark asp|le n|jia1li3=home neg|bu4=not
+	n|tian1hei1=its_getting_dark .
+%gra:	1|3|MOD 2|3|MOD 3|5|MOD 4|5|NEG 5|0|INCROOT 6|5|PUNCT
+%com:	孩子坐车 .
+*MOT:	有的 车 转弯 我们 直行 .
+%mor:	v|you3-ISH=have n|che1=vehicle v|zhuan3wan1=turn pro|wo3-PL=I
+	v|zhi2xing2=straight_line .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%spa:	$x:dnp $i:dc
+*CHI:	谁 转 得 快 ?
+%mor:	pro:wh|shei2=who v|zhuan3=turn cpt|de adv|kuai4=quickly ?
+%gra:	1|0|INCROOT 2|1|SRL 3|1|POSS 4|1|SFP 5|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	好 快 这个 车子 好 快 .
+%mor:	adv|hao3=very adv|kuai4=quickly pro|zhe4ge4=this n|che1zi=vehicle
+	adv|hao3=very adv|kuai4=quickly .
+%gra:	1|4|JCT 2|4|JCT 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|INCROOT 7|6|PUNCT
+%spa:	$x:dha $i:dc
+%com:	坐车 .
+*CHI:	妈妈 鼻子 不通 了 要 吃 这个 药 .
+%mor:	n:relat|ma1&DIM=mother n|bi2-NOM=nose v|bu4tong1=no asp|le
+	v:aux|yao4=should v|chi1=eat pro|zhe4ge4=this n|yao4=medicine .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|6|SUBJ 4|6|JCT 5|6|AUX 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+*CHI:	是 这样 打开 的 吗 ?
+%mor:	v:cop|shi4=is adv|zhe4yang4=so v|da3kai1=unscrew nom|de sfp|ma ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|SFP 6|3|PUNCT
+*CHI:	也 不是 这样 嗯 ?
+%mor:	adv|ye3=also n|bu2shi4=fault adv|zhe4yang4=so co|en1=okay ?
+%gra:	1|2|JCT 2|0|INCROOT 3|4|JCT 4|2|COM 5|2|PUNCT
+%act:	拿妈妈耳鸣的药 .
+*CHI:	塞 不好 .
+%mor:	v|sai1=fill_in adv|bu4hao3=not_good .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	还有 一 个 药 打开 了 吗 ?
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 n|yao4=medicine
+	v|da3kai1=unscrew asp|le sfp|ma ?
+%gra:	1|5|JCT 2|5|QUANT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+*CHI:	还有 一 个 药 在 哪里 ?
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 n|yao4=medicine
+	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|4|JCT 2|4|QUANT 3|4|MOD 4|5|TOP 5|0|INCROOT 6|5|PREPO 7|5|PUNCT
+%act:	把药塞进去 .
+*CHI:	这个 打开 的 吗 ?
+%mor:	pro|zhe4ge4=this v|da3kai1=unscrew nom|de sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POSS 4|2|SFP 5|2|PUNCT
+%act:	又拿一盒药 .
+*CHI:	这个 圆形 可 用 这个 画 画 ?
+%mor:	pro|zhe4ge4=this n|yuan2xing2=round adv|ke3=on_the_contrary
+	v|yong4=use pro|zhe4ge4=this v|hua4=draw v|hua4=draw ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|OBJ 7|4|OBJ 8|4|PUNCT
+%com:	想拿笔在墙上画圆形, 思考后说出来的, 有误 .
+*CHI:	来 这 是 拿 笔画 的 小 蛋糕 .
+%mor:	v:dirc|lai2=come pro|zhe4=this v:cop|shi4=is v|na2=hold
+	n|bi3hua4=Chinese_character_strokes poss|de adj|xiao3=small
+	n|dan4gao1=cake .
+%gra:	1|8|MOD 2|4|SUBJ 3|4|JCT 4|5|MOD 5|1|OBJ 6|1|POSS 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+%com:	拿画笔当蛋糕 .
+%act:	把画给外婆 .
+*CHI:	来 送给 你 的 小 蛋糕 .
+%mor:	v:dirc|lai2=come v|song4gei3=give pro|ni3=you poss|de
+	adj|xiao3=small n|dan4gao1=cake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|POSS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%act:	拿一张画给妈妈 .
+@End

@@ -1,0 +1,83 @@
+@UTF8
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;02.25|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	17-OCT-2014
+*MOT:	不要 扔 .
+%mor:	adv|bu2yao4=dont v|reng1=throw .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	下次 可以 用 .
+%mor:	adv|xia4ci4=next_time v:aux|ke3yi3=may v|yong4=use .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	拿干净的纸尿裤 .
+*CHI:	洗 过 脸 以后 干什么 .
+%mor:	v|xi3=wash asp|guo4 n|lian3=face post|yi3hou4=afterwards
+	v|gan4shen2me=what_do_you_want .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*MOT:	看书 .
+%mor:	v|kan4shu1=read_a_book .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	书 看 过 以后 我们 要 干什么 .
+%mor:	n|shu1=book v|kan4=look asp|guo4 post|yi3hou4=afterwards
+	pro|wo3-PL=I v:aux|yao4=should v|gan4shen2me=what_do_you_want .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|7|JCT 4|7|COM 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*MOT:	玩 游戏 .
+%mor:	v|wan2=play n|you2xi4=game .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	玩 什么 游戏 .
+%mor:	v|wan2=play pro:wh|shen2me=what n|you2xi4=game .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	这 是 棒棒糖 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|bang4bang4tang2=lolipop .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	乐宝 喜欢 吃 棒棒糖 .
+%mor:	n:name|le4bao3=lebao v|xi3huan1=like v|chi1=eat
+	n|bang4bang4tang2=lolipop .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	爸爸 拿 一 根 .
+%mor:	n:relat|ba4&DIM=father v|na2=hold num|yi1=one cl|gen1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	妈妈 拿 一 根 .
+%mor:	n:relat|ma1&DIM=mother v|na2=hold num|yi1=one cl|gen1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	乐宝 在 拿 葡萄 吃 .
+%mor:	n:name|le4bao3=lebao prep|zai4=at v|na2=hold n|pu2tao2=grape
+	v|chi1=eat .
+%gra:	1|5|SUBJ 2|5|JCT 3|2|PREPO 4|2|PREPO 5|0|ROOT 6|5|PUNCT
+*CHI:	看看 不见 了 .
+%mor:	v|kan4&DIM=look v|bu2jian4=not_see asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	拿相框挡眼睛 .
+*CHI:	小娃娃 你 喝 口水 以后 再 .
+%mor:	n|xiao3wa2wa2=dolls pro|ni3=you v|he1=drink n|kou3shui3=saliva
+	post|yi3hou4=afterwards adv|zai4=again .
+%gra:	1|5|SUBJ 2|3|SUBJ 3|5|CJCT 4|3|OBJ 5|0|NONE 6|5|INCROOT 7|6|PUNCT
+*CHI:	小娃娃 要 喝 口水 再 出来 .
+%mor:	n|xiao3wa2wa2=dolls v:aux|yao4=should v|he1=drink
+	n|kou3shui3=saliva adv|zai4=again v|chu1lai2=come_forward .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*CHI:	还有 一 个 放 在 这里 .
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 v|fang4=put prep|zai4=at
+	post|zhe4li3=here .
+%gra:	1|4|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|PREPO 7|4|PUNCT
+*CHI:	这个 下来 .
+%mor:	pro|zhe4ge4=this v|xia4lai2=come_down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	顺柜子手往下抹 .
+*CHI:	从 这个 从 这个 来 .
+%mor:	prep|cong2=from pro|zhe4ge4=this prep|cong2=from pro|zhe4ge4=this
+	v:dirc|lai2=come .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PREPO 4|1|PREPO 5|4|VD 6|1|PUNCT
+*CHI:	这个 从 这个 .
+%mor:	pro|zhe4ge4=this prep|cong2=from pro|zhe4ge4=this .
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|PUNCT
+*CHI:	喂 口水 然后 再 出来 .
+%mor:	v|wei4=feed n|kou3shui3=saliva adv|ran2hou4=thereupon
+	adv|zai4=again v|chu1lai2=come_forward .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+@End

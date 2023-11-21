@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.24|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	16-MAY-2014
+*CHI:	要 起床 .
+%mor:	v:aux|yao4=should v|qi3chuang2=wake_up .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*CHI:	太太 给 你 画 画 了 .
+%mor:	n|tai4tai4=madame prep|gei3=for pro|ni3=you v|hua4=draw v|hua4=draw
+	asp|le .
+%gra:	1|5|SUBJ 2|5|JCT 3|4|SUBJ 4|2|PREPO 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	谁 回来 了 .
+%mor:	pro:wh|shei2=who v|hui2lai2=return asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:qn
+%com:	妈妈听见门开声音 .
+*CHI:	没有 人 .
+%mor:	neg|mei2you3=not_have n|ren2=person .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:sa
+%com:	其实是没有其他人回来, 还是两位太太在家 .
+@End

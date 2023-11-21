@@ -1,0 +1,285 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, FAT Father, GRA Grandmother
+@ID:	zho|FLZ|CHI|02;01.01|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|Fan|FAT||male|||Father|||
+@ID:	zho|xx|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	23-AUG-2014
+*CHI:	喂 我 在 打球 上学 哦 .
+%mor:	v|wei4=feed pro|wo3=I adv|zai4=currently v|da3qiu2=play_a_ball
+	v|shang4xue2=attend_school sfp|o1 .
+%gra:	1|5|CJCT 2|4|SUBJ 3|4|JCT 4|1|PREPO 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%spa:	$x:dfw $i:dp
+%com:	模拟打电话 .
+*FAT:	你 在 干什么 ?
+%mor:	pro|ni3=you adv|zai4=currently v|gan4shen2me=what_do_you_want ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dfw $i:qn
+*CHI:	我 在 打电话 .
+%mor:	pro|wo3=I adv|zai4=currently v|da3dian4hua4=phone .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dfw $i:sa
+*CHI:	饭 好 了 .
+%mor:	n|fan4=food adv|hao3=very asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$x:nia $i:st
+%com:	乐宝看见电饭锅 .
+*FAT:	饭 好 了 马上 给 你 吃饭 啊 .
+%mor:	n|fan4=food adv|hao3=very asp|le adv|ma3shang4=immediately
+	prep|gei3=for pro|ni3=you v|chi1fan4=having_dinner sfp|a1 .
+%gra:	1|7|SUBJ 2|3|JCT 3|7|JCT 4|7|JCT 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	等一下 再 吃 葡萄 .
+%mor:	adv|deng3yi2xia4=wait_a_minute adv|zai4=again v|chi1=eat
+	n|pu2tao2=grape .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	爸爸 抱抱 爸爸 抱抱 看看 葡萄 在 哪里 .
+%mor:	n:relat|ba4&DIM=father v|bao4&DIM=hug n:relat|ba4&DIM=father
+	v|bao4&DIM=hug v|kan4&DIM=look n|pu2tao2=grape prep|zai4=at
+	pro:wh|na3li3=where .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|7|PREPO
+	9|4|PUNCT
+*CHI:	没有 葡萄 呀 .
+%mor:	neg|mei2you3=not_have n|pu2tao2=grape sfp|ya .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	我 的 鼻子 很 痒痒 的 .
+%mor:	pro|wo3=I poss|de n|bi2-NOM=nose adv|hen3=much
+	adj|yang3&DIM=itching nom|de .
+%gra:	1|3|SUBJ 2|1|POSS 3|5|SUBJ 4|5|JCT 5|0|INCROOT 6|5|POSS 7|5|PUNCT
+*MOT:	男 太太 睡觉 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame v|shui4jiao4=sleep asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	男 太太 吃 过 饭 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame v|chi1=eat asp|guo4 n|fan4=food
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	房间 是 外婆 睡觉 .
+%mor:	n|fang2jian1=room v:cop|shi4=is n|wai4po2=maternal_grandmother
+	v|shui4jiao4=sleep .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	妈妈们要到另一个房间休息, 原来的房间是外婆养病休息的 .
+*CHI:	房间 是 外婆 地方 .
+%mor:	n|fang2jian1=room v:cop|shi4=is n|wai4po2=maternal_grandmother
+	n|di4fang1=place .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	用两个手才拽 .
+*CHI:	这 是 药 这 是 外婆 生病 搞 的 .
+%mor:	pro|zhe4=this v:cop|shi4=is n|yao4=medicine pro|zhe4=this
+	v:cop|shi4=is n|wai4po2=maternal_grandmother v|sheng1bing4=come_down
+	v|gao3=work nom|de .
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|8|SUBJ 5|8|JCT 6|7|SUBJ 7|8|JCT 8|0|ROOT
+	9|8|POSS 10|8|PUNCT
+%com:	定义药 .
+*CHI:	这 是 小红帽 呀 晃 呀 晃 .
+%mor:	pro|zhe4=this v:cop|shi4=is n:name|xiao3hong2mao4=little_red_hat
+	sfp|ya v|huang3=shake sfp|ya v|huang3=shake .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|SFP 5|7|SUBJ 6|5|SFP 7|0|ROOT 8|7|PUNCT
+*CHI:	啪 打 到 一 个 蚊子 咯 .
+%mor:	on|pa1=bang v|da3=hit v:resc|dao4=arrive num|yi1=one cl|ge4
+	n|wen2-NOM=mosquito sfp|lo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|5|QUANT 5|6|CLASS 6|2|OBJ 7|2|SFP 8|2|PUNCT
+%com:	乐宝往墙拍 .
+*CHI:	外婆 生病 了 要 吃 一口 .
+%mor:	n|wai4po2=maternal_grandmother v|sheng1bing4=come_down asp|le
+	v:aux|yao4=should v|chi1=eat adv|yi1kou3=flatly .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	让乐宝给外婆吃一口香蕉 .
+*MOT:	去 哪儿 说话 ?
+%mor:	v:dirc|qu4=go pro:wh|na3-DIA=which v|shuo1hua4=speak ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:qn
+%com:	要跟语晨妹妹说话 .
+*MOT:	去 谁 家里 说话 ?
+%mor:	v:dirc|qu4=go pro:wh|shei2=who n|jia1li3=home v|shuo1hua4=speak ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$x:nia $i:qn
+*CHI:	去 语晨 妹妹 家里 .
+%mor:	v:dirc|qu4=go n:name|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister n|jia1li3=home .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%spa:	$x:nia $i:sa
+*CHI:	总开关 .
+%mor:	n|zong3kai1guan1=total_switch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dnp $i:st
+*GRA:	在 哪里 ?
+%mor:	prep|zai4=at pro:wh|na3li3=where ?
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	在 我们 家里 .
+%mor:	prep|zai4=at pro|wo3-PL=I n|jia1li3=home .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|PREPO 4|1|PUNCT
+%spa:	$x:dnp $i:sa
+*GRA:	这里 也 有 .
+%mor:	post|zhe4li3=here adv|ye3=also v|you3=have .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	在 乐之 .
+%mor:	prep|zai4=at n:name|le4zhi1=music .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|PUNCT
+%spa:	$x:dnp $i:st
+*CHI:	男 太太 又 出来 了 男 太太 又 睡觉 了 .
+%mor:	adj|nan2=male n|tai4tai4=madame adv|you4=again
+	v|chu1lai2=come_forward asp|le n|nan2=male n|tai4tai4=madame
+	adv|you4=again v|shui4jiao4=sleep asp|le .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|9|CJCT 5|7|MOD 6|7|MOD 7|4|OBJ 8|9|JCT
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+%com:	男太太开关两次门乐宝分别 .
+*MOT:	我 先 洗澡 .
+%mor:	pro|wo3=I adv|xian1=earlier v|xi3zao3=shower .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:si
+*CHI:	你 先 洗 .
+%mor:	pro|ni3=you adv|xian1=earlier v|xi3=wash .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$x:nia $i:pa
+*CHI:	我 先 洗 赞 头 怎么办 ?
+%mor:	pro|wo3=I adv|xian1=earlier v|xi3=wash v|zan4=praise n|tou2=head
+	adv:wh|zen3meban4=how ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|OBJ 7|3|PUNCT
+*CHI:	洒水 怎么办 ?
+%mor:	n|sa3shui3=sprinkler adv:wh|zen3meban4=how ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	这不 是 热水器 .
+%mor:	adv|zhe4bu4=see v:cop|shi4=is n|re4shui3qi4=heater .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	说了一堆话 .
+*CHI:	这 是 什么 声音 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what n|sheng1yin1=sound
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	外公放水乐宝 .
+*CHI:	放水 的 声音 给 太太 洗 脚 .
+%mor:	v|fang4shui3=draw_off_the_water nom|de n|sheng1yin1=sound
+	prep|gei3=for n|tai4tai4=madame v|xi3=wash n|jiao3=foot .
+%gra:	1|0|ROOT 2|7|MOD 3|7|MOD 4|7|MOD 5|4|PREPO 6|7|MOD 7|1|OBJ 8|1|PUNCT
+%com:	乐宝又 .
+*CHI:	雨辰 家 住 在 哪里 ?
+%mor:	n|yu3chen2=yuchen n|jia1=family v:resc|zhu4=inhabit prep|zai4=at
+	pro:wh|na3li3=where ?
+%gra:	1|2|MOD 2|4|TOP 3|2|VR 4|0|INCROOT 5|4|PREPO 6|4|PUNCT
+%com:	乐宝 .
+*CHI:	大姑 奶 叫 什么 ?
+%mor:	n:relat|da4gu1=elder_aunt n|nai3=milk v|jiao4=call
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	四 姑爹 呢 ?
+%mor:	num|si4=four n|gu1die1=gudie sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	李莉 姐姐 呢 ?
+%mor:	n:name|li3li4=li_li n:relat|jie3&DIM=elder_sister sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	李莉 姐姐 叫 什么 ?
+%mor:	n:name|li3li4=li_li n:relat|jie3&DIM=elder_sister v|jiao4=call
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	范文澜 呢 ?
+%mor:	n:name|fan4wen2lan2=historian sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	乐宝 .
+*CHI:	妈妈 叫 什么 ?
+%mor:	n:relat|ma1&DIM=mother v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	外公 叫 什么 ?
+%mor:	n|wai4gong1=maternal_grandfather v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	外婆 叫 什么 ?
+%mor:	n|wai4po2=maternal_grandmother v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	爸爸 叫 什么 ?
+%mor:	n:relat|ba4&DIM=father v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	还有 谁 呀 ?
+%mor:	adv|hai2you3=moreover pro:wh|shei2=who sfp|ya ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	还有 晶晶姨娘 .
+%mor:	adv|hai2you3=moreover n:name|jing1jing1yi2niang2=jingjing_aunt .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝 .
+*CHI:	晶晶姨娘 叫 什么 ?
+%mor:	n:name|jing1jing1yi2niang2=jingjing_aunt v|jiao4=call
+	pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	乐宝 就 叫 范乐之 .
+%mor:	n:name|le4bao3=lebao adv|jiu4=just v|jiao4=call
+	n:name|fan4le4zhi1=fan_lezhi .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	妈妈 叫 什么 ?
+%mor:	n:relat|ma1&DIM=mother v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	爷爷 呢 ?
+%mor:	n:relat|ye2&DIM=grandfather sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	乐宝 .
+*CHI:	多多哥哥 爷爷 .
+%mor:	n:name|duo1duo1ge1ge1=a_lot_of_brother n:relat|ye2&DIM=grandfather
+	.
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝 .
+*CHI:	多多哥哥 的 爷爷 呢 ?
+%mor:	n:name|duo1duo1ge1ge1=a_lot_of_brother poss|de
+	n:relat|ye2&DIM=grandfather sfp|ne ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	在 干什么 ?
+%mor:	adv|zai4=currently v|gan4shen2me=what_do_you_want ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	乐宝 .
+*CHI:	男 太太 叫 什么 ?
+%mor:	adj|nan2=male n|tai4tai4=madame v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	女 太太 叫 什么 ?
+%mor:	adj|nü3=female n|tai4tai4=madame v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	刘 宗 英 呢 ?
+%mor:	n:fam|liu2=Liu cl|zong1 n:geo|ying1=Britain sfp|ne ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|PREPO 4|1|SFP 5|1|PUNCT
+%com:	乐宝 .
+*CHI:	舅舅 叫 什么 ?
+%mor:	n|jiu4jiu4=mothers_brother v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	在 干什么 ?
+%mor:	adv|zai4=currently v|gan4shen2me=what_do_you_want ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	乐宝 .
+*CHI:	舅妈 叫 什么 ?
+%mor:	n|jiu4ma1=aunt v|jiao4=call pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝 .
+*CHI:	张微微 呢 ?
+%mor:	n:name|zhang1wei1wei1=weiwei_zhang sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	乐宝 .
+*CHI:	雨辰 妹妹 叫 什么 ?
+%mor:	n|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister v|jiao4=call
+	pro:wh|shen2me=what ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	乐宝 .
+*CHI:	雨辰 呢 ?
+%mor:	n|yu3chen2=yuchen sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	乐宝 .
+@End

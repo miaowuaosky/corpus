@@ -1,0 +1,100 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|2;03.30|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Chunchun Tao
+@Date:	21-NOV-2014
+*CHI:	我 拿 个 瓶 喝酒 .
+%mor:	pro|wo3=I v|na2=hold cl|ge4 n|ping2=bottle v|he1jiu3=drink .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|SUBJ 5|2|OBJ 6|2|PUNCT
+%act:	指瓶 .
+*CHI:	我 叫 范乐之 我 叫 范乐之 .
+%mor:	pro|wo3=I v|jiao4=call n:name|fan4le4zhi1=fan_lezhi pro|wo3=I
+	v|jiao4=call n:name|fan4le4zhi1=fan_lezhi .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	孩子在哼唱 .
+*MOT:	能 套 上 吗 ?
+%mor:	v:aux|neng2=can v|tao4=encase post|shang4=above sfp|ma ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|SFP 5|2|PUNCT
+%spa:	$x:djf $i:yq
+%com:	孩子把手套套在妹妹手上 .
+*CHI:	不能 你 的 手 太 小 了 我 手 能 行 .
+%mor:	v:aux|bu4neng2=cannot pro|ni3=you poss|de n|shou3=hand
+	adv|tai4=very adj|xiao3=small asp|le pro|wo3=I n|shou3=hand
+	v:aux|neng2=can adj|xing2=be_all_right .
+%gra:	1|2|AUX 2|4|SUBJ 3|4|MOD 4|9|MOD 5|6|JCT 6|7|MOD 7|4|OBJ 8|9|MOD
+	9|11|SUBJ 10|11|AUX 11|0|INCROOT 12|11|PUNCT
+%spa:	$x:djf $i:an
+%act:	套自己手上 .
+*CHI:	我 能 打开 .
+%mor:	pro|wo3=I v:aux|neng2=can v|da3kai1=unscrew .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%com:	孩子要开杯子 .
+*CHI:	雨 晨 妹妹 喝 都 不动 弹雨 晨 妹妹 喝 牛奶 喝 酸奶 不动 弹 .
+%mor:	n|yu3=rain n|chen=morning n:relat|mei4&DIM=younger_sister
+	v|he1=drink adv|dou1=all v|bu4dong4=dont_move
+	n|dan4yu3=a_hail_of_bullets n|chen=morning
+	n:relat|mei4&DIM=younger_sister v|he1=drink n|niu2nai3=cows_milk
+	v|he1=drink n|suan1nai3=yogurt v|bu4dong4=dont_move
+	v|tan2=pluck_play_musical_instrument .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|SUBJ 4|15|SUBJ 5|6|JCT 6|15|JCT 7|8|MOD 8|6|OBJ
+	9|15|SUBJ 10|15|JCT 11|15|SUBJ 12|15|JCT 13|14|SUBJ 14|15|SUBJ 15|0|ROOT
+	16|15|PUNCT
+*CHI:	干杯 !
+%mor:	v|gan1bei1=drink_a_toast !
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	跟妹妹碰杯 .
+*CHI:	雨 晨 妹妹 喝 完了 .
+%mor:	n|yu3=rain n|chen=morning n:relat|mei4&DIM=younger_sister
+	v|he1=drink tag|wan2le=oh_no .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|COM 6|4|PUNCT
+*CHI:	拿 不到 .
+%mor:	v|na2=hold adv|bu2dao4=not_to .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	我 下 楼 .
+%mor:	pro|wo3=I cl|xia4=activity n|lou2=storey .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	书掉地上, 孩子够不到 .
+*CHI:	妈妈 别 下去 等 乐宝 我 先 下 拉手 .
+%mor:	n:relat|ma1&DIM=mother neg|bie2=dont v|xia4qu4=continue
+	n|deng3=class n:name|le4bao3=lebao pro|wo3=I adv|xian1=earlier
+	v:dirc|xia4=go_down v|la1shou3=handle .
+%gra:	1|9|SUBJ 2|3|NEG 3|4|MOD 4|1|OBJ 5|9|JCT 6|9|SUBJ 7|9|JCT 8|7|VD
+	9|0|ROOT 10|9|PUNCT
+*CHI:	幼儿园 乐宝 玩 过 了 荡秋千 玩 过 了 滑梯 也 玩 过 了 钻 的 那个 也 玩 过 了 .
+%mor:	n|you4er2yuan2=kindergarten n:name|le4bao3=lebao v|wan2=play
+	v:dirc|guo4=pass asp|le v|dang4qiu1qian1=to_swing v|wan2=play
+	v:dirc|guo4=pass asp|le n|hua2ti1=slide adv|ye3=also v|wan2=play
+	v:dirc|guo4=pass asp|le v|zuan1=go_through nom|de pro|na4ge4=that
+	adv|ye3=also v|wan2=play v:dirc|guo4=pass asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|12|SUBJ 4|3|VD 5|7|SUBJ 6|7|JCT 7|3|VD 8|3|VD
+	9|12|JCT 10|12|SUBJ 11|12|JCT 12|15|SUBJ 13|12|VD 14|15|JCT 15|19|SUBJ
+	16|19|JCT 17|19|SUBJ 18|19|JCT 19|0|ROOT 20|19|VD 21|19|VD 22|19|PUNCT
+*CHI:	把 书 拿 着 !
+%mor:	prep|ba3=object_marker n|shu1=book v|na2=hold asp|zhe !
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	我 来 了 !
+%mor:	pro|wo3=I v:dirc|lai2=come asp|le !
+%gra:	1|3|SUBJ 2|1|VD 3|0|INCROOT 4|3|PUNCT
+*CHI:	乐宝 自己 跨过 去 的 .
+%mor:	n:name|le4bao3=lebao pro|zi4ji3=self v|kua4guo4=cross v:dirc|qu4=go
+	nom|de .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|VD 6|3|PUNCT
+%act:	朝妹妹跑去 .
+*CHI:	扭 扭 车 在 我们 家 .
+%mor:	v|niu3=twist v|niu3=twist n|che1=vehicle prep|zai4=at pro|wo3-PL=I
+	cl|jia1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|SUBJ 6|4|PREPO 7|2|PUNCT
+*CHI:	这个 太 大 了 .
+%mor:	pro|zhe4ge4=this adv|tai4=very adj|da4=great asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*CHI:	我 拿 一 个 .
+%mor:	pro|wo3=I v|na2=hold num|yi1=one cl|ge4 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	我 玩 跷跷板 .
+%mor:	pro|wo3=I v|wan2=play n|qiao1qiao1ben3=see_saw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

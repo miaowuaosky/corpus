@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;08.25|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	16-APR-2014
+*CHI:	外公 钥匙 给 你 .
+%mor:	n|wai4gong1=maternal_grandfather n|yao4shi=key prep|gei3=for
+	pro|ni3=you .
+%gra:	1|2|MOD 2|3|TOP 3|0|INCROOT 4|3|PREPO 5|3|PUNCT
+%spa:	$x:nia $i:rp
+%com:	乐宝要妈妈的钥匙开汽车 .
+*MOT:	车子 可 打开 了 ?
+%mor:	n|che1zi=vehicle adv|ke3=on_the_contrary v|da3kai1=unscrew asp|le ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$x:djf $i:tq
+*CHI:	没 打开 .
+%mor:	neg|mei2=not v|da3kai1=unscrew .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:djf $i:ta
+*CHI:	又 是 小 哥哥 .
+%mor:	adv|you4=again v:cop|shi4=is adj|xiao3=small
+	n:relat|ge1&DIM=older_brother .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	乐宝傍晚见过几个小哥哥之后又见到一个小哥哥 .
+*CHI:	语晨 妹妹 也 要 睡觉 了 .
+%mor:	n:name|yu3chen2=yuchen n:relat|mei4&DIM=younger_sister adv|ye3=also
+	v:aux|yao4=should v|shui4jiao4=sleep asp|le .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+@End

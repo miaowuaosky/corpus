@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;07.25|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	19-MAR-2014
+*CHI:	倒 点水 .
+%mor:	adv|dao4=actually v|dian3shui3=water .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	乐宝最近喜欢玩倒水游戏 .
+%act:	把杯子水倒到碗里 .
+*CHI:	< 乐宝>[/] 乐宝 .
+%mor:	n:name|le4bao3=lebao .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	看 到 乐宝 na .
+%mor:	v|kan4=look v:resc|dao4=arrive n:name|le4bao3=lebao co|na=na .
+%gra:	1|3|CJCT 2|1|VR 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%com:	乐宝看到电脑她的照片 .
+*CHI:	戴 眼镜 .
+%mor:	v|dai4=wear n|yan3jing4=glasses .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	看儿歌好爸爸坏爸爸戴眼镜 .
+*CHI:	回家 了 .
+%mor:	v|hui4jia1=go_home asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	看儿歌小燕子 .
+*CHI:	树叶 晃 .
+%mor:	n|shu4ye4=leaves v|huang3=shake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	摇椅 .
+%mor:	n|yao2yi3=rocking_chair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	外出看见风大 .
+*CHI:	请 让 一下 .
+%mor:	v|qing3=request v|rang4=allow adv|yi1xia4=a_bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	乐宝要进房间, 绕过爸爸身边 .
+@End

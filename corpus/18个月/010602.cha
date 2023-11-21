@@ -1,0 +1,91 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.02|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	24-JAN-2014
+*CHI:	睡觉 .
+%mor:	v|shui4jiao4=sleep .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	手摸脸 .
+%com:	早上起床的时候 .
+*CHI:	坐垫 .
+%mor:	n|zuo4dian4=cushion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	乐宝想看电脑,  想让妈妈把座垫拿走, 好坐上来看电脑 .
+*CHI:	奶 拿来 .
+%mor:	n|nai3=milk v|na2lai2=bring .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	起床时乐宝想要钱包 .
+*MOT:	你 要 奶 吗 ?
+%mor:	pro|ni3=you v:aux|yao4=should n|nai3=milk sfp|ma ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%spa:	$x:dre $i:yq
+*CHI:	钱包 拿来 .
+%mor:	n|qian2bao1=purse v|na2lai2=bring .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dre $i:ws
+*CHI:	拿 包 .
+%mor:	v|na2=hold n|bao1=bag .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dre $i:ws
+*CHI:	万万 哥哥 吃 爸爸 吃 宝宝 吃 .
+%mor:	adv|wan4wan4=absolutely n:relat|ge1&DIM=older_brother v|chi1=eat
+	n:relat|ba4&DIM=father v|chi1=eat n:relat|bao3&DIM=baby v|chi1=eat .
+%gra:	1|7|JCT 2|7|SUBJ 3|7|JCT 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*CHI:	摔倒 .
+%mor:	v|shuai1dao3=fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	自己假装要摔倒 .
+*CHI:	慢慢 点 .
+%mor:	adj|man4&DIM=slow adv|dian3=a_bit .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	发现自己真的要摔倒了, 想要说慢一点 .
+*CHI:	妈妈 的 .
+%mor:	n:relat|ma1&DIM=mother poss|de .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%com:	外公出门脱鞋, 乐宝的意思是拖鞋是妈妈的 .
+*CHI:	好 重 .
+%mor:	adv|hao3=very adj|zhong4=heavy .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%act:	试图搬动快递 .
+*MOT:	这 是 什么 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	香蕉 皮 .
+%mor:	n|xiang1jiao1=banana n|pi2=skin .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dha $i:sa
+*CHI:	二 .
+%mor:	num|er4=two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	看着二楼门牌号 .
+*CHI:	三 .
+%mor:	num|san1=three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	看着三楼门牌号 .
+*CHI:	洒 了 .
+%mor:	v|sha3=spray asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	乐宝把奶粉洒了 .
+*MOT:	什么 洒 了 ?
+%mor:	pro:wh|shen2me=what v|sha3=spray asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dre $i:qn
+*CHI:	奶粉 洒 .
+%mor:	n|nai3fen3=powdered_milk v|sha3=spray .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dre $i:sa
+*CHI:	老虎 眼睛 .
+%mor:	n|lao3hu3=tiger n|yan3jing1=eye .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	看着图片 .
+*CHI:	紫菜 .
+%mor:	n|zi3cai4=laver .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	吃饭的时候吃到紫菜 .
+@End

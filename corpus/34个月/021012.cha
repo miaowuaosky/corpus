@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|00;11.00|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Hongxia Lu
+@Date:	22-MAY-2015
+*CHI:	我 要 雨辰 妹妹 来 我 家 .
+%mor:	pro|wo3=I v:aux|yao4=should n|yu3chen2=yuchen
+	n:relat|mei4&DIM=younger_sister v:dirc|lai2=come pro|wo3=I
+	n|jia1=family .
+%gra:	1|3|SUBJ 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|VD 6|7|MOD 7|4|VD 8|4|PUNCT
+%spa:	$x:dnp $i:dc
+*MOT:	干什么 .
+%mor:	v|gan4shen2me=what_do_you_want .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:dnp $i:qn
+*CHI:	来 玩儿 .
+%mor:	v:dirc|lai2=come v|wan2-DIA=play .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dnp $i:sa
+@End

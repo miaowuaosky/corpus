@@ -1,0 +1,82 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother, GRA Grandmother
+@ID:	zho|FLZ|CHI|02;06.28|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@ID:	zho|xx|GRA||female|||Grandmother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Titao Yang
+@Date:	19-FEB-2015
+*CHI:	我 刚刚 去 玩 这个 的 .
+%mor:	pro|wo3=I adv|gang1&DIM=just v:dirc|qu4=go v|wan2=play
+	pro|zhe4ge4=this poss|de .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|VD 4|0|ROOT 5|4|OBJ 6|5|POSS 7|4|PUNCT
+%act:	指水桶 .
+*CHI:	它 在 动 我 刚刚 动 了 一点 小 乌龟 .
+%mor:	pro|ta1=it adv|zai4=currently v|dong4=move pro|wo3=I
+	adv|gang1&DIM=just v|dong4=move asp|le adv|yi1dian3=a_bit
+	adj|xiao3=small n|wu1gui1=tortoise .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|SUBJ 5|6|JCT 6|3|OBJ 7|3|OBJ 8|10|JCT
+	9|10|MOD 10|3|OBJ 11|3|PUNCT
+%act:	又去玩小乌龟 .
+*CHI:	ohno !
+%mor:	co|ohno !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	几次故意把乒乓球扔得好远 .
+*CHI:	妈妈 要 倒 点 开水 .
+%mor:	n:relat|ma1&DIM=mother v:aux|yao4=should v|dao3=fall v|dian3=dot
+	n|kai1shui3=boiled_water .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%act:	指饮水机 .
+*CHI:	小狗 碰到 我 手 了 .
+%mor:	n|xiao3gou3=puppy v|peng4dao4=meet pro|wo3=I n|shou3=hand asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%com:	小狗尾巴碰到乐宝了 .
+*GRA:	小狗 出去 了 .
+%mor:	n|xiao3gou3=puppy v|chu1qu1=leave asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:dre $i:st
+%act:	奶奶开门让小狗出去 .
+*CHI:	我 也 想出 去 .
+%mor:	pro|wo3=I adv|ye3=also v|xiang3chu1=come_up_with v:dirc|qu4=go .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VD 5|3|PUNCT
+%spa:	$x:nin $i:ws
+*MOT:	你 喜欢 爸爸 还是 小狗 ?
+%mor:	pro|ni3=you v|xi3huan1=like n:relat|ba4&DIM=father conj|hai2shi4=or
+	n|xiao3gou3=puppy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%spa:	$x:dhs $i:tq
+%act:	拿爸爸馒头给小狗吃 .
+*CHI:	喜欢 小狗 .
+%mor:	v|xi3huan1=like n|xiao3gou3=puppy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$x:dss $i:ta
+%com:	乐宝毫不犹豫说 .
+*MOT:	奶奶 家 都 没有 吃 的 .
+%mor:	n:relat|nai3&DIM=fathers_mother n|jia1=family adv|dou1=all
+	neg|mei2you3=not_have v|chi1=eat nom|de .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|NEG 5|0|ROOT 6|5|POSS 7|5|PUNCT
+%spa:	$x:nia $i:pf
+%com:	乐宝要喝牛奶妈妈让她不要拿 .
+*CHI:	奶奶 没有 吃 的 和 喝 的 和 穿 的 玩 的 .
+%mor:	n:relat|nai3&DIM=fathers_mother neg|mei2you3=not_have v|chi1=eat
+	nom|de conj|he2=and v|he1=drink nom|de conj|he2=and v|chuan1=put_on
+	nom|de v|wan2=play nom|de .
+%gra:	1|6|SUBJ 2|3|NEG 3|6|JCT 4|6|SUBJ 5|6|JCT 6|11|CJCT 7|11|SUBJ 8|11|JCT
+	9|11|SUBJ 10|11|JCT 11|0|ROOT 12|11|POSS 13|11|PUNCT
+%spa:	$x:drp $i:st
+*CHI:	这 是 谁 家 呢 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shei2=who cl|jia1 sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|INCROOT 5|4|SFP 6|4|PUNCT
+%spa:	$x:dha $i:qn
+%act:	指出租车外面的房子 .
+*MOT:	是 别人 家 .
+%mor:	v:cop|shi4=is pro|bie2ren2=others n|jia1=family .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$x:djf $i:sa
+*CHI:	这 是 谁 家 呢 ?
+%mor:	pro|zhe4=this v:cop|shi4=is pro:wh|shei2=who cl|jia1 sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|INCROOT 5|4|SFP 6|4|PUNCT
+%act:	乐宝又指另一处房子 .
+@End

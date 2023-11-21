@@ -1,0 +1,147 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;06.14|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	05-FEB-2014
+*CHI:	小 手 拿出 来 啦 .
+%mor:	adj|xiao3=small n|shou3=hand v|na2chu1=take_out v:dirc|lai2=come
+	sfp|la1 .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|SFP 6|3|PUNCT
+%com:	外婆给乐宝穿衣服, 乐宝的意思是把小手拿出来 .
+*CHI:	给 爸爸 .
+%mor:	v|gei3=give n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	妈妈把小锤子拿给乐宝 .
+%act:	拿着锤子 .
+*MOT:	还有 一 个 黄色 的 球 呢 ?
+%mor:	adv|hai2you3=moreover num|yi1=one cl|ge4 adj|huang2se4=yellow
+	nom|de n|qiu2=ball sfp|ne ?
+%gra:	1|2|JCT 2|3|QUANT 3|4|CLASS 4|0|INCROOT 5|6|MOD 6|4|OBJ 7|4|SFP
+	8|4|PUNCT
+%spa:	$x:djf $i:qn
+*CHI:	这里 .
+%mor:	post|zhe4li3=here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:sa
+%act:	抱起红色的球 .
+*MOT:	乐宝 放屁 啦 ?
+%mor:	n:name|le4bao3=lebao v|fang4pi4=fart sfp|la1 ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:nma $i:dc
+%com:	妈妈在开玩笑 .
+*CHI:	没 放屁 .
+%mor:	neg|mei2=not v|fang4pi4=fart .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:nma $i:nd
+*MOT:	睡 不 睡 ?
+%mor:	v|shui4=sleep neg|bu4=not v|shui4=sleep ?
+%gra:	1|3|SUBJ 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dss $i:tq
+*CHI:	不 睡 .
+%mor:	neg|bu4=not v|shui4=sleep .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+%spa:	$x:dss $i:ta
+*CHI:	再见 .
+%mor:	co:int|zai4jian4=good_bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	妈妈倚靠在门边, 乐宝要关门 .
+%act:	摆手 .
+*CHI:	坐 上手 机 拿来 .
+%mor:	v|zuo4=sit v|shang4shou3=to_get_started n|ji1=machine
+	v|na2lai2=bring .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	乐宝想看手机 .
+*MOT:	下雨 了 .
+%mor:	v|xia4yu3=rain asp|le .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:dha $i:st
+*CHI:	看看 .
+%mor:	v|kan4&DIM=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+%spa:	$x:dha $i:ws
+*MOT:	要看 下雨 吗 ?
+%mor:	v|yao4kan4=to_see v|xia4yu3=rain sfp|ma ?
+%gra:	1|0|ROOT 2|1|SRL 3|1|SFP 4|1|PUNCT
+%spa:	$x:djf $i:yq
+*CHI:	是的 .
+%mor:	v:cop|shi4-ISH=is .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:djf $i:aa
+*CHI:	掉 啦 .
+%mor:	v:resc|diao4=drop sfp|la1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%com:	手拿贴纸掉了, 啦发音似na1 .
+*MOT:	手 上 拿 的 是 什么 ?
+%mor:	n|shou3=hand post|shang4=above v|na2=hold nom|de v:cop|shi4=is
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|POSS 5|3|ROOT 6|5|PRED 7|3|PUNCT
+%spa:	$x:dha $i:qn
+*CHI:	儿童霜 .
+%mor:	n|er2tong2shuang1=childrens_frost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$x:dha $i:sa
+*CHI:	小车 子 .
+%mor:	n|xiao3che1=the_car n|zi3=master .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	小车子挡路了 .
+*MOT:	乐宝 你 有 没有 玩 过 秋千 .
+%mor:	n:name|le4bao3=lebao pro|ni3=you v|you3=have neg|mei2you3=not_have
+	v|wan2=play asp|guo4 n|qiu1qian1=swing .
+%gra:	1|5|SUBJ 2|3|SUBJ 3|5|JCT 4|5|NEG 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+%spa:	$x:drp $i:tq
+*CHI:	玩 过 .
+%mor:	v|wan2=play asp|guo4 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$x:drp $i:ta
+*CHI:	没 水 .
+%mor:	neg|mei2=not n|shui3=water .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%com:	乐宝进厕所看着妈妈刚刚洗过澡的地 .
+*CHI:	尿尿 .
+%mor:	v|niao4&DIM=pee .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	妈妈抱着把屎, 乐宝尿尿了 .
+*CHI:	没有 没有 .
+%mor:	neg|mei2you3=not_have neg|mei2you3=not_have .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%com:	不拉了 .
+*CHI:	奶粉 给 妹妹 给 妈妈 .
+%mor:	n|nai3fen3=powdered_milk prep|gei3=for
+	n:relat|mei4&DIM=younger_sister prep|gei3=for n:relat|ma1&DIM=mother
+	.
+%gra:	1|2|TOP 2|0|INCROOT 3|2|PREPO 4|2|JCT 5|4|PREPO 6|2|PUNCT
+%com:	看见桌上有奶粉 .
+*CHI:	撞 头 了 撞 头 .
+%mor:	v|zhuang4=run_into n|tou2=head asp|le v|zhuang4=run_into
+	n|tou2=head .
+%gra:	1|0|ROOT 2|5|MOD 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%com:	乐宝头撞到桌子上, 撞发音如zan4 .
+*CHI:	乐宝 睡觉 啦 .
+%mor:	n:name|le4bao3=lebao v|shui4jiao4=sleep sfp|la1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%com:	自己躺下 .
+*CHI:	灯 打开 .
+%mor:	n|deng1=lantern v|da3kai1=unscrew .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	起床要拉粑粑 .
+*CHI:	爸爸 .
+%mor:	n:relat|ba4&DIM=father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	想让爸爸帮忙开灯, 但是无人应答 .
+*CHI:	关门 啦 .
+%mor:	v|guan1men2=close sfp|la1 .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*MOT:	关 灯 好不好 ?
+%mor:	v|guan1=shut n|deng1=lantern tag|hao3bu2hao3=okay ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|COM 4|2|PUNCT
+%spa:	$x:nia $i:rp
+%com:	晚上乐宝不想睡 .
+*CHI:	不是 关 灯 .
+%mor:	n|bu2shi4=fault v|guan1=shut n|deng1=lantern .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$x:nia $i:rd
+@End

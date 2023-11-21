@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|01;09.26|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Leiqi Wang
+@Date:	18-MAY-2014
+*CHI:	还 没 关门 .
+%mor:	adv|hai2=still neg|mei2=not v|guan1men2=close .
+%gra:	1|3|JCT 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	爸爸出去, 门没关好 .
+*CHI:	现在 关门 了 .
+%mor:	adv|xian4zai4=now v|guan1men2=close asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	还 没 打开 .
+%mor:	adv|hai2=still neg|mei2=not v|da3kai1=unscrew .
+%gra:	1|3|JCT 2|3|NEG 3|0|ROOT 4|3|PUNCT
+%com:	门又被风带上了 .
+*CHI:	要 妈妈 抱 .
+%mor:	v:aux|yao4=should n:relat|ma1&DIM=mother v|bao4=hug .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	手里 没有 了 .
+%mor:	n|shou3li3=in_the_hand neg|mei2you3=not_have asp|le .
+%gra:	1|3|SUBJ 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	太太 给 你 吃 糖 .
+%mor:	n|tai4tai4=madame prep|gei3=for pro|ni3=you v|chi1=eat
+	n|tang2=sugar .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	乐宝想吃糖坐箱子上 .
+*CHI:	妹妹 的 围嘴 .
+%mor:	n:relat|mei4&DIM=younger_sister poss|de n|wei2zui3=bib .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%com:	看到语晨的围嘴 .
+*MOT:	你 手里 的 饼干 从 哪儿 拿 的 ?
+%mor:	pro|ni3=you n|shou3li3=in_the_hand poss|de n|bing3gan1=biscuit
+	prep|cong2=from pro:wh|na3-DIA=which v|na2=hold nom|de ?
+%gra:	1|2|MOD 2|4|MOD 3|2|POSS 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|POSS
+	9|7|PUNCT
+%spa:	$x:drp $i:qn
+*CHI:	在 这里 拿 的 .
+%mor:	prep|zai4=at post|zhe4li3=here v|na2=hold nom|de .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|POSS 5|3|PUNCT
+%spa:	$x:drp $i:sa
+%com:	其实是另一个房间 .
+@End

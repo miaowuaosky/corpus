@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|FLZ|CHI|02;08.15|female|||Child|||
+@ID:	zho|Li|MOT||female|||Mother|||
+@Birth of CHI:	22-JUL-2012
+@Transcriber:	Xiao Fang
+@Date:	06-APR-2015
+*CHI:	辫 绳 呢 ?
+%mor:	n|bian4=braid n|sheng2=rope sfp|ne ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%spa:	$x:dnp $i:qn
+%com:	孩子想给妈妈扎辫子但是没有辫绳 .
+*MOT:	辫 绳 洗澡 的 时候 拿下 来 了 .
+%mor:	n|bian4=braid n|sheng2=rope v|xi3zao3=shower nom|de n|shi2hou4=time
+	v|na3xia4=won v:dirc|lai2=come asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|VD 8|6|VD
+	9|6|PUNCT
+%spa:	$x:dnp $i:sa
+*CHI:	在 哪里 拿 ?
+%mor:	prep|zai4=at pro:wh|na3li3=where v|na2=hold ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%spa:	$x:dnp $i:qn
+@End
