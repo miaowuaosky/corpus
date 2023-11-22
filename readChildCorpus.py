@@ -117,7 +117,7 @@ class TurnData():
     
 if __name__ == "__main__":
     #开始读取语料
-    #添加其他内容
+    
     corpus = {}
     root_path = r'./添加了mor语料'
     for root,dirs,files in os.walk(root_path):
